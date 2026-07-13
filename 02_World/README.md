@@ -1,205 +1,184 @@
-# World README
+# World Documentation
 
 ## Purpose
 
-This folder contains the permanent physical, environmental, seasonal, and cultural world of Village Stories.
+This folder defines the complete world of the Village Stories universe.
 
-It defines the universe in which every story takes place.
+It establishes the physical environment, natural systems, cultural traditions, geography, locations, and the passage of time.
 
-Unlike stories, prompts, or production files, the contents of this folder change very rarely.
-
-The World folder is the single source of truth for the geography, locations, seasons, environment, and everyday life of the village.
+Together, these documents create the living world in which every story takes place.
 
 ---
 
-# Guiding Principle
+# Philosophy
 
-The village is a persistent world.
+The world exists independently of the characters.
 
-Characters grow older.
+The village continues changing even when no story is being told.
 
-Stories begin and end.
+The sun rises.
 
-Seasons change.
+Rain falls.
 
-Festivals return.
+Birds migrate.
 
-Children learn.
+Farmers work.
 
-Families change.
+Children attend school.
 
-The village continues to exist.
+Vegetables grow.
 
-Every story should feel like another day in the life of the same place.
+Meals are prepared.
+
+Every document within this folder contributes to a world that feels alive beyond the immediate story.
 
 ---
 
 # Folder Structure
 
-## Geography
+```text
+02_World/
 
-Defines the permanent layout of the village.
-
-Contains:
-
-* Village map.
-* Compass orientation.
-* Walking routes.
-* River system.
-* Permanent landmarks.
-
-Nothing here should change unless the world itself is intentionally redesigned.
+├── README.md
+├── Geography/
+├── Locations/
+├── Nature/
+├── Time/
+└── Culture/
+```
 
 ---
 
-## Locations
+# Geography
 
-Defines every permanent location within the village.
-
-Each location has its own document describing:
-
-* Physical layout.
-* Architecture.
-* Fixed objects.
-* Daily activities.
-* Atmosphere.
-* Continuity rules.
-* Seasonal behaviour.
-
-Locations are never redesigned between episodes.
-
----
-
-## Seasons
-
-Defines how the world changes throughout the year.
+Defines the permanent physical layout of the village.
 
 Includes:
 
-* Summer.
-* Monsoon.
-* Post-Monsoon / Harvest.
+* Village geography.
+* Roads.
+* Water systems.
+* Terrain.
+* Spatial relationships.
 
-Also documents:
+This section answers:
 
-* Seasonal farming.
-* Food.
-* Plants.
-* Wildlife.
-* Sounds.
-* Daily routines.
-
-Seasonal changes affect the village without changing its identity.
+**"Where is everything located?"**
 
 ---
 
-## Environment
+# Locations
 
-Defines the natural world.
+Defines permanent places within the village.
+
+Examples include:
+
+* Family House.
+* Kitchen.
+* Courtyard.
+* Backyard.
+* Vegetable Garden.
+* Canal.
+* Shrine.
+
+This section answers:
+
+**"What are these places like?"**
+
+---
+
+# Nature
+
+Defines the living environment.
 
 Includes:
 
 * Flora.
 * Fauna.
-* Soil.
-* Water.
-* Sky.
+* Seasons.
 * Weather.
 
-These documents ensure nature behaves consistently throughout the series.
+This section answers:
+
+**"How does nature behave?"**
 
 ---
 
-## Village Life
+# Time
 
-Defines how people live within the world.
+Defines the daily rhythm of the world.
 
 Includes:
 
-* Daily routines.
+* Time of Day.
+
+This section answers:
+
+**"When is this happening?"**
+
+---
+
+# Culture
+
+Defines how the village lives.
+
+Includes:
+
+* Daily Life.
+* Village Routines.
 * Occupations.
 * Festivals.
-* Markets.
-* Schools.
-* Transportation.
-* Religious practices.
-* Community traditions.
-* Social interactions.
+* Agricultural Calendar.
 
-These documents describe everyday life rather than individual stories.
+This section answers:
+
+**"How do people live?"**
 
 ---
 
 # Relationship With Other Folders
 
-The World folder answers:
+The World folder provides the foundation for:
 
-**"Where does this happen?"**
+```text
+03_Characters/
+```
 
-The Character folder answers:
+Characters exist within the world defined here.
 
-**"Who is involved?"**
+It also supports:
 
-The Objects folder answers:
+```text
+04_Objects/
+```
 
-**"What are they using?"**
-
-The Story Engine answers:
-
-**"What happens?"**
-
-The Production folder answers:
-
-**"How is it created?"**
-
-Each folder has a distinct responsibility and should avoid duplicating information from another folder.
+Objects are used within the environments and routines established by this folder.
 
 ---
 
-# Continuity Rules
+# Design Principles
 
-Every location should remain geographically consistent.
+Every document within the World folder should:
 
-Every landmark should remain in its established position.
-
-Walking routes should always respect the physical layout of the village.
-
-Seasonal changes should occur naturally without contradicting previous episodes.
-
-No permanent feature should appear, disappear, move, or be redesigned unless intentionally updated across the entire project.
-
----
-
-# World Expansion
-
-As the series grows, new locations, traditions, occupations, recurring places, and environmental details may be added.
-
-When expanding the world:
-
-* Preserve existing geography.
-* Avoid contradictions.
-* Place new elements logically within the established layout.
-* Update related documents where necessary.
-* Maintain the feeling of one continuous village.
-
-Expansion should enrich the world rather than replace it.
+* Define permanent canon.
+* Avoid duplication.
+* Reference related documents.
+* Maintain historical consistency.
+* Support realistic storytelling.
+* Be modular and maintainable.
 
 ---
 
 # Canon Authority
 
-Information contained within this folder takes precedence over individual stories.
+The World folder defines every permanent environmental and cultural rule governing the Village Stories universe.
 
-If a story conflicts with the established world, the story should be revised unless the change is an intentional part of the narrative.
-
-The World folder is the permanent reference for the Village Stories universe.
+If a story conflicts with these documents, the World documentation takes precedence unless a deliberate canonical change is introduced.
 
 ---
 
 # Guiding Principle
 
-The audience should gradually come to know this village as if it were a real place.
+The world of Village Stories is not merely a backdrop.
 
-Every returning visit should feel familiar while offering something new to discover.
-
-The goal is not simply to create a setting, but to build a living world that continues to exist beyond the boundaries of every episode.
+It is a living environment where nature, people, traditions, seasons, and time work together to create a place that feels authentic, timeless, and quietly alive.
