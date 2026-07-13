@@ -418,7 +418,7 @@ Related documents:
 * 02_World/Locations/Village_Square.md
 * 02_World/Culture/Daily_Life.md
 * 02_World/Culture/Occupations.md
-* 03_Characters/ village tea stall owner docs when created
+* 03_Characters/Village_People/Tea_Stall_Owner/
 
 ---
 

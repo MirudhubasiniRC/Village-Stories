@@ -178,6 +178,20 @@ Decorations should enhance the space without changing its permanent identity.
 
 ---
 
+# Temple Priest
+
+The recurring Temple Priest tends the shrine's daily pooja, lamps, flowers, and ritual items.
+
+Full character documentation:
+
+```text
+03_Characters/Village_People/Temple_Priest/
+```
+
+The Priest's presence supports the shrine's care without making it a large formal temple.
+
+---
+
 # Environmental Behaviour
 
 Morning:

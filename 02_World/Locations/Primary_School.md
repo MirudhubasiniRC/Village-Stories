@@ -396,7 +396,8 @@ Related documents:
 * 02_World/Culture/Daily_Life.md
 * 02_World/Culture/Occupations.md
 * 03_Characters/Family/Elder_Brother/
-* Future teacher character docs
+* 03_Characters/Village_People/School_Teacher/
+* 03_Characters/Village_People/Headmaster/
 
 ---
 

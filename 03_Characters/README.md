@@ -50,6 +50,7 @@ Viewers should recognize a character immediately—not because they are introduc
 ├── Neighbours/
 │
 ├── Village_People/
+│   └── Tea_Stall_Owner/
 │
 └── Visitors/
 ```
@@ -121,6 +122,16 @@ Neighbours provide:
 
 They support stories without replacing the central family.
 
+Current documented neighbour households:
+
+```text
+03_Characters/Neighbours/Neighbour_Family_01/
+03_Characters/Neighbours/Neighbour_Family_02/
+03_Characters/Neighbours/Neighbour_Family_03/
+```
+
+Neighbour households retain existing Village Neighbourhood house identity and map placement. Functional character identities are used until a future story earns a permanent personal name.
+
 ---
 
 ## Village People
@@ -129,8 +140,9 @@ Defines recurring villagers.
 
 Examples include:
 
-* Teacher
-* Grocer
+* Tea Stall Owner
+* Grocery Shopkeeper
+* School Teacher
 * Potter
 * Carpenter
 * Temple Caretaker
@@ -138,6 +150,19 @@ Examples include:
 * Farmers
 
 These characters help make the village feel inhabited.
+
+Current documented Village People:
+
+```text
+03_Characters/Village_People/Tea_Stall_Owner/
+03_Characters/Village_People/Grocery_Shopkeeper/
+03_Characters/Village_People/School_Teacher/
+03_Characters/Village_People/Headmaster/
+03_Characters/Village_People/Temple_Priest/
+03_Characters/Village_People/Barber/
+03_Characters/Village_People/Blacksmith/
+03_Characters/Village_People/Carpenter/
+```
 
 ---
 

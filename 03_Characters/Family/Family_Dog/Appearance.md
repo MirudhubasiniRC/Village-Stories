@@ -55,7 +55,6 @@ Maintain:
 - Classic German Shepherd head.
 - Intelligent dark eyes.
 - Alert but soft expression with family.
-- Black muzzle common to the breed look.
 - Erect ears, mobile and expressive.
 
 ---

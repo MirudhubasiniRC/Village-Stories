@@ -385,14 +385,14 @@ Established:
 Established:
 
 - Small Grocery Store
+- Blacksmith Forge
+- Barber Under the Big Tree
+- Carpenter Workshop
 
 Still reserved nearby:
 
 - Weekly Market
-- Blacksmith
-- Carpenter
 - Potter
-- Barber Shop
 
 ## South-West
 

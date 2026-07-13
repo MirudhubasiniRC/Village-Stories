@@ -400,7 +400,7 @@ Related documents:
 * 02_World/Locations/Village_Square.md
 * 02_World/Culture/Occupations.md
 * 02_World/Culture/Daily_Life.md
-* 03_Characters/ grocery shopkeeper docs when created
+* 03_Characters/Village_People/Grocery_Shopkeeper/
 * 03_Characters/Family/Mother/
 * 03_Characters/Family/Elder_Brother/
 * 03_Characters/Family/Younger_Daughter/

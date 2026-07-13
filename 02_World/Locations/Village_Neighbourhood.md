@@ -88,11 +88,11 @@ This is the primary location of the series.
 
 **Residents**
 
-Ramasamy Family
+Ramasamy Family — Neighbour Family 01 (Elder Couple)
 
 Reference:
 
-03_Characters/Neighbours/Ramasamy_Family.md
+03_Characters/Neighbours/Neighbour_Family_01/
 
 Located northwest of the Main Family.
 
@@ -102,11 +102,11 @@ Located northwest of the Main Family.
 
 **Residents**
 
-Kumar Family
+Kumar Family — Neighbour Family 02 (Young Farming Family)
 
 Reference:
 
-03_Characters/Neighbours/Kumar_Family.md
+03_Characters/Neighbours/Neighbour_Family_02/
 
 Located northeast of the Main Family.
 
@@ -116,11 +116,11 @@ Located northeast of the Main Family.
 
 **Residents**
 
-Lakshmi Paati
+Lakshmi Paati — Neighbour Family 03 (Widow Aunty)
 
 Reference:
 
-03_Characters/Neighbours/Lakshmi_Paati.md
+03_Characters/Neighbours/Neighbour_Family_03/
 
 Located southwest of the Main Family.
 
@@ -134,7 +134,7 @@ School Teacher's Family
 
 Reference:
 
-03_Characters/Neighbours/School_Teacher_Family.md
+03_Characters/Village_People/School_Teacher/
 
 Located southeast of the Main Family.
 

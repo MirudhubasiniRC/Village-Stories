@@ -122,6 +122,18 @@ Builds and repairs:
 
 Woodworking is done using traditional hand tools.
 
+Full location documentation:
+
+```text
+02_World/Locations/Carpenter_Workshop.md
+```
+
+Full character documentation:
+
+```text
+03_Characters/Village_People/Carpenter/
+```
+
 ---
 
 ## Blacksmith
@@ -134,6 +146,18 @@ Produces and repairs:
 * Iron cookware repairs.
 
 The blacksmith plays an important support role in village life.
+
+Full location documentation:
+
+```text
+02_World/Locations/Blacksmith_Forge.md
+```
+
+Full character documentation:
+
+```text
+03_Characters/Village_People/Blacksmith/
+```
 
 ---
 
@@ -171,6 +195,12 @@ Typical goods:
 
 The shop also serves as a social gathering point.
 
+Full character documentation:
+
+```text
+03_Characters/Village_People/Grocery_Shopkeeper/
+```
+
 Full location documentation:
 
 ```text
@@ -196,12 +226,17 @@ Typical work:
 
 The Tea Stall is a daily social pause for farmers, elders, and travellers.
 
+Full character documentation:
+
+```text
+03_Characters/Village_People/Tea_Stall_Owner/
+```
+
 Full location documentation:
 
 ```text
 02_World/Locations/Tea_Stall.md
 ```
-
 ---
 
 ## Flower Seller
@@ -232,7 +267,37 @@ Works primarily at:
 02_World/Locations/Primary_School.md
 ```
 
+Full character documentation:
+
+```text
+03_Characters/Village_People/School_Teacher/
+```
+
 Highly respected within the village.
+
+---
+
+## Headmaster
+
+Responsibilities:
+
+* Leading school-wide routine and assembly.
+* Supporting teachers.
+* Maintaining school standards and records.
+* Organizing major school occasions.
+* Meeting parents on important school matters.
+
+Works primarily at:
+
+```text
+02_World/Locations/Primary_School.md
+```
+
+Full character documentation:
+
+```text
+03_Characters/Village_People/Headmaster/
+```
 
 ---
 
@@ -258,6 +323,14 @@ Temple caretakers may:
 * Assist during festivals.
 
 Their work supports the spiritual life of the village.
+
+The recurring Vinayagar Shrine caretaker is the Temple Priest.
+
+Full character documentation:
+
+```text
+03_Characters/Village_People/Temple_Priest/
+```
 
 ---
 

@@ -107,16 +107,16 @@ The western side contains the Small Grocery Store and open land reserved for fut
 Established:
 
 * Small Grocery Store
+* Barber Under the Big Tree
+* Blacksmith Forge
+* Carpenter Workshop
 
 Potential future locations nearby include:
 
 * Weekly Market
-* Blacksmith
-* Carpenter
 * Potter
-* Barber
 
-The western edge remains less densely developed than the village centre, aside from the grocery as a trusted provisions landmark.
+The western edge remains less densely developed than the village centre, aside from the grocery, open-air barber stand, and traditional forge.
 
 ---
 
