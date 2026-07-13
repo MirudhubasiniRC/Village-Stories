@@ -12,13 +12,34 @@ Every visual asset produced for the series must follow these standards.
 
 # Artistic Direction
 
-Village Stories is illustrated in a **Studio Ghibli-inspired anime aesthetic**, adapted to authentically represent rural South India during the 1990s.
+Village Stories uses an **original cinematic anime illustration style** inspired by modern high-quality animated films and premium AI illustration.
 
-The artwork should feel handcrafted, emotionally warm, and timeless.
+The artwork must feel handcrafted, emotionally warm, culturally specific, and timeless without imitating any existing studio or film.
 
-Every frame should resemble a carefully painted scene from a traditionally animated film rather than a digitally generated image.
+Every frame should resemble carefully hand-painted digital artwork created for an original premium animated feature, never a generic AI image or an imitation of another studio's visual language.
 
-The inspiration comes from the emotional sensitivity, environmental richness, and handcrafted quality associated with Studio Ghibli films, while remaining visually original and culturally authentic.
+The style combines semi-realistic anime characters, painterly rendering, cinematic composition, natural South Indian features, and richly observed rural environments.
+
+---
+
+# Visual Signature
+
+Maintain:
+
+* Semi-realistic anime character design.
+* Soft painterly rendering.
+* Hand-painted digital artwork.
+* Warm cinematic lighting and soft global illumination.
+* Natural colour grading.
+* Film-quality composition.
+* Dreamy atmospheric perspective.
+* Highly detailed, culturally accurate backgrounds.
+* Gentle emotional atmosphere.
+* Comfortable slice-of-life mood.
+* Stable recurring character and environment identity.
+* Google Flow-ready visual clarity.
+
+The intended result is an original premium animated-feature identity: visually refined, emotionally inviting, and unmistakably Village Stories.
 
 ---
 
@@ -28,19 +49,25 @@ Maintain throughout the series:
 
 * Soft painterly digital rendering.
 * Hand-painted appearance.
-* Watercolor and gouache inspired textures.
-* Gentle cel-style shading blended with painted rendering.
-* Fine organic linework.
+* Layered painted colour and natural material texture.
+* Soft form shading integrated into painterly rendering.
+* Fine, restrained organic linework where needed for clarity.
 * Natural brush texture.
 * Rich environmental detail.
 * Soft atmospheric depth.
-* Subtle filmic softness.
+* Soft global illumination and filmic depth.
 * Handcrafted visual quality.
 
 Avoid:
 
-* Photorealism.
-* CGI appearance.
+* Heavy cel shading.
+* Chibi proportions.
+* Cartoon exaggeration.
+* Comic-book outlines.
+* Plastic CGI appearance.
+* Hyper-realistic human faces.
+* Low-detail generic anime.
+* Imitation of any named studio or existing film.
 * Plastic surfaces.
 * Vector artwork.
 * AI-generated glossy textures.
@@ -55,17 +82,18 @@ Characters should appear:
 
 * Warm and approachable.
 * Naturally expressive.
-* Softly stylized.
-* Anatomically believable.
+* Semi-realistic while remaining clearly animated.
+* Anatomically natural and believable.
+* Distinctly South Indian in facial features, skin tones, hair, and expression.
 * Consistent throughout the series.
 
 Maintain:
 
-* Rounded facial forms.
-* Gentle facial features.
+* Natural facial anatomy and age-appropriate proportions.
+* Beautiful South Indian facial structure and skin undertones.
 * Expressive but proportionate eyes.
-* Delicate noses.
-* Soft natural smiles.
+* Natural nose, mouth, cheek, and jaw proportions.
+* Soft, emotionally readable smiles.
 * Graceful body language.
 * Traditional clothing.
 
@@ -79,14 +107,14 @@ Maintain consistent proportions across all recurring characters.
 
 Eyes:
 
-* Slightly larger than realistic.
-* Approximately one-fifth of the face height.
-* Expressive without becoming oversized.
+* Large enough to carry clear emotion.
+* Naturally integrated into the face.
+* Expressive without exaggerated anime or doll-like proportions.
 
 Avoid:
 
 * Chibi proportions.
-* Shoujo-style oversized eyes.
+* Oversized decorative eyes.
 * Hyper-realistic anatomy.
 * Cartoon exaggeration.
 
@@ -98,9 +126,9 @@ Characters should remain recognisable in every episode.
 
 Use:
 
-* Fine, organic linework.
-* Slight natural variation in line thickness.
-* Hand-drawn appearance.
+* Fine, restrained linework.
+* Natural variation only where it supports clarity.
+* Painted edges and tonal separation as the primary form language.
 * Soft edge transitions.
 
 Avoid:
@@ -123,9 +151,31 @@ Surfaces should display:
 * Soft edge blending.
 * Natural imperfections.
 
-Do not create perfectly smooth digital surfaces.
+Do not create perfectly smooth digital surfaces, plastic CGI material, or hard cel-shaded forms.
 
 Small imperfections help reinforce the handcrafted aesthetic.
+
+---
+
+# Cinematic Lighting and Colour
+
+Use:
+
+* Warm cinematic light when season, time, and location permit.
+* Soft global illumination that gives characters and environments gentle volume.
+* Natural colour grading grounded in real light, materials, and weather.
+* Dreamy atmospheric depth without artificial bloom or fantasy haze.
+* Controlled contrast that keeps faces and story action readable.
+
+Avoid:
+
+* Neon colour treatment.
+* Excessive bloom.
+* High-contrast action-film lighting.
+* Flat, unmodulated colour.
+* Unmotivated coloured rim lights.
+
+Lighting direction, weather, and time of day remain governed by `Lighting_Style.md`.
 
 ---
 
@@ -239,6 +289,24 @@ Do not change:
 * Artistic finish.
 
 Visual evolution should occur only through intentional improvements that are applied consistently across the series.
+
+---
+
+# Google Flow Optimisation
+
+Prompts and reference selections must describe the series as:
+
+* Original cinematic anime illustration.
+* Semi-realistic anime characters with natural South Indian facial features.
+* Soft painterly hand-painted digital artwork.
+* Warm, natural cinematic lighting with soft global illumination.
+* Detailed early-1990s rural Tamil Nadu environments.
+* Premium animated-feature composition and atmospheric perspective.
+* Gentle, comfortable slice-of-life emotion.
+
+Prompt instructions must not use named-studio imitation language.
+
+Generated outputs must be rejected when they introduce heavy cel shading, chibi anatomy, comic outlines, plastic CGI surfaces, hyper-realistic humans, generic low-detail anime, or unstable recurring identities.
 
 ---
 

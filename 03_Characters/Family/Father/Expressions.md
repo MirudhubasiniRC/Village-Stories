@@ -46,7 +46,7 @@ Maintain:
 - Relaxed eyebrows.
 - Observant eyes.
 - Softly set mouth.
-- Subtle moustache framing a calm face.
+- Light natural stubble framing a calm face.
 - No default hardness or anger.
 
 He should never appear threatening or blank by default.
@@ -304,12 +304,12 @@ Maintain:
 
 ---
 
-# Mouth and Moustache
+# Mouth and Facial Hair
 
 Maintain:
 
 - Relaxed mouth at rest.
-- Natural smiles that work with the subtle moustache.
+- Natural smiles that work with his light natural stubble.
 - Soft speaking posture.
 - No glamorous posed mouth shapes.
 
@@ -388,7 +388,7 @@ The dog is treated as family.
 
 Father is most recognizable through:
 
-- Calm resting face with subtle moustache.
+- Calm resting face with light natural stubble.
 - Gentle closed-mouth smile when returning home.
 - Focused outdoor concentration.
 - Soft pride while watching the children.
@@ -409,7 +409,7 @@ Maintain:
 - The same facial proportions.
 - The same smile style.
 - The same eye shape.
-- The same subtle moustache behaviour.
+- The same light natural stubble treatment.
 - Natural facial movement.
 - Subtle emotional transitions.
 

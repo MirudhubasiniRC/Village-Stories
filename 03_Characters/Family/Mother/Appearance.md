@@ -12,6 +12,21 @@ Clothing, personality, behaviour, and expressions are documented separately.
 
 ---
 
+# Permanent Jewellery Identity
+
+Mother's recurring jewellery identity is deliberately modest and stable:
+
+* Small traditional gold jhumkas.
+* One simple gold chain carrying her traditional thali pendant.
+* Small gold nose pin on the left nostril.
+* Thin glass bangles.
+
+Her jewellery communicates married village life and personal care; it never becomes ornate, heavy, or fashion-led.
+
+No additional necklaces should appear unless a specific festival or ceremony is documented.
+
+---
+
 # Identity
 
 Mother is a healthy South Indian village woman living in rural Tamil Nadu during the 1990s.
@@ -210,9 +225,9 @@ Maintain:
 
 Wear:
 
-- Small traditional gold drop earrings.
+- Small traditional gold jhumkas.
 
-The earrings should move naturally as Mother walks and works.
+The jhumkas should move gently as Mother walks and works, without becoming oversized or visually dominant.
 
 ---
 
@@ -224,9 +239,9 @@ Maintain:
 
 Wear:
 
-- Traditional thali (mangalsutra).
+- One simple gold chain carrying her traditional thali pendant.
 
-It remains part of her everyday appearance.
+This is Mother's only everyday neck chain and remains part of her permanent appearance.
 
 ---
 
@@ -322,7 +337,8 @@ Mother should remain instantly recognizable through:
 - Warm medium-brown complexion.
 - Small red tilak bindi.
 - Small gold nose pin.
-- Small gold drop earrings.
+- Small gold jhumkas.
+- One simple gold thali chain.
 - Gentle smile.
 - Calm dark brown eyes.
 - Glass bangles.
@@ -383,7 +399,8 @@ Every image, Google Flow scene, storyboard, and animation should preserve:
 - Height.
 - Body proportions.
 - Nose pin.
-- Drop earrings.
+- Small gold jhumkas.
+- One simple gold thali chain.
 - Glass bangles.
 - Bindi placement.
 - Hand proportions.
@@ -433,8 +450,8 @@ Always maintain:
 - Long black half-up hairstyle.
 - Small red tilak bindi.
 - Small gold nose pin.
-- Small gold drop earrings.
-- Traditional thali.
+- Small traditional gold jhumkas.
+- One simple gold chain carrying her traditional thali pendant.
 - Thin glass bangles.
 - Gentle smile.
 - Calm eyes.
@@ -465,4 +482,4 @@ Every image prompt, Google Flow scene, storyboard, animation, illustration, and 
 
 Mother's appearance should reflect a lifetime of quiet care.
 
-Her warm smile, traditional half-up hairstyle, small red tilak bindi, gold nose pin, gently moving drop earrings, softly chiming glass bangles, skilled hands, and calm presence should make her instantly recognizable, allowing viewers to feel they are meeting the same familiar person in every story.
+Her warm smile, traditional half-up hairstyle, small red tilak bindi, gold nose pin, gently moving small jhumkas, one simple gold thali chain, softly chiming glass bangles, skilled hands, and calm presence should make her instantly recognizable, allowing viewers to feel they are meeting the same familiar person in every story.

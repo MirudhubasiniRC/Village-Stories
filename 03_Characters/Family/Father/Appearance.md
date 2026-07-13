@@ -12,6 +12,20 @@ Clothing, personality, behaviour, and expressions are documented separately.
 
 ---
 
+# Canon Visual Reference
+
+Father's permanent visual-reference sheet is:
+
+```text
+11_Assets/Character_References/Father_Canon_Design_Reference.png
+```
+
+This image establishes his recurring face, thick tousled hairstyle, light stubble, lean farmer build, warm expression range, and overall semi-realistic anime identity.
+
+All future image generation, Google Flow scenes, storyboards, and production artwork must preserve this same individual. The reference is a character lock, not a one-time mood reference.
+
+---
+
 # Identity
 
 Father is a healthy South Indian village farmer living in rural Tamil Nadu during the early 1990s.
@@ -79,7 +93,7 @@ Avoid unrealistic beauty-filter skin or artificial bronze sheen.
 Maintain:
 
 - Healthy masculine face.
-- Sharp jawline.
+- Lean, strong jawline.
 - Straight well-defined nose.
 - Balanced proportions.
 - Soft warmth in the eyes that prevents hardness.
@@ -137,19 +151,19 @@ He smiles gently rather than broadly by default.
 
 ---
 
-# Moustache
+# Facial Hair
 
-A traditional moustache is acceptable and preferred as part of Father's everyday look when kept subtle.
+Father's permanent facial-hair treatment is light, naturally kept stubble.
 
 Maintain:
 
-- Natural black moustache.
-- Neat.
-- Modest thickness.
-- Traditional rural styling.
-- Never handlebar, fashionably waxed, or cinematic.
+- Soft dark stubble along the jaw, chin, and upper lip.
+- Light, even growth rather than a full beard.
+- A subtly defined upper-lip shadow rather than a prominent separate moustache.
+- Natural, tidy, and unstyled appearance.
+- Consistency with the supplied canon reference.
 
-If temporarily clean-shaven for a specific story reason, the change must be narratively justified and he returns to his canonical subtle moustache afterward.
+Never render a heavy beard, handlebar moustache, sharply sculpted beard, or clean-shaven redesign without an extraordinary documented canonical reason.
 
 ---
 
@@ -174,9 +188,10 @@ Father's permanent everyday hairstyle is a simple traditional short-to-medium ru
 Maintain:
 
 - Thick black hair.
-- Neat without looking fashionable.
-- Slight natural wave or volume acceptable.
-- Hairline practical and consistent.
+- Soft, naturally tousled texture.
+- Slightly longer, irregular front fringe that falls naturally across the forehead.
+- Natural side-swept movement and gentle volume.
+- A recognisable silhouette consistent with the canon reference.
 - Occasionally slightly damp from well water or sweat after work.
 
 Never:
@@ -184,7 +199,7 @@ Never:
 - Modern layered salon cuts.
 - Spiky styling.
 - Gelled city hairstyles.
-- Movie-hero volume.
+- Overly polished movie-hero grooming.
 
 Festival occasions may allow slightly neater grooming, never a redesign.
 
@@ -301,10 +316,10 @@ He never struts or rushes for dramatic effect.
 Father should remain instantly recognizable through:
 
 - Warm medium-brown complexion.
-- Sharp jawline.
+- Lean, strong jawline.
 - Straight well-defined nose.
-- Thick black hair in a simple rural cut.
-- Subtle traditional moustache.
+- Thick black, softly tousled side-swept hair.
+- Light natural stubble.
 - Dark brown steady eyes.
 - Broad shoulders.
 - Strong forearms.
@@ -384,7 +399,7 @@ Every image, Google Flow scene, storyboard, and animation should preserve:
 - Nose shape.
 - Hair colour and thickness.
 - Hairstyle.
-- Subtle moustache.
+- Light stubble treatment.
 - Skin tone.
 - Height.
 - Broad-shoulder silhouette.
@@ -406,7 +421,7 @@ Google Flow, image prompts, animations, and future production assets must preser
 - The same hairstyle.
 - The same silhouette.
 - The same skin tone.
-- The same subtle moustache.
+- The same light natural stubble.
 - The same recognizable features.
 
 The AI should always generate Father as the same recurring individual rather than a different man with similar characteristics.
@@ -419,8 +434,8 @@ Always maintain:
 
 - Traditional South Indian farmer appearance.
 - Warm medium-brown complexion.
-- Thick black simple rural hair.
-- Subtle traditional moustache.
+- Thick black softly tousled rural hair.
+- Light natural stubble.
 - Sharp jawline.
 - Straight well-defined nose.
 - Broad shoulders.
@@ -466,4 +481,4 @@ Every image prompt, Google Flow scene, storyboard, animation, illustration, and 
 
 Father's appearance should reflect a life of honest outdoor work.
 
-His sharp jawline, straight nose, warm medium-brown complexion, thick black hair, subtle moustache, broad shoulders, strong forearms, and calm kind eyes should make him instantly recognizable, allowing viewers to feel they are meeting the same familiar man in every story.
+His lean strong jawline, straight nose, warm medium-brown complexion, thick softly tousled black hair, light natural stubble, broad shoulders, strong forearms, and calm kind eyes should make him instantly recognizable, allowing viewers to feel they are meeting the same familiar man in every story.

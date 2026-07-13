@@ -2,13 +2,22 @@
 
 ## Purpose
 
-This document defines the permanent cinematography language of Village Stories.
+This document defines the permanent high-level cinematography philosophy of Village Stories.
 
 The camera should never distract from the story.
 
 Instead, it should quietly observe the world, allowing the audience to feel like they are physically present within the village.
 
 Every shot should strengthen immersion, continuity, and emotional connection.
+
+Operational shot selection, camera direction, and camera movement are permanently defined in:
+
+```text
+09_AI_Production_System/19_Camera_Direction_Bible.md
+09_AI_Production_System/20_Camera_Movement_Bible.md
+```
+
+Those documents are the only operational camera-language authority for image prompts, Google Flow animation prompts, storyboards, and production planning. This document remains the higher-level style constraint that they must obey.
 
 ---
 

@@ -29,13 +29,14 @@ Always preserve:
 - Sharp jawline.
 - Straight well-defined nose.
 - Dark brown almond-shaped eyes.
-- Thick naturally black hair in a simple rural cut.
-- Subtle traditional moustache.
+- Thick naturally black, softly tousled hair with a recognisable side-swept fringe.
+- Light natural stubble with a soft upper-lip shadow, never a heavy beard or prominent moustache.
 - Broad shoulders.
 - Strong forearms.
 - Natural farming athleticism.
 - Height greater than Mother.
 - Grounded posture.
+- Match the visual identity in `11_Assets/Character_References/Father_Canon_Design_Reference.png`.
 
 ---
 
@@ -43,7 +44,7 @@ Always preserve:
 
 Always preserve:
 
-- Traditional cotton shirt.
+- Traditional cotton shirt, with deep muted blue as his primary recurring work-shirt colour.
 - Traditional cotton veshti / dhoti.
 - Optional shoulder thundu.
 - Practical rural appearance.
@@ -164,6 +165,7 @@ Never introduce without extraordinary documented justification:
 - Modern hairstyle.
 - Gym physique.
 - Movie-hero styling.
+- Heavy beard, handlebar moustache, or clean-shaven facial redesign.
 - Designer clothing.
 - Loud aggressive personality as default.
 - Cruelty to animals.
@@ -180,7 +182,7 @@ Do not alter:
 
 - Facial identity.
 - Hair.
-- Subtle moustache.
+- Light natural stubble.
 - Body proportions.
 - Clothing style.
 - Personality.

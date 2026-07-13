@@ -30,8 +30,8 @@ Always preserve:
 - Traditional half-up hairstyle.
 - Small red tilak bindi.
 - Small gold nose pin.
-- Small gold drop earrings.
-- Traditional thali.
+- Small traditional gold jhumkas.
+- One simple gold chain carrying her traditional thali pendant.
 - Thin glass bangles.
 - Medium build.
 - Graceful posture.
@@ -138,7 +138,7 @@ Always preserve:
 Always preserve:
 
 - Loving partnership with Father.
-- Patient teacher to Daughter.
+- Patient teacher to Younger Daughter.
 - Caring toward the Family Dog.
 - Respectful to elders.
 - Helpful to neighbours.

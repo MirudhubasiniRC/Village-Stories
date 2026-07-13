@@ -28,7 +28,7 @@ Comfort, durability, and tradition always take priority over decoration.
 
 Father's canonical everyday clothing consists of:
 
-- Traditional cotton shirt or half-sleeve shirt.
+- Traditional cotton shirt, most often a deep muted blue work shirt with sleeves rolled naturally when working.
 - Traditional cotton veshti / dhoti, or practical cotton work veshti.
 - Simple cloth towel or thundu often carried on the shoulder.
 - Occasional simple waist cloth adjustment for fieldwork.
@@ -46,6 +46,7 @@ Maintain:
 - Light, breathable weave.
 - Half sleeves preferred for work days.
 - Full sleeves acceptable for cooler mornings, temple visits, or festivals.
+- Deep muted blue is his primary recurring work-shirt colour.
 - Simple solid colours or very subtle checks.
 - Comfortable fit that allows lifting and carrying.
 - Natural wrinkles from work.
@@ -65,6 +66,7 @@ Examples:
 - Cream
 - Light beige
 - Soft brown
+- Deep muted blue
 - Faded sky blue
 - Light grey
 - Pale olive
@@ -156,7 +158,7 @@ Maintain:
 - Clean traditional shirt.
 - White veshti.
 - Neat hair.
-- Subtle moustache grooming.
+- Neat light-stubble grooming.
 - Calm respectful presentation.
 
 Ceremony attire should remain culturally accurate for rural Tamil Nadu.

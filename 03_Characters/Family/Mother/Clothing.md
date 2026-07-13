@@ -30,8 +30,8 @@ Mother's canonical everyday clothing consists of:
 
 - Traditional cotton saree.
 - Matching short-sleeved blouse.
-- Traditional thali.
-- Small gold drop earrings.
+- One simple gold chain carrying her traditional thali pendant.
+- Small traditional gold jhumkas.
 - Small gold nose pin.
 - Thin glass bangles.
 - Small red tilak bindi.
@@ -133,13 +133,15 @@ Mother wears the same small collection every day.
 
 Maintain:
 
-- Traditional thali.
-- Small gold drop earrings.
+- One simple, modest gold chain carrying the traditional thali pendant.
+- Small traditional gold jhumkas with restrained movement.
 - Small gold nose pin.
 - Thin glass bangles.
 - Occasionally a simple finger ring.
 
 Jewellery should never dominate the character.
+
+Never add multiple chains, heavy necklaces, large chandelier earrings, jewellery sets, or contemporary fashion jewellery to Mother's everyday appearance.
 
 ---
 
@@ -344,9 +346,9 @@ Every image, Google Flow scene, storyboard, and animation should preserve:
 - Practical drape.
 - Matching blouse.
 - Glass bangles.
-- Gold drop earrings.
+- Small gold jhumkas.
 - Gold nose pin.
-- Traditional thali.
+- One simple gold chain carrying her traditional thali pendant.
 - Barefoot indoors.
 
 Avoid wardrobe drift across episodes.
@@ -402,4 +404,4 @@ Every image prompt, Google Flow scene, storyboard, animation, illustration, and 
 
 Mother's clothing should feel like an extension of her life.
 
-Every cotton saree, every softly chiming glass bangle, every neatly worn thali, and every practical adjustment for cooking or gardening should quietly communicate warmth, humility, and generations of village tradition.
+Every cotton saree, every softly chiming glass bangle, every gently moving small jhumka, one simple gold thali chain, and every practical adjustment for cooking or gardening should quietly communicate warmth, humility, and generations of village tradition.
