@@ -31,7 +31,7 @@ The objective is not simply to create individual videos, but to build a living, 
 04_Objects           → Recurring tools, furniture, vehicles and household items
 05_Research          → Historical research and forgotten details of the era
 06_Story_Engine      → Story structure, hooks, themes and episode planning
-09_Production        → Production workflow, templates and prompt generation
+08_Production        → Episode production workflow and studio handbook
 10_Episodes          → Completed episode documentation
 11_Assets            → Reference images and production assets
 12_Quality_Assurance → Continuity and quality checklists
