@@ -1,0 +1,250 @@
+# 03_Instruction_Priority.md
+
+# Purpose
+
+This document defines the order in which instructions must be followed whenever two or more instructions appear to conflict.
+
+The Village Stories production system contains many sources of information.
+
+When conflicts occur, always follow the highest-priority instruction.
+
+Higher-priority rules override lower-priority rules.
+
+---
+
+# Priority Level 1 — User Request
+
+The current user request always has the highest priority.
+
+However, if the request intentionally changes an established part of the world (such as adding a new permanent location or modifying a recurring character), the appropriate Canon documents must also be updated.
+
+---
+
+# Priority Level 2 — Canon
+
+The Canon defines the permanent laws of the universe.
+
+Examples:
+
+* Global Rules
+* Universe Principles
+* Timeline
+* Season Tracker
+* Continuity Rules
+
+Canon cannot be ignored unless intentionally revised.
+
+---
+
+# Priority Level 3 — Story Continuity
+
+The current episode must remain internally consistent.
+
+Maintain continuity for:
+
+* Character positions
+* Character actions
+* Time of day
+* Weather
+* Lighting
+* Object placement
+* Ongoing activities
+* Emotional progression
+
+Every shot should naturally continue from the previous one.
+
+---
+
+# Priority Level 4 — World
+
+Respect the established world.
+
+Examples:
+
+* Geography
+* Village layout
+* Walking routes
+* Sun direction
+* River
+* Banyan tree
+* Permanent landmarks
+
+Never relocate permanent locations unless the Canon is updated.
+
+---
+
+# Priority Level 5 — Characters
+
+Respect established character identity.
+
+Maintain:
+
+* Appearance
+* Personality
+* Relationships
+* Habits
+* Skills
+* Physical proportions
+* Clothing logic
+
+Characters should behave consistently with who they are.
+
+---
+
+# Priority Level 6 — Locations
+
+Respect the identity of permanent locations.
+
+Each location has:
+
+* Layout
+* Fixed objects
+* Daily activities
+* Lighting behaviour
+* Camera geography
+
+Locations should never behave differently without story justification.
+
+---
+
+# Priority Level 7 — Objects
+
+Recurring objects remain consistent.
+
+Examples:
+
+* Clay stove
+* Brass lamp
+* Bicycle
+* Radio
+* Grinding stone
+
+Objects should remain historically accurate and logically placed.
+
+---
+
+# Priority Level 8 — Culture & Research
+
+Whenever historical authenticity is involved, consult the Culture and Research libraries before inventing details.
+
+Prefer documented knowledge over assumptions.
+
+---
+
+# Priority Level 9 — Production
+
+Camera choices, prompt wording, animation workflow, and production techniques should always support the story rather than override it.
+
+Production exists to serve the narrative.
+
+---
+
+# Priority Level 10 — Creative Identity
+
+When multiple creative choices are equally valid and do not conflict with higher-priority instructions, always choose the option that best reflects the identity of Village Stories.
+
+Creative decisions should reinforce the unique personality of the series rather than following generic storytelling or visual trends.
+
+---
+
+## The Village Stories Identity
+
+Every creative decision should support one or more of the following qualities:
+
+* Authentic 1990s South Indian village life.
+* Emotional warmth.
+* Slow, peaceful pacing.
+* Everyday human stories.
+* Strong family relationships.
+* Community life.
+* Deep respect for nature.
+* Historical authenticity.
+* Cultural preservation.
+* Immersive ASMR atmosphere.
+* A persistent, living world.
+* Cinematic visual storytelling.
+
+---
+
+## Creative Decision Guide
+
+When deciding between two equally correct ideas, prefer the option that:
+
+* Strengthens the village as a living world.
+* Reveals authentic daily life.
+* Preserves forgotten traditions.
+* Uses natural environmental storytelling.
+* Creates emotional connection without exaggeration.
+* Encourages viewers to notice recurring details.
+* Adds long-term value to the Village Stories universe.
+
+---
+
+## Avoid
+
+Do not choose ideas simply because they are:
+
+* More dramatic.
+* More shocking.
+* More modern.
+* More trendy.
+* More visually exaggerated.
+* More complicated than necessary.
+
+Simplicity, authenticity, and emotional honesty should always be preferred.
+
+---
+
+## Signature Feeling
+
+Every completed episode should feel unmistakably like Village Stories.
+
+A returning viewer should recognize the series through its atmosphere, storytelling, world-building, and emotional tone even before recognizing individual characters or locations.
+
+The goal is not merely visual consistency, but creative consistency across the entire universe.
+
+
+# Conflict Resolution
+
+If two instructions conflict:
+
+1. Determine which document has higher priority.
+2. Follow the higher-priority instruction.
+3. If the conflict reveals outdated documentation, recommend updating the Canon.
+4. Never silently ignore established documentation.
+
+---
+
+# Unknown Information
+
+If required information does not exist:
+
+Do not invent permanent facts.
+
+Instead:
+
+* Identify the missing information.
+* Recommend where it belongs in the repository.
+* Continue only with temporary assumptions if explicitly requested.
+
+---
+
+# Repository Growth
+
+As the Village Stories universe expands, new documents may be added.
+
+Unless stated otherwise, new documents inherit the priority of their parent folder.
+
+For example:
+
+A file inside `03_Characters/` has the same priority as the Characters section.
+
+A file inside `07_Research/` has the same priority as the Research section.
+
+---
+
+# Guiding Principle
+
+Consistency is more valuable than novelty.
+
+When uncertain, preserve the established world rather than introducing unnecessary change.
