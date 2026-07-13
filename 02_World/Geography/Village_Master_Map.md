@@ -6,7 +6,7 @@ This document is the permanent geographical blueprint of the Village Stories uni
 
 It defines the exact spatial relationship between every permanent location.
 
-All future stories, locations, characters, walking routes, camera blocking, and environmental continuity must respect this map.
+All future stories, locations, characters, walking routes, camera blocking, environmental continuity, and production assets must respect this map.
 
 This is the highest authority for village geography.
 
@@ -104,29 +104,31 @@ This compass never changes.
 
                     ┌─────────────────────┐
                     │     Courtyard        │
-        Bedroom ────┤                     ├──── Puja Corner
+        Bedroom ────┤                     ├──── Pooja Corner
                     │                     │
                     └──────────┬──────────┘
                                │
                            Kitchen
                                │
-                         Rear Veranda
+                      Well Utility Area
                                │
-                           Water Well
+                          Open Backyard
+                  ┌────────────┴────────────┐
+                  │                         │
+          Vegetable Garden        Livestock Shelter
+                  │                         │
+             Compost Area          Open Animal Yard
+                  └────────────┬────────────┘
                                │
-                     Vegetable Garden
+                         Coconut Grove
                                │
-                      Cow & Goat Shed
+                          Paddy Fields
                                │
-                        Coconut Grove
+                          Village Pond
                                │
-                         Paddy Fields
+                       Irrigation Canal
                                │
-                         Village Pond
-                               │
-                      Irrigation Canal
-                               │
-                         Open Farmland
+                          Open Farmland
 
                               SOUTH
 ```
@@ -143,17 +145,17 @@ The formal entrance into the village.
 
 Contains:
 
-* Village Entrance
-* Sacred Banyan Tree
-* Vinayagar Shrine
+- Village Entrance
+- Sacred Banyan Tree
+- Vinayagar Shrine
 
 Typical activity:
 
-* Visitors arriving
-* Villagers resting
-* Prayer
-* Children gathering after school
-* Elderly conversations
+- Visitors arriving
+- Villagers resting
+- Prayer
+- Children gathering after school
+- Elderly conversations
 
 ---
 
@@ -163,21 +165,21 @@ Located immediately east of the Banyan Tree.
 
 Contains:
 
-* River
-* River Ghat
-* Stone Steps
-* Stone Bridge
+- River
+- River Ghat
+- Stone Steps
+- Stone Bridge
 
 Typical activity:
 
-* Bathing
-* Washing clothes
-* Fetching water
-* Fishing
-* Children swimming
-* Friends chatting
-* Festival rituals
-* Evening relaxation
+- Bathing
+- Washing clothes
+- Fetching water
+- Fishing
+- Children swimming
+- Friends chatting
+- Festival rituals
+- Evening relaxation
 
 This is one of the busiest public spaces in the village.
 
@@ -187,18 +189,18 @@ This is one of the busiest public spaces in the village.
 
 Contains:
 
-* Main Village Path
-* Village Square
-* Neighbourhood Houses
+- Main Village Path
+- Village Square
+- Neighbourhood Houses
 
 Typical activity:
 
-* Walking
-* Neighbour interactions
-* Vendors passing through
-* Children playing
-* Festivals
-* Processions
+- Walking
+- Neighbour interactions
+- Vendors passing through
+- Children playing
+- Festivals
+- Processions
 
 This is the social centre of the village.
 
@@ -210,19 +212,18 @@ The family's private property begins here.
 
 Contains:
 
-* Front Garden
-* Front Thinnai
-* Courtyard
-* Bedroom
-* Puja Corner
-* Kitchen
-* Rear Veranda
+- Front Garden
+- Front Thinnai
+- Courtyard
+- Bedroom
+- Pooja Corner
+- Kitchen
 
 The house faces east.
 
 Morning sunlight naturally illuminates the Front Garden and Front Thinnai.
 
-The rear of the house faces west, giving the Kitchen and Rear Veranda beautiful evening light.
+The rear of the house opens into the family's private working area.
 
 ---
 
@@ -232,35 +233,48 @@ Immediately behind the house.
 
 Contains:
 
-* Water Well
-* Vegetable Garden
+- Well Utility Area
+- Backyard
+- Vegetable Garden
 
 Typical activity:
 
-* Washing
-* Water collection
-* Gardening
-* Vegetable harvesting
-* Small household chores
+- Washing vegetables
+- Washing utensils
+- Drawing water
+- Gardening
+- Harvesting vegetables
+- Drying produce
+- Family Dog resting
+- Chickens roaming freely
+- Everyday household work
+
+This area forms the connection between the Kitchen and the family's outdoor lifestyle.
 
 ---
 
 ## 6. Agricultural Zone
 
+Located directly beyond the Backyard.
+
 Contains:
 
-* Cow & Goat Shed
-* Coconut Grove
-* Paddy Fields
+- Livestock Shelter
+- Compost Area
+- Coconut Grove
+- Paddy Fields
 
 Typical activity:
 
-* Farming
-* Animal care
-* Harvest
-* Firewood collection
+- Feeding livestock
+- Milking cows
+- Collecting eggs
+- Bullock cart storage
+- Animal care
+- Harvest preparation
+- Firewood collection
 
-This zone changes visibly with the seasons.
+This zone changes naturally with the seasons.
 
 ---
 
@@ -268,15 +282,15 @@ This zone changes visibly with the seasons.
 
 Contains:
 
-* Village Pond
-* Irrigation Canal
+- Village Pond
+- Irrigation Canal
 
 Purpose:
 
-* Irrigation
-* Fishing
-* Wildlife habitat
-* Agricultural water storage
+- Irrigation
+- Fishing
+- Wildlife habitat
+- Agricultural water storage
 
 This area is generally quieter than the River Ghat.
 
@@ -284,18 +298,22 @@ This area is generally quieter than the River Ghat.
 
 # Approximate Walking Times
 
-| From             | To               |       Time |
-| ---------------- | ---------------- | ---------: |
-| Village Entrance | Banyan Tree      | 30 seconds |
-| Banyan Tree      | River Ghat       | 20 seconds |
-| River Ghat       | Stone Bridge     | 30 seconds |
-| Banyan Tree      | Village Square   |  2 minutes |
-| Village Square   | Family House     |   1 minute |
-| Family House     | Water Well       | 30 seconds |
-| Water Well       | Coconut Grove    |   1 minute |
-| Coconut Grove    | Paddy Fields     |   1 minute |
-| Paddy Fields     | Village Pond     |  2 minutes |
-| Village Pond     | Irrigation Canal | 30 seconds |
+| From | To | Time |
+|------|----|------:|
+| Village Entrance | Banyan Tree | 30 seconds |
+| Banyan Tree | River Ghat | 20 seconds |
+| River Ghat | Stone Bridge | 30 seconds |
+| Banyan Tree | Village Square | 2 minutes |
+| Village Square | Family House | 1 minute |
+| Family House | Well Utility Area | 30 seconds |
+| Well Utility Area | Backyard | 10 seconds |
+| Backyard | Vegetable Garden | 15 seconds |
+| Backyard | Livestock Shelter | 20 seconds |
+| Vegetable Garden | Livestock Shelter | 20 seconds |
+| Livestock Shelter | Coconut Grove | 1 minute |
+| Coconut Grove | Paddy Fields | 1 minute |
+| Paddy Fields | Village Pond | 2 minutes |
+| Village Pond | Irrigation Canal | 30 seconds |
 
 Walking times are approximate and should remain consistent.
 
@@ -305,12 +323,12 @@ Walking times are approximate and should remain consistent.
 
 The busiest locations in the village are:
 
-* Sacred Banyan Tree & Vinayagar Shrine
-* River Ghat
-* Village Square
-* Main Village Path
-* Front Thinnai
-* Village Pond (especially evenings)
+- Sacred Banyan Tree & Vinayagar Shrine
+- River Ghat
+- Village Square
+- Main Village Path
+- Front Thinnai
+- Village Pond (especially evenings)
 
 These locations should naturally appear often throughout the series.
 
@@ -320,14 +338,15 @@ These locations should naturally appear often throughout the series.
 
 The calmest places are:
 
-* Rear Veranda
-* Water Well
-* Vegetable Garden
-* Coconut Grove
-* Paddy Fields
-* Irrigation Canal
+- Well Utility Area
+- Backyard
+- Vegetable Garden
+- Livestock Shelter
+- Coconut Grove
+- Paddy Fields
+- Irrigation Canal
 
-These are ideal for peaceful, emotional, reflective, or ASMR-focused scenes.
+These locations are ideal for peaceful, emotional, reflective, or ASMR-focused scenes.
 
 ---
 
@@ -337,33 +356,33 @@ The map intentionally reserves space for future additions.
 
 ## North-East
 
-* Tea Stall
-* Bus Stop
+- Tea Stall
+- Bus Stop
 
 ## East of the Village Centre
 
-* Primary School
-* Playground
+- Primary School
+- Playground
 
 ## West of the Village Centre
 
-* Weekly Market
-* Blacksmith
-* Carpenter
-* Potter
-* Barber Shop
-* Small Grocery Store
+- Weekly Market
+- Blacksmith
+- Carpenter
+- Potter
+- Barber Shop
+- Small Grocery Store
 
 ## South-West
 
-* Festival Ground
-* Temple Fair Area
-* Cattle Fair
+- Festival Ground
+- Temple Fair Area
+- Cattle Fair
 
 ## South-East
 
-* Rice Mill
-* Grain Drying Yard
+- Rice Mill
+- Grain Drying Yard
 
 Future additions should connect naturally to the existing road network.
 
@@ -373,24 +392,32 @@ Future additions should connect naturally to the existing road network.
 
 Always maintain:
 
-* Permanent compass orientation.
-* East-facing Family House.
-* River east of the Banyan Tree.
-* Main Village Path as the primary road.
-* Family compound separated from the public road by the Front Garden.
-* Farming areas south of the house.
-* Pond south of the fields.
-* Canal connected to the pond.
-* Logical walking paths between all locations.
+- Permanent compass orientation.
+- East-facing Family House.
+- River east of the Banyan Tree.
+- Main Village Path as the primary road.
+- Family compound separated from the public road by the Front Garden.
+- Well Utility Area directly behind the Kitchen.
+- Backyard directly behind the Well Utility Area.
+- Vegetable Garden beside the Livestock Shelter.
+- Livestock Shelter behind the Backyard.
+- Coconut Grove south of the Livestock Shelter.
+- Paddy Fields south of the Coconut Grove.
+- Pond south of the fields.
+- Canal connected to the pond.
+- Logical walking paths between all permanent locations.
+- Free-range chickens naturally roaming between the Backyard, Well Utility Area, Vegetable Garden, and Livestock Shelter during daylight hours.
+- The family's traditional bullock cart stored beside the Livestock Shelter.
 
 Never:
 
-* Rotate the village.
-* Mirror the layout.
-* Move permanent landmarks.
-* Relocate the river.
-* Relocate the Family House.
-* Break established walking connections.
+- Rotate the village.
+- Mirror the layout.
+- Move permanent landmarks.
+- Relocate the river.
+- Relocate the Family House.
+- Change the established relationship between the Backyard, Vegetable Garden, and Livestock Shelter.
+- Break established walking connections.
 
 ---
 
@@ -398,7 +425,7 @@ Never:
 
 This document is the official geographical blueprint of the Village Stories universe.
 
-Every future location document, storyboard, image prompt, animation prompt, story, and episode must conform to this layout unless an intentional world-changing event is introduced.
+Every future location document, storyboard, image prompt, Google Flow scene, animation prompt, story, and episode must conform to this layout unless an intentional world-changing event is introduced.
 
 ---
 
