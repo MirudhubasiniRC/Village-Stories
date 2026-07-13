@@ -108,6 +108,18 @@ Produces:
 
 Work increases before festivals.
 
+Full location documentation:
+
+```text
+02_World/Locations/Potter_Clay_Yard.md
+```
+
+Full character documentation:
+
+```text
+03_Characters/Village_People/Potter/
+```
+
 ---
 
 ## Carpenter

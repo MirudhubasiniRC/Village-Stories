@@ -239,7 +239,7 @@ For example:
 
 A file inside `03_Characters/` has the same priority as the Characters section.
 
-A file inside `07_Research/` has the same priority as the Research section.
+A file inside `05_Research/` has the same priority as the Research section.
 
 ---
 

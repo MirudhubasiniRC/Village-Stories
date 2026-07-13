@@ -28,11 +28,9 @@ The objective is not simply to create individual videos, but to build a living, 
 01_Canon             → Rules that never change
 02_World             → Geography, environment, seasons, world layout
 03_Characters        → Character profiles and relationships
-04_Locations         → Permanent locations and their details
-05_Objects           → Recurring tools, furniture, vehicles and household items
-06_Culture           → Food, traditions, festivals, occupations and daily life
-07_Research          → Historical research and forgotten details of the era
-08_Story_Engine      → Story structure, hooks, themes and episode planning
+04_Objects           → Recurring tools, furniture, vehicles and household items
+05_Research          → Historical research and forgotten details of the era
+06_Story_Engine      → Story structure, hooks, themes and episode planning
 09_Production        → Production workflow, templates and prompt generation
 10_Episodes          → Completed episode documentation
 11_Assets            → Reference images and production assets

@@ -185,7 +185,7 @@ Use when:
 
 ---
 
-## 07_Research
+## 05_Research
 
 Purpose:
 Historical knowledge base.
@@ -211,7 +211,7 @@ Use when:
 
 ---
 
-## 08_Story_Engine
+## 06_Story_Engine
 
 Purpose:
 Creative planning.

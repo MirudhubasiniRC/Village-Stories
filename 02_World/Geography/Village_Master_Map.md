@@ -388,11 +388,11 @@ Established:
 - Blacksmith Forge
 - Barber Under the Big Tree
 - Carpenter Workshop
+- Potter Clay Yard
 
 Still reserved nearby:
 
 - Weekly Market
-- Potter
 
 ## South-West
 

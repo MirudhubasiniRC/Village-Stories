@@ -8,6 +8,12 @@ It establishes where each tool belongs, how it is used during meal preparation, 
 
 This document does **not** define the physical specifications of each tool. Those are maintained separately in the **Objects** folder.
 
+Physical object authority:
+
+```text
+04_Objects/Kitchen_Tools/
+```
+
 ---
 
 # Philosophy

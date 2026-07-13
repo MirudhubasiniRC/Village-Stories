@@ -52,6 +52,13 @@ Viewers should recognize a character immediately—not because they are introduc
 ├── Village_People/
 │   └── Tea_Stall_Owner/
 │
+├── Community/
+│   ├── Village_Elders.md
+│   ├── Village_Children.md
+│   ├── Village_Farmers.md
+│   ├── Village_Women.md
+│   └── Village_Vendors.md
+│
 └── Visitors/
 ```
 
@@ -162,7 +169,24 @@ Current documented Village People:
 03_Characters/Village_People/Barber/
 03_Characters/Village_People/Blacksmith/
 03_Characters/Village_People/Carpenter/
+03_Characters/Village_People/Potter/
 ```
+
+---
+
+## Community
+
+Defines recurring groups without creating unnecessary personal identities.
+
+Includes:
+
+* Village Elders
+* Village Children
+* Village Farmers
+* Village Women
+* Village Vendors
+
+Individual characters take precedence over the group documents whenever they appear.
 
 ---
 
