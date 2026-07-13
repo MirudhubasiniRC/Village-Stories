@@ -193,12 +193,21 @@ Contains:
 - Village Square
 - Neighbourhood Houses
 
+Connected nearby established public locations:
+
+- Tea Stall (North-East toward Entrance / Bus Stop corridor)
+- Primary School and Playground (East of Village Centre)
+- Small Grocery Store (West of Village Centre)
+
 Typical activity:
 
 - Walking
 - Neighbour interactions
 - Vendors passing through
 - Children playing
+- School journeys
+- Tea pauses
+- Household provisioning
 - Festivals
 - Processions
 
@@ -356,26 +365,43 @@ The map intentionally reserves space for future additions.
 
 ## North-East
 
+Established:
+
 - Tea Stall
+
+Still reserved nearby:
+
 - Bus Stop
 
 ## East of the Village Centre
 
+Established:
+
 - Primary School
-- Playground
+- Playground (attached to Primary School grounds)
 
 ## West of the Village Centre
+
+Established:
+
+- Small Grocery Store
+
+Still reserved nearby:
 
 - Weekly Market
 - Blacksmith
 - Carpenter
 - Potter
 - Barber Shop
-- Small Grocery Store
 
 ## South-West
 
+Established:
+
 - Festival Ground
+
+Still reserved nearby:
+
 - Temple Fair Area
 - Cattle Fair
 

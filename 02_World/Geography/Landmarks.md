@@ -221,7 +221,7 @@ Detailed design:
 
 # Secondary Landmarks
 
-These landmarks are important but appear less frequently.
+These landmarks are important but appear less frequently than the sacred and civic cores.
 
 * Front Thinnai
 * Courtyard
@@ -231,6 +231,10 @@ These landmarks are important but appear less frequently.
 * Irrigation Canal
 * Cow & Goat Shed
 * Vegetable Garden
+* Tea Stall
+* Primary School
+* Small Grocery Store
+* Festival Ground
 
 Each has its own detailed location file.
 
@@ -242,15 +246,35 @@ As the universe expands, additional permanent landmarks may be introduced.
 
 Examples include:
 
-* Village School
-* Tea Stall
 * Weekly Market
 * Blacksmith Workshop
+* Bus Stop
 * Rice Mill
-* Festival Ground
+* Temple Fair Area
+* Cattle Fair
 
 Once introduced, they become permanent parts of the village and should never be casually relocated.
 
+---
+
+# Newly Established Public Landmarks
+
+These landmarks are now permanent and fully documented:
+
+* Tea Stall
+* Primary School
+* Playground (attached to Primary School)
+* Small Grocery Store
+* Festival Ground
+
+Detailed location files:
+
+```text
+02_World/Locations/Tea_Stall.md
+02_World/Locations/Primary_School.md
+02_World/Locations/Small_Grocery_Store.md
+02_World/Locations/Festival_Ground.md
+```
 ---
 
 # Using Landmarks In Stories

@@ -259,6 +259,24 @@ The village should grow naturally rather than randomly.
 
 ---
 
+# Established Public Locations (1990s)
+
+The following public locations are now fully documented and permanent:
+
+* Tea Stall — `Tea_Stall.md` (North-East)
+* Primary School & Playground — `Primary_School.md` (East of Village Centre)
+* Small Grocery Store — `Small_Grocery_Store.md` (West of Village Centre)
+* Festival Ground — `Festival_Ground.md` (South-West)
+
+These must remain geographically fixed according to:
+
+```text
+02_World/Geography/Village_Master_Map.md
+```
+
+
+---
+
 # Canon Authority
 
 Each location document is the permanent reference for that location.

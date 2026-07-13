@@ -155,6 +155,10 @@ May also repair woven items.
 
 Operates the local provisions shop.
 
+Location:
+
+* Small Grocery Store (West of Village Centre)
+
 Typical goods:
 
 * Rice.
@@ -166,6 +170,37 @@ Typical goods:
 * Matches.
 
 The shop also serves as a social gathering point.
+
+Full location documentation:
+
+```text
+02_World/Locations/Small_Grocery_Store.md
+```
+
+---
+
+## Tea Stall Owner
+
+Operates the roadside Tea Stall.
+
+Location:
+
+* Tea Stall (North-East, near Entrance / Bus Stop corridor)
+
+Typical work:
+
+* Preparing tea and filter coffee.
+* Serving simple snacks.
+* Maintaining the stall stove and glasses.
+* Welcoming regular customers.
+
+The Tea Stall is a daily social pause for farmers, elders, and travellers.
+
+Full location documentation:
+
+```text
+02_World/Locations/Tea_Stall.md
+```
 
 ---
 
@@ -190,6 +225,12 @@ Responsibilities:
 * Teaching village children.
 * Community education.
 * School activities.
+
+Works primarily at:
+
+```text
+02_World/Locations/Primary_School.md
+```
 
 Highly respected within the village.
 

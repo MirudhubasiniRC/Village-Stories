@@ -216,7 +216,9 @@ Villagers often leave bicycles near:
 * Village Square.
 * Banyan Tree.
 * River Ghat.
-* School (future).
+* Tea Stall.
+* Primary School.
+* Small Grocery Store.
 
 There are no formal bicycle racks.
 

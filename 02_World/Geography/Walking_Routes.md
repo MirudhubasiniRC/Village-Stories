@@ -132,10 +132,110 @@ Common routes include:
 * Family House ↔ River Ghat
 * Family House ↔ Banyan Tree
 * Family House ↔ Village Square
+* Family House ↔ Primary School
+* Primary School ↔ Playground
+* Village Square ↔ Small Grocery Store (errands with adults)
 * River Ghat ↔ Stone Bridge
 * Pond ↔ Paddy Fields
 
 Children may stop to explore, play, climb trees, or interact with animals along these routes.
+
+---
+
+# Tea Stall Route
+
+A common social and practical route:
+
+```text
+Village Entrance / Bus Stop approach
+        │
+Tea Stall
+        │
+Main Village Path
+        │
+Village Square
+```
+
+Typical users:
+
+* Farmers
+* Elders
+* Travellers waiting near the bus approach
+* Father on selected mornings
+* Villagers exchanging news
+
+---
+
+# School Route
+
+A daily childhood route:
+
+```text
+Family House
+        │
+Family Entrance Path
+        │
+Village Square / Neighbourhood Path
+        │
+Primary School
+        │
+Playground
+```
+
+Typical users:
+
+* Elder Brother
+* Village children
+* Teachers
+* Parents on special days
+
+---
+
+# Grocery Route
+
+A household provisions route:
+
+```text
+Family House
+        │
+Village Square
+        │
+West Path
+        │
+Small Grocery Store
+```
+
+Typical users:
+
+* Mother
+* Neighbours
+* Elder Brother on small errands
+* Younger Daughter accompanying Mother
+* Father for practical purchases
+
+---
+
+# Festival Ground Route
+
+A celebration and gathering route:
+
+```text
+Family House / Village Square
+        │
+West / South-West Path
+        │
+Festival Ground
+```
+
+Typical users:
+
+* Whole families during festivals
+* Neighbours and elders
+* Vendors on festival days
+* Children during celebrations
+* Procession groups arriving from shrine/village-centre directions
+
+On ordinary days the same path may be used as a quiet shortcut across open land.
 
 ---
 
@@ -148,6 +248,10 @@ Neighbours naturally travel between:
 * River Ghat
 * Banyan Tree
 * Family House
+* Tea Stall
+* Primary School
+* Small Grocery Store
+* Festival Ground
 * Weekly Market (future)
 
 These interactions help keep the village feeling socially connected.

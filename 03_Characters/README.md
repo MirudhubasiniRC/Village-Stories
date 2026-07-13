@@ -43,7 +43,8 @@ Viewers should recognize a character immediately—not because they are introduc
 ├── Family/
 │   ├── Father/
 │   ├── Mother/
-│   ├── Daughter/
+│   ├── Elder_Brother/
+│   ├── Younger_Daughter/
 │   └── Family_Dog/
 │
 ├── Neighbours/
@@ -83,10 +84,26 @@ Members include:
 
 * Father
 * Mother
-* Daughter
-* Family Dog
+* Elder Brother
+* Younger Daughter
+* Family Dog (German Shepherd)
 
 These characters appear most frequently and receive the most detailed documentation.
+
+### Family Children Canon
+
+The family has two children:
+
+* Elder Brother — older son; outdoor learning with Father; school-going village boy.
+* Younger Daughter — younger sister; household and garden learning with Mother; curious and gentle.
+
+They appear together often, learn differently by age, and remain visually and behaviourally distinct forever.
+
+### Family Dog Canon
+
+The Family Dog is a German Shepherd.
+
+He is a loyal village companion and gentle guardian of the family compound—never a police, military, or attack-dog portrayal.
 
 ---
 
@@ -207,7 +224,8 @@ Examples:
 
 * The way Mother prepares vegetables.
 * The way Father carries harvested crops.
-* The way Daughter watches and learns.
+* The way Elder Brother helps with outdoor work.
+* The way Younger Daughter watches and learns.
 * The way the Family Dog patiently waits outside the Kitchen.
 
 These recurring behaviours build emotional connection over time.

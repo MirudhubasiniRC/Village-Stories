@@ -64,10 +64,20 @@ Father
 * Canal
 * Backyard
 
-Daughter
+Elder Brother
 
-* Learning beside parents
+* Learning beside Father
+* Paddy paths
+* Livestock Shelter
 * Courtyard
+* Village pathways
+* School route when relevant
+
+Younger Daughter
+
+* Learning beside Mother
+* Courtyard
+* Kitchen doorway
 * Garden
 * Village pathways
 
@@ -77,6 +87,7 @@ Family Dog
 * Backyard
 * Kitchen entrance
 * Courtyard
+* Front Thinnai shade
 
 The environment should help define the character.
 

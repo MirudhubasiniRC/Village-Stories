@@ -38,6 +38,20 @@ Avoid excessive modern decorations or commercial celebrations.
 
 ---
 
+# Primary Celebration Space
+
+Large community festival gatherings take place at the Festival Ground in the South-West.
+
+Full location documentation:
+
+```text
+02_World/Locations/Festival_Ground.md
+```
+
+Home celebrations, Kitchen cooking, Courtyard kolam, and shrine visits remain equally important and continue according to each festival's traditions.
+
+---
+
 # Major Festivals
 
 The Village Stories universe recognizes the following major celebrations.
@@ -376,6 +390,8 @@ Related documents:
 * Culture/Agricultural_Calendar.md
 * Nature/Seasons.md
 * Time/Time_Of_Day.md
+* Locations/Festival_Ground.md
+* Geography/Village_Master_Map.md
 
 ---
 

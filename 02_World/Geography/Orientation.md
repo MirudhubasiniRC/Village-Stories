@@ -102,19 +102,57 @@ Agriculture dominates this region.
 
 # West
 
-The western side contains open land reserved for future village growth.
+The western side contains the Small Grocery Store and open land reserved for future village trades growth.
 
-Potential future locations include:
+Established:
+
+* Small Grocery Store
+
+Potential future locations nearby include:
 
 * Weekly Market
 * Blacksmith
 * Carpenter
 * Potter
 * Barber
+
+The western edge remains less densely developed than the village centre, aside from the grocery as a trusted provisions landmark.
+
+---
+
+# North-East
+
+The north-east corridor near the Village Entrance approach contains:
+
 * Tea Stall
+
+Still reserved nearby:
+
+* Bus Stop
+
+---
+
+# East of Village Centre
+
+East of the residential/village-centre routes contains:
+
+* Primary School
+* Playground
+
+---
+
+# South-West
+
+The south-west contains the village's open celebration field:
+
 * Festival Ground
 
-The western edge remains less densely developed than the village centre.
+Still reserved nearby:
+
+* Temple Fair Area
+* Cattle Fair
+
+The Festival Ground remains open land that fills only during celebrations.
 
 ---
 

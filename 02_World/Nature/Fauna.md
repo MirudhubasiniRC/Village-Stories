@@ -50,6 +50,10 @@ Each category behaves according to the seasons, weather, and time of day.
 
 ## Family Dog
 
+Breed:
+
+* German Shepherd.
+
 Purpose:
 
 * Companion.
@@ -62,9 +66,22 @@ Behaviour:
 * Waits patiently near the Kitchen.
 * Rests beneath shade trees.
 * Greets Father returning home.
-* Plays gently with children.
+* Plays gently with Elder Brother and Younger Daughter.
+* Watches the compound calmly without aggression.
+
+Appearance notes:
+
+* Classic rural German Shepherd look.
+* Intelligent, loyal, and healthy from village life.
+* Never styled as a police, military, show, or attack dog.
 
 The Family Dog should appear frequently throughout the series.
+
+Full character documentation lives in:
+
+```text
+03_Characters/Family/Family_Dog/
+```
 
 ---
 
