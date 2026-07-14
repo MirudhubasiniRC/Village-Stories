@@ -40,7 +40,7 @@ Naming follows `10_Studio_Standards/Naming_Standards.md` and
 
 | Episode ID | Title | Format | Status | Admin brief |
 | --- | --- | --- | --- | --- |
-| `ep_001` | TBD | TBD | pre-production | `ep_001/00_Admin/Episode_Brief.md` |
+| `ep_001` | **Butterfly Morning** | YouTube Short · 9:16 · ~55 s | generation ready | `ep_001/00_Admin/Episode_Brief.md` |
 
 Update this table when an episode title, format, or status is approved.
 

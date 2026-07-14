@@ -60,6 +60,61 @@ Write the image so precisely that it remains recognizably Village Stories even w
 
 ---
 
+# Phased Clip Prompt Delivery (Google Flow production)
+
+When generating an episode clip-by-clip in Google Flow, deliver prompts in
+**two phases per clip**. Do not send animation or audio until the still is
+approved.
+
+## Phase 1 — Image only (one clip at a time)
+
+Deliver **only** the **Image Prompt** for the current clip:
+
+* start at Clip 01 and proceed in story order to the final clip;
+* one clip per handoff — do not batch multiple clips;
+* include full image detail: STYLE, SHOT, COLORS, NEGATIVE, 9:16 vertical;
+* wait for the creator to approve the still in Flow before Phase 2.
+
+## Phase 2 — After still approved
+
+Deliver **Animation Prompt** and **Audio / ASMR Prompt** together for that
+same clip only.
+
+* Animation: motion contract, camera lock, **duration** (from beat sheet), end
+  frame, quality lock — **all motion at Normal Speed**; pacing line:
+  `Normal speed — natural physical timing, not rushed.` (see
+  `21_Clip_Prompt_Formula.md` § Motion speed standard).
+* Audio: primary sounds, ambience, mix — **and dialogue in this same block**
+  when the script assigns spoken lines (see below).
+
+Do **not** use a separate Voice / Narration prompt file during active Google
+Flow production. Fold approved dialogue into the Audio / ASMR prompt.
+
+## Dialogue inside Audio / ASMR prompt
+
+When a clip has spoken lines, add a **Dialogue** subsection:
+
+```text
+Dialogue (approved script only):
+- Speaker: [character]
+- Line: "[exact words]"
+- Delivery: [soft / laughing / etc.]
+- Timing: [seconds into clip — start and end]
+- Mix: dialogue foreground; ambience ducks 30–50% under speech
+```
+
+Record exact wording from the approved episode script. Never invent lines in
+the audio prompt.
+
+## Traceability
+
+Log each clip: image approved → animation + audio issued → clip selected.
+See `09_AI_Production_System/05_Master_Animation_Prompt.md` for templates and
+**`09_AI_Production_System/21_Clip_Prompt_Formula.md`** for the mandatory
+section structure and titles.
+
+---
+
 # Roles
 
 ## Prompt Lead

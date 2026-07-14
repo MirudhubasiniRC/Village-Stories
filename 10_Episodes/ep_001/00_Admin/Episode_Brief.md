@@ -5,48 +5,47 @@
 | Field | Value |
 | --- | --- |
 | Episode ID | `ep_001` |
-| Working title | TBD |
-| Format | TBD — Shorts / long form / both |
-| Target duration | TBD |
-| Season | TBD — must match `02_World/` season docs |
-| Primary locations | TBD — must be documented in `02_World/Locations/` |
+| Working title | **Butterfly Morning** |
+| Format | **YouTube Short** |
+| Target duration | **50–55 seconds** |
+| Season | **Post-Monsoon / Harvest** |
+| Primary locations | **Backyard** (courtyard garden) |
 | Lesson log | `12_Lessons_Learned/Episode_001.md` |
-| Brief owner | TBD |
-| Brief version | `r01` |
-| Status | `pre-production` |
+| Brief version | `r02` |
+| Status | **story approved — generation ready** |
 
 ---
 
 # 1. Episode promise
 
-> One sentence: what the viewer will quietly experience and remember.
-
-**TBD**
+> In the early-morning courtyard, Elder Brother and Younger Daughter pause when a
+> blue butterfly lands on a marigold — they watch together, then share a quiet
+> smile as the day continues.
 
 ### Viewer gain
 
-* Emotional:
-* Sensory / ASMR:
-* Cultural / everyday-life insight:
+* Emotional: gentle sibling warmth and wonder
+* Sensory / ASMR: morning garden, basket creak, soft breeze, distant birds
+* Cultural / everyday-life insight: rural Tamil Nadu childhood in the compound
 
 ### What this episode is not
 
-* TBD — list false promises to avoid in story, visuals, thumbnail, and metadata.
+* Not a butterfly rescue or chase
+* Not a family-wide ensemble debut
+* Not a cliffhanger or “Part 2” bait
 
 ---
 
 # 2. Cast and presence
 
-Include only characters with a documented reason to appear.
-
 | Character | In episode? | Reason for presence | Canon source |
 | --- | --- | --- | --- |
-| Mother | TBD | TBD | `03_Characters/Family/Mother/` |
-| Father | TBD | TBD | `03_Characters/Family/Father/` |
-| Elder Brother | TBD | TBD | `03_Characters/Family/Elder_Brother/` |
-| Younger Daughter | TBD | TBD | `03_Characters/Family/Younger_Daughter/` |
-| Family Dog | TBD | TBD | `03_Characters/Family/Family_Dog/` |
-| Other named characters | TBD | TBD | `03_Characters/` |
+| Mother | No | — | — |
+| Father | No | — | — |
+| Elder Brother | **Yes** | Morning courtyard errand; older sibling presence | `03_Characters/Family/Elder_Brother/` |
+| Younger Daughter | **Yes** | Shared discovery; younger sibling wonder | `03_Characters/Family/Younger_Daughter/` |
+| Family Dog | No | — | — |
+| Other | No | — | — |
 
 ---
 
@@ -54,47 +53,46 @@ Include only characters with a documented reason to appear.
 
 | Field | Approved value | Source |
 | --- | --- | --- |
-| Season | TBD | `02_World/Seasons/` |
-| Time span | TBD | scene ledger |
-| Weather | TBD | season + scene need |
-| Primary location(s) | TBD | `02_World/Locations/` |
-| Orientation / routes | TBD | World layout + location docs |
-
-Do not use a location that has no documented canon file.
+| Season | Post-Monsoon / Harvest | `02_World/Nature/Seasons.md` |
+| Time span | Single early morning | ~55 s |
+| Weather | Clear, soft sun | Warm & Sunlit |
+| Primary location(s) | Backyard / courtyard | `02_World/Locations/Backyard.md` |
+| Orientation | Morning east light | `02_World/Geography/Orientation.md` |
 
 ---
 
 # 4. Story spine
 
-Fill after story development. Do not invent facts here without canon support.
-
 ### Practical need
 
-**TBD**
+Children crossing the courtyard on a small morning task (basket in hand).
 
 ### Gentle obstacle
 
-**TBD**
+A butterfly on a marigold asks for their attention.
 
 ### Practical response
 
-**TBD**
+They stop and watch together — no grabbing, no chase.
 
 ### Emotional turn
 
-**TBD**
+Butterfly flies; quiet shared delight.
 
 ### Ending rest
 
-**TBD** — must follow `07_Episode_System/` ending guidance.
+Brother offers a marigold petal; wide courtyard holds in peace.
 
 ---
 
 # 5. Objects and continuity
 
-| Object | Role in episode | Canon source | State start → end |
+| Object | Role | Canon source | State start → end |
 | --- | --- | --- | --- |
-| TBD | TBD | `04_Objects/` | TBD |
+| Wicker basket | Brother's morning task | rural craft | In right hand throughout |
+| Marigold pot | Hook + setting | courtyard | Static |
+| Blue butterfly | Gentle turn | story device | On flower → flies away |
+| Marigold petal | Resolution gift | sh_006 | Appears → sister holds |
 
 ---
 
@@ -102,31 +100,17 @@ Fill after story development. Do not invent facts here without canon support.
 
 | Layer | Intent |
 | --- | --- |
-| Primary visible sounds | TBD |
-| Ambience | TBD |
-| Narration | TBD — yes/no; if yes, register in script |
-| Music | TBD — default: none unless approved |
+| Primary visible sounds | Basket creak, foot on earth, leaf rustle |
+| Ambience | Morning birds, distant village, soft breeze |
+| Narration | Optional one line end card only |
+| Music | None for first cut |
 
 ---
 
 # 7. Visual style lock
 
-Every shot in this episode uses the Village Stories anime style for the
-**entire frame** — characters, animals, objects, buildings, plants, and
-backgrounds.
-
-**Anchor:**
-
-```text
-11_Assets/Character_References/Father_Canon_Design_Reference.png
-01_Canon/01_Series_Style_Lock/Art_Style.md
-```
-
-**Prompt shape:**
-
-* Image: `09_AI_Production_System/04_Master_Image_Prompt.md`
-* Animation: `09_AI_Production_System/05_Master_Animation_Prompt.md`
-* Audio: animation manual ASMR block per clip
+**Anchors:** Mother + child canon refs · `Art_Style.md`  
+**Guide:** `04_Generation/episode-ep_001__generation-guide__approved__r01.md`
 
 ---
 
@@ -134,80 +118,48 @@ backgrounds.
 
 | Field | Value |
 | --- | --- |
-| Aspect ratio | TBD — 9:16 / 16:9 |
-| Shorts strategy | TBD |
-| Long-form strategy | TBD |
-| Connected parts | TBD — if multi-part Shorts, declare sequence ID |
-| Caption plan | TBD |
+| Aspect ratio | **9:16** |
+| Shorts strategy | Single complete story; muted-safe |
+| Caption plan | Minimal; optional end card only |
 
 ---
 
-# 9. Canon and research sources
+# 9. Production files
 
-List every document this episode depends on.
-
-| Source path | What it controls |
+| Stage | Path |
 | --- | --- |
-| `01_Canon/` | series rules and style |
-| `06_Story_Engine/` | story construction |
-| `07_Episode_System/` | format and pacing |
-| TBD | TBD |
-
-### Open facts
-
-| Fact | Owner | Resolution path |
-| --- | --- | --- |
-| — | — | — |
-
-No production may proceed past story lock while a hard `OPEN` fact remains.
+| Premise | `01_Story/episode-ep_001__premise__approved__r01.md` |
+| Script | `01_Story/episode-ep_001__script__approved__r01.md` |
+| References | `02_References/episode-ep_001__reference_manifest__approved__r01.md` |
+| Beat sheet | `03_Storyboard/episode-ep_001__vertical_beat_sheet__approved__r01.md` |
+| Shot list | `03_Storyboard/episode-ep_001__shot_list__approved__r01.md` |
+| Flow prompts | `04_Generation/episode-ep_001__generation-guide__approved__r01.md` |
 
 ---
 
 # 10. Pre-production gates
 
-Mark each gate only when evidence exists.
-
-- [ ] **Gate 1 — Canon foundation** — cast, locations, objects, season sourced
-- [ ] **Gate 2 — Story readiness** — need, obstacle, response, turn, ending
-- [ ] **Gate 3 — Scene readiness** — scene list with geography and cast reasons
-- [ ] **Gate 4 — Generation readiness** — shot packets planned
-- [ ] **Gate 5 — Sound readiness** — sound sources mapped
-
-Source: `08_Production/02_Pre_Production.md`
+- [x] **Gate 1 — Canon foundation**
+- [x] **Gate 2 — Story readiness**
+- [x] **Gate 3 — Scene readiness**
+- [x] **Gate 4 — Generation readiness**
+- [ ] **Gate 5 — Sound readiness** (after picture lock)
+- [ ] **Gate 6+** — generation / edit / QA / release
 
 ---
 
-# 11. Production sequence
+# 11. Next action
 
-```text
-1. Approve this brief (story spine + gates 1–2)
-2. Write outline / script → 01_Story/
-3. Build reference manifest → 02_References/
-4. Storyboard + shot list → 03_Storyboard/
-5. Image prompts + stills → 04_Generation/
-6. Flow animation + audio prompts → 04_Generation/
-7. Voice / narration → 05_Audio/
-8. Edit + captions → 06_Edit/
-9. QA → 07_QA/
-10. Release package → 08_Release/
-```
+**Generate in Google Flow:** Start with **sh_002** (hero sibling shot) using
+`04_Generation/episode-ep_001__generation-guide__approved__r01.md`.
+
+Then sh_001, sh_004, remaining shots. Assemble 50–55 s master in `06_Edit/`.
 
 ---
 
-# 12. Next action
+# 12. Approval record
 
-**Current blocker:** Episode premise and format not yet chosen.
-
-**Next step:** Define working title, format, season, location, and story spine
-in Sections 1–4. Then run `09_AI_Production_System/02_Master_Story_Prompt.md`
-or write the outline directly into `01_Story/`.
-
-When the brief is materially updated, increment brief version (`r02`, `r03`).
-
----
-
-# 13. Approval record
-
-| Version | Date | Reviewer | Disposition | Notes |
-| --- | --- | --- | --- | --- |
-| r01 | TBD | TBD | draft | workspace opened |
+| Version | Date | Disposition | Notes |
+| --- | --- | --- | --- |
+| r01 | — | draft | workspace opened |
+| r02 | 2026-07-14 | story approved | Butterfly Morning Short locked |

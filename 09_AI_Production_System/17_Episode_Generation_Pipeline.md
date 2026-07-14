@@ -458,6 +458,19 @@ purpose, and is linked to its prompt, source packet, review, and asset ID.
 **Handoff to Flow or edit:** approved still/keyframe revision, source manifest,
 prompt record, start/end state, ratio/duration, and use authorization.
 
+### Phased prompt delivery (Google Flow)
+
+Per `08_Production/06_Image_Prompt_Workflow.md`:
+
+1. **Image prompt only** — one clip at a time, story order; creator approves
+   still in Flow.
+2. **Then** animation + audio prompts for that clip only (animation includes
+   **Duration** from beat sheet / clip workflow table; **Normal Speed** on all
+   motion blocks — see `21_Clip_Prompt_Formula.md` § Motion speed standard).
+3. **Dialogue** lives inside the audio prompt, not a separate voice file.
+
+Do not open Flow animation until Gate 5 still pass for that clip.
+
 ---
 
 ## Stage 6 — Google Flow Animation

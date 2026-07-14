@@ -396,8 +396,23 @@ Set duration by the smallest readable action, not by a tool maximum.
 ```text
 1–2 seconds  brief insert, held atmosphere, simple glance, minimal reaction
 2–4 seconds  one hand action, modest turn, short environmental continuation
-4–6 seconds  one clear action plus settling end state, or slow simple travel
+4–6 seconds  one clear action plus settling end state, or normal simple travel
 ```
+
+### Motion speed standard (default)
+
+**Normal Speed** is the production default for every clip.
+
+- Label all motion blocks **Character Motion (Normal Speed)**, **Environment
+  Motion (Normal Speed)**, **Micro Motion (Normal Speed)**.
+- **Pacing:** `Normal speed — natural physical timing, not rushed.`
+- Do **not** label motion or pacing as `slow`, `too slow`, `very slow`,
+  `slower`, `Fastly Normal Speed`, or `not slow` in Google Flow animation
+  prompts.
+- Describe observable amount and timing instead of “slowly” (e.g. “one stir
+  cycle over ~2 seconds” not “slowly stirs”).
+- Camera movement speed when not locked follows `20_Camera_Movement_Bible.md` —
+  separate from character/environment motion speed.
 
 Use shorter clips when action, identity, or object fidelity is fragile. Divide
 longer process into adjacent clips with intentional cuts. Do not fill time with
@@ -464,16 +479,27 @@ styling, fashion-model treatment, or gym-built body.
 Complete every variable from approved sources. Variables select facts; they
 never override the locks.
 
-Use **three separate prompt blocks** per clip when needed:
+Use **two delivery phases per clip** during active Google Flow production.
+**Mandatory structure:** `21_Clip_Prompt_Formula.md`.
 
-1. **Animation Prompt** — Google Flow motion only.
-2. **Audio / ASMR Prompt** — sound design for the clip.
-3. **Narration / Voice Prompt** — only when the approved script includes
-   narration or dialogue for this clip. Use `06_Master_Voice_Prompt.md`.
+**Phase 1 — Image only:** deliver the still / start-frame prompt for one clip;
+wait until that still is approved before continuing.
 
-Do not merge camera direction and camera movement into one vague instruction.
-Direction comes from `19_Camera_Direction_Bible.md`. Movement comes from
-`20_Camera_Movement_Bible.md`.
+**Phase 2 — After still approved:** deliver **Animation Prompt** and
+**Audio / ASMR Prompt** together for the same clip.
+
+Do **not** issue animation or audio prompts before the clip still is approved.
+Do **not** batch multiple clips in one handoff during Phase 1.
+
+**Dialogue belongs in the Audio / ASMR prompt** — not a separate Voice block.
+When the script assigns speech, add a `Dialogue` subsection inside the Audio
+prompt (speaker, exact line, delivery, timing, mix). Use
+`06_Master_Voice_Prompt.md` only for voice recording sessions, not for the
+per-clip Google Flow handoff package.
+
+Legacy three-block reference (animation + audio + separate narration) remains
+valid for long-form voice dubbing; Shorts and Flow clip work use **animation +
+audio-with-dialogue**.
 
 ### Animation Prompt Template
 
@@ -511,6 +537,8 @@ Mode: [Single Image / Two Images]
 Camera Behavior: [Static Camera / approved movement from 20_Camera_Movement_Bible.md]
 Camera Intent: [VARIABLE: what the motion should make the viewer feel or notice]
 
+Duration: [VARIABLE: X seconds — reference target from episode beat sheet / shot list; set by smallest readable action per § Duration above]
+
 Character Motion (Normal Speed):
 [VARIABLE: one bullet per moving body part or expression element, e.g. hand,
 wrist, fingers, face, eyes, head, shoulders, chest, saree edge, bangles. Use
@@ -533,7 +561,7 @@ show. Match end source image if two-image mode.]
 Quality Lock: Avoid morphing, melting, stretching, flicker, double limbs, face
 distortion, identity drift, object transformation, and interpolation artifacts.
 
-Pacing: [Normal speed / slower / slightly faster — with reason from board only]
+Pacing: Normal speed — natural physical timing, not rushed.
 ```
 
 ### Audio / ASMR Prompt Template
@@ -552,16 +580,24 @@ volume ranges.]
 
 Audio Mix Priority: [VARIABLE: foreground vs ambience hierarchy]
 
+Dialogue (include only when approved script assigns speech to this clip):
+- Speaker: [VARIABLE: character name]
+- Line: "[VARIABLE: exact approved words — do not invent]"
+- Delivery: [VARIABLE: calm, wondering, laughing, soft refusal, etc.]
+- Timing: [VARIABLE: start–end seconds within clip relative to visible action]
+- Mix: [VARIABLE: dialogue level vs primary sounds and ambience — duck ambience under speech]
+
 Continuous Ambience: [Maintain / crossfade from prior clip / fresh start —
 with clip reference if continuing]
 
-No: [VARIABLE: excluded elements — typically Dialogue, Narration, Music,
-Artificial effects unless explicitly approved for this clip]
+No: [VARIABLE: excluded elements — Music, Artificial effects, unapproved
+dialogue, unless explicitly approved for this clip]
 ```
 
-### Narration / Voice Prompt Template
+### Narration / Voice Prompt Template (voice recording sessions only)
 
-Use only when the approved script assigns spoken audio to this clip.
+Use for dubbing / voice booth — **not** for per-clip Google Flow handoff.
+During Flow production, put dialogue in the **Audio / ASMR** block above.
 
 ```text
 CLIP [VARIABLE: ID] — Narration / Voice Prompt
@@ -620,6 +656,8 @@ Camera Behavior: Static Camera
 Camera Intent: Permit the satisfying visual moment of onions turning golden to
 unfold naturally — boiling oil, sizzle, steam, and translucence are the subject.
 
+Duration: 4 seconds — reference target from episode beat sheet; one stir cycle plus settling end state
+
 Character Motion (Normal Speed):
 - Mother's hand — steady, rhythmic stirring with the wooden spoon
 - Mother's wrist — gentle circular motion moving the onions in the pan
@@ -654,7 +692,7 @@ boiling with visible bubbles and heat shimmer.
 Quality Lock: Avoid morphing, melting, stretching, flicker, double limbs, face
 distortion, interpolation artifacts.
 
-Pacing: Normal speed — natural and satisfying, not rushed, not slow.
+Pacing: Normal speed — natural physical timing, not rushed.
 ```
 
 ```text
@@ -681,8 +719,8 @@ Continuous Ambience: Maintain ambient layer with seamless crossfade from Clip 23
 No: Dialogue, Narration, Music, Artificial effects.
 ```
 
-If Clip 24 later receives approved narration, add a third block using the
-Narration / Voice template above.
+If Clip 24 later receives approved narration, add dialogue inside the Audio /
+ASMR block (Dialogue subsection) — not a separate Voice file for Flow handoff.
 
 ---
 
