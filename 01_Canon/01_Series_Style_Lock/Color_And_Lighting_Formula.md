@@ -106,6 +106,7 @@ still: clean anime outlines, vivid butterfly/marigold accents when those are sub
 | **Light sources** | Sun, moon, fire, oil lamps only |
 | **Season lock** | Same season = same sky family, colour mood — never change mid-scene |
 | **Atmosphere** | Season-true: Summer dust/heat haze · Monsoon rain/mist · Post-Monsoon **day** = clean air (not fog) |
+| **Post-Monsoon greens** | Fresh **saturated** banana / garden / coconut greens (`#5A9A4A`, `#4F8F3C`, `#4A6B3D`) — **never** pale sage, milky lime, or cream-washed foliage (see GREENS LOCK) |
 
 ---
 
@@ -266,17 +267,43 @@ Impression: dark saturated flat shadowless wet greens, grey skies, cool damp
 contrast that push Flow toward photoreal or pale butterflies.
 
 **Impression:** Soft Ghibli morning with vivid marigold and butterfly accents,
-terracotta pot, soft blue sky, gentle side-light — like approved early Ep1 stills.
+terracotta pot, soft blue sky, **rich green leaves**, gentle side-light — like
+approved early Ep1 stills.
 
-### Ep1 late morning courtyard (simple)
+### GREENS LOCK (Post-Monsoon / Harvest — never forget)
+
+Locked after Ep1 production: Flow often milks foliage into pale sage / cream
+wash when morning light is soft. **Post-Monsoon greens must stay fresh and
+saturated** — Summer dusty olive / heat-haze bleach is a different season.
+
+| Element | Locked colour | Never |
+| --- | --- | --- |
+| Banana leaves | `#4F8F3C`–`#5A9A4A` fresh banana green | Pale sage, grey-mint, milky lime |
+| Garden / bushes / grass | `#5A9A4A`–`#4F8F3C` | Cream-washed foliage |
+| Coconut / palm | `#4A6B3D`–`#5A9A4A` | Overexposed white-green |
+| Atmosphere on leaves | Clean air + soft golden **edge** light only | Heat haze, mist veil, cream bleach on greenery |
+
+**Prompt rule:** Soft morning gold may warm **skin, earth, flowers** — it must
+**not** lift leaves into pastel. Sky may be soft blue — **not** a milky white
+veil over greens.
 
 ```text
-Warm & Sunlit · Post-Monsoon · late morning
+GREENS LOCK — Post-Monsoon (all outdoor Ep1+ village/path/garden shots):
+Fresh saturated green leaves — banana #4F8F3C–#5A9A4A · garden #5A9A4A–#4F8F3C · palm #4A6B3D–#5A9A4A
+NOT pale sage · NOT milky lime · NOT cream-bleached leaves · NOT grey-mint · NOT heat-haze washout
+Soft golden edge light OK — do not overexpose or fog the foliage
+```
+
+### Ep1 late morning courtyard / path (simple)
+
+```text
+Warm & Sunlit · Post-Monsoon · early / late morning
 Soft golden side-light from east / left
 Soft blue sky with light white clouds — not blown white
-Fresh greens · terracotta pot · warm earth
+Fresh SATURATED greens — banana / garden / palm (see GREENS LOCK) · terracotta pot · warm earth
 Clear vibrant blue butterfly · bright orange marigold
 Studio Ghibli-inspired digital anime — soft linework, painterly, NOT photoreal
+NO washed-out pale greens · NO compound-wall box (see Village_Neighbourhood)
 ```
 
 ---
@@ -423,13 +450,16 @@ POST-MONSOON DAY: clear soft blue + white clouds · fresh saturated greens · ri
 - Coconut: deep saturated green + golden edges
 - House: terracotta roof + cream walls — wall **darker than sky** for depth
 
-### Garden & Courtyard (Ep1)
+### Garden & path exterior (Ep1 · neighbourhood)
 
-- Leaves: fresh garden green `#5A9A4A`–`#4F8F3C` + golden highlights
+- Leaves: **saturated** garden / banana green `#5A9A4A`–`#4F8F3C` + soft golden
+  **edge** highlights only — see **GREENS LOCK** (never pale sage washout)
+- Palm / coconut: `#4A6B3D`–`#5A9A4A`
 - Flowers: marigold orange `#E8A020` vivid
 - Earth: warm brown `#8B7355`–`#A07850` + terracotta `#C97B4A`
 - Sky: clear soft blue `#7EB8E8`–`#A8D4F0` + soft white clouds
-- Wall: cream `#F0E0C8` — readable against blue sky (not same brightness)
+- Architecture: soft distant tiled roofs / open thinnais OK — **no large compound
+  wall** filling the frame (`Village_Neighbourhood.md`)
 
 ### Interior — Kitchen (Mother dusk)
 
@@ -494,7 +524,7 @@ NOT photoreal · NOT HDR · NOT Bollywood neon
 
 *(Add SUMMER / MONSOON season lock only when that season is on the board.)*
 
-### EP1 COURTYARD (LOCKED — Clip 01 baseline)
+### EP1 PATH / GARDEN (LOCKED — Clip 01 baseline + GREENS LOCK)
 
 Use this language for Ep1 outdoor clips. Do **not** replace with heavy
 “medium cinematic / hex-lock / anti-fog” stacks.
@@ -505,15 +535,18 @@ painterly digital watercolor/gouache, soft matte finish.
 Lighting Family: Warm & Sunlit — early morning
 Light: soft golden sun from east; gentle side-light; soft short morning shadows
 Season: Post-Monsoon/Harvest
-Sky: soft blue sky with light clouds in bokeh — NOT blown white / cream wipe
-Colors: marigold orange #E8A020 · terracotta #C97B4A · butterfly iridescent blue ·
-cream wall #F5E6C8 · soft green #5A9A4A — never neon
-Environment: terracotta pot, packed earth, cream lime wall bokeh, simple backyard edge
-NOT photoreal · NOT HDR · NOT harsh noon · NOT sunset amber wash
+Sky: soft blue sky with light clouds — NOT blown white / cream wipe
+GREENS LOCK: fresh saturated leaves — banana #4F8F3C–#5A9A4A · garden #5A9A4A–#4F8F3C ·
+palm #4A6B3D–#5A9A4A — NOT pale sage · NOT milky lime · NOT cream-washed foliage
+Colors: marigold #E8A020 · terracotta #C97B4A · butterfly iridescent blue ·
+soft green #5A9A4A — never neon
+Environment: terracotta pot, packed-earth village/entrance path, lush greens,
+soft distant tiled roofs — NO large compound wall box
+NOT photoreal · NOT HDR · NOT harsh noon · NOT sunset amber wash · NOT washed-out greens
 ```
 
 This is the locked Ep1 look. Seasonal Summer/Monsoon tables elsewhere are for
-other episodes only.
+other episodes only. Full greens detail: **GREENS LOCK** above.
 
 ---
 
@@ -524,10 +557,11 @@ other episodes only.
 ✓ Time of day locked (and matches season table)
 ✓ Correct lighting family (Warm & Sunlit vs Cool & Monsoon)
 ✓ Season-true sky / greens / earth / atmosphere
+✓ Post-Monsoon: GREENS LOCK — saturated leaves, NOT pale sage washout
 ✓ Contrast matches season (high / very low / medium)
 ✓ Skin warm consistent
 ✓ Natural light sources only
-✓ Ep1: POST-MONSOON LATE MORNING lock — blue sky, not misty grey wash
+✓ Ep1: POST-MONSOON + GREENS LOCK + soft blue sky — not misty grey / washed greens
 ```
 
 ---
@@ -536,7 +570,7 @@ other episodes only.
 
 | Episode / zone | Lock |
 | --- | --- |
-| **ep_001 courtyard** Clips 01–10 | **POST-MONSOON LATE MORNING** |
+| **ep_001 path/garden** Clips 01–12 | **POST-MONSOON EARLY/LATE MORNING** + **GREENS LOCK** + open neighbourhood (no compound wall) |
 | Mother kitchen dusk | Kitchen dusk + evening west |
 | Monsoon episodes | **MONSOON LOCK** |
 | Summer episodes | **SUMMER LOCK** + correct ToD |

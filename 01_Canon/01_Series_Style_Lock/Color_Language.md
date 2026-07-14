@@ -151,6 +151,12 @@ Fresh produce.
 
 Festival decorations.
 
+**Greens (locked):** Post-Monsoon foliage must read **fresh and saturated** —
+banana leaf, garden plant, palm, and path-edge grass stay clearly green
+(`#5A9A4A`–`#4F8F3C`, coconut `#4A6B3D`). Do **not** render milky sage, cream-
+washed, or heat-haze bleached leaves under soft morning light. Full lock:
+`Color_And_Lighting_Formula.md` → **GREENS LOCK**.
+
 ---
 
 # Time of Day

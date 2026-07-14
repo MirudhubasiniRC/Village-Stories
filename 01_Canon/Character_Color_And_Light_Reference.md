@@ -30,7 +30,10 @@ Prompt label: `Lighting: Warm & Sunlit`
 
 Characteristics: soft golden sunlight, warm bounce, gentle contrast, rich warmth,
 comfortable atmosphere — never harsh noon blast or neon saturation. Post-Monsoon
-outdoor: soft blue sky (not blown white). Art look follows `Art_Style.md`.
+outdoor: soft blue sky (not blown white); **fresh saturated greens** — banana /
+garden / palm (`#5A9A4A`, `#4F8F3C`, `#4A6B3D`), never pale sage or cream-washed
+foliage (`Color_And_Lighting_Formula.md` GREENS LOCK). Art look follows
+`Art_Style.md`.
 
 ## Cool & Monsoon
 
