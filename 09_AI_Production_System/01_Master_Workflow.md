@@ -55,7 +55,7 @@ This workflow must:
 
 1. turn every approved shot into a bounded, reviewable generation task;
 2. protect canon, historical accuracy, and continuity before generation;
-3. preserve the original premium cinematic anime identity of the series;
+3. preserve the original Village Stories anime style for the entire frame;
 4. make Google Flow animation a controlled continuation of approved imagery;
 5. ensure each selected output has a known purpose, state, owner, revision,
    source, and approval;
@@ -176,17 +176,22 @@ threatening dog device.
 
 ### Style identity
 
-Use the original Village Stories premium cinematic anime style:
+Use the original Village Stories anime style for the **entire frame**:
 
-* semi-realistic anime characters with natural South Indian features;
-* soft painterly, hand-painted digital rendering;
-* refined organic linework only where it aids clarity;
-* gentle global illumination, natural colour, and atmospheric depth;
-* detailed, culturally specific rural environments;
-* believable anatomy, subtle expression, and warm slice-of-life feeling.
+```text
+11_Assets/Character_References/Father_Canon_Design_Reference.png
+```
 
-Reject heavy cel shading, chibi proportions, comic outlines, plastic CGI,
-hyper-real faces, glossy synthetic textures, vector-flat imagery, generic
+* painterly 2D anime-inspired illustration;
+* thin clean line art on characters, objects, and environments;
+* soft cel-style painted shading;
+* warm cinematic lighting and earthy palette;
+* natural South Indian features in anime form;
+* detailed culturally specific rural environments in the same anime finish;
+* subtle expression and warm slice-of-life feeling.
+
+Reject photorealism, plastic CGI, 3D rendering, chibi proportions, Western
+cartoon style, glossy synthetic textures, mixed-style frames, generic
 low-detail anime, named-studio imitation language, and artificial perfection.
 
 ### Camera and motion identity

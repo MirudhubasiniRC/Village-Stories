@@ -18,6 +18,34 @@ Generate the known place, not a generic village that resembles it.
 Every location is a repeatable set of geography, zones, materials, landmarks,
 access routes, light behaviour, object homes, and human use.
 
+## Series Illustration Standard
+
+Every location must be drawn in the same Village Stories anime style as every
+character.
+
+Apply to all visible place elements:
+
+- buildings and walls;
+- roofs, doors, thresholds, and courtyards;
+- wells, paths, fences, and fields;
+- trees, crops, and garden plants;
+- stone, mud, wood, plaster, and metal surfaces;
+- sky, rain, mist, and distant background.
+
+Use:
+
+- thin clean consistent line art;
+- soft cel-style painted shading;
+- warm cinematic or weather-appropriate light;
+- earthy grounded palette;
+- handcrafted animation-background quality.
+
+A location must never look photoreal, stock-photo, 3D-rendered, or visually
+detached from the anime characters in front of it.
+
+Match `11_Assets/Character_References/Father_Canon_Design_Reference.png` and
+`01_Canon/01_Series_Style_Lock/Art_Style.md`.
+
 ## Authority
 
 1. Approved current production decision.

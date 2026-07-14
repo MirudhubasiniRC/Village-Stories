@@ -80,7 +80,7 @@ This is a character lock, not a temporary mood reference. Preserve his face,
 thick naturally tousled black hair, light naturally kept stubble, warm
 medium-brown South Indian complexion, calm observant expression range, lean
 farmer build with broad shoulders and strong forearms, natural outdoor-worker
-posture, and age-appropriate semi-realistic anime identity.
+posture, and age-appropriate anime identity.
 
 Father’s typical work clothing follows the canon packet: practical cotton shirt,
 often deep muted blue, cotton veshti or work veshti, and a simple thundu where
@@ -100,26 +100,34 @@ device, missing-pet plot device, injured-animal hook, threat, or source of fear.
 
 ### Style
 
-Village Stories has an original premium cinematic anime identity. Every accepted
-image must use:
+Village Stories uses one anime style for the **entire frame** — people,
+animals, objects, buildings, plants, and backgrounds.
 
-* semi-realistic anime characters;
+Anchor:
+
+```text
+11_Assets/Character_References/Father_Canon_Design_Reference.png
+01_Canon/01_Series_Style_Lock/Art_Style.md
+```
+
+Every accepted image must use:
+
+* original painterly 2D anime-inspired illustration;
+* thin clean consistent line art;
+* soft cel-style painted shading with subtle gradients;
 * natural South Indian facial features, skin tones, hair, and proportions;
-* soft painterly hand-painted digital rendering;
-* layered colour and natural material texture;
-* refined organic linework only where it helps clarity;
-* soft global illumination and natural colour grading;
-* film-quality but story-serving composition;
-* atmospheric depth grounded in weather and distance;
-* detailed, culturally accurate rural environments;
-* believable anatomy and subtle expressions; and
+* matte, non-glossy handcrafted animation finish;
+* warm cinematic lighting and earthy grounded palette;
+* detailed, culturally accurate rural environments in the same anime language;
+* believable anime anatomy and subtle expressions; and
 * warm, observant slice-of-life feeling.
 
 Never use named-studio, named-film, named-artist, or franchise visual language;
-heavy cel shading; chibi proportions; comic-book outlines; plastic CGI;
-hyper-real human faces; glossy synthetic surfaces; generic low-detail anime;
-vector-flat illustration; neon colour treatment; excessive bloom; unmotivated
-coloured rim lights; or action-film spectacle.
+photorealistic rendering; plastic CGI; 3D look; chibi proportions; Western
+cartoon style; hyper-real human faces; glossy synthetic surfaces; generic
+low-detail anime; mixed-style frames; vector-flat illustration; neon colour
+treatment; excessive bloom; unmotivated coloured rim lights; or action-film
+spectacle.
 
 ### Lighting, Geography, And Camera
 
@@ -316,7 +324,7 @@ order:
 4. Location identity and period accuracy.
 5. Screen direction and composition.
 6. Time, weather, and lighting continuity.
-7. Original premium cinematic anime rendering.
+7. Original Village Stories anime rendering for the entire frame.
 8. Edit-safe framing.
 9. Secondary texture and atmosphere.
 10. Decorative detail.

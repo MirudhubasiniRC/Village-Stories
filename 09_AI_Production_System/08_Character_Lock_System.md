@@ -18,8 +18,12 @@ It does not create a new person, wardrobe, relationship, or behavioural fact.
 - Use only established named characters and approved community groups.
 - Do not populate scenes with invented relatives or anonymous lookalikes.
 - Preserve ordinary life, dignity, and a calm observational tone.
-- The visual treatment is original premium cinematic anime.
-- Faces retain natural South Indian features and believable anatomy.
+- The visual treatment is original high-quality slice-of-life anime matching
+  `01_Canon/01_Series_Style_Lock/Art_Style.md` and
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`.
+- Apply the same anime finish to every visible person in the shot.
+- Faces retain natural South Indian features in clean anime line art with soft
+  cel-style painted shading.
 - Never name or imitate an external studio, artist, film, or franchise.
 
 ## Authority

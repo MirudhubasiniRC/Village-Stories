@@ -149,7 +149,8 @@ Run this gate before prompt style or wording review.
   packaging, fashion, vehicles, utilities, or visual shorthand appears.
 - The frame is culturally specific and lived-in, not a generic village,
   poverty spectacle, tourism image, thriller, or fantasy.
-- The visual style follows the approved original premium cinematic anime
+- The visual style follows the approved Village Stories anime style for the
+  entire frame, matching `Father_Canon_Design_Reference.png`
   language without naming or imitating external studios, artists, films, or
   franchises.
 - Ordinary life remains calm and dignified; no unsupported danger, panic,

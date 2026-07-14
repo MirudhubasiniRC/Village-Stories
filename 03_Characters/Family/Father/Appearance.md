@@ -20,9 +20,19 @@ Father's permanent visual-reference sheet is:
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 ```
 
-This image establishes his recurring face, thick tousled hairstyle, light stubble, lean farmer build, warm expression range, and overall semi-realistic anime identity.
+This image establishes Father's recurring face, thick tousled hairstyle, light
+stubble, lean farmer build, warm expression range, and the **official Village
+Stories slice-of-life anime style**.
 
-All future image generation, Google Flow scenes, storyboards, and production artwork must preserve this same individual. The reference is a character lock, not a one-time mood reference.
+The reference sheet is both:
+
+* Father's permanent character lock.
+* The series-wide illustration standard for line art, cel-shading, lighting,
+  palette, and emotional readability.
+
+All future image generation, Google Flow scenes, storyboards, and production
+artwork must preserve this same individual **and** this same anime illustration
+language.
 
 ---
 
@@ -32,7 +42,8 @@ Father is a healthy South Indian village farmer living in rural Tamil Nadu durin
 
 His appearance reflects years of outdoor labour, sunlight, seasonal fieldwork, livestock care, and everyday village life.
 
-He should appear naturally handsome through health, kindness, and outdoor work rather than fashion or glamour.
+He should appear naturally handsome through health, kindness, and outdoor work
+rather than fashion, glamour, or stylized film-hero beauty.
 
 ---
 
@@ -79,7 +90,7 @@ His body reflects ploughing, carrying, repairing, and walking fields rather than
 
 Maintain:
 
-- Warm medium-brown South Indian complexion.
+- Warm wheatish South Indian complexion.
 - Natural sun-kissed skin from outdoor work.
 - Healthy skin texture.
 - Slight deeper tanning on face, neck, forearms, and lower legs.
@@ -171,10 +182,9 @@ Never render a heavy beard, handlebar moustache, sharply sculpted beard, or clea
 
 Maintain:
 
-- Naturally thick black hair.
-- Healthy.
-- Slight outdoor texture.
-- Natural volume.
+- Thick, slightly wavy black hair in a naturally messy style.
+- Soft irregular front fringe falling naturally across the forehead.
+- Healthy hair with slight outdoor texture and natural volume.
 - No artificial shine.
 
 Hair should never appear salon-styled.
@@ -183,16 +193,17 @@ Hair should never appear salon-styled.
 
 # Hairstyle
 
-Father's permanent everyday hairstyle is a simple traditional short-to-medium rural cut.
+Father's permanent everyday hairstyle matches the canon reference sheet.
 
 Maintain:
 
-- Thick black hair.
+- Thick, slightly wavy black hair.
 - Soft, naturally tousled texture.
-- Slightly longer, irregular front fringe that falls naturally across the forehead.
+- Naturally messy rural cut with irregular front fringe across the forehead.
 - Natural side-swept movement and gentle volume.
 - A recognisable silhouette consistent with the canon reference.
 - Occasionally slightly damp from well water or sweat after work.
+- No artificial shine or salon polish.
 
 Never:
 

@@ -105,11 +105,13 @@ Early-1990s rural Tamil Nadu is fixed.
 Every camera view must preserve period-correct people, objects, buildings,
 roads, utilities, clothing, vegetation, and daily practice.
 
-The visual language is original premium cinematic anime.
+The visual language is original Village Stories anime for the entire frame.
 
-Use semi-realistic South Indian people, believable anatomy, soft painterly
-digital rendering, restrained organic linework, natural material texture, soft
-global illumination, and detailed culturally accurate environments.
+Use painterly 2D anime-inspired illustration matching
+`11_Assets/Character_References/Father_Canon_Design_Reference.png`; thin clean
+line art; soft cel-style painted shading; natural South Indian people; warm
+cinematic lighting; and detailed culturally accurate environments in the same
+anime finish.
 
 Do not name, imitate, or invoke a studio, artist, franchise, or film.
 

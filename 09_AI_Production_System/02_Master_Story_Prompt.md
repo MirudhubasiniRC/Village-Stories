@@ -165,14 +165,14 @@ controls over this summary whenever there is a conflict.
 
 ### Style And Tone Lock
 
-Village Stories has an original premium cinematic anime identity:
+Village Stories has an original anime illustration identity for the entire
+frame, matching `11_Assets/Character_References/Father_Canon_Design_Reference.png`:
 
-* semi-realistic anime people with natural South Indian features;
-* soft painterly, hand-painted digital rendering;
-* refined organic linework where useful;
-* gentle natural illumination and atmospheric depth;
+* painterly 2D anime-inspired characters with natural South Indian features;
+* thin clean line art and soft cel-style painted shading;
+* warm cinematic lighting and earthy grounded palette;
 * culturally specific, lived-in rural environments; and
-* warm slice-of-life observation with believable anatomy and restrained feeling.
+* warm slice-of-life observation with handcrafted animation quality.
 
 At premise stage, this lock means story actions must later be visualizable as
 calm, specific, respectful images. It does not authorize generic “cinematic”
@@ -564,7 +564,7 @@ SERIES LOCKS — IMMUTABLE
   German Shepherd Family Dog. Include only people whose documented role fits.
 - Dog: gentle household companion, never a threat, attack, rescue, danger,
   injury, missing-pet, chase, police, or military device.
-- Identity: original premium cinematic anime world; warm, painterly,
+- Identity: original Village Stories anime world; warm painterly 2D anime,
   culturally specific, calm, observant, and never generic or sensational.
 - Story: one practical everyday action; gentle, safe, proportionate pressure;
   care through behaviour; emotional rest at the end.

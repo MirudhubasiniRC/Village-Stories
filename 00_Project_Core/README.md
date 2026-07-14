@@ -2,7 +2,7 @@
 
 ## Overview
 
-Village Stories is a long-running animated universe set in an authentic 1990s South Indian village. The project combines emotional storytelling, slow living, ASMR, and original cinematic anime illustration with soft painterly hand-painted digital artwork, while remaining grounded in the traditions, architecture, culture, and daily life of rural South India.
+Village Stories is a long-running animated universe set in an authentic 1990s South Indian village. The project combines emotional storytelling, slow living, ASMR, and original painterly 2D anime illustration with soft cel-style shading, while remaining grounded in the traditions, architecture, culture, and daily life of rural South India.
 
 This repository serves as the **single source of truth** for the entire production pipeline. Every story, character, location, prompt, and production asset must follow the documentation contained within this project.
 
@@ -33,8 +33,9 @@ The objective is not simply to create individual videos, but to build a living, 
 06_Story_Engine      → Story structure, hooks, themes and episode planning
 08_Production        → Episode production workflow and studio handbook
 10_Episodes          → Completed episode documentation
+10_Studio_Standards  → Naming, folders, quality, review, and release governance
 11_Assets            → Reference images and production assets
-12_Quality_Assurance → Continuity and quality checklists
+12_Lessons_Learned   → Per-episode production evidence and improvement records
 Archive              → Deprecated or historical documents
 ```
 

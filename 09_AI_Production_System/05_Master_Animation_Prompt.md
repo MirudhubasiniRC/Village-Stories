@@ -72,12 +72,11 @@ or continuity-critical shot from guesswork.
 - Early-1990s rural Tamil Nadu is fixed; the exact year may flex, the period
   cannot. No modern technology, packaging, infrastructure, fashion, vehicles,
   lighting, screens, branding, or problem-solving.
-- Preserve the original premium cinematic anime identity: semi-realistic South
-  Indian people, believable anatomy, soft painterly hand-painted digital
-  rendering, restrained organic linework, natural material texture, soft global
-  illumination, detailed culturally accurate environments, and warm,
-  restrained slice-of-life feeling. Do not name or imitate any studio, artist,
-  film, franchise, or other external property.
+- Preserve the original Village Stories anime identity matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: painterly
+  2D anime-inspired illustration; thin clean line art; soft cel-style painted
+  shading; warm cinematic lighting; handcrafted animation aesthetic. Do not name
+  or imitate any studio, artist, film, franchise, or other external property.
 - The camera is a calm human observer: natural, stable, non-distorting, and
   aware of screen geography. No fisheye, action-camera look, drone view, Dutch
   angle, surveillance view, hero angle, or arbitrary spectacle.
@@ -461,87 +460,227 @@ heavy beard, salon styling, fashion-model treatment, or gym-built body.
 ## Copy-Ready Master Google Flow Prompt
 
 Complete every variable from approved sources. Variables select facts; they
-never override the locks. Keep the completed prompt concise. Delete a variable
-only when its field is explicitly `NONE`, rather than inventing a replacement.
+never override the locks.
+
+Use **three separate prompt blocks** per clip when needed:
+
+1. **Animation Prompt** — Google Flow motion only.
+2. **Audio / ASMR Prompt** — sound design for the clip.
+3. **Narration / Voice Prompt** — only when the approved script includes
+   narration or dialogue for this clip. Use `06_Master_Voice_Prompt.md`.
+
+Do not merge camera direction and camera movement into one vague instruction.
+Direction comes from `19_Camera_Direction_Bible.md`. Movement comes from
+`20_Camera_Movement_Bible.md`.
+
+### Animation Prompt Template
 
 ```text
-CREATE ONE SHORT, CONTINUOUS, EDIT-READY ANIMATION CLIP for Village Stories.
+CLIP [VARIABLE: ID] — Animation Prompt
 
-SOURCE AND OUTPUT
-Use [INPUT MODE: ONE APPROVED SOURCE STILL / TWO APPROVED ENDPOINT STILLS].
-Source A is the exact start state: [SOURCE A FILENAME AND REVISION].
-[If two-image: Source B is the exact approved end state: SOURCE B FILENAME AND
-REVISION. Animate only the continuous transition from A to B.]
-Delivery: [ASPECT RATIO, RESOLUTION IF SET, TARGET DURATION].
-Shot purpose: [ONE SENTENCE VISIBLE STORY MOMENT].
+SERIES STYLE LOCK — APPLY TO ALL ANIMATIONS
 
-IMMUTABLE SERIES LOCKS
-Preserve early-1990s rural Tamil Nadu: specific, lived-in, dignified,
-period-correct daily life, clothing, objects, architecture, materials, and
-infrastructure. No modern technology, screens, LED lighting, modern vehicles,
-branding, contemporary packaging, current fashion, urban infrastructure, or
-unsupported items.
+STYLE LOCK INSTRUCTIONS:
+- PRESERVE the exact Village Stories anime visual style for the entire frame.
+- MATCH 11_Assets/Character_References/Father_Canon_Design_Reference.png.
+- PRESERVE thin clean line art, soft cel-style painted shading, matte finish,
+  warm cinematic lighting, and handcrafted animation aesthetic on characters,
+  animals, objects, buildings, plants, and backgrounds.
+- DO NOT reinterpret, redesign, or "improve" characters, clothing, environments,
+  or props.
+- DO NOT change skin tone, hair style, facial features, or clothing colours.
+- DO NOT add or remove objects, furniture, or architectural details.
+- DO NOT drift toward photorealism, plastic CGI, 3D rendering, Western cartoon,
+  chibi, or named-property imitation.
+- DO NOT change character proportions, relative scale, or anatomy.
+- FOLLOW the source image exactly — animate only the required natural motion.
+- PRESERVE the approved lighting family and light direction from the source image.
+- [VARIABLE: scene-specific preservation lines for visible characters, objects,
+  environment, and weather continuity.]
 
-Preserve the original Village Stories premium cinematic anime identity:
-semi-realistic South Indian characters, believable anatomy, soft painterly
-hand-painted digital rendering, restrained organic linework, natural material
-texture, soft global illumination, detailed culturally accurate environment,
-and warm restrained slice-of-life feeling. Do not name or imitate a studio,
-artist, film, franchise, or other property.
+Input Specification:
+Input Type: [Single Image / Two Images]
+Number of Images: [1 or 2]
+Source Image: [VARIABLE: approved still filename and revision]
+[If two-image: End Image: [VARIABLE: approved end still filename and revision]]
 
-CONTINUITY LOCK
-Location / zone / orientation: [APPROVED FACTS].
-Season, time, weather, and visible consequence: [APPROVED FACTS].
-Lighting: [MOTIVATED SOURCE, DIRECTION, QUALITY, AND MATCH TO ADJACENT SHOTS].
-Incoming and outgoing bridge: [EXIT FACTS > THIS CLIP CHANGE > ENTRY FACTS].
-Keep approved character positions, wardrobe condition, hair, jewellery, object
-state, screen direction, camera side, and emotional scale unchanged except for
-the single movement stated below.
+Animation Source:
+Mode: [Single Image / Two Images]
+Camera Behavior: [Static Camera / approved movement from 20_Camera_Movement_Bible.md]
+Camera Intent: [VARIABLE: what the motion should make the viewer feel or notice]
 
-CHARACTER IDENTITY
-[APPROVED VISIBLE SUBJECTS AND ONLY THEIR RELEVANT LOCKS.]
-If Father is visible: preserve the same recurring individual as attached
-CHARACTER_IDENTITY reference
-11_Assets/Character_References/Father_Canon_Design_Reference.png: thick
-naturally tousled black hair, light natural stubble, warm medium-brown
-complexion, lean farmer build, broad shoulders, strong forearms, calm grounded
-presence. Do not alter identity, grooming, build, or clothing.
-If Mother is visible: preserve her same identity, practical cotton saree and
-blouse, small gold jhumkas, exactly one simple gold chain with traditional thali
-pendant, left-nostril gold nose pin, thin glass bangles, and natural restrained
-movement. No missing jewellery, extra chain, or glamour styling.
+Character Motion (Normal Speed):
+[VARIABLE: one bullet per moving body part or expression element, e.g. hand,
+wrist, fingers, face, eyes, head, shoulders, chest, saree edge, bangles. Use
+NONE if no character motion.]
 
-START STATE
-[EXACT OBSERVABLE START POSE, OBJECT STATE, CAMERA FRAME, AND ENVIRONMENT.]
+Environment Motion (Normal Speed):
+[VARIABLE: approved environmental motion — oil, steam, rain, fire, leaves,
+water, smoke, cloth, animal response. State PREDOMINANT VISUAL when one effect
+is the main subject.]
 
-ONE PERMITTED CHANGE
-Character movement: [ONE GROUNDED ACTION, PATH, SPEED, AND RESTING END POSE].
-Object movement: [HANDLER, OBJECT, START, PATH, AND END STATE; or NONE].
-Environment movement: [SUBTLE APPROVED CONTINUATION; or NONE].
-End state: [EXACT OBSERVABLE RESULT; match SOURCE B if two-image].
+Micro Motion (Normal Speed):
+[VARIABLE: small secondary motion — gleam, bubble, shimmer, fabric shift,
+subtle texture movement.]
 
-CAMERA
-[LOCKED CAMERA / ONE MODEST APPROVED MOVE]. Start [FRAME]; move [DIRECTION AND
-SPEED] only as needed; end [FRAME]. Preserve camera side, screen direction,
-crop-safe action, and clear view of [FACE / HANDS / OBJECT]. No other camera
-movement.
+Motion Priority: [VARIABLE: ordered list, e.g. Environment → Character → Micro]
 
-MOVEMENT LIMITS
-Keep all motion slow, natural, physically believable, and proportionate to the
-approved slice-of-life moment. No new action after the stated end. Let the clip
-settle briefly in the end state.
+End Frame: [VARIABLE: static hold description — what the last usable frame must
+show. Match end source image if two-image mode.]
 
-NEGATIVE CONSTRAINTS
-No identity drift, age/body/face/hair change, wardrobe or jewellery change,
-extra people or limbs, malformed hands, object transformation/duplication/
-teleportation, modern items, text, logos, watermarks, visual-style shift,
-camera-line crossing, screen-direction flip, sudden light/weather/time change,
-fast camera, zoom burst, orbit, shake, melodrama, danger, panic, chase, rescue,
-or animal distress.
-[SCENE-SPECIFIC NEGATIVES.]
+Quality Lock: Avoid morphing, melting, stretching, flicker, double limbs, face
+distortion, identity drift, object transformation, and interpolation artifacts.
 
-RETURN ONE CANON-SAFE, CONTINUOUS CLIP ONLY.
+Pacing: [Normal speed / slower / slightly faster — with reason from board only]
 ```
+
+### Audio / ASMR Prompt Template
+
+```text
+CLIP [VARIABLE: ID] — Audio / ASMR Prompt
+
+Primary Sounds (Visible Actions):
+[VARIABLE: bullet list with approximate volume ranges for each audible action
+tied to visible motion, e.g. sizzling, stirring, footsteps, breathing, bangles,
+cloth, animal sound.]
+
+Environmental Ambience (Per approved season / weather / location):
+[VARIABLE: rain, fire, wind, distant village, birds, water, room tone — with
+volume ranges.]
+
+Audio Mix Priority: [VARIABLE: foreground vs ambience hierarchy]
+
+Continuous Ambience: [Maintain / crossfade from prior clip / fresh start —
+with clip reference if continuing]
+
+No: [VARIABLE: excluded elements — typically Dialogue, Narration, Music,
+Artificial effects unless explicitly approved for this clip]
+```
+
+### Narration / Voice Prompt Template
+
+Use only when the approved script assigns spoken audio to this clip.
+
+```text
+CLIP [VARIABLE: ID] — Narration / Voice Prompt
+
+Spoken Content:
+[VARIABLE: exact approved line(s) from script — do not invent wording]
+
+Speaker: [Narrator / Mother / Father / Elder Brother / Younger Daughter / other
+approved named character]
+
+Delivery: [VARIABLE: calm, observant, warm, focused, amused, etc. — from
+character voice canon and 06_Master_Voice_Prompt.md]
+
+Timing: [VARIABLE: when speech begins and ends relative to visible action]
+
+Language Note: [VARIABLE: approved language/register/pronunciation evidence or
+HOLD FOR LANGUAGE REVIEW]
+
+Mix Note: [VARIABLE: narration level relative to ASMR primary sounds — narration
+must not destroy the visible sound story unless board says otherwise]
+```
+
+### Canonical Example — Clip 24 (Kitchen Onions)
+
+Format reference only.
+
+```text
+CLIP 24 — Animation Prompt
+
+SERIES STYLE LOCK — APPLY TO ALL ANIMATIONS
+
+STYLE LOCK INSTRUCTIONS:
+- PRESERVE the exact Village Stories anime visual style for the entire frame.
+- MATCH 11_Assets/Character_References/Father_Canon_Design_Reference.png.
+- PRESERVE Mother's hands: warm wheatish skin, glass bangles with warm gleam,
+  steady stirring rhythm.
+- PRESERVE the Traditional Kitchen environment: kadai-style pan over clay stove
+  flame, sliced onions, whole tempered spices, wooden spoon mid-stir.
+- EMPHASIZE OIL BOILING HEAT: oil actively simmering with visible bubbles,
+  heat ripples above the surface, small bubbles around onion edges (PREDOMINANT
+  VISUAL).
+- PRESERVE colour palette: golden-translucent onion tones, amber oil sheen,
+  brown spice accents, ember-orange firelight, visible heat shimmer.
+- RAIN CONTINUES — visible outside the window in background.
+- DO NOT drift toward photorealism, plastic CGI, 3D, Western cartoon, or
+  named-property imitation.
+
+Input Specification:
+Input Type: Single Image
+Number of Images: 1
+Source Image: Clip 24 (Onions sautéing in the tempered oil)
+
+Animation Source:
+Mode: Single Image
+Camera Behavior: Static Camera
+Camera Intent: Permit the satisfying visual moment of onions turning golden to
+unfold naturally — boiling oil, sizzle, steam, and translucence are the subject.
+
+Character Motion (Normal Speed):
+- Mother's hand — steady, rhythmic stirring with the wooden spoon
+- Mother's wrist — gentle circular motion moving the onions in the pan
+- Mother's fingers — relaxed grip on the spoon handle
+- Mother's face — calm, focused expression watching the onions cook
+- Mother's eyes — soft, attentive to the pan
+- Mother's head — slight tilt observing the onions
+- Mother's shoulders — relaxed, comfortable posture
+- Mother's chest — soft, natural breathing
+
+Environment Motion (Normal Speed):
+- Onions — soft movement shifting as they are stirred
+- Oil — BOILING with visible bubbles rising from the bottom (PREDOMINANT VISUAL)
+- Heat ripples — visible shimmering above the oil surface (PREDOMINANT VISUAL)
+- Bubbles — small bubbles forming around onion edges, bursting at surface
+- Steam — soft wisps rising from the pan
+- Firelight — warm gentle flicker below
+- Rain — steady falling outside the window
+
+Micro Motion (Normal Speed):
+- Onion slices — soft shifting as they cook, edges turning golden
+- Oil bubbles — gentle rising and bursting (PREDOMINANT VISUAL)
+- Heat shimmer — soft visible ripple above oil (PREDOMINANT VISUAL)
+- Wooden spoon — soft gleam catching light
+- Mother's bangles — soft gleam, gentle movement with wrist
+
+Motion Priority: Environment (oil boiling) → Character action → Micro motion
+
+End Frame: Static — final frame holds on onions turning golden, oil actively
+boiling with visible bubbles and heat shimmer.
+
+Quality Lock: Avoid morphing, melting, stretching, flicker, double limbs, face
+distortion, interpolation artifacts.
+
+Pacing: Normal speed — natural and satisfying, not rushed, not slow.
+```
+
+```text
+CLIP 24 — Audio / ASMR Prompt
+
+Primary Sounds (Visible Actions):
+- Oil boiling/sizzling — LOUD, active sizzle as onions hit the hot oil (50–60%)
+- Wooden spoon stirring — soft rhythmic scraping against the pan (15–20%)
+- Bubbles popping — soft tiny popping as oil bubbles burst (10–15%)
+- Onions softening — subtle moisture-release sound (10–15%)
+- Mother's breathing — soft focused breath (10–15%)
+- Mother's bangles — soft delicate clink with wrist movement (5–10%)
+
+Environmental Ambience (Per Cool & Monsoon — RAIN):
+- Rain: soft steady rain outside the window (5–10%)
+- Kitchen fire: soft crackle of clay stove fire (5–10%)
+- Distant village: very faint low-level ambience (5–10%)
+
+Audio Mix Priority: Primary sounds at foreground (LOUD SIZZLE dominant); ambience
+as soft texture.
+
+Continuous Ambience: Maintain ambient layer with seamless crossfade from Clip 23.
+
+No: Dialogue, Narration, Music, Artificial effects.
+```
+
+If Clip 24 later receives approved narration, add a third block using the
+Narration / Voice template above.
 
 ---
 

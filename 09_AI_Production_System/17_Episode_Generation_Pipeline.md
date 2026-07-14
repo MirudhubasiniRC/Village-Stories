@@ -94,11 +94,11 @@ optional because it appears only in a background detail.
 
 ### Style, location, light, camera
 
-* Use original premium cinematic anime: semi-realistic South Indian people,
-  believable anatomy, soft painterly hand-painted digital rendering, restrained
-  organic linework, natural material texture, gentle illumination, atmospheric
-  depth, and culturally accurate environments. Never name or imitate another
-  studio, artist, film, franchise, or property.
+* Use original Village Stories anime style for the entire frame, matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: painterly
+  2D anime-inspired illustration; thin clean line art; soft cel-style painted
+  shading; warm cinematic lighting; handcrafted animation aesthetic. Never name
+  or imitate another studio, artist, film, franchise, or property.
 * Preserve documented location layout, materials, work zones, entry points,
   routes, landmarks, and screen geography.
 * Preserve season, time, weather, wetness, vegetation, smoke, water, and

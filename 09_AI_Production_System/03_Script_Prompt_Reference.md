@@ -191,12 +191,12 @@ missing-pet, injury, danger, or threat device.
 
 ### Style And Tone Lock
 
-Village Stories is an original premium cinematic anime world:
+Village Stories is an original anime illustration world for the entire frame,
+matching `11_Assets/Character_References/Father_Canon_Design_Reference.png`:
 
-* semi-realistic anime characters with natural South Indian features;
-* soft painterly, hand-painted digital rendering;
-* refined organic linework where useful;
-* gentle natural illumination and atmospheric depth;
+* painterly 2D anime-inspired characters with natural South Indian features;
+* thin clean line art and soft cel-style painted shading;
+* warm cinematic lighting and handcrafted animation aesthetic;
 * culturally specific, lived-in early-1990s rural Tamil Nadu; and
 * warm, observant slice-of-life feeling with restrained emotion.
 
@@ -1004,10 +1004,11 @@ SERIES LOCKS — IMMUTABLE
   Shepherd Family Dog. Include only people whose documented role fits.
 - Dog: gentle household companion, never police, military, attack, rescue,
   threat, chase, missing-pet, injury, or danger device.
-- Style: original premium cinematic anime; semi-realistic South Indian
-  characters, painterly hand-painted digital rendering, natural light,
-  culturally specific lived-in environments, and restrained slice-of-life
-  emotion. Never imitate a named studio.
+- Style: original Village Stories anime for the entire frame, matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`; painterly
+  2D anime-inspired illustration; thin clean line art; soft cel-style painted
+  shading; warm cinematic lighting; handcrafted animation aesthetic. Never
+  imitate a named studio.
 - Story: one practical everyday action; one gentle proportionate pressure;
   visible care and response; emotional rest by the end.
 - Never use modern technology, modern products, present-day slang, violence,

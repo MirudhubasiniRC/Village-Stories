@@ -87,9 +87,10 @@ If a required fact is `OPEN`, mark its affected material
 
 ### Style, Tone, And Story
 
-- Preserve original premium cinematic anime: semi-realistic South Indian
-  characters, soft painterly hand-painted digital rendering, refined organic
-  linework where useful, natural illumination, and atmospheric depth.
+- Preserve original Village Stories anime style for the entire frame, matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: painterly
+  2D anime-inspired illustration; thin clean line art; soft cel-style painted
+  shading; warm cinematic lighting; handcrafted animation aesthetic.
 - Show culturally specific, lived-in village life with warm, observant,
   restrained slice-of-life feeling.
 - Do not use named-studio imitation, hyper-realism, plastic CGI, chibi comedy,
@@ -316,9 +317,11 @@ SERIES LOCKS — IMMUTABLE
   Family Dog only where each documented role fits.
 - The Dog is a gentle household companion, never police, military, attack,
   rescue, threat, chase, missing-pet, injury, or danger device.
-- Preserve original premium cinematic anime: semi-realistic South Indian
-  characters, painterly hand-painted rendering, natural light, specific lived-in
-  environments, and restrained slice-of-life emotion. Never imitate a studio.
+- Preserve original Village Stories anime style for the entire frame, matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: painterly
+  2D anime-inspired illustration; thin clean line art; soft cel-style painted
+  shading; warm cinematic lighting; handcrafted animation aesthetic. Never
+  imitate a studio, artist, film, franchise, or external property.
 - Use one practical everyday action, one proportionate gentle pressure, visible
   care and response, and emotional rest.
 - Never use modern technology/products/slang, violence, cruelty, humiliation,

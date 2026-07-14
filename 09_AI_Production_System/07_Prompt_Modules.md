@@ -412,24 +412,28 @@ modern technology, contemporary branding, generic spectacle, or invented stakes.
 **Validation:** scan the prompt and candidate for modern leakage and dignity
 violations.
 
-## M-03 Original Premium Animated Style Lock
+## M-03 Original Village Stories Anime Style Lock
 
-**Purpose:** preserve the series’ visual identity without external imitation.
+**Purpose:** preserve the series’ visual identity for the **entire frame** —
+people, animals, objects, buildings, plants, and backgrounds — without external
+imitation.
 
-**Applies to:** visual tasks and related visual review.
+**Applies to:** all visual tasks and related visual review.
 
 **Immutable instructions:**
 
-- Original premium cinematic anime identity.
-- Semi-realistic South Indian people with believable anatomy.
-- Soft painterly hand-painted digital rendering.
-- Restrained organic linework where useful.
-- Natural material texture and layered environmental detail.
-- Soft global illumination and weather-grounded atmospheric depth.
-- Story-serving composition and a warm restrained slice-of-life feeling.
+- Original painterly 2D anime-inspired illustration matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`.
+- Apply the same anime finish to every visible element in frame.
+- Thin clean consistent line art.
+- Soft cel-style painted shading with subtle gradients.
+- Matte, non-glossy finish.
+- Warm cinematic lighting and earthy grounded palette.
+- Handcrafted animation aesthetic.
+- Early-1990s rural Tamil Nadu cultural grounding.
 - No named studio, artist, film, franchise, or external-property imitation.
-- No plastic CGI, photorealism, chibi comedy, glossy fashion editorial, or
-  synthetic “AI art” ornamentation.
+- No photorealism, plastic CGI, 3D rendering, chibi comedy, Western cartoon, or
+  glossy AI ornamentation.
 
 **Approved variables:**
 
@@ -441,15 +445,18 @@ violations.
 **Template:**
 
 ```text
-Use the original Village Stories premium cinematic animated identity:
-semi-realistic South Indian people, believable anatomy, soft painterly
-hand-painted digital rendering, restrained organic linework, natural material
-texture, soft global illumination, and warm restrained slice-of-life atmosphere.
-Do not imitate named external creators or properties.
+Use the original Village Stories anime style for the entire frame — all
+characters, animals, objects, buildings, plants, and backgrounds. Match
+11_Assets/Character_References/Father_Canon_Design_Reference.png. Original
+painterly 2D anime-inspired illustration; soft digital brushwork; subtle
+watercolor and gouache textures; expressive clean line art; gentle cel-style
+painted shading; matte finish; warm cinematic lighting; authentic early-1990s
+South Indian village atmosphere; handcrafted animation aesthetic; emotionally
+warm and timeless. Do not imitate named external creators or properties.
 ```
 
-**Validation:** candidate reads as original series work, not a tool default or
-an external style imitation.
+**Validation:** every element in the candidate reads as one cohesive anime world,
+not a mixed-style composite.
 
 ## M-04 Targeted Negative Constraints
 

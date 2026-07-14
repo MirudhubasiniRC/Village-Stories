@@ -76,12 +76,12 @@ Apply these to every prompt. They are fixed instructions, not variables.
   exotic village or impoverishment spectacle.
 * Period-correct work, clothing, objects, architecture, infrastructure, and
   problem solving.
-* Original premium cinematic anime identity: semi-realistic anime characters,
-  natural South Indian features and anatomy, soft painterly hand-painted digital
-  rendering, layered natural colour and material texture, restrained organic
-  linework, natural global illumination, story-serving composition, weather-
-  grounded atmospheric depth, detailed culturally accurate environments, and
-  warm restrained slice-of-life feeling.
+* Original Village Stories anime identity matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: modern
+  high-quality slice-of-life anime; thin clean consistent line art; soft
+  cel-style painted shading with subtle gradients; warm cinematic lighting;
+  earthy grounded palette; natural South Indian features; handcrafted animation
+  aesthetic; emotionally warm and timeless.
 * No named studio, artist, film, franchise, or other external-property
   imitation.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
@@ -224,135 +224,196 @@ Copy this only after the brief is complete. Every `[VARIABLE: ...]` must be an
 approved scene fact and may not override, remove, reinterpret, or weaken a hard
 lock. If it conflicts, correct the variable and return the prompt for review.
 
+Use this exact section order and headings in every episode image prompt.
+
 ```text
-CREATE ONE FINISHED STILL IMAGE for Village Stories.
-
-TASK AND OUTPUT
-Production purpose: [VARIABLE: approved purpose].
-Delivery: [VARIABLE: approved aspect ratio and dimensions].
-Primary visual read: [VARIABLE: one approved visible story moment].
-Frame requirement: one coherent frame, not a collage, poster, sequence, split
-screen, contact sheet, or design sheet.
-
-IMMUTABLE VILLAGE STORIES CANON — DO NOT OVERRIDE
-Set in early-1990s rural Tamil Nadu. Preserve a specific, lived-in, dignified
-rural Tamil world with period-correct work, clothing, objects, materials,
-architecture, and infrastructure. No mobile phones, internet, digital screens,
-modern appliances, LED fixtures, contemporary vehicles, branded modern
-packaging, current fashion, urban infrastructure, or unsupported modern items.
-
-Use the original Village Stories premium cinematic anime identity: semi-realistic
-anime characters with natural South Indian features and believable anatomy; soft
-painterly hand-painted digital rendering; layered natural colour and material
-texture; restrained organic linework where it improves clarity; gentle natural
-global illumination; story-serving film-quality composition; weather-grounded
-atmospheric depth; detailed culturally accurate rural environments; warm,
-observant, restrained slice-of-life emotion. This is an original visual identity.
-Do not imitate or name any studio, artist, film, franchise, or existing visual
-property.
-
-The camera is a calm human observer at a natural, non-distorting viewpoint. No
-action-camera look, fisheye, impossible drone angle, Dutch angle, spectacle hero
-angle, surveillance framing, or arbitrary dramatic distortion.
+IMAGE PROMPT — [VARIABLE: Clip or Shot ID]
 
 CONTINUITY
-Continuity from prior clip or shot: [VARIABLE: approved incoming character
-positions, clothing condition, object state, completed action, emotional state,
-screen direction, and light/weather match; use "Independent opening shot" only
-when the board explicitly permits it].
+[VARIABLE: sequence position; prior clip/shot bridge; who and what remain fixed
+from the previous approved frame; same location, lighting, weather, props, and
+environment; season and time unchanged.]
 
-HARD SCENE CONDITIONS
-Season: [VARIABLE: approved season only].
-Time and weather: [VARIABLE: approved time, weather, and visible consequence].
-Location: [VARIABLE: approved location name, source, exact zone, orientation,
-permanent landmarks, materials, and ground condition].
-Lighting: [VARIABLE: approved motivated light source, direction, quality, and
-required readability; must match global village orientation].
-Continuity bridge: [VARIABLE: approved prior-state match or NONE].
+Framing Note: [VARIABLE: composition intent for this still and any space or pose
+requirement needed for the planned Google Flow animation. Use NONE only when no
+Flow follow-up is planned.]
 
 SUBJECT
 [VARIABLE: one sentence stating the complete visible story situation and why this
-single frame matters].
+single frame matters.]
 
-CHARACTERS — INCLUDE ONLY APPROVED SUBJECTS
-[VARIABLE: one compact block per visible subject: canon-backed identity,
-clothing/current condition, pose, expression, position, eyeline, and reference
-role.]
-
-MANDATORY CHARACTER SUB-LOCKS WHEN APPLICABLE
-If Mother is visible: preserve her approved South Indian identity, practical
-cotton saree and blouse logic, small gold jhumkas, exactly one simple gold chain
-with traditional thali pendant, left-nostril small gold nose pin, and thin glass
-bangles. No additional necklaces or ornate fashion jewellery.
-
-If Father is visible: preserve the same individual in
-11_Assets/Character_References/Father_Canon_Design_Reference.png — thick
-naturally tousled black hair, light natural stubble, warm medium-brown South
-Indian complexion, calm observant expression, lean farmer build, and approved
-practical clothing. Use the attached Father reference as CHARACTER_IDENTITY.
-Do not copy its incidental pose or background unless separately required.
-
-If the Family Dog is visible: preserve a gentle German Shepherd household
-companion with natural anatomy and calm behaviour. No aggression, rescue, police
-or military styling, threat posture, injury, or chase staging.
-
-ACTION AND OBJECT STATE
-Show exactly this approved action phase: [VARIABLE: one observable action in one
-chosen phase, including who acts, what is handled, and what must visibly change
-within this frame].
-Required visible evidence: [VARIABLE: approved object, practical condition, or
-relationship evidence].
-Objects: [VARIABLE: approved period-correct object locks with material, scale,
-position, handler, and current state; or NONE].
-Do not add story events, people, props, animals, or background activity beyond
-the approved scene need.
+ACTION
+[VARIABLE: full observable action in one chosen phase. State who does what,
+where they face, eyeline, gaze direction, body orientation, hand/object
+contact, and what must be unmistakably clear. Repeat gaze-critical details when
+a character or animal must look at a specific subject, not the camera.]
 
 CAMERA
-[VARIABLE: approved shot size, viewpoint height, camera side, subject placement,
-screen direction, eyeline, foreground/middle/background roles, clear action
-area, and delivery crop-safe area.]
-Keep the essential face, hands, object state, and action unobstructed.
-
-CAMERA MOVEMENT HANDOFF
-Still-image prompt: request a stable single frame only; do not describe a camera
-move as if it is already visible in a still.
-
-Planned Google Flow movement: [VARIABLE: NONE for an edit still, or approved
-camera movement, character movement, environmental movement, start/end boundary,
-and explicit movement limits for the later animation prompt].
-
-ENVIRONMENT
-[VARIABLE: approved foreground, midground, and background elements; natural
-materials; weather effects; depth detail; and visible location evidence only.
-Do not add fantasy, glamour, nostalgia treatment, or unrelated genre styling.]
-
-MOOD
-[VARIABLE: one approved emotional atmosphere expressed through visible action,
-light, posture, pace, and environment; never abstract melodrama.]
+| Element | Specification |
+| --- | --- |
+| Shot Type | [VARIABLE: approved shot size] |
+| Camera Height | [VARIABLE: approved height relative to subject] |
+| Camera Angle | [VARIABLE: approved viewpoint, side, and screen geography] |
+| Lens Feeling | [VARIABLE: natural cinematic perspective; no distortion drama] |
+| Composition | [VARIABLE: foreground / midground / background roles; subject
+placement; what must remain visible and unobstructed] |
+| Depth of Field | [VARIABLE: focus priority and background softness] |
+| Animation Preparation | [VARIABLE: space, pose, or framing note for the next
+Flow clip; or NONE] |
 
 STYLE
-Original premium cinematic anime illustration; semi-realistic South Indian
-characters; soft painterly hand-painted digital rendering; natural colour
-grading; soft global illumination; detailed early-1990s rural Tamil Nadu
-environment; gentle slice-of-life feeling. Do not name or imitate any studio,
-artist, film, franchise, or existing property.
+Original painterly 2D anime-inspired illustration with soft digital brushwork,
+subtle watercolor and gouache textures, expressive clean line art, gentle
+cel-style painted shading, matte finish, warm cinematic lighting, authentic 1990s
+South Indian village atmosphere, handcrafted animation aesthetic, emotionally
+warm and timeless.
 
-REFERENCES
-[VARIABLE: filename | role | controlled facts | facts it must not control.
-Use NONE only when no reference is required by the canon packet.]
+[VARIABLE: inline STRICT character locks for every visible recurring subject.]
+
+ENVIRONMENT
+[VARIABLE: approved location; bullet list of required landmarks, props,
+materials, vegetation, and period-correct details. Render every visible place
+element in the same Village Stories anime style as the characters — thin line
+art, soft cel-style shading, matte finish. Do not add fantasy, glamour, or
+unrelated genre styling.]
+
+LIGHTING
+[VARIABLE: motivated light source, direction, quality, rim/fill behavior, shadow
+length, and how light falls on principal subjects. Must match global village
+orientation and approved time/weather.]
+
+ATMOSPHERE
+[VARIABLE: one approved emotional atmosphere through visible action, light,
+posture, and environment; never abstract melodrama.]
 
 NEGATIVE PROMPT
+[VARIABLE: scene-specific exclusions first — especially gaze errors, wrong pose
+orientation, blocking, identity drift, and continuity breaks — then standard
+series exclusions:]
+
 No readable text, subtitles, signs, logos, labels, watermarks, borders, collages,
 split screens, duplicate people, extra limbs, malformed hands, deformed anatomy,
+incorrect gaze direction, subject facing camera when gaze must be elsewhere,
 modern technology, contemporary packaging, modern clothing, plastic CGI,
-hyper-real faces, heavy cel shading, chibi proportions, comic outlines,
+hyper-real faces, photorealistic rendering, chibi proportions, comic outlines,
 vector-flat graphics, neon lighting, named-studio imitation, named-artist
 imitation, melodramatic danger, disaster imagery, or any element conflicting
 with hard canon.
-[VARIABLE: approved scene-specific negatives only; these cannot weaken prior
-exclusions.]
 
 RETURN ONE CANON-SAFE, EDIT-READY STILL FRAME ONLY.
+```
+
+Still-image prompts lock **camera direction and framing only**. Record planned
+camera **movement** separately in the animation prompt from
+`20_Camera_Movement_Bible.md`.
+
+See **Canonical Example — Clip 10** below for the full production shape.
+
+### Canonical Example — Clip 10 (Returning Home Payoff)
+
+Use as format reference only; do not reuse as canon for other episodes.
+
+```text
+IMAGE PROMPT — Clip 10
+
+CONTINUITY
+Tenth shot — the emotional payoff of the "Returning Home" sequence. Continues
+directly from Clip 9 (Mother walking toward Father, who turns to face her near
+the backyard well). The Family Dog remains beside them exactly where it stood
+previously. Same rear yard, identical lighting, weather, props, and environment.
+Warm golden evening sunlight continues. Post-monsoon/harvest season remains
+unchanged.
+
+Framing Note: Medium Shot with the German Shepherd positioned prominently in
+the lower foreground. The dog's body is shown in a clear three-quarter side
+profile, naturally facing toward Mother and Father (not toward the camera). Its
+head is turned upward toward the embracing couple, making its gaze unmistakable.
+Leave generous space around the dog's head so the following animation can
+perform a slow cinematic push-in onto its face as it tilts its head slightly and
+softly whimpers.
+
+SUBJECT
+The loyal Family Dog quietly watching Mother and Father embrace, sharing in
+their happiness through its gentle expression.
+
+ACTION
+Mother and Father stand embracing naturally in the midground, foreheads nearly
+touching as they laugh softly together after the long day's work.
+
+In the foreground, the Family Dog sits calmly with its entire body angled in a
+three-quarter side profile facing toward the couple, not toward the viewer. The
+dog's chest, shoulder, ribcage, and fluffy tail are clearly visible from the
+side, all oriented toward Mother and Father. Its head is gently lifted and
+turned upward toward them, ears relaxed slightly backward, warm brown eyes
+focused lovingly on their faces.
+
+The dog's muzzle points directly toward Mother and Father, making its line of
+sight completely obvious — it is watching them, not the camera.
+
+CAMERA
+| Element | Specification |
+| --- | --- |
+| Shot Type | Medium Shot |
+| Camera Height | Slightly low, approximately at the German Shepherd's shoulder height |
+| Camera Angle | Gentle three-quarter view, positioned slightly behind and to the side of the dog so its side profile is clearly visible while it looks toward the embracing couple, who remain fully visible beyond it |
+| Lens Feeling | 50 mm natural cinematic perspective with gentle compression |
+| Composition | German Shepherd occupies the lower foreground in a clean three-quarter side profile, facing the couple. Mother and Father embrace in the midground beyond the dog. The dog acts as the visual foreground anchor without blocking the couple. The stone well, curry leaf tree, banana plants, and backyard remain softly visible in the background. |
+| Depth of Field | Medium-shallow. The German Shepherd remains the sharpest subject while Mother and Father are slightly softer but still clearly recognizable. The background fades gently into painterly atmospheric softness. |
+| Animation Preparation | Leave clear negative space around the dog's head so the next Google Flow animation can perform a gentle push-in toward its face while it tilts its head slightly upward toward the couple and lets out a soft whimper. |
+
+STYLE
+Original painterly 2D anime-inspired illustration with soft digital brushwork,
+subtle watercolor and gouache textures, expressive clean line art, gentle
+cel-style painted shading, matte finish, warm cinematic lighting, authentic
+1990s South Indian village atmosphere, handcrafted animation aesthetic,
+emotionally warm and timeless.
+
+Family Dog (STRICT Character Lock)
+Large healthy German Shepherd with a rich black-and-tan coat, thick fluffy
+double coat, black saddle marking, tan legs, chest and face, long pointed muzzle,
+large erect triangular ears held softly backward, warm intelligent brown eyes,
+fluffy neck ruff, feathered legs, full bushy tail resting naturally beside the
+body. Body in clear three-quarter side profile facing toward Mother and Father;
+head rotated upward toward their faces, not toward the camera.
+
+Mother (Character Bible Lock)
+Young South Indian woman (28–30), warm medium-brown skin, expressive warm brown
+eyes gently closed in laughter, long naturally wavy black hair braided over one
+shoulder, small maroon bindi, mustard or dark green traditional cotton saree,
+small traditional gold jhumkas, exactly one simple gold chain with traditional
+thali pendant, small left-nostril gold nose pin, thin glass bangles, gentle
+affectionate smile.
+
+Father (Character Bible Lock)
+South Indian farmer (30–32), medium-brown outdoor complexion, lean athletic
+build, thick naturally tousled medium-length black hair, light natural stubble,
+warm expressive brown eyes, approved practical work clothing, gently embracing
+Mother with a relaxed smile. Match
+11_Assets/Character_References/Father_Canon_Design_Reference.png for identity.
+
+ENVIRONMENT
+Traditional backyard beside the permanent stone well from the World Layout
+Bible. Include: circular weathered stone well, wooden pulley, thick rope, brass
+bucket, moss-covered stone washing platform, curry leaf tree, banana plants,
+coconut palms, soft drifting evening breeze, warm golden sunlight, authentic
+early-1990s South Indian village backyard.
+
+LIGHTING
+Warm golden-hour sunlight from the west softly illuminates the side of the
+German Shepherd's face and fluffy coat while creating delicate rim lighting
+around Mother and Father. Long soft shadows stretch naturally across the yard.
+
+ATMOSPHERE
+A peaceful, intimate family reunion witnessed by their loyal companion. Warmth,
+safety, nostalgia and unconditional affection.
+
+NEGATIVE PROMPT
+Dog facing the camera, dog looking at the viewer, front-facing dog, symmetrical
+dog pose, dog blocking the couple, dog looking away from the couple, incorrect
+gaze direction, generic shepherd, chibi proportions, Western cartoon style,
+photorealistic rendering, CGI, 3D rendering, plastic textures, modern objects,
+text, watermark, logo, extra limbs, duplicate animals, distorted anatomy,
+named-studio imitation.
 ```
 
 ---

@@ -18,6 +18,33 @@ relationship, sound, or continuity.
 
 Generate the approved object in its approved state, use, and place.
 
+## Series Illustration Standard
+
+Every object must be drawn in the same Village Stories anime style as characters
+and locations.
+
+Apply to all visible objects:
+
+- farming tools and household utensils;
+- brass, clay, wood, iron, cloth, and rope items;
+- furniture, vessels, baskets, lamps, and carts;
+- food, plants, and handled materials;
+- wear, patina, cracks, dampness, and use marks.
+
+Use:
+
+- thin clean line art on object edges and material breaks;
+- soft cel-style painted shading on form and surface;
+- matte non-glossy finish;
+- believable scale and weight within anime rendering;
+- period-correct early-1990s rural Tamil Nadu detail.
+
+An object must never look photoreal, plastic CGI, 3D-modelled, or visually
+inconsistent with the anime people and places around it.
+
+Match `11_Assets/Character_References/Father_Canon_Design_Reference.png` and
+`01_Canon/01_Series_Style_Lock/Art_Style.md`.
+
 ## Authority
 
 1. Approved current production decision.
