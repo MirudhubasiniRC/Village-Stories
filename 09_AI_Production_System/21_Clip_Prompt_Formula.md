@@ -98,7 +98,8 @@ highlights, shadows]
 **Season:** **[Summer / Monsoon / Post-Monsoon/Harvest]** — [vegetation, water,
 ground]
 
-**Colors (Ghibli-inspired):** [Hex list — never neon/HDR]
+**Colors (Ghibli-inspired):** [Warm muted anime palette — never neon/HDR.
+Post-Monsoon outdoor: soft blue sky, not blown white.]
 
 **Atmosphere:** [Mood, emotional quality]
 
@@ -138,6 +139,7 @@ Text / watermark / signs / labels / typography
 Extra limbs / fingers
 Inconsistent character scale
 Harsh noon / overexposed / crushed shadows
+White blown-out sky (Post-Monsoon outdoor should keep soft blue sky)
 Horizontal composition when 9:16 vertical required
 ```
 
@@ -282,8 +284,9 @@ This formula implements:
 
 - `04_Master_Image_Prompt.md`
 - `05_Master_Animation_Prompt.md`
+- `01_Canon/01_Series_Style_Lock/Art_Style.md`
+- `01_Canon/01_Series_Style_Lock/Color_And_Lighting_Formula.md`
 - `08_Production/06_Image_Prompt_Workflow.md`
 - `07_Episode_System/09_ASMR_Placement.md`
-- `01_Canon/01_Series_Style_Lock/Art_Style.md`
 
 Episode clip lists: `10_Episodes/[id]/04_Generation/episode-[id]__clip-prompt-workflow__*.md`

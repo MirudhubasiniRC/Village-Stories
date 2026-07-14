@@ -29,7 +29,8 @@ days, kitchen firelight at dusk blending with western window glow.
 Prompt label: `Lighting: Warm & Sunlit`
 
 Characteristics: soft golden sunlight, warm bounce, gentle contrast, rich warmth,
-comfortable atmosphere — never harsh noon blast or neon saturation.
+comfortable atmosphere — never harsh noon blast or neon saturation. Post-Monsoon
+outdoor: soft blue sky (not blown white). Art look follows `Art_Style.md`.
 
 ## Cool & Monsoon
 

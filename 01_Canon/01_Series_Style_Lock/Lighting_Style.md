@@ -324,6 +324,25 @@ Light should enhance emotion without overwhelming it.
 
 ---
 
+# Soft Blue Sky (Post-Monsoon outdoor only)
+
+One production add-on that does **not** change art style:
+
+Post-Monsoon clear day / morning outdoor shots should show a **soft blue
+sky**, not a blown-white or featureless cream sky. Do not add harsh contrast,
+extra saturation grades, or “cinematic” filters beyond `Art_Style.md`.
+
+**Ep1 Clip 01 locked baseline:** use the original Warm & Sunlit early-morning
+Ghibli prompt structure (warm muted palette, soft side-light, cream wall bokeh,
+vivid painterly blue butterfly / marigold hex accents). The **only** lighting
+correction carried forward is soft blue sky in the background — not white wash.
+
+Art style authority remains: `Art_Style.md` and Mother/Father canon references.
+
+Full seasonal tables: `01_Canon/01_Series_Style_Lock/Color_And_Lighting_Formula.md`.
+
+---
+
 # Guiding Principle
 
 Lighting should feel like a natural part of the village itself.
