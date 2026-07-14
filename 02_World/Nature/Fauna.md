@@ -93,11 +93,37 @@ Purpose:
 * Agriculture.
 * Village life.
 
+The family's adult cows are large **cream-white Indian village cows** locked in
+`Family_Cow_Canon_Design_Reference.png` — small curved horns, dark brown rope
+collar with brass bell, peaceful resting pose on hay under the livestock lean-to.
+
 Behaviour:
 
 * Grazing.
-* Resting beneath trees.
+* Chewing cud on hay.
+* Resting beneath shelter.
 * Returning home during evening.
+
+---
+
+## Calf
+
+Purpose:
+
+* Youthful warmth and family livestock life.
+* Companion to mother cow and children.
+
+The family's calf is a playful **baby cream-white Indian village calf** locked in
+`Family_Calf_Canon_Design_Reference.png` — extra-fluffy coat, **no visible horns**,
+**small brass bell** on light rope collar, large curious eyes, knee height or
+below on adults. Same late-afternoon hay shelter scene as the adult cow.
+
+Behaviour:
+
+* Staying close to mother cow.
+* Exploring hay and shelter.
+* Playful curious movement.
+* Gentle nuzzling and watching family.
 
 ---
 
@@ -107,10 +133,16 @@ Purpose:
 
 * Livestock.
 
+The family keeps **two** goats — one **cream-white** and one **warm brown** —
+locked in `Family_Goat_Canon_Design_Reference.png`. White goat squints happily
+chewing leaves over wooden fence; brown goat has **long pendulous droopy ears**.
+Early-morning Backyard goat pen scene with stone trough, cream wall, terracotta
+earth.
+
 Behaviour:
 
-* Browsing shrubs.
-* Following village paths.
+* Browsing shrubs and fence-line leaves.
+* Following each other.
 * Curious but calm.
 
 ---
@@ -122,9 +154,14 @@ Purpose:
 * Eggs.
 * Natural village activity.
 
+The family keeps **native free-range village chickens** — **one rooster**
+(orange-gold hackles, forest-green iridescent tail) and three recurring hens
+(**cinnamon-brown, pure white, speckled mottled**). Locked in
+`Family_Chicken_Canon_Design_Reference.png`. Ankle-to-shin height on adults.
+
 Behaviour:
 
-* Scratching soil.
+* Scratching soil and pecking seeds.
 * Following insects.
 * Walking through yards.
 * Gathering near food preparation.

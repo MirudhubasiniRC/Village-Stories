@@ -95,7 +95,32 @@ The Family Dog frequently visits the shelter but does not live here.
 
 # Adult Cows
 
-The family owns two gentle native cows.
+The family owns two gentle native Indian cows — the **same cream-white cow**
+identity shown in the approved reference.
+
+## Canon Visual Reference
+
+```text
+11_Assets/Character_References/Family_Cow_Canon_Design_Reference.png
+```
+
+### Approved cow identity
+
+- Large healthy **white Indian village cow** with subtle back hump — native breed
+  proportions, not Holstein dairy.
+- **Cream-white** painterly anime fur with soft warm yellow-gold sunlight shading
+  and visible watercolor brushwork.
+- **Small dark upward-curving horns** with gentle sweep.
+- **Soft peaceful dark eyes**, brownish-grey muzzle, calm gentle temperament.
+- **Dark brown rope halter/collar** with **weathered brass bell** catching warm
+  light.
+- Often **resting peacefully on hay** beneath the livestock lean-to — wooden
+  posts, corrugated metal roof, hay bale beside her.
+- Shoulder height roughly **chest-height on Father** when standing; large adult
+  cow, not calf.
+
+Same Ghibli-inspired **digital anime** finish for cow, shelter, ground, and sky
+— entire frame painted, not photoreal.
 
 They provide:
 
@@ -106,7 +131,7 @@ Typical behaviour includes:
 
 - Eating hay.
 - Chewing cud.
-- Resting peacefully.
+- Resting peacefully on hay beneath shelter.
 - Slowly walking around the shelter.
 - Responding calmly to Mother and Father.
 - Nuzzling the calf.
@@ -118,15 +143,43 @@ The cows should always appear healthy, relaxed, and well cared for.
 
 # Calf
 
-The young calf is naturally curious and playful.
+The family owns one young calf — the **same cream-white calf** identity, child
+of the approved adult cow.
+
+## Canon Visual Reference
+
+```text
+11_Assets/Character_References/Family_Calf_Canon_Design_Reference.png
+```
+
+### Approved calf identity
+
+- **Baby** white Indian village calf — same breed family as adult cow, NOT
+  Holstein dairy. Clearly an infant — rounder softer face, **shorter legs**,
+  **extra-fluffy** coat, proportionally **larger gentle eyes**.
+- **Cream-white** soft fluffy painterly anime fur with warm golden afternoon
+  shading and visible watercolor brushwork — much fluffier and softer than adult.
+- **NO visible horns** — smooth young forehead, hornless baby calf, never horn
+  nubs or budding horns.
+- **Large gentle curious dark eyes**, pinkish inner ears, brownish-grey muzzle,
+  innocent playful baby expression.
+- **Light brown rope collar** with **small weathered brass bell** — smaller and
+  lighter than adult cow's bell, gentle village baby-calf detail.
+- **Knee height or below** on standing adult — clearly a small baby, much smaller
+  than adult cow, still larger than a chicken.
+- Standing on hay or nuzzling hay bale near mother's lean-to — wobbly curious
+  baby steps, one front hoof slightly raised.
+
+Same Ghibli-inspired **digital anime** finish and **same late-afternoon hay
+shelter scene** as `Family_Cow_Canon_Design_Reference.png`.
 
 Typical behaviour includes:
 
 - Staying close to its mother.
-- Exploring the shelter.
-- Running playful circles.
+- Exploring the shelter and hay.
+- Playful curious stepping or small head-butt on hay.
 - Watching the Family Dog.
-- Following Mother or Daughter with curiosity.
+- Following Mother or Younger Daughter with curiosity.
 - Nudging family members affectionately.
 
 The calf brings youthful energy and warmth to the shelter.
@@ -135,11 +188,56 @@ The calf brings youthful energy and warmth to the shelter.
 
 # Goats
 
-The family owns two friendly goats.
+The family owns two friendly goats — always the **same white goat and brown goat**
+pair shown in the approved reference.
+
+## Canon Visual Reference
+
+```text
+11_Assets/Character_References/Family_Goat_Canon_Design_Reference.png
+```
+
+Attach as `CHARACTER_IDENTITY` or `STYLE_TARGET` when generating goats in Google
+Flow.
+
+### White goat (foreground)
+
+- Cream-white fluffy painterly anime coat.
+- Short curved dark grey horns.
+- Small white chin-beard tuft.
+- Soft pink nose.
+- Warm expressive face — eyes may squint shut happily when chewing; gentle
+  personality, never blank or photoreal.
+- Often leans over the goat-pen wooden fence browsing leaves.
+
+### Brown goat (companion)
+
+- Warm brown fluffy painterly anime coat with soft warm shading.
+- Similar short curved horns.
+- **Long pendulous droopy ears** — key identifier; never short upright ears.
+- Horizontal-pupil goat eyes, calm curious expression.
+- Slightly behind or beside the white goat; chewing green leaves.
+
+### Pair rule
+
+Both goats appear together in the goat pen unless story explicitly separates them.
+Knee-to-thigh height on standing adults. Same Ghibli-inspired **digital anime**
+finish for goats, fence, walls, plants, and sky — entire frame painted,
+not photoreal animals on anime background.
+
+### Approved reference scene
+
+Early-morning Backyard goat pen beside Livestock Shelter — horizontal wooden
+fence with weathered slats, stone water trough with metal tap left, cream lime
+wall `#F5E6C8` with red tile roof, terracotta pots along wall base, warm
+terracotta earth `#C97B4A`, scattered straw, lush palms and banana leaves,
+thatched/tiled shelter glimpse right. **Warm & Sunlit early morning** — soft
+golden light, gentle side-light on faces and fence.
 
 Typical behaviour includes:
 
-- Browsing leaves.
+- Browsing leaves at the wooden fence.
+- Chewing with expressive faces.
 - Standing on rocks or logs.
 - Following each other.
 - Gentle bleating.
@@ -157,6 +255,59 @@ The family keeps:
 - 8–12 Native Free-Range Chickens
 - 1 Rooster
 
+## Canon flock identity (reference generation)
+
+For design-reference and close shots, show **one rooster and three hens** as the
+recurring visible flock — the same individuals every time:
+
+```text
+11_Assets/Character_References/Family_Chicken_Canon_Design_Reference.png
+```
+
+### Rooster — one male
+
+- **Native Indian village rooster** — proud but calm, never fighting-game or
+  aggressive show-bird.
+- Stands **prominently** — often left of frame, slightly apart from hens.
+- Medium compact body, upright alert posture, painterly anime feather rendering.
+- **Vibrant red comb and wattle** — natural medium size.
+- **Shimmering orange-gold hackle feathers** on neck; **rich reddish-brown body**.
+- **Large sweeping sickle tail feathers** — deep **iridescent forest green**,
+  almost black in shadow, soft painterly sheen.
+- Gentle expressive dark eye, black beak with pale tip.
+- Yellow legs and feet; natural pose with **one leg slightly lifted**.
+- Calm village guardian watching flock — never fighting-cock aggressive.
+
+### Hens — three recurring types (always include in reference flock)
+
+1. **Brown hen** — solid warm **cinnamon-brown** feathers, soft painterly
+   shading, small red comb, round gentle body, head down pecking seeds.
+2. **White hen** — **pure white** feathers with subtle painterly **grey-blue**
+   shading in plumage, small red comb, peaceful pecking posture.
+3. **Speckled hen** — **white, brown, and black mottled** spotted pattern —
+   distinctive recurring identifier; gentle busy movement pecking ground.
+
+### Flock scale and style
+
+- **Ankle-to-shin height** on standing adult human — always the **smallest
+  moving figures** in any family shot.
+- Slim native village chicken proportions — NOT broiler chickens, NOT giant
+  cartoon birds.
+- Same Ghibli-inspired **digital anime** finish on feathers, ground, walls,
+  and plants — entire frame painted, not photoreal birds on photo background.
+- Healthy, clean, well cared for; gentle village activity only.
+
+### Approved reference scene
+
+Early-morning **Backyard** beside Livestock Shelter — sun-baked terracotta earth
+`#C97B4A` with dry yellow straw, hay bits, and small grey pebbles. **Rustic
+livestock shelter right** — wooden posts, thick hand-thatched grass roof.
+**Weathered cream plaster wall** centre with climbing green vines and small
+**purple morning-glory flowers**. Terracotta roof tiles glimpse above. Large
+terracotta pots with **bright orange marigolds**. Soft-focus palms and layered
+green background with warm hazy sky. **Warm & Sunlit early morning** — golden
+side-light on feathers and walls, soft long shadows, atmospheric depth.
+
 Unlike the larger animals, chickens roam freely during daylight hours.
 
 They naturally explore:
@@ -169,11 +320,11 @@ They naturally explore:
 
 Typical behaviour includes:
 
-- Pecking insects.
-- Scratching the soil.
-- Dust bathing.
-- Searching for seeds.
+- Pecking insects and seeds.
+- Scratching the soil with one foot.
+- Gentle clucking and flock movement.
 - Following Mother or Father while they work.
+- Dust bathing in sunny patches.
 
 At sunset they naturally return to the Chicken Coop.
 
@@ -185,7 +336,7 @@ The rooster:
 
 - Crows before sunrise.
 - Watches over the flock.
-- Patrols the shelter.
+- Patrols the shelter and yard.
 - Perches on fences or low branches.
 - Alerts the chickens when strangers or animals approach.
 

@@ -6,6 +6,40 @@ This document permanently defines the canonical physical appearance of Elder Bro
 
 ---
 
+# Canon Visual Reference
+
+Elder Brother's permanent visual-reference image is:
+
+```text
+11_Assets/Character_References/Elder_Brother_Canon_Design_Reference.png
+```
+
+**Approved identity reference:** South Indian village boy age **9–10**; warm
+medium-fair golden skin `#E8C89A`–`#F0D8B0`; soft youthful Ghibli child face
+with gentle hint of Father's features; large expressive dark brown eyes; **messy
+tousled black hair** with soft morning highlights; lean active child build;
+**130–140 cm** — reaches Mother's shoulder when beside her.
+
+**Approved reference look (locked):** short-sleeve **reddish-brown and white
+checkered cotton shirt** with single breast pocket + **light beige cotton
+shorts**; barefoot on courtyard earth path; holding small **woven wicker basket**
+with harvested eggs or village produce; open cheerful boyish smile.
+
+**Approved reference scene:** early-morning Backyard — weathered cream plaster
+wall, terracotta marigold pots, thatched-roof house glimpse, palms and soft
+peach-cream morning sky; same Ghibli-inspired **digital anime** rendering as
+Father and Mother canon cards.
+
+**Sibling scale reference:**
+
+```text
+11_Assets/Character_References/Elder_Brother_Younger_Daughter_Scale_Reference.png
+```
+
+Save approved output to `Elder_Brother_Canon_Design_Reference.png`.
+
+---
+
 # Identity
 
 Elder Brother is a healthy South Indian village boy living in rural Tamil Nadu during the early 1990s.

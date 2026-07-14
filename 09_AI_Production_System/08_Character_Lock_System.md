@@ -542,6 +542,307 @@ Front_Thinnai_Canon_Design_Reference.png. Do not make him solid all-black,
 threatening, uniformed, injured, chasing, or wolf-like.
 ```
 
+## Goat Flow Image Prompt (canonical — full, no reference required)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame — goats, fence, walls, roof, plants, sky, ground all in one cohesive painted world. Soft, warm, emotionally resonant. Painterly DIGITAL rendering with simulated watercolor and gouache textures. Soft matte finish. Soft delicate linework with slight variation. Soft cel-style shading blended with painted digital brushwork. Richly illustrated DIGITAL backgrounds with atmospheric depth. Naturalistic anime animal proportions with gentle expressive faces — NOT photoreal, NOT chibi, NOT flat vector, NOT concept-art poster.
+
+Lighting Family: Warm & Sunlit
+Time: Early morning
+Season: Post-Monsoon/Harvest
+Light direction: soft golden morning sunlight from the east, gentle warm side-light on faces and fence, soft bounce fill, comfortable contrast — never harsh noon blast, never dusk purple, never overcast grey-blue.
+
+### SCENE
+Early-morning family Backyard beside Livestock Shelter goat pen, a few steps behind the Kitchen. Simple wooden goat-pen fence with horizontal weathered slats and visible wood grain in foreground. Stone water trough with metal tap left. Wooden support posts, traditional country red tile roof glimpse, cream lime compound wall #F5E6C8, terracotta pots along wall base, warm terracotta packed earth #C97B4A, worn red-oxide tones, scattered straw, soft green garden leaves palm fronds and banana leaves, a few floating green leaves in gentle morning breeze. Peaceful rural Tamil Nadu village compound, early 1990s, lived-in and well cared for.
+
+### GOATS — TWO (always both visible)
+Village livestock pair browsing together at the fence. Knee-to-thigh height on a standing adult human — medium-small goats, not tiny kids, not large rams.
+
+WHITE GOAT — foreground, facing viewer, leaning chest and front hooves over the top wooden fence rail. Cream-white fluffy painterly anime fur with soft warm shading. Short curved dark grey horns. Small white chin-beard tuft under mouth. Soft pink nose. Warm charming expressive anime face — eyes squeezed shut in happy content squint while chewing. Mouth slightly open with a fresh green leaf visible inside. Gentle personality, loved family animal.
+
+BROWN GOAT — beside and slightly behind the white goat, head angled toward the left. Warm brown fluffy painterly anime fur with soft golden-brown shading. Same short curved dark grey horn style. LONG PENDULOUS DROOPY EARS hanging down — essential identifier, never short upright ears. Horizontal-pupil goat eyes partially open, calm curious expression. Mouth open chewing a green leaf. Friendly companion goat, always paired with the white goat.
+
+Both goats healthy, clean, calm, well fed — family livestock treated with kindness.
+
+### COLORS
+Fur: cream-white #F5F0E8, warm brown #8B5A2B with soft gold highlights
+Fence: weathered warm wood #A67B5B
+Environment: terracotta earth #C97B4A, cream walls #F5E6C8, soft green leaves, warm brass-gold morning light
+Never neon, HDR, Bollywood saturation, or photoreal stock-photo background.
+
+### CAMERA
+Medium shot, eye-level with goats at fence, goats as clear focal subjects, painted anime depth in background, soft atmospheric perspective on distant palms and roof.
+
+### NEGATIVE
+single goat only, one goat missing, brown goat with short or upright ears, photoreal fur, CGI 3D render, mountain wild goat, large ram horns, aggressive charging pose, injured or muddy neglected animals, chibi proportions, flat cel without blending, vector illustration, anime characters pasted on realistic background, afternoon orange glare, dusk lighting, harsh noon shadows, overcast monsoon grey grade.
+```
+
+## Cow Flow Image Prompt (canonical — full, no reference required)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame — cow, hay,
+shelter posts, walls, plants, mountains, sky all one cohesive painted world.
+Soft, warm, emotionally resonant. Painterly DIGITAL rendering with simulated
+watercolor and gouache textures. Soft matte finish. Delicate fine brown-toned
+linework with slight variation. Soft cel-style shading blended with painted
+digital brushwork. Richly illustrated DIGITAL backgrounds with atmospheric depth.
+Naturalistic gentle anime animal rendering — NOT photoreal, NOT chibi, NOT CGI.
+
+Lighting Family: Warm & Sunlit
+Time: Late afternoon
+Season: Post-Monsoon/Harvest
+Light direction: warm golden late-afternoon sun from upper right, long soft
+shadows, nostalgic golden glow on fur and bell — never harsh noon, never dusk
+purple, never overcast grey.
+
+### CHARACTER — Family Cow
+One large healthy white Indian village cow, calm gentle temperament. Native
+breed with subtle back hump — NOT Holstein black-and-white dairy cow. Lying
+peacefully on a bed of hay, relaxed body, chewing or resting with soft content
+expression.
+
+Cream-white fluffy painterly anime fur with warm yellow-gold sunlight shading
+and visible soft watercolor brushwork on coat. Small dark upward-curving horns
+with gentle sweep. Soft peaceful dark eyes. Brownish-grey muzzle. Dark brown
+rope halter collar around neck with single weathered brass bell catching golden
+highlight. Shoulder height when standing would be roughly chest-height on adult
+man — large adult cow, not calf.
+
+### SCENE
+Resting beneath simple livestock lean-to beside Livestock Shelter near family
+compound. Weathered wooden support posts, corrugated metal roof overhead. Large
+bundled hay bale beside the cow. Foreground: warm terracotta earthy soil #C97B4A
+with scattered straw and small green grass patches. Clay pots and simple farm
+tool leaning against low mud-brick wall left. Background: textured village walls,
+lush green bushes and trees, distant soft rolling mountains under hazy golden
+sky with light fluffy clouds. Early-1990s rural Tamil Nadu — peaceful, well
+cared for, never industrial.
+
+### LIGHT & COLORS
+Warm golden afternoon light, soft long shadows. Cream-white fur #F5F0E8 with gold
+highlights, warm brown rope, weathered brass bell, terracotta earth #C97B4A,
+mossy greens, pale orange-yellow sky. Never neon, HDR, or Bollywood saturation.
+
+### NEGATIVE
+photoreal, CGI, 3D render, Holstein black-white dairy cow, aggressive pose,
+injured, distressed, muddy neglect, oversized cartoon eyes, modern farm
+equipment, concrete industrial barn, flat vector, stock-photo background.
+```
+
+## Calf Flow Image Prompt (canonical — full, no reference required)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame — calf, hay,
+shelter posts, walls, plants, mountains, sky all one cohesive painted world.
+Soft, warm, emotionally resonant. Painterly DIGITAL rendering with simulated
+watercolor and gouache textures. Soft matte finish. Delicate fine brown-toned
+linework with slight variation. Soft cel-style shading blended with painted
+digital brushwork. Richly illustrated DIGITAL backgrounds with atmospheric depth.
+Naturalistic gentle anime animal rendering — NOT photoreal, NOT chibi, NOT CGI.
+
+Lighting Family: Warm & Sunlit
+Time: Late afternoon
+Season: Post-Monsoon/Harvest
+Light direction: warm golden late-afternoon sun from upper right, long soft
+shadows, nostalgic golden glow on fluffy coat — SAME light and scene family as
+Family Cow canon reference.
+
+### CHARACTER — Family Calf
+One **baby** white Indian village calf, curious gentle temperament. Same native
+breed as family cow — NOT Holstein black-and-white dairy calf. Small infant
+proportions — rounder softer face, shorter legs, extra-fluffy coat. Standing on
+scattered hay beside hay bale with bright curious innocent baby expression.
+
+Cream-white **extra-soft fluffy** painterly anime baby fur with warm yellow-gold
+afternoon shading and visible watercolor brushwork. **NO visible horns** —
+completely smooth hornless baby forehead, no horn nubs, no budding horns.
+**Large gentle curious dark eyes** (proportionally bigger for baby), pinkish
+inner ears, brownish-grey muzzle, soft round playful baby-calf face. **Light
+brown rope collar** with **small weathered brass bell** — smaller than adult
+cow's bell, soft golden highlight. Knee height or below on standing adult —
+clearly a small baby, much smaller than adult cow.
+
+### SCENE
+Same livestock lean-to as Family Cow — beside Livestock Shelter near family
+compound. Weathered wooden support posts, corrugated metal roof overhead. Large
+bundled **hay bale** tied with rope calf stands beside or nuzzles. Warm
+terracotta earthy soil #C97B4A with scattered straw and small green grass
+patches. Clay pots and hoe against low mud-brick wall left. Mossy stone wall
+right, lush green bushes, distant soft rolling mountains under hazy golden sky.
+Early-1990s rural Tamil Nadu — peaceful, well cared for.
+
+### ACTION
+Baby calf explores hay with wobbly curious posture — one front hoof slightly
+raised stepping toward hay bale, head turned sniffing hay, ears soft and pink
+inside, gentle innocent baby energy.
+
+### LIGHT & COLORS
+Warm golden afternoon light, soft long shadows. Cream-white fluffy fur #F5F0E8
+with gold highlights, small brass bell, light brown rope, terracotta earth
+#C97B4A, hay gold #D4A017, mossy greens, pale orange-yellow sky. Never neon,
+HDR, Bollywood saturation.
+
+### CAMERA
+Medium shot, eye-level with baby calf at hay level, calf as clear focal subject,
+painted anime atmospheric depth behind.
+
+### NEGATIVE
+visible horns, horn nubs, budding horns, adult-sized cow, full curved horns,
+missing bell, large adult brass bell, Holstein black-white calf, photoreal, CGI,
+chibi proportions, aggressive pose, injured, muddy neglect, different lighting
+from cow reference, morning scene, concrete industrial barn, flat vector,
+stock-photo background.
+```
+
+## Chicken Flow Image Prompt (canonical — full, no reference required)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame — chickens, rooster, ground, walls, pots, plants, sky all in one cohesive painted world. Soft, warm, emotionally resonant. Painterly DIGITAL rendering with simulated watercolor and gouache textures. Soft matte finish. Soft delicate brown-toned linework with slight variation. Soft cel-style shading blended with painted digital brushwork. Richly illustrated DIGITAL backgrounds with atmospheric depth. Naturalistic gentle anime bird rendering — NOT photoreal, NOT chibi, NOT flat vector.
+
+Lighting Family: Warm & Sunlit
+Time: Early morning
+Season: Post-Monsoon/Harvest
+Light direction: soft golden morning sunlight from the east, gentle warm side-light on feathers and ground, soft bounce fill — never harsh noon, never dusk purple, never overcast grey-blue.
+
+### SCENE
+Early-morning family Backyard beside Livestock Shelter chicken area. Sun-baked terracotta earthy ground #C97B4A scattered with dry yellow straw, hay bits, small grey pebbles. Rustic livestock shelter right — wooden posts, thick hand-thatched dried-grass roof. Weathered cream plaster wall centre with climbing green vines and small purple morning-glory flowers. Terracotta red clay roof tiles glimpse above wall. Large terracotta pots with bright orange marigold flowers. Soft-focus painterly palms and layered green background, warm hazy sky with atmospheric depth. Early-1990s rural Tamil Nadu — peaceful, well cared for.
+
+### CHICKENS — FLOCK (rooster + three hens visible)
+Native Indian village free-range flock. Ankle-to-shin height on standing adult human — smallest figures in the family world, slim natural proportions, NOT commercial broiler size, NOT giant cartoon birds.
+
+ROOSTER (one male, prominent left, slightly apart): Vibrant red comb and wattle. Shimmering orange-gold hackle feathers on neck. Rich reddish-brown body. Large sweeping sickle tail feathers — deep iridescent forest green, almost black in shadow, soft painterly sheen. Gentle expressive dark eye. Black beak pale tip. Yellow legs — one leg slightly lifted natural pose. Proud calm guardian watching hens, never fighting-cock aggressive.
+
+BROWN HEN (one): Solid warm cinnamon-brown feathers, soft painterly shading, small red comb, head down pecking seeds on ground.
+
+WHITE HEN (one): Pure white feathers with subtle painterly grey-blue shading in plumage, small red comb, peaceful pecking posture.
+
+SPECKLED HEN (one): White brown and black mottled spotted feather pattern — distinctive recurring identifier. Same scale, gentle busy pecking movement.
+
+All birds healthy, clean, calm — soft feather edges in anime brushwork, never chaotic flock panic.
+
+### COLORS
+Rooster: red-brown #8B3A2A, golden hackle #C97B2B, iridescent tail green-black #2A3A2A
+Hens: warm brown #8B5A2B, cream-white #F5F0E8, speckled brown-white mix
+Environment: terracotta earth #C97B4A, cream wall #F5E6C8, marigold orange #E8A020, mossy green leaves
+Never neon, HDR, Bollywood saturation, or photoreal stock-photo background.
+
+### CAMERA
+Low-medium shot near ground level — eye-level with chickens, flock as clear focal subjects, painted anime depth on wall and garden behind, soft atmospheric perspective.
+
+### NEGATIVE
+photoreal feathers, CGI 3D birds, broiler chicken proportions, giant chickens, fighting rooster battle pose, flock of dozens crowding frame, modern metal factory coop, injured birds, muddy neglect, single solid-color flock only, missing rooster or missing hen types, chibi birds, flat vector, angry attack posture, afternoon orange glare, dusk lighting, harsh noon shadows, overcast monsoon grey grade.
+```
+
+## Elder Brother Flow Image Prompt (canonical — full, no reference required)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame — child, clothes, ground, walls, plants, sky all one cohesive painted world. Soft, warm, emotionally resonant. Painterly DIGITAL rendering with simulated watercolor and gouache textures. Soft matte finish. Soft delicate linework with slight variation. Soft cel-style shading blended with painted digital brushwork. Richly illustrated DIGITAL backgrounds with atmospheric depth. Naturalistic anime child proportions — NOT chibi, NOT shoujo, NOT adult, NOT photoreal.
+
+Lighting Family: Warm & Sunlit
+Time: Early morning
+Season: Post-Monsoon/Harvest
+Light direction: soft golden morning sunlight from the east, gentle warm side-light on face and hair, soft bounce fill — same rendering language as Father and Mother canon cards.
+
+### FACE
+South Indian village boy age 9–10. Soft youthful masculine child face — gentle suggestion of Father's features WITHOUT adult sharp jaw or prominent angular jawline. Warm medium-fair golden skin #E8C89A #F0D8B0 with soft painterly shading and mild sun-kissed warmth. Bright warm brown almond eyes approximately 1/5 face height, long delicate lashes. Soft child cheeks still present. Straight youthful nose. Natural softly defined brows. Open curious cheerful boyish smile.
+
+### CHARACTER — Elder Brother (older brother)
+Height 130–140 cm — child proportions only; top of head would reach Mother's shoulder if Mother stood beside him; clearly taller than Younger Daughter; much shorter than Father and Mother. Lean active healthy child build — natural energy, neither frail nor oversized.
+
+Hair: naturally thick **messy tousled black hair** with soft morning painted highlights — rural schoolboy cut, NOT gelled, NOT modern city cut.
+
+Wardrobe: short-sleeve **reddish-brown and white checkered cotton shirt** with single breast pocket + **light beige cotton shorts** — early-1990s rural Tamil Nadu village boy. Barefoot. No modern brands, no sneakers.
+
+Holding small **woven wicker basket** with harvested eggs or village produce. Hands small but capable.
+
+### SCENE
+Early-morning family Backyard — light brown earth path with scattered stones and grass patches. **Weathered cream plaster wall** with terracotta pots of orange marigolds. **Thatched-roof** wooden house glimpse right. Palms and soft **peach-cream morning clouds** in pale blue sky. Rural Tamil Nadu early 1990s.
+
+### ACTION
+Standing barefoot on path, holding wicker basket with both hands, open cheerful boyish smile toward viewer — curious helpful village boy.
+
+### COLORS
+Skin #E8C89A #F0D8B0 · check shirt reddish-brown white · shorts light beige #F5E6C8 · earth #C97B4A · wall cream #F5E6C8 · marigold orange. Never neon, HDR, Bollywood saturation.
+
+### CAMERA
+Medium shot, eye-level with child, clear focal subject, painted anime atmospheric depth behind.
+
+### NEGATIVE
+adult height, teenager, prominent angular jaw like Father, soft round face like Mother, modern branded clothes, graphic tee, sneakers, chibi, glamor child model, oversized shoujo eyes, photoreal skin, plastic CGI, bindi, girl's clothing, pavadai on boy, dusk lighting, harsh noon, overcast grey grade, wrong ethnicity.
+```
+
+## Younger Daughter Flow Image Prompt (canonical — full, no reference required)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame — child, dress, ground, walls, plants, sky all one cohesive painted world. Soft, warm, emotionally resonant. Painterly DIGITAL rendering with simulated watercolor and gouache textures. Soft matte finish. Soft delicate linework with slight variation. Soft cel-style shading blended with painted digital brushwork. Richly illustrated DIGITAL backgrounds with atmospheric depth. Naturalistic anime child proportions — NOT chibi, NOT shoujo, NOT adult, NOT photoreal.
+
+Lighting Family: Warm & Sunlit
+Time: Early morning
+Season: Post-Monsoon/Harvest
+Light direction: soft golden morning sunlight from the east, gentle warm side-light on face and braids, soft bounce fill — same rendering language as Father and Mother canon cards.
+
+### FACE
+South Indian village girl age 6–7. Soft round-oval child face with gentle Mother-like warmth — NOT adult woman's face. Warm medium-fair golden skin #E8C89A #F0D8B0 with soft rosy child cheeks and painterly shading. Large expressive warm brown eyes, curious and innocent. Small soft nose. Natural soft child brows. Gentle calm smile. **Small red bindi** on forehead — modest child size. No makeup.
+
+### CHARACTER — Younger Daughter (younger sister)
+Height 115–125 cm — smallest family child; top of head would reach Mother's chest/mid-torso if Mother stood beside her; clearly shorter than Elder Brother; much shorter than parents. Small healthy soft child proportions.
+
+Hair: naturally thick black hair in **two thick neat braids** over shoulders, **white or soft pink ribbon bows** at braid ends — NOT salon styled, NOT loose modern cut.
+
+Wardrobe: knee-length **soft yellow cotton dress** #E8C872 with **small pink flower print**, white trim at neckline and sleeves, soft pink hem trim — modest early-1990s rural Tamil Nadu girl. Barefoot. No heavy jewellery, no makeup.
+
+May hold small **jasmine flower sprig** with both hands at waist height.
+
+### SCENE
+Early-morning courtyard — cream wall with traditional **kolam** pattern, **stone well** with wooden pulley, terracotta roof tiles, **banana plant**, marigold pots, large **clay matka**, soft palms in atmospheric background. Rural Tamil Nadu early 1990s.
+
+### ACTION
+Standing with gentle calm smile, holding jasmine sprig — innocent little girl of the house.
+
+### COLORS
+Skin #E8C89A #F0D8B0 · dress yellow #E8C872 with pink flower print · ribbon white or pink · earth #C97B4A · wall cream #F5E6C8. Never neon, HDR, Bollywood saturation.
+
+### CAMERA
+Medium shot, eye-level with child, clear focal subject, painted anime atmospheric depth behind.
+
+### NEGATIVE
+adult height, teen girl, large bridal bindi, makeup, heavy jewellery, modern Western dress, chibi, shoujo oversized sparkle eyes, glamor child model, photoreal skin, plastic CGI, boy's shirt and shorts, loose hair without braids, dusk lighting, harsh noon, overcast grey grade, wrong ethnicity.
+```
+
+## Siblings Together Flow Image Prompt (scale reference — approved)
+
+```text
+### STYLE
+Studio Ghibli-inspired DIGITAL anime aesthetic for the ENTIRE frame. Painterly DIGITAL watercolor/gouache, soft matte, delicate brown-toned linework, soft cel shading blended with brushwork. Richly illustrated digital background with atmospheric depth. NOT chibi, NOT photoreal.
+
+Lighting Family: Warm & Sunlit | Early morning | Post-Monsoon/Harvest
+Light: soft golden morning from east, warm side-light on hair and garden.
+
+### SCENE
+Sun-drenched family garden courtyard — warm earth path, cream plaster wall with **open wooden picket gate**, terracotta marigold pots, pink hibiscus, traditional house with brown tile roof through gate. Soft peach-cream morning sky.
+
+### CHARACTERS — BOTH SIBLINGS (scale locked)
+Elder Brother (boy 9–10) and Younger Daughter (girl 6–7). SCALE LOCK: Elder Brother clearly taller — Younger Daughter reaches his shoulder/chest, NEVER equal height. Both barefoot. Skin #E8C89A #F0D8B0. Same digital anime rendering on children and entire background.
+
+Elder Brother: messy tousled black hair, reddish-brown white **checkered shirt** with pocket, **tan shorts**, wicker basket in one hand, kind smiling face.
+
+Younger Daughter: **two braids** with **pink ribbon bows**, **yellow dress** with pink flower print and pink hem trim, **small red bindi**, gentle delighted expression.
+
+### ACTION
+Both looking down with soft curiosity at **blue butterfly** perched on orange marigold in foreground — natural sibling closeness, peaceful morning wonder.
+
+### NEGATIVE
+equal height, adult proportions, teen siblings, missing either child, chibi, photoreal, wrong scale, harsh shadows.
+```
+
+Save approved duo to `Elder_Brother_Younger_Daughter_Scale_Reference.png`.
+
 ## Scene Continuity Ledger
 
 Create a row for every visible person or Dog.

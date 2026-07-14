@@ -6,6 +6,41 @@ This document permanently defines the canonical physical appearance of Younger D
 
 ---
 
+# Canon Visual Reference
+
+Younger Daughter's permanent visual-reference image is:
+
+```text
+11_Assets/Character_References/Younger_Daughter_Canon_Design_Reference.png
+```
+
+**Approved identity reference:** South Indian village girl age **6–7**; warm
+medium-fair golden skin `#E8C89A`–`#F0D8B0` with soft rosy cheeks; soft
+round-oval child face with gentle Mother-like warmth; large expressive warm
+brown eyes; **two thick neat braids** with **white or soft pink ribbon bows**;
+**small red bindi** on forehead; small healthy child build; **115–125 cm** —
+reaches Mother's chest when beside her.
+
+**Approved reference look (locked):** knee-length **soft yellow cotton dress**
+`#E8C872` with **small pink flower print**, white trim at neckline and sleeves,
+soft pink hem trim; barefoot; gentle calm smile; may hold small **jasmine
+flower sprig**.
+
+**Approved reference scene:** early-morning courtyard — cream wall with **kolam**
+pattern, stone well with wooden pulley, terracotta roof tiles, banana plant,
+marigold pots, large clay matka; same Ghibli-inspired **digital anime**
+rendering as Father and Mother canon cards.
+
+**Sibling scale reference:**
+
+```text
+11_Assets/Character_References/Elder_Brother_Younger_Daughter_Scale_Reference.png
+```
+
+Save approved output to `Younger_Daughter_Canon_Design_Reference.png`.
+
+---
+
 # Identity
 
 Younger Daughter is a healthy South Indian village girl living in rural Tamil Nadu during the early 1990s.
@@ -125,8 +160,9 @@ Never:
 # Forehead
 
 - Clean child forehead.
-- No everyday adult bindi required.
-- Tiny decorative bindi only for festivals if culturally appropriate and story-justified.
+- **Small red bindi** — approved in canon reference; keep modest and child-sized,
+  never large bridal or fashion bindi.
+- No makeup of any kind.
 
 ---
 

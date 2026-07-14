@@ -29,6 +29,14 @@ Using **Father** as baseline (tallest adult):
 must never appear adult-height beside Mother. Younger Daughter must never appear
 shoulder-height on Mother — she tops out at chest / mid-torso.
 
+**Approved sibling scale reference:**
+
+```text
+11_Assets/Character_References/Elder_Brother_Younger_Daughter_Scale_Reference.png
+```
+
+Use when generating or reviewing any shot with both children together.
+
 ---
 
 # Animal Scale Anchors
@@ -37,6 +45,7 @@ shoulder-height on Mother — she tops out at chest / mid-torso.
 | --- | --- |
 | **Family Dog (German Shepherd)** | Standing height reaches roughly **mid-thigh on Father** when Father is standing; noticeably taller than Younger Daughter when the dog is standing and the child is seated |
 | **Family Cow** | Shoulder height roughly **chest-height on Father** |
+| **Family Calf** | **Knee height or below** on adults — small baby calf, clearly much smaller than adult cow |
 | **Goats** | **Knee-to-thigh height** on adults |
 | **Chickens** | **Ankle-to-shin height** — always clearly the smallest moving figures in a shot |
 
