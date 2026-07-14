@@ -71,7 +71,7 @@ Behaviour:
 
 Appearance notes:
 
-* Classic rural German Shepherd look.
+* Classic rural German Shepherd look — **black-and-tan**, fully fluffy long coat.
 * Intelligent, loyal, and healthy from village life.
 * Never styled as a police, military, show, or attack dog.
 

@@ -26,9 +26,10 @@ Always preserve:
 - Warm medium-brown complexion.
 - Soft oval face.
 - Dark brown almond-shaped eyes.
-- Long naturally black hair.
-- Traditional half-up hairstyle.
-- Small red tilak bindi.
+- Long naturally black hair — **morning free hair down** until after morning tea;
+  **low clutch** during active cooking; **half-up** for the rest of the ordinary day.
+- Small red or maroon tilak bindi.
+- **Small black mole on left side of chin.**
 - Small gold nose pin.
 - Small traditional gold jhumkas.
 - One simple gold chain carrying her traditional thali pendant.

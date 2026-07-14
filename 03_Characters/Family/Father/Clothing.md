@@ -26,15 +26,39 @@ Comfort, durability, and tradition always take priority over decoration.
 
 # Everyday Clothing
 
-Father's canonical everyday clothing consists of:
+Father's canonical wardrobe by situation:
 
-- Traditional cotton shirt, most often a deep muted blue work shirt with sleeves rolled naturally when working.
-- Traditional cotton veshti / dhoti, or practical cotton work veshti.
-- Simple cloth towel or thundu often carried on the shoulder.
-- Occasional simple waist cloth adjustment for fieldwork.
-- Bare feet or traditional sandals depending on location.
+## Daily wear (default)
 
-This is Father's default appearance in most stories.
+- **White or cream cotton veshti / mundu** — primary everyday lower garment.
+- Thin vertical gold kasavu border acceptable on formal daily veshti.
+- **Light-coloured cotton shirt** — white, off-white, cream, or pale tones.
+- Sleeves **rolled naturally** to mid-forearm when working.
+- **Barefoot** inside home, compound, and familiar village paths.
+
+## Household work
+
+- **Checked cotton lungi** for active household chores, yard work near the house,
+  and practical home labour.
+- Light-coloured shirt with rolled sleeves.
+- Barefoot unless path requires sandals.
+
+## Outdoor and field work
+
+- Light-coloured or practical cotton work shirt, sleeves rolled.
+- White/cream veshti folded for movement, or checked lungi when appropriate.
+- Simple cotton thundu over shoulder when useful.
+- **Simple rubber sandals** for longer outdoor travel, field edges, and village
+  paths — never modern branded sports shoes.
+
+## Festivals and ceremonies
+
+- Clean light-coloured cotton or silk-cotton shirt.
+- Fresh white or cream veshti.
+- **Angavastram** (traditional shoulder cloth) for festivals, temple visits, and
+  ceremonies.
+- Neatly trimmed mustache and slightly neater hair.
+- Simple rubber sandals or traditional flat sandals when leaving the compound.
 
 ---
 
@@ -44,9 +68,10 @@ Maintain:
 
 - Cotton fabric.
 - Light, breathable weave.
-- Half sleeves preferred for work days.
-- Full sleeves acceptable for cooler mornings, temple visits, or festivals.
-- Deep muted blue is his primary recurring work-shirt colour.
+- Half sleeves or full sleeves with rolled cuffs for work days.
+- **Light colours** as default — white, off-white, cream, pale beige.
+- Deep muted blue acceptable for heavy field labour only — not the primary home
+  identity look.
 - Simple solid colours or very subtle checks.
 - Comfortable fit that allows lifting and carrying.
 - Natural wrinkles from work.
@@ -81,17 +106,17 @@ Avoid:
 
 ---
 
-# Veshti / Dhoti
+# Veshti / Dhoti / Lungi
 
 Maintain:
 
-- Traditional white or off-white cotton veshti for many everyday and evening scenes.
-- Practical cotton work veshti for field and shelter labour.
+- **White or cream cotton veshti** for daily and evening wear.
+- **Checked cotton lungi** for household work and practical home labour.
 - Secure traditional wrapping.
 - Natural folds.
 - Slight dust, dampness, or crease after work is acceptable and realistic.
 
-The veshti should never appear like a costume or fashion drape.
+The veshti and lungi should never appear like costume or fashion drape.
 
 ---
 
@@ -138,10 +163,10 @@ Festivals are one of the few occasions where Father dresses more formally.
 Maintain:
 
 - Clean white or premium cotton / silk-cotton shirt.
-- Freshly washed white veshti.
-- Neat grooming.
-- Simple traditional appearance.
-- Optional simple sandal footwear.
+- Freshly washed white or cream veshti.
+- **Angavastram** draped as traditional shoulder cloth.
+- Neatly trimmed mustache and slightly neater hair.
+- Simple rubber sandals or traditional flat sandals.
 
 Despite celebration, Father remains modest and grounded.
 
@@ -158,7 +183,7 @@ Maintain:
 - Clean traditional shirt.
 - White veshti.
 - Neat hair.
-- Neat light-stubble grooming.
+- Neatly groomed mustache grooming.
 - Calm respectful presentation.
 
 Ceremony attire should remain culturally accurate for rural Tamil Nadu.
@@ -204,23 +229,26 @@ Heavier modern jackets should not appear.
 
 # Footwear
 
+Default rule: **barefoot** whenever the ground is familiar and safe.
+
 Inside house
 
-- Often barefoot.
+- Barefoot.
 
-Courtyard / compound
+Courtyard / compound / village paths near home
 
 - Barefoot when practical.
 
-Fields and longer outdoor work
+Travel, fields, longer outdoor work, wet paths
 
-- Traditional sandals or simple rural work footwear when needed.
+- **Simple rubber sandals** — plain early-1990s rural style, not branded sports
+  shoes.
 
-Village visits
+Temple / festival outside compound
 
-- Traditional flat sandals.
+- Simple rubber sandals or traditional flat sandals.
 
-Modern sports shoes, branded footwear, and fashion sandals should rarely or never appear.
+Modern sports shoes, branded footwear, and fashion sandals should not appear.
 
 ---
 

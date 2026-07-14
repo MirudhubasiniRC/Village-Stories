@@ -20,15 +20,34 @@ Father's permanent visual-reference sheet is:
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 ```
 
-This image establishes Father's recurring face, thick tousled hairstyle, light
-stubble, lean farmer build, warm expression range, and the **official Village
-Stories slice-of-life anime style**.
+This image establishes Father's recurring **strong structured masculine face**,
+**prominent angular jawline**, thick wavy black medium-length hair with soft side
+part, **neatly trimmed solid black moustache**, lean athletic build, warm
+expression range, and **naturalistic Ghibli-inspired anime face design** within
+the same rendering language as `Mother_Canon_Design_Reference.png`.
 
-The reference sheet is both:
+**Approved identity reference:** handsome young South Indian man, age 30–32;
+**strong structured masculine face** with **prominent angular jawline** — slightly
+rectangular lean, never soft-round; medium-to-fair skin with warm golden sun-kissed
+undertones (#E8C89A–#DDBF8A); **5'5"–5'7"** tallest family member; **lean athletic**
+hardworking build; **sharp nose**; kind but strong features; thick well-kept wavy
+black hair medium length with soft side part; **neatly trimmed solid black moustache**
+(clean-shaven jaw); warm expressive brown eyes ~1/5 face height; calm confident
+gentle smile; white shirt rolled sleeves, white cream veshti #F5E6C8 with thin gold
+kasavu border; barefoot.
+
+**Approved scene looks:**
+
+- **Kitchen standing (primary reference):** morning kitchen, hand on stool beside
+  brass pot, open east doorway with fields and palms, warm golden side light.
+- **Morning tea seated:** wooden bench, terracotta cup with steam, quiet interior,
+  strong jaw emphasized in soft side light.
+
+The reference sheet is:
 
 * Father's permanent character lock.
-* The series-wide illustration standard for line art, cel-shading, lighting,
-  palette, and emotional readability.
+* The series-wide standard for **male** face design, soft-gradient painterly
+  rendering, lighting, palette, and emotional readability.
 
 All future image generation, Google Flow scenes, storyboards, and production
 artwork must preserve this same individual **and** this same anime illustration
@@ -38,12 +57,15 @@ language.
 
 # Identity
 
-Father is a healthy South Indian village farmer living in rural Tamil Nadu during the early 1990s.
+Father is a **handsome young South Indian man** — farmer, provider, and caretaker
+of the fields and livestock — living in rural Tamil Nadu during the early 1990s.
 
-His appearance reflects years of outdoor labour, sunlight, seasonal fieldwork, livestock care, and everyday village life.
+His appearance reflects years of outdoor labour, sunlight, seasonal fieldwork,
+livestock care, and everyday village life.
 
-He should appear naturally handsome through health, kindness, and outdoor work
-rather than fashion, glamour, or stylized film-hero beauty.
+He should read as **strong, tall, and strikingly handsome** through health,
+natural masculine features, and outdoor work — **strong yet approachable** —
+never fashion-glamorous, never soft or weak, never stylized Bollywood hero.
 
 ---
 
@@ -51,7 +73,7 @@ rather than fashion, glamour, or stylized film-hero beauty.
 
 Approximately:
 
-**31–33 years old**
+**30–32 years old**
 
 He should consistently appear within this age range throughout the series unless a future canonical time jump occurs.
 
@@ -63,9 +85,10 @@ He appears slightly older than Mother in life experience and outdoor weathering,
 
 Approximately:
 
-**168–175 cm**
+**165–170 cm (5'5"–5'7")** — tallest member of the family.
 
-He is slightly taller than Mother.
+He is clearly taller than Mother by approximately **5 cm / 2 inches** — see
+`01_Canon/Relative_Height_And_Scale.md`.
 
 His height remains consistent in every scene.
 
@@ -75,12 +98,12 @@ His height remains consistent in every scene.
 
 Maintain:
 
-- Athletic body developed naturally through farming.
+- **Lean, athletic, hardworking** physique developed through farming.
+- **Strong, tall, capable frame.**
 - Broad shoulders.
-- Strong forearms.
+- Strong forearms and chest.
 - Healthy masculine proportions.
-- Lean practical muscle from daily labour.
-- Neither bulky gym physique nor thin frailty.
+- Practical muscle from daily labour — never a gym physique or thin frailty.
 
 His body reflects ploughing, carrying, repairing, and walking fields rather than exercise for appearance.
 
@@ -90,9 +113,10 @@ His body reflects ploughing, carrying, repairing, and walking fields rather than
 
 Maintain:
 
-- Warm wheatish South Indian complexion.
-- Natural sun-kissed skin from outdoor work.
-- Healthy skin texture.
+- **Medium-to-fair** complexion with warm golden sun-kissed undertones.
+- Warm-lit: `#E8C89A` · `#E0C890` · `#DDBF8A` per
+  `01_Canon/Character_Color_And_Light_Reference.md`.
+- Healthy painterly digital skin shading.
 - Slight deeper tanning on face, neck, forearms, and lower legs.
 
 Avoid unrealistic beauty-filter skin or artificial bronze sheen.
@@ -101,15 +125,23 @@ Avoid unrealistic beauty-filter skin or artificial bronze sheen.
 
 # Face Shape
 
-Maintain:
+Maintain — naturalistic Ghibli-inspired anime face design:
 
-- Healthy masculine face.
-- Lean, strong jawline.
-- Straight well-defined nose.
-- Balanced proportions.
+- **Handsome young South Indian man.**
+- **Strong structured masculine face** — slightly rectangular lean, not soft-round
+  like Mother.
+- **Prominent strong well-defined jawline** — angular, clearly visible in
+  three-quarter and front views.
+- **Strong cheekbone and jaw structure** — masculine, capable, never boyish or
+  soft.
+- **Kind but strong** facial features.
+- **Sharp nose** — straight, clean bridge, defined tip.
+- Balanced proportions with **masculine facial structure**.
+- **Warm painterly facial shading** in Ghibli-inspired digital anime rendering.
 - Soft warmth in the eyes that prevents hardness.
 
-His face should immediately communicate honesty, kindness, and quiet strength.
+His face should immediately communicate quiet strength, kindness, and calm confidence.
+Never render a weak jaw, round soft face, or feminine facial proportions.
 
 ---
 
@@ -117,11 +149,11 @@ His face should immediately communicate honesty, kindness, and quiet strength.
 
 Maintain:
 
-- Dark brown.
-- Almond shaped.
-- Medium size.
-- Steady gaze.
-- Calm, observant eye movement.
+- **Warm expressive brown eyes.**
+- Grounded scale — approximately 1/5 of face height.
+- Steady calm gaze.
+- Subtle clean catchlights.
+- Calm, confident, observant eye movement.
 
 His eyes naturally express patience, attentiveness, and quiet humour.
 
@@ -142,11 +174,12 @@ Maintain:
 
 Maintain:
 
-- Straight.
-- Well-defined.
+- **Sharp.**
+- Straight clean bridge.
+- Well-defined tip.
 - Traditional South Indian masculine proportions.
-- Natural bridge and tip.
-- Never overly refined or cinematic.
+- Strong profile readability.
+- Never soft, rounded, or overly refined cinematic nose.
 
 ---
 
@@ -164,17 +197,18 @@ He smiles gently rather than broadly by default.
 
 # Facial Hair
 
-Father's permanent facial-hair treatment is light, naturally kept stubble.
+Father's permanent facial-hair treatment is a **neatly trimmed black mustache**
+— matching the approved Father identity reference.
 
 Maintain:
 
-- Soft dark stubble along the jaw, chin, and upper lip.
-- Light, even growth rather than a full beard.
-- A subtly defined upper-lip shadow rather than a prominent separate moustache.
-- Natural, tidy, and unstyled appearance.
-- Consistency with the supplied canon reference.
+- Neatly trimmed, tidy South Indian village mustache on the upper lip.
+- Clean-shaven jaw, chin, and cheeks — no beard, no heavy mustache.
+- Natural, well-kept rural appearance — not salon-sculpted, not handlebar drama.
+- Consistent mustache shape and density across the series.
 
-Never render a heavy beard, handlebar moustache, sharply sculpted beard, or clean-shaven redesign without an extraordinary documented canonical reason.
+Never render clean-shaven, full beard, heavy mustache-only, or fashion moustache
+redesigns without an extraordinary documented canonical reason.
 
 ---
 
@@ -182,37 +216,34 @@ Never render a heavy beard, handlebar moustache, sharply sculpted beard, or clea
 
 Maintain:
 
-- Thick, slightly wavy black hair in a naturally messy style.
-- Soft irregular front fringe falling naturally across the forehead.
-- Healthy hair with slight outdoor texture and natural volume.
-- No artificial shine.
-
-Hair should never appear salon-styled.
+- **Thick, well-kept black hair.**
+- **Medium length** — neither too short nor too long.
+- **Naturally full** with **slightly textured** outdoor appearance.
+- Healthy natural volume.
+- No artificial shine or salon styling.
 
 ---
 
 # Hairstyle
 
-Father's permanent everyday hairstyle matches the canon reference sheet.
+Father's everyday hairstyle matches the approved Father reference.
 
 Maintain:
 
-- Thick, slightly wavy black hair.
-- Soft, naturally tousled texture.
-- Naturally messy rural cut with irregular front fringe across the forehead.
-- Natural side-swept movement and gentle volume.
-- A recognisable silhouette consistent with the canon reference.
-- Occasionally slightly damp from well water or sweat after work.
-- No artificial shine or salon polish.
+- Thick well-kept black hair at medium length.
+- Naturally full with slight natural side part when neat.
+- Slightly textured from village and field life.
+- Soft natural movement and gentle volume.
 
 Never:
 
 - Modern layered salon cuts.
 - Spiky styling.
 - Gelled city hairstyles.
+- Buzz cut or overly short military cut.
 - Overly polished movie-hero grooming.
 
-Festival occasions may allow slightly neater grooming, never a redesign.
+Festival occasions may allow slightly neater grooming, never a full redesign.
 
 ---
 
@@ -285,9 +316,9 @@ Hands are among Father's most expressive working features.
 
 Maintain:
 
-- Barefoot inside the house when appropriate.
-- Barefoot in familiar compound areas when practical.
-- Traditional sandals or simple work footwear outside and in fields when necessary.
+- **Barefoot** inside the house and familiar compound areas when practical.
+- **Simple rubber sandals** for travel, field edges, wet paths, and longer
+  outdoor work — plain early-1990s rural style.
 
 Feet should remain natural and practical.
 
@@ -297,12 +328,12 @@ Feet should remain natural and practical.
 
 Maintain:
 
-- Upright posture.
-- Relaxed but open shoulders.
+- **Relaxed** upright posture.
+- Open shoulders.
 - Balanced stance.
-- Confident body mechanics from familiar labour.
+- Calm confident body mechanics from familiar labour.
 
-He never appears stiff like a posed model.
+He never appears stiff like a posed model or slouched weakly.
 
 ---
 
@@ -326,16 +357,18 @@ He never struts or rushes for dramatic effect.
 
 Father should remain instantly recognizable through:
 
-- Warm medium-brown complexion.
-- Lean, strong jawline.
-- Straight well-defined nose.
-- Thick black, softly tousled side-swept hair.
-- Light natural stubble.
-- Dark brown steady eyes.
-- Broad shoulders.
-- Strong forearms.
-- Calm masculine presence.
-- Natural outdoor fitness.
+- **Tall** strong masculine presence (5'5"–5'7").
+- **Handsome young South Indian man.**
+- **Strong structured masculine face** — prominent **angular jawline**, slightly
+  rectangular lean.
+- **Medium-to-fair** warm golden complexion.
+- **Sharp nose.**
+- **Kind but strong** facial features.
+- Thick well-kept wavy black hair, medium length, soft side part.
+- **Neatly trimmed solid black moustache**; clean-shaven jaw and chin.
+- **Warm expressive brown eyes** ~1/5 face height.
+- **Lean athletic hardworking** build with broad shoulders.
+- Calm confident gentle smile; relaxed posture.
 
 Even in silhouette carrying a tool or harvest basket he should be immediately identifiable.
 
@@ -384,19 +417,22 @@ Temporary environmental changes should disappear naturally after washing or rest
 
 Father should look attractive through:
 
-- Health.
-- Kindness.
-- Outdoor work.
-- Clean grooming within village norms.
-- Natural masculine features.
+- **Strong, tall, handsome** natural masculine presence.
+- Health and outdoor work.
+- **Sharp nose** and **strong jaw**.
+- Kind but strong facial features.
+- **Warm painterly facial shading.**
+- Calm confident expression and gentle smile.
+
+**Strong yet approachable** — never soft, weak, or boyish.
 
 Never through:
 
-- Fashion.
-- Gym physique.
+- Fashion glamour.
+- Gym physique posing.
 - Movie-hero styling.
 - Designer clothing.
-- Soft glamorous lighting that removes outdoor realism.
+- Soft lighting that removes outdoor realism.
 
 ---
 
@@ -410,7 +446,7 @@ Every image, Google Flow scene, storyboard, and animation should preserve:
 - Nose shape.
 - Hair colour and thickness.
 - Hairstyle.
-- Light stubble treatment.
+- Light mustache treatment — neatly trimmed, never stubble or beard.
 - Skin tone.
 - Height.
 - Broad-shoulder silhouette.
@@ -432,7 +468,7 @@ Google Flow, image prompts, animations, and future production assets must preser
 - The same hairstyle.
 - The same silhouette.
 - The same skin tone.
-- The same light natural stubble.
+- The same neatly trimmed black mustache.
 - The same recognizable features.
 
 The AI should always generate Father as the same recurring individual rather than a different man with similar characteristics.
@@ -444,18 +480,18 @@ The AI should always generate Father as the same recurring individual rather tha
 Always maintain:
 
 - Traditional South Indian farmer appearance.
-- Warm medium-brown complexion.
-- Thick black softly tousled rural hair.
-- Light natural stubble.
-- Sharp jawline.
-- Straight well-defined nose.
-- Broad shoulders.
-- Strong forearms.
-- Natural farming athleticism.
-- Calm masculine presence.
+- **Medium-to-fair** warm golden complexion.
+- **Strong structured masculine face** with **prominent angular jawline**.
+- Thick wavy black medium-length hair, soft side part.
+- **Neatly trimmed solid black moustache**; clean-shaven jaw and chin.
+- **Sharp nose.**
+- **Warm expressive brown eyes.**
+- **Lean athletic build** with broad shoulders; 5'5"–5'7".
+- Calm confident presence.
 
 Never:
 
+- Soft round face, weak jaw, narrow chin, boyish feminine facial proportions.
 - Change facial proportions.
 - Introduce modern hairstyles.
 - Create a gym physique.
@@ -492,4 +528,7 @@ Every image prompt, Google Flow scene, storyboard, animation, illustration, and 
 
 Father's appearance should reflect a life of honest outdoor work.
 
-His lean strong jawline, straight nose, warm medium-brown complexion, thick softly tousled black hair, light natural stubble, broad shoulders, strong forearms, and calm kind eyes should make him instantly recognizable, allowing viewers to feel they are meeting the same familiar man in every story.
+His **prominent angular jawline**, **strong structured face**, sharp nose,
+medium-to-fair warm golden complexion, thick wavy black hair, **neatly trimmed
+solid black moustache**, broad shoulders, and warm brown eyes should make him
+instantly recognizable in every story.

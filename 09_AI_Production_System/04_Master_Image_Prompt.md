@@ -77,11 +77,11 @@ Apply these to every prompt. They are fixed instructions, not variables.
 * Period-correct work, clothing, objects, architecture, infrastructure, and
   problem solving.
 * Original Village Stories anime identity matching
-  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: modern
-  high-quality slice-of-life anime; thin clean consistent line art; soft
-  cel-style painted shading with subtle gradients; warm cinematic lighting;
-  earthy grounded palette; natural South Indian features; handcrafted animation
-  aesthetic; emotionally warm and timeless.
+  `11_Assets/Character_References/Mother_Canon_Design_Reference.png`: smooth
+  digital anime illustration; polished digital painting with soft gradient
+  shading; atmospheric depth; muted cinematic color grading; Japanese anime color
+  palette on Indian village settings; clean defined line art; clean-up drawing;
+  natural South Indian features; emotionally warm and timeless.
 * No named studio, artist, film, franchise, or other external-property
   imitation.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
@@ -120,20 +120,22 @@ glass bangles. Never make her glamorous, bridal, fashion-styled, or a different
 person.
 
 When Father is visible, preserve the same individual established by
-`11_Assets/Character_References/Father_Canon_Design_Reference.png`: thick
-naturally tousled black hair, light natural stubble, warm medium-brown South
-Indian complexion, calm observant expression range, lean farmer build with broad
-shoulders and strong forearms, natural outdoor-worker posture, and approved
-practical clothing. Never make him clean-shaven, heavily bearded, salon-styled,
-gym-built, fashion-model glamorous, or a different man. Attach that reference as
-`CHARACTER_IDENTITY` whenever the tool supports it and Father is a principal
-subject, his face is visible, a new setup is established, a Flow source includes
-him, or a repair corrects his identity.
+`11_Assets/Character_References/Father_Canon_Design_Reference.png`: **strong
+structured masculine face** with **prominent angular jawline** (never soft-round);
+medium-to-fair warm golden complexion; **warm brown eyes** ~1/5 face height; thick
+wavy black medium-length hair with soft side part; **neatly trimmed solid black
+moustache** with clean-shaven jaw; **lean athletic build** 5'5"–5'7"; calm
+confident presence; white/cream veshti #F5E6C8, light shirt rolled sleeves,
+barefoot. Never soft round face, weak jaw, clean-shaven, stubble, gym-built, or a
+different man. Attach as `CHARACTER_IDENTITY` whenever the tool supports it and
+Father is principal, face-visible, establishing, or being repaired.
 
-The Family Dog is a gentle, loyal German Shepherd household companion. It may
-wait, follow, observe, rest, respond softly, play naturally, or receive ordinary
-care. Never depict aggression, threat, injury, chase, rescue, police/military
-use, or exaggerated wolf features.
+The Family Dog is a gentle, loyal German Shepherd household companion with
+**classic black-and-tan, fully fluffy** coat — black saddle/back, rich tan/cream
+on legs, chest, belly, muzzle, and eyebrows. It may wait, follow, observe, rest,
+respond softly, play naturally, or receive ordinary care. Never depict solid
+all-black coat, aggression, threat, injury, chase, rescue, police/military use,
+or exaggerated wolf features.
 
 For expanded locks, source loading, and reference rules, see the Reference.
 
@@ -262,119 +264,14 @@ placement; what must remain visible and unobstructed] |
 Flow clip; or NONE] |
 
 STYLE
-Original painterly 2D anime-inspired illustration with soft digital brushwork,
-subtle watercolor and gouache textures, expressive clean line art, gentle
-cel-style painted shading, matte finish, warm cinematic lighting, authentic 1990s
-South Indian village atmosphere, handcrafted animation aesthetic, emotionally
-warm and timeless.
-
-[VARIABLE: inline STRICT character locks for every visible recurring subject.]
-
-ENVIRONMENT
-[VARIABLE: approved location; bullet list of required landmarks, props,
-materials, vegetation, and period-correct details. Render every visible place
-element in the same Village Stories anime style as the characters — thin line
-art, soft cel-style shading, matte finish. Do not add fantasy, glamour, or
-unrelated genre styling.]
-
-LIGHTING
-[VARIABLE: motivated light source, direction, quality, rim/fill behavior, shadow
-length, and how light falls on principal subjects. Must match global village
-orientation and approved time/weather.]
-
-ATMOSPHERE
-[VARIABLE: one approved emotional atmosphere through visible action, light,
-posture, and environment; never abstract melodrama.]
-
-NEGATIVE PROMPT
-[VARIABLE: scene-specific exclusions first — especially gaze errors, wrong pose
-orientation, blocking, identity drift, and continuity breaks — then standard
-series exclusions:]
-
-No readable text, subtitles, signs, logos, labels, watermarks, borders, collages,
-split screens, duplicate people, extra limbs, malformed hands, deformed anatomy,
-incorrect gaze direction, subject facing camera when gaze must be elsewhere,
-modern technology, contemporary packaging, modern clothing, plastic CGI,
-hyper-real faces, photorealistic rendering, chibi proportions, comic outlines,
-vector-flat graphics, neon lighting, named-studio imitation, named-artist
-imitation, melodramatic danger, disaster imagery, or any element conflicting
-with hard canon.
-
-RETURN ONE CANON-SAFE, EDIT-READY STILL FRAME ONLY.
-```
-
-Still-image prompts lock **camera direction and framing only**. Record planned
-camera **movement** separately in the animation prompt from
-`20_Camera_Movement_Bible.md`.
-
-See **Canonical Example — Clip 10** below for the full production shape.
-
-### Canonical Example — Clip 10 (Returning Home Payoff)
-
-Use as format reference only; do not reuse as canon for other episodes.
-
-```text
-IMAGE PROMPT — Clip 10
-
-CONTINUITY
-Tenth shot — the emotional payoff of the "Returning Home" sequence. Continues
-directly from Clip 9 (Mother walking toward Father, who turns to face her near
-the backyard well). The Family Dog remains beside them exactly where it stood
-previously. Same rear yard, identical lighting, weather, props, and environment.
-Warm golden evening sunlight continues. Post-monsoon/harvest season remains
-unchanged.
-
-Framing Note: Medium Shot with the German Shepherd positioned prominently in
-the lower foreground. The dog's body is shown in a clear three-quarter side
-profile, naturally facing toward Mother and Father (not toward the camera). Its
-head is turned upward toward the embracing couple, making its gaze unmistakable.
-Leave generous space around the dog's head so the following animation can
-perform a slow cinematic push-in onto its face as it tilts its head slightly and
-softly whimpers.
-
-SUBJECT
-The loyal Family Dog quietly watching Mother and Father embrace, sharing in
-their happiness through its gentle expression.
-
-ACTION
-Mother and Father stand embracing naturally in the midground, foreheads nearly
-touching as they laugh softly together after the long day's work.
-
-In the foreground, the Family Dog sits calmly with its entire body angled in a
-three-quarter side profile facing toward the couple, not toward the viewer. The
-dog's chest, shoulder, ribcage, and fluffy tail are clearly visible from the
-side, all oriented toward Mother and Father. Its head is gently lifted and
-turned upward toward them, ears relaxed slightly backward, warm brown eyes
-focused lovingly on their faces.
-
-The dog's muzzle points directly toward Mother and Father, making its line of
-sight completely obvious — it is watching them, not the camera.
-
-CAMERA
-| Element | Specification |
-| --- | --- |
-| Shot Type | Medium Shot |
-| Camera Height | Slightly low, approximately at the German Shepherd's shoulder height |
-| Camera Angle | Gentle three-quarter view, positioned slightly behind and to the side of the dog so its side profile is clearly visible while it looks toward the embracing couple, who remain fully visible beyond it |
-| Lens Feeling | 50 mm natural cinematic perspective with gentle compression |
-| Composition | German Shepherd occupies the lower foreground in a clean three-quarter side profile, facing the couple. Mother and Father embrace in the midground beyond the dog. The dog acts as the visual foreground anchor without blocking the couple. The stone well, curry leaf tree, banana plants, and backyard remain softly visible in the background. |
-| Depth of Field | Medium-shallow. The German Shepherd remains the sharpest subject while Mother and Father are slightly softer but still clearly recognizable. The background fades gently into painterly atmospheric softness. |
-| Animation Preparation | Leave clear negative space around the dog's head so the next Google Flow animation can perform a gentle push-in toward its face while it tilts its head slightly upward toward the couple and lets out a soft whimper. |
-
-STYLE
-Original painterly 2D anime-inspired illustration with soft digital brushwork,
-subtle watercolor and gouache textures, expressive clean line art, gentle
-cel-style painted shading, matte finish, warm cinematic lighting, authentic
-1990s South Indian village atmosphere, handcrafted animation aesthetic,
-emotionally warm and timeless.
+Studio Ghibli-inspired digital anime aesthetic — soft, warm, and emotionally resonant. Painterly digital rendering with simulated watercolor and gouache textures. Soft matte finish. Soft delicate linework with slight variation. Naturalistic anime proportions; soft rounded faces; expressive but grounded eyes approximately 1/5 of face height. Soft cel-style shading blended with painted digital brushwork. Richly illustrated digital backgrounds with atmospheric depth. Authentic 1990s South Indian village atmosphere, emotionally warm and timeless.
 
 Family Dog (STRICT Character Lock)
-Large healthy German Shepherd with a rich black-and-tan coat, thick fluffy
-double coat, black saddle marking, tan legs, chest and face, long pointed muzzle,
-large erect triangular ears held softly backward, warm intelligent brown eyes,
-fluffy neck ruff, feathered legs, full bushy tail resting naturally beside the
-body. Body in clear three-quarter side profile facing toward Mother and Father;
-head rotated upward toward their faces, not toward the camera.
+Large healthy German Shepherd with a **classic black-and-tan, fully fluffy** long
+double coat — **black saddle and back**, **rich tan/cream on legs, chest, belly,
+muzzle, and eyebrows**. Thick fluffy neck ruff, feathered legs, full bushy tail
+curled naturally. Warm intelligent brown eyes, gentle happy expression. Soft
+Ghibli-inspired digital anime animal rendering. NOT solid all-black.
 
 Mother (Character Bible Lock)
 Young South Indian woman (28–30), warm medium-brown skin, expressive warm brown
@@ -385,11 +282,13 @@ thali pendant, small left-nostril gold nose pin, thin glass bangles, gentle
 affectionate smile.
 
 Father (Character Bible Lock)
-South Indian farmer (30–32), medium-brown outdoor complexion, lean athletic
-build, thick naturally tousled medium-length black hair, light natural stubble,
-warm expressive brown eyes, approved practical work clothing, gently embracing
-Mother with a relaxed smile. Match
-11_Assets/Character_References/Father_Canon_Design_Reference.png for identity.
+South Indian farmer (31–33), medium-brown complexion, lean athletic build with
+broad shoulders, thick black medium-length hair slightly textured and sometimes
+tousled, neatly trimmed black mustache with clean-shaven jaw, warm brown eyes,
+handsome traditional features, light-coloured cotton shirt with rolled sleeves,
+white cream veshti with thin gold kasavu border, barefoot, calm confident gentle
+smile. Match 11_Assets/Character_References/Father_Canon_Design_Reference.png
+for identity.
 
 ENVIRONMENT
 Traditional backyard beside the permanent stone well from the World Layout

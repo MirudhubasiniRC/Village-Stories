@@ -110,12 +110,19 @@ This peaceful ritual prepares her mind before beginning household work.
 
 Mother prepares fresh tea for the family.
 
+During this beat her hair remains in the **morning free-hair state** — long
+voluminous wavy black hair worn fully down over her shoulders.
+
 She naturally:
 
 - Lights the clay stove if needed.
 - Boils fresh water.
 - Prepares traditional tea.
+- May sit quietly with her own steaming mug at the kitchen window before serving.
 - Serves Father and other family members.
+
+After morning tea she gathers her hair into the canonical **half-up** daytime
+style before breakfast preparation and active household work.
 
 Morning tea marks the beginning of the family's daily activities.
 

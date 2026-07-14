@@ -328,7 +328,7 @@ the clip at normal speed and inspect its start, midpoint, and end frames.
 
 - Identity becomes a different person, even briefly.
 - Mother’s required visible jewellery is removed, multiplied, or redesigned.
-- Father’s face, hair, stubble, or build drifts from the approved identity.
+- Father’s face, hair, mustache, or build drifts from the approved identity.
 - A modern item, branding, modern infrastructure, or unsupported person enters.
 - Sun direction, weather, or time shifts mid-clip.
 - A tool passes through a hand, an object duplicates, or a state reverses.

@@ -32,9 +32,13 @@ Approximately:
 
 **130–140 cm**
 
+Top of head reaches roughly **Mother's shoulder height** when standing beside her.
+
 Clearly shorter than Father and Mother.
 
 Clearly taller than Younger Daughter.
+
+See `01_Canon/Relative_Height_And_Scale.md`.
 
 ---
 

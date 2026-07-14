@@ -149,7 +149,7 @@ absence of threat where the scene could be misread.
 
 ### ID-01: Character Face Or Body Drift
 
-**Symptoms:** recurring person changes age, complexion, face, hair, stubble,
+**Symptoms:** recurring person changes age, complexion, face, hair, mustache,
 build, posture, or reads as a different person between images or frames.
 
 **Likely causes:** identity reference absent or assigned no role; overloaded
@@ -183,14 +183,14 @@ unapproved multiplication or removal of Mother's required details.
 ### ID-03: Family Dog Mischaracterized
 
 **Symptoms:** dog becomes wolf-like, aggressive, injured, police/military,
-rescue/chase device, or a different breed.
+solid all-black or wrong coat colour, rescue/chase device, or a different breed.
 
 **Likely causes:** generic “dog” wording, dramatic action, unsafe reference, or
 tool completion bias.
 
-**Repair:** reject; restore the gentle German Shepherd household-companion lock,
-use an approved reference if available, and reduce the dog’s role to an
-ordinary, source-backed behavior.
+**Repair:** reject; restore the gentle black-and-tan fluffy German Shepherd
+household-companion lock, use an approved reference if available, and reduce the
+dog’s role to an ordinary, source-backed behavior.
 
 ### LOC-01: Location Layout Or Geography Changes
 

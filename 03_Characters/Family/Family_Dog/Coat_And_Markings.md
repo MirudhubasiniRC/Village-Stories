@@ -21,7 +21,8 @@ Village life may add temporary dust or dampness, but the underlying pattern neve
 Maintain:
 
 - Classic German Shepherd double-coat feel.
-- Medium length suitable for outdoor Tamil Nadu life.
+- **Fully fluffy** thick long coat — generous neck ruff, feathered legs, full bushy tail.
+- Fluff reads soft and voluminous in Ghibli-inspired digital anime rendering.
 - Natural weather response.
 - Healthy sheen from care—not oily, not glamorous.
 
@@ -29,14 +30,17 @@ Maintain:
 
 # Permanent Colour Pattern
 
-Canonical pattern:
+Canonical pattern — **classic black-and-tan German Shepherd, fully fluffy**:
 
-- Black-and-tan German Shepherd marking.
-- Black saddle across the back.
-- Tan to rich warm brown on legs, chest sides, and facial points as breed-typical.
-- Black muzzle.
-- Darker ears.
-- Lighter tan on lower legs and eyebrows points as natural breed detail.
+- **Predominantly black** saddle and back — black across upper body, neck, and
+  much of the sides.
+- **Dark muzzle** with **traditional rich tan / warm cream markings** on legs,
+  chest, belly, neck, and eyebrows (tan points).
+- Clear **black-and-tan saddle pattern** — the original, recognisable German
+  Shepherd colourway.
+- Overall read: **a classic black-and-tan, long-coated fluffy German Shepherd**
+  — never solid all-black, never sable-only, never brown Indie dog, never
+  wolf-grey.
 
 This pattern is permanent.
 
@@ -46,15 +50,14 @@ This pattern is permanent.
 
 Never randomly:
 
-- Flip saddle coverage.
-- Recolour him solid black.
-- Recolour him solid brown.
+- Remove tan markings and render him solid all-black.
+- Remove black saddle and render him solid tan or brown.
+- Recolour him sable-only, grey, or wolf-like.
 - Add white patches not previously established.
-- Change him to sable-only or unrelated patterns between episodes.
+- Thin the coat into a short or sleek show-dog look.
 
-If a tiny unique marking (for example a subtle chest detail) is introduced, document it here before use and keep forever.
-
-Default canon uses classic clean black-and-tan without special unique scars unless a story permanently adds one.
+Default canon uses a **classic black-and-tan, fully fluffy** German Shepherd without
+special unique scars unless a story permanently adds one.
 
 ---
 
@@ -107,7 +110,7 @@ These must reset naturally.
 
 # Continuity Rules
 
-Always maintain classic black-and-tan German Shepherd coat identity.
+Always maintain **classic black-and-tan, fully fluffy** German Shepherd coat identity.
 
 Never redesign colourway for aesthetic variety.
 
@@ -121,4 +124,5 @@ This document permanently defines the Family Dog's coat and markings throughout 
 
 # Guiding Principle
 
-His coat should be as recognizable as Mother's hairstyle or Father's silhouette—same black saddle, same tan points, same dog, every episode.
+His coat should be as recognizable as Mother's hairstyle or Father's
+silhouette—same black-and-tan saddle pattern, same fluffy volume, same dog, every episode.

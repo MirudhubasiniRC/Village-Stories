@@ -43,6 +43,8 @@ The Family Dog is permanently a:
 
 He must always remain visually and behaviourally a German Shepherd living as a rural Tamil Nadu family dog in the early 1990s.
 
+Coat canon: **classic black-and-tan** — predominantly black saddle/back with rich tan/cream markings; **fully fluffy** long double coat.
+
 He is never portrayed as:
 
 * A police dog.

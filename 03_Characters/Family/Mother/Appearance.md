@@ -12,6 +12,39 @@ Clothing, personality, behaviour, and expressions are documented separately.
 
 ---
 
+# Canon Visual Reference
+
+Mother's permanent visual-reference image is:
+
+```text
+11_Assets/Character_References/Mother_Canon_Design_Reference.png
+```
+
+This image establishes Mother's recurring face, jewellery, hairstyle, expression
+range, and the **official Ghibli-inspired digital anime rendering standard** for
+female characters in Village Stories.
+
+**Approved identity reference:** beautiful young South Indian woman, age 28–30;
+soft rounded face; warm expressive brown eyes approximately 1/5 of face height;
+small red or maroon tilak bindi; gold nose pin on left nostril; **small black
+mole on left side of chin**; long thick wavy black hair; warm medium-fair
+complexion with golden undertones; gentle warm smile.
+
+**Cooking / filter-coffee reference look:** traditional **low clutch hairstyle**
+(gathered at back); mustard or dark green cotton saree; pouring filter coffee
+between two brass tumblers with soft steam; semi-open traditional kitchen with
+terracotta roof, red oxide floor, raised clay stove, west-facing window at dusk.
+Save approved output to `Mother_Canon_Design_Reference.png`.
+
+**Morning reference look:** free hair worn fully down over shoulders while waking,
+praying, or having early morning tea — cream or off-white cotton saree with thin
+gold border, holding a simple clay or ceramic tea mug with steam.
+
+Save the approved Google Flow output that matches this document and
+`01_Canon/01_Series_Style_Lock/Art_Style.md` to that path before production use.
+
+---
+
 # Permanent Jewellery Identity
 
 Mother's recurring jewellery identity is deliberately modest and stable:
@@ -41,7 +74,7 @@ She should appear naturally beautiful through authenticity rather than glamour.
 
 Approximately:
 
-**30–35 years old**
+**30–35 years old** (approved reference generation: **28–30**).
 
 She should consistently appear within this age range throughout the series unless a future canonical time jump occurs.
 
@@ -51,9 +84,10 @@ She should consistently appear within this age range throughout the series unles
 
 Approximately:
 
-**155–160 cm**
+**155–160 cm (5'2"–5'3")**
 
-She is slightly shorter than Father.
+She is approximately **5 cm / 2 inches shorter than Father** — see
+`01_Canon/Relative_Height_And_Scale.md`.
 
 Her height remains consistent in every scene.
 
@@ -77,23 +111,25 @@ Her body reflects everyday village life rather than exercise.
 
 Maintain:
 
-- Warm medium-brown South Indian complexion.
+- Warm **medium-fair** golden-tan to medium-brown South Indian complexion.
+- Natural warm golden undertones.
 - Natural sun-kissed skin from outdoor activities.
-- Healthy skin texture.
+- Subtle airbrushed rosy blush on cheeks in anime rendering.
+- Healthy painterly digital skin shading with soft matte finish — not photoreal pores.
 - Slight tanning on arms and face.
 
-Avoid unrealistic beauty-filter skin.
+Avoid unrealistic beauty-filter skin or orange oversaturated tones.
 
 ---
 
 # Face Shape
 
-Maintain:
+Maintain — naturalistic Ghibli-inspired anime face design:
 
-- Soft oval face.
+- Soft rounded oval face.
 - Gentle jawline.
 - Rounded cheeks.
-- Soft feminine proportions.
+- Warm feminine proportions matching the approved Mother reference.
 
 Her face should immediately communicate warmth and kindness.
 
@@ -104,12 +140,14 @@ Her face should immediately communicate warmth and kindness.
 Maintain:
 
 - Dark brown.
-- Almond shaped.
-- Medium size.
-- Calm gaze.
+- Expressive but grounded — approximately 1/5 of face height.
+- Almond-shaped with soft naturalistic anime proportion.
+- Subtle catchlights.
+- Calm compassionate gaze.
 - Gentle eye movement.
 
-Her eyes naturally express compassion and patience.
+Her eyes naturally express compassion and patience — warm and readable, never
+oversized or doll-like.
 
 ---
 
@@ -117,10 +155,10 @@ Her eyes naturally express compassion and patience.
 
 Maintain:
 
-- Naturally thick.
-- Softly curved.
+- Thin neatly arched black eyebrows.
+- Soft clean anime linework.
 - Well balanced.
-- Never heavily shaped.
+- Never heavily shaped or fashion-styled.
 
 ---
 
@@ -128,9 +166,9 @@ Maintain:
 
 Maintain:
 
-- Traditional South Indian proportions.
-- Medium width.
-- Soft rounded bridge.
+- Small delicate slightly upturned nose.
+- Clean anime outline.
+- Traditional South Indian warmth without photoreal sculpting.
 - Natural appearance.
 
 Wear:
@@ -145,7 +183,9 @@ The nose pin is part of Mother's permanent appearance.
 
 Maintain:
 
-- Medium fullness.
+- Soft natural gently smiling pink lips.
+- Clean outlines.
+- Medium-to-slightly fuller anime proportion.
 - Naturally defined.
 - Soft smile.
 
@@ -170,26 +210,46 @@ Hair should never appear artificially styled.
 
 # Hairstyle
 
-Mother's permanent everyday hairstyle is a traditional South Indian half-up hairstyle.
+Mother has **three canonical everyday hair states**:
 
-Maintain:
+## Morning — free hair (wake through early morning)
+
+From waking until she finishes morning tea and prepares for household work:
+
+- Long, thick, voluminous wavy black hair worn **fully down**.
+- Hair flows naturally over shoulders and back.
+- Soft waves with natural volume — not tied, not half-up, not in a bun.
+- A few strands may frame the face softly.
+
+Use free hair for:
+
+- Before sunrise and freshening up.
+- Morning prayer.
+- Early morning tea alone or with family.
+- Quiet first moments at the kitchen window.
+
+## Daytime — half-up (ordinary outdoor and general household)
+
+After morning preparation through most of the ordinary day:
 
 - Upper section gently gathered and secured at the back.
-- Remaining hair flowing naturally down the back.
+- Remaining long voluminous wavy black hair flowing naturally down the back.
+- Soft side-framing strands neatly framing the face.
 - Soft waves through the lower half.
-- Clean, neat, timeless appearance.
+- Clean, neat, practical appearance.
 
-No modern salon styling.
+## Cooking and indoor work — low clutch
 
-This hairstyle is canonical.
+During active cooking, filter-coffee preparation, and sustained kitchen labour:
 
-Cooking or heavy work:
-
-- Hair may temporarily be tied into a low bun or simple braid for safety.
+- Long thick wavy black hair **gathered into a traditional low clutch at the back**.
+- Neat, practical, face-clear styling — parted cleanly, secured low behind head.
+- Consistent with the approved Mother kitchen reference look.
 
 After work:
 
-- Hair returns to the canonical half-up hairstyle.
+- Hair returns to the canonical **half-up** daytime hairstyle — not free hair,
+  unless the scene is explicitly the next morning.
 
 Festivals:
 
@@ -208,12 +268,25 @@ These ceremonial ornaments are never used during ordinary days.
 Maintain:
 
 - Medium forehead.
-- Small traditional red tilak bindi.
+- Small traditional red or **maroon** **tilak bindi** — precise circular bindi.
 - Round.
 - Centered.
 - Worn every day.
+- Mandatory in every image and scene unless a documented canonical exception
+  exists.
 
 Festival occasions may use a slightly larger decorative bindi.
+
+---
+
+# Permanent Facial Marks
+
+Mother has one permanent small black mole — identity mark, never removed:
+
+- **Small black mole on the left side of the chin.**
+
+The mole is small, natural, and clearly visible in medium shots and closer.
+Never relocate, remove, multiply, or enlarge it.
 
 ---
 
@@ -335,7 +408,8 @@ Mother should remain instantly recognizable through:
 
 - Traditional half-up long black hairstyle.
 - Warm medium-brown complexion.
-- Small red tilak bindi.
+- Small red or maroon tilak bindi.
+- **Small black mole on left side of chin.**
 - Small gold nose pin.
 - Small gold jhumkas.
 - One simple gold thali chain.
@@ -448,7 +522,8 @@ Always maintain:
 - Traditional South Indian appearance.
 - Warm medium-brown complexion.
 - Long black half-up hairstyle.
-- Small red tilak bindi.
+- Small red or maroon tilak bindi.
+- **Small black mole on left side of chin.**
 - Small gold nose pin.
 - Small traditional gold jhumkas.
 - One simple gold chain carrying her traditional thali pendant.
@@ -463,6 +538,7 @@ Never:
 - Change facial proportions.
 - Remove permanent jewellery without story justification.
 - Remove the everyday bindi.
+- Remove or relocate the permanent left-chin mole.
 - Cut or recolour the hair.
 - Introduce heavy makeup.
 - Modernize her appearance.

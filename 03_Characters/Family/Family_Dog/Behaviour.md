@@ -92,7 +92,9 @@ With Father:
 # Signature Habits
 
 - Waiting at Kitchen entrance.
-- Resting under Front Thinnai or Backyard shade.
+- **Resting on Front Thinnai terracotta tiles** in afternoon shade, ears softly
+  alert toward family voices inside.
+- Resting under Backyard shade.
 - Escorting children within compound.
 - Evening perimeter walk feeling.
 - Lying with head on paws during family conversation.

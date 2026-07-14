@@ -422,18 +422,17 @@ imitation.
 
 **Immutable instructions:**
 
-- Original painterly 2D anime-inspired illustration matching
-  `11_Assets/Character_References/Father_Canon_Design_Reference.png`.
+- Studio Ghibli-inspired digital anime aesthetic matching
+  `11_Assets/Character_References/Mother_Canon_Design_Reference.png`.
 - Apply the same anime finish to every visible element in frame.
-- Thin clean consistent line art.
-- Soft cel-style painted shading with subtle gradients.
-- Matte, non-glossy finish.
-- Warm cinematic lighting and earthy grounded palette.
-- Handcrafted animation aesthetic.
-- Early-1990s rural Tamil Nadu cultural grounding.
-- No named studio, artist, film, franchise, or external-property imitation.
-- No photorealism, plastic CGI, 3D rendering, chibi comedy, Western cartoon, or
-  glossy AI ornamentation.
+- Painterly digital rendering with simulated watercolor and gouache textures.
+- Soft matte finish; soft delicate linework with slight variation.
+- Naturalistic anime proportions; soft rounded faces; grounded expressive eyes.
+- Soft cel-style shading blended with painted digital brushwork.
+- Richly illustrated digital backgrounds with atmospheric depth.
+- Early-1990s rural Tamil Nadu cultural grounding as setting.
+- No hard flat cel blocks without blending, photorealism, plastic CGI, 3D rendering,
+  chibi comedy, Western cartoon, Bollywood saturation, or glossy AI ornamentation.
 
 **Approved variables:**
 
@@ -447,12 +446,7 @@ imitation.
 ```text
 Use the original Village Stories anime style for the entire frame — all
 characters, animals, objects, buildings, plants, and backgrounds. Match
-11_Assets/Character_References/Father_Canon_Design_Reference.png. Original
-painterly 2D anime-inspired illustration; soft digital brushwork; subtle
-watercolor and gouache textures; expressive clean line art; gentle cel-style
-painted shading; matte finish; warm cinematic lighting; authentic early-1990s
-South Indian village atmosphere; handcrafted animation aesthetic; emotionally
-warm and timeless. Do not imitate named external creators or properties.
+11_Assets/Character_References/Mother_Canon_Design_Reference.png. Studio Ghibli-inspired digital anime aesthetic — soft, warm, and emotionally resonant. Painterly digital rendering with simulated watercolor and gouache textures. Soft matte finish. Soft, delicate linework with slight variation. Gentle, expressive character designs with naturalistic anime proportions (soft rounded faces, expressive but grounded eyes approximately 1/5 of face height). Soft cel-style shading blended with painted digital brushwork. Richly illustrated digital backgrounds with atmospheric depth. Authentic early-1990s South Indian village setting; emotionally warm and timeless.
 ```
 
 **Validation:** every element in the candidate reads as one cohesive anime world,
@@ -506,25 +500,46 @@ one.
 
 **Father lock when applicable:**
 
-- Same recurring man established by
-  `11_Assets/Character_References/Father_Canon_Design_Reference.png`.
-- Thick naturally tousled black hair.
-- Light natural stubble.
-- Warm medium-brown South Indian complexion.
-- Lean farmer build with broad shoulders and strong forearms.
-- Calm, grounded, observant manner.
-- Approved practical clothing only.
+- Same recurring man from `Father_Canon_Design_Reference.png` — attach as
+  **CHARACTER_IDENTITY**.
+- **Strong structured masculine face**, **prominent angular jawline**, slightly
+  rectangular lean — NOT soft round face.
+- **Medium-to-fair** warm golden complexion (#E8C89A–#DDBF8A); warm brown eyes.
+- Thick wavy black hair medium length, soft side part.
+- **Neatly trimmed solid black moustache**; clean-shaven jaw.
+- **Lean athletic build** with broad shoulders; **5'5"–5'7" (165–170 cm)** — tallest
+  family member.
+- **White or cream veshti** daily; **checked cotton lungi** for household work;
+  light-coloured shirt with rolled sleeves; **barefoot** by default; **simple
+  rubber sandals** for travel.
+- Quiet, kind, calm confident manner.
 
 **Mother lock when applicable:**
 
-- Preserve approved face, warm medium-brown complexion, and practical cotton
-  saree and blouse logic.
+- Preserve approved face, warm medium-fair complexion, **5'2"–5'3" (157–160 cm)**,
+  and practical cotton saree and blouse logic.
 - Traditional half-up black hairstyle unless an approved work-safe arrangement
   applies.
-- Small red bindi, left-nostril gold nose pin, thin glass bangles, small
-  traditional gold jhumkas, and exactly one simple gold chain with traditional
+- Small red or maroon bindi; **small black mole on left side of chin**;
+  left-nostril gold nose pin; thin glass bangles; small
+  traditional gold jhumkas; and exactly one simple gold chain with traditional
   thali pendant.
 - Never glamorize, bridal-style, multiply, remove, or replace these details.
+
+**Relative scale when two or more characters share a frame** — authority:
+`01_Canon/Relative_Height_And_Scale.md`:
+
+```text
+SCALE LOCK (Father = tallest):
+Father — 5'5"–5'7", tallest adult in frame, lean athletic build.
+Mother — 5'2"–5'3", visibly ~5 cm shorter than Father, slim graceful build.
+Elder Brother — top of head reaches Mother's shoulder.
+Younger Daughter — top of head reaches Mother's chest/mid-torso; shorter than Elder Brother.
+Family Dog (standing) — mid-thigh height on Father.
+```
+
+Solo shots: use absolute height only. Multi-character shots: **must** include
+SCALE LOCK.
 
 **Approved variables:**
 
@@ -588,6 +603,9 @@ emotion, action, or costume.
 **Immutable instructions:**
 
 - The dog is a gentle German Shepherd household companion.
+- **Classic black-and-tan coat** — predominantly black saddle/back, rich tan/cream
+  on legs, chest, belly, muzzle, and eyebrows.
+- **Fully fluffy** long double coat with thick ruff, feathered legs, bushy tail.
 - It may wait, follow, observe, rest, respond softly, play naturally, or receive
   ordinary care.
 - It is never attack, police, military, chase, rescue, missing-pet, injury,
@@ -606,8 +624,11 @@ emotion, action, or costume.
 
 ```text
 The Family Dog is present only as a gentle household companion, [VARIABLE:
-approved simple behaviour]. Keep the dog calm, naturally proportioned, and
-non-threatening; do not add a chase, rescue, injury, or dramatic reaction.
+approved simple behaviour]. Preserve classic black-and-tan fluffy German Shepherd
+coat — black saddle, dark muzzle, tan/cream legs and chest. Canonical resting:
+Front Thinnai terracotta tiles in afternoon shade. Keep the dog calm, naturally
+proportioned, and non-threatening; do not add a chase, rescue, injury, solid
+all-black coat, or dramatic reaction.
 ```
 
 **Validation:** dog action is ordinary, safe, and not used to fabricate stakes.
@@ -657,8 +678,11 @@ shots.
 **Immutable instructions:**
 
 - Time, season, weather, and light follow the approved scene ledger.
-- Morning arrives from the east; evening from the west.
-- Light follows architecture, orientation, weather, and material response.
+- Use one **Lighting Family** per shot: **Warm & Sunlit** or **Cool & Monsoon**
+  — see `01_Canon/01_Series_Style_Lock/Lighting_Style.md`.
+- Morning arrives from the east; evening from the west; Kitchen window is
+  west-facing — see `01_Canon/Character_Color_And_Light_Reference.md`.
+- Character skin and wardrobe hex values follow the same lighting family.
 - Monsoon is inviting with cool diffused daylight, not a blue-black disaster
   treatment.
 
@@ -674,9 +698,12 @@ shots.
 **Template:**
 
 ```text
+Lighting Family: [Warm & Sunlit | Cool & Monsoon].
 [Season / time / weather]. [Documented light] comes from [direction] and creates
-[visible physical consequence]. Preserve continuity with [incoming / outgoing
-scene state]; do not reverse sun direction or alter weather for spectacle.
+[visible physical consequence]. Skin and wardrobe colours per
+01_Canon/Character_Color_And_Light_Reference.md. Preserve continuity with
+[incoming / outgoing scene state]; do not reverse sun direction or alter weather
+for spectacle.
 ```
 
 **Validation:** candidate light, shadows, wetness, and atmosphere match the

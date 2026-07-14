@@ -221,6 +221,9 @@ Joy → colourful flowers, fruit, fabrics, and village life.
 
 Colour should support emotion without becoming symbolic or exaggerated.
 
+**Production hex values** for character skin, wardrobe, and key environments
+are locked in `01_Canon/Character_Color_And_Light_Reference.md`.
+
 ---
 
 # Traditional Colour Sources

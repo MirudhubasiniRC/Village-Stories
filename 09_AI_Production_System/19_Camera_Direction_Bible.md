@@ -1375,8 +1375,9 @@ Do not turn weather into disaster imagery unless canon explicitly requires it.
 
 Frame Father with grounded, natural proportion.
 
-Show his lean farmer build, broad shoulders, strong forearms, natural stubble,
-and recurring hair only when the selected size can genuinely support them.
+Show his lean athletic build, broad shoulders, strong forearms, neatly trimmed
+black mustache, and recurring hair only when the selected size can genuinely
+support them.
 
 Do not use low angles to make him imposing.
 

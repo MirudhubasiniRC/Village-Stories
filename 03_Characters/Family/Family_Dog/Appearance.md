@@ -77,9 +77,31 @@ Full coat details are locked in Coat_And_Markings.md.
 
 Summary:
 
-- Classic black-and-tan German Shepherd pattern.
-- Medium outdoor coat.
+- **Classic black-and-tan** German Shepherd — predominantly black saddle/back with
+  rich tan/cream on legs, chest, belly, muzzle, and eyebrows.
+- **Fully fluffy** thick double coat with bushy ruff and tail.
 - Natural village texture—clean enough from family care, not salon-perfect.
+
+---
+
+# Canon Visual Reference
+
+Approved Family Dog identity reference:
+
+```text
+11_Assets/Character_References/Family_Dog_Canon_Design_Reference.png
+```
+
+**Approved look:** large healthy German Shepherd; **classic black-and-tan** fluffy
+long coat with prominent **black saddle and back**, **dark muzzle**, and rich
+**tan/cream on legs, chest, belly, neck, and eyebrows** (tan points); **fully
+fluffy** thick double coat — dense neck ruff, feathered legs, full bushy tail;
+erect ears; warm intelligent dark brown eyes; gentle peaceful happy expression;
+soft Ghibli-inspired digital anime animal rendering.
+
+**Approved resting scene:** lying on Front Thinnai terracotta tiles in afternoon
+shade, ears softly alert toward family voices inside — matching
+`Front_Thinnai_Canon_Design_Reference.png`.
 
 ---
 
@@ -97,7 +119,10 @@ Summary:
 The Family Dog should remain instantly recognizable through:
 
 - German Shepherd silhouette.
-- Black-and-tan saddle pattern.
+- Classic black-and-tan coat — prominent black saddle and dark muzzle; rich
+  tan/cream on legs, chest, belly, neck, and eyebrows.
+- Fully fluffy neck ruff, feathered legs, bushy tail resting naturally.
+- Typical resting pose on **Front Thinnai terracotta tiles** in afternoon shade.
 - Erect ears.
 - Intelligent eyes.
 - Calm compound presence.

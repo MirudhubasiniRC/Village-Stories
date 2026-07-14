@@ -78,6 +78,10 @@ Avoid making monsoon scenes feel cold or lifeless.
 
 Even cloudy days should remain emotionally inviting.
 
+**Prompt labels:** `Lighting Family: Warm & Sunlit` or `Lighting Family: Cool &
+Monsoon`. Character skin and scene colour hex values:
+`01_Canon/Character_Color_And_Light_Reference.md`.
+
 ---
 
 # Global Sun Orientation

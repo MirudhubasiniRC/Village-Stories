@@ -23,7 +23,10 @@ Always preserve:
 Always preserve:
 
 - Classic German Shepherd silhouette.
-- Black-and-tan saddle pattern.
+- Black-and-tan coat — black saddle/back, dark muzzle, rich tan/cream on legs,
+  chest, belly, and eyebrows.
+- Fully fluffy long coat.
+- Canonical resting location: **Front Thinnai** afternoon shade.
 - Erect ears.
 - Intelligent dark eyes.
 - Medium-large healthy build.

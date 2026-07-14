@@ -98,10 +98,11 @@ or continuity-critical shot from guesswork.
 ### Recurring Identity Locks
 
 When Father is visible, preserve the same recurring man defined by
-`11_Assets/Character_References/Father_Canon_Design_Reference.png`: thick
-naturally tousled black hair, light natural stubble, warm medium-brown South
-Indian complexion, lean farmer build with broad shoulders and strong forearms,
-and calm, grounded manner. Attach the stored reference as
+`11_Assets/Character_References/Father_Canon_Design_Reference.png`: **medium
+brown** complexion, **warm brown eyes**, thick black medium-length hair slightly
+textured and sometimes tousled, **neatly trimmed black mustache** with
+clean-shaven jaw, **lean athletic build** with broad shoulders and strong
+forearms, and quiet calm confident manner. Attach the stored reference as
 `CHARACTER_IDENTITY` whenever Flow supports it and Father is a principal
 subject, his face is visible, a setup establishes him, or a candidate repairs
 his identity. It controls identity, not incidental pose, light, or background.
@@ -114,10 +115,10 @@ chain carrying a traditional thali pendant. Her jhumkas and single thali chain
 may respond subtly to natural body motion; do not replace, multiply, remove, or
 make them ornate.
 
-The Family Dog remains a gentle German Shepherd household companion. It may
-wait, follow, look, rest, respond softly, or play naturally. It is never an
-attack, police/military, chase, rescue, missing-pet, injury, threat, or stakes
-device.
+The Family Dog remains a gentle German Shepherd household companion with
+classic black-and-tan fluffy coat. It may wait, follow, look, rest, respond
+softly, or play naturally. It is never solid all-black, an attack, police/military,
+chase, rescue, missing-pet, injury, threat, or stakes device.
 
 ---
 
@@ -452,8 +453,9 @@ running, chase, rescue, threat, panic, animal distress, or unapproved event.
 
 When Mother is visible, also specify: no missing jhumkas, no extra necklace, no
 missing or altered thali pendant, and no ornate jewellery. When Father is
-visible, specify: same person as the attached canon reference; no clean shave,
-heavy beard, salon styling, fashion-model treatment, or gym-built body.
+visible, specify: same person as the attached canon reference; neatly trimmed
+black mustache with clean-shaven jaw; no stubble-only jaw, heavy beard, salon
+styling, fashion-model treatment, or gym-built body.
 
 ---
 

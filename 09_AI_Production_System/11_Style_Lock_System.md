@@ -9,9 +9,9 @@ original visual identity.
 It converts the series art direction into small, traceable prompt locks. It
 does not ask a model to “make it cinematic” or to copy a recognizable outside
 work. It specifies the visible properties that make Village Stories itself:
-original high-quality slice-of-life anime matching
-`11_Assets/Character_References/Father_Canon_Design_Reference.png`; thin clean
-consistent line art; soft cel-style painted shading; warm cinematic lighting;
+Studio Ghibli-inspired digital anime aesthetic matching
+`11_Assets/Character_References/Mother_Canon_Design_Reference.png`; clean defined
+line art; soft gradient shading with atmospheric depth; muted cinematic color grading;
 natural South Indian people and anatomy; lived-in early-1990s rural Tamil
 environments; and quiet human dignity.
 
@@ -70,15 +70,15 @@ movement. Use the relevant source for those decisions. In particular,
 Every asset must retain all applicable parts of this identity:
 
 ```text
-Original high-quality slice-of-life anime for a warm, restrained Village Stories
+Original high-quality smooth digital anime for a warm, restrained Village Stories
 series. Match the illustration language of
-11_Assets/Character_References/Father_Canon_Design_Reference.png. Thin clean
-consistent line art. Soft cel-style painted shading with subtle gradients. Warm
-cinematic lighting and earthy grounded palette. Natural South Indian people
-with believable anime proportions, grounded posture, and subtle expression.
-Detailed, culturally accurate, lived-in early-1990s rural Tamil Nadu
-environments. Natural atmosphere and story-serving composition. Ordinary life
-is observed with dignity, never turned into spectacle.
+11_Assets/Character_References/Mother_Canon_Design_Reference.png. Clean defined
+line art. Polished digital painting with soft gradient shading and atmospheric
+depth. Muted cinematic color grading; Japanese anime palette on Indian settings.
+Natural South Indian people with believable anime proportions, grounded posture,
+and subtle expression. Detailed, culturally accurate, lived-in early-1990s rural
+Tamil Nadu environments. Natural atmosphere and story-serving composition.
+Ordinary life is observed with dignity, never turned into spectacle.
 ```
 
 This is a description of Village Stories’ original visual properties. Never
@@ -110,19 +110,20 @@ Use the following core in every image-generation prompt, then add contextual
 locks and scene-specific facts:
 
 ```text
-ORIGINAL STYLE LOCK — Original painterly 2D anime-inspired illustration
-matching 11_Assets/Character_References/Father_Canon_Design_Reference.png; soft
-digital brushwork; subtle watercolor and gouache textures; expressive clean
-line art; gentle cel-style painted shading; matte finish; warm cinematic
-lighting; authentic early-1990s South Indian village atmosphere; handcrafted
-animation aesthetic; emotionally warm and timeless. Preserve the approved
-scene’s physical light, weather, and material state. Do not imitate or name any
-studio, artist, franchise, film, or external property.
+ORIGINAL STYLE LOCK — Studio Ghibli-inspired digital anime aesthetic matching
+11_Assets/Character_References/Mother_Canon_Design_Reference.png; soft, warm,
+emotionally resonant; painterly digital rendering with simulated watercolor and
+gouache textures; soft matte finish; soft delicate linework with slight
+variation; naturalistic anime proportions; soft rounded faces; expressive but
+grounded eyes approximately 1/5 of face height; soft cel-style shading blended
+with painted digital brushwork; richly illustrated digital backgrounds with
+atmospheric depth; authentic early-1990s South Indian village setting.
+Preserve the approved scene's physical light, weather, and material state.
 ```
 
 Do not add every clause when it is visibly irrelevant, but never remove the
-originality, South Indian anatomy, painterly-rendering, and no-imitation
-requirements. A close hand insert still needs the rendering and material
+originality, South Indian anatomy, painterly digital rendering, and
+no-imitation requirements. A close hand insert still needs the rendering and material
 language; an extreme wide still needs the environment, atmosphere, and
 non-spectacle requirements.
 
@@ -148,17 +149,18 @@ anime types or polished fashion models.
 
 ### Rendering And Linework
 
-Painterly does not mean blurry, unfinished, or inconsistent.
+Soft-gradient digital anime — not hand-painted, not flat cel blocks.
 
-- Use soft hand-painted digital brush transitions and layered natural colour.
+- Use polished digital painting with soft gradient shading and atmospheric depth.
+- Keep clean defined line art and clean-up drawing quality on characters and
+  key props.
 - Keep edges selectively clear where a face, hand, tool, food state, or
   architectural boundary must read; let distant atmosphere soften naturally.
-- Use refined organic linework only where it supports form and readability.
-  Avoid thick uniform comic outlines, contour halos, sketch residue, and
-  vector-flat treatment.
-- Keep dimensional light and material texture. Reject plastic CGI surfaces,
-  photographic skin pasted into illustration, heavy cel shading, glossy
-  gradients, airbrushed faces, and low-detail generic anime.
+- Use crisp anime linework on characters. Avoid thick uniform comic outlines,
+  contour halos, sketch residue, and vector-flat treatment.
+- Reject flat cel-shaded shadow blocks, hand-painted watercolor, gouache texture,
+  plastic CGI surfaces, photographic skin pasted into illustration, glossy
+  gradients, and low-detail generic anime.
 - Detail follows story importance. A wide view can carry rich place detail
   without becoming clutter; a close view can retain tactile detail without
   fetishizing a face or object.
@@ -238,13 +240,13 @@ Use this order so permanent identity is not confused with shot direction:
 ```
 
 For Flow, preserve the source still’s style. The animation prompt names only
-style facts at risk during motion—such as painterly material continuity, wet
+style facts at risk during motion—such as soft-gradient material continuity, wet
 surface state, skin tone, jewellery, fabric texture, smoke, rain, or light—and
 does not redescribe the entire image.
 
 ### 4. Keep factual layers separate
 
-Do not write “golden painterly monsoon magic” when the scene is an overcast,
+Do not write “golden soft-gradient monsoon magic” when the scene is an overcast,
 wet morning. Write the factual light and weather in the scene layer, then use
 the style layer to control how those facts render.
 
@@ -252,7 +254,7 @@ Correct:
 
 ```text
 Scene: overcast monsoon daylight, rain beyond the doorway, wet red-earth yard.
-Style: soft painterly rendering, cool diffused natural illumination, tactile wet
+Style: soft gradient digital rendering, cool diffused natural illumination, tactile wet
 materials, restrained colour, no disaster treatment.
 ```
 
@@ -286,25 +288,27 @@ canon-safe and the new shot shares compatible conditions.
 ### Still Image Style Module
 
 ```text
-ORIGINAL STYLE LOCK — Original painterly 2D anime-inspired illustration for the
+ORIGINAL STYLE LOCK — Smooth digital anime illustration for the
 entire frame, matching
-11_Assets/Character_References/Father_Canon_Design_Reference.png. Apply to all
-characters, animals, objects, buildings, plants, and backgrounds. Thin clean
-consistent line art; soft cel-style painted shading; matte finish; warm cinematic
-lighting; earthy grounded palette; handcrafted animation aesthetic; early-1990s
-rural Tamil Nadu. Do not imitate any named studio, artist, film, franchise, or
-external property.
+11_Assets/Character_References/Mother_Canon_Design_Reference.png. Apply to all
+characters, animals, objects, buildings, plants, and backgrounds. Polished
+digital painting with soft gradient shading; atmospheric depth; muted cinematic
+color grading; clean defined line art; clean-up drawing; polished crisp textures;
+early-1990s rural Tamil Nadu setting. NOT hand-painted watercolor, NOT gouache,
+NOT flat cel-shaded blocks, NOT 3D photorealistic. Do not imitate any named
+studio, artist, film, franchise, or external property.
 ```
 
 ### Flow Style Preservation Module
 
 ```text
-STYLE PRESERVATION — Continue the approved source image’s Village Stories anime
-rendering for the entire frame. Preserve the same line art, cel-style painted
+STYLE PRESERVATION — Continue the approved source image's Village Stories anime
+rendering for the entire frame. Preserve the same line art, soft gradient
 shading, anatomy, face and skin tone, material texture, illumination, colour
 relationship, weather state, and period-correct environment. Do not change
-rendering style, introduce plastic CGI or photorealism, beautify faces, alter
-age or anatomy, or imitate any named external property.
+rendering style, introduce plastic CGI or photorealism, flat cel blocks,
+hand-painted texture, beautify faces, alter age or anatomy, or imitate any named
+external property.
 ```
 
 ### Scene-Specific Negative Module
@@ -330,11 +334,11 @@ morning; hands, board, and earthen vessel must remain readable.
 
 Camera Direction: [approved direction-only module from Document 19].
 
-ORIGINAL STYLE LOCK — Original painterly 2D anime for the entire frame, matching
-Father_Canon_Design_Reference.png. Thin clean line art; soft cel-style painted
-shading; tactile dough, wood, brass, cotton, and damp-earth texture in the same
-anime finish; cool diffused monsoon daylight with warm interior bounce;
-lived-in, period-correct rural Tamil kitchen. Calm, dignified domestic observation.
+ORIGINAL STYLE LOCK — Smooth digital anime for the entire frame, matching
+Mother_Canon_Design_Reference.png. Clean defined line art; soft gradient shading;
+tactile dough, wood, brass, cotton, and damp-earth texture in the same anime
+finish; cool diffused monsoon daylight with warm interior bounce; lived-in,
+period-correct rural Tamil kitchen. Calm, dignified domestic observation.
 
 Negative: no glamour pose, plastic CGI, photoreal background, mixed-style frame,
 blue-black storm treatment, modern packaging, exaggerated steam, or unapproved
@@ -346,7 +350,7 @@ camera effect.
 ```text
 Source Frame: E03_S02_SH04_keyframe_v03, approved.
 STYLE PRESERVATION — Continue the approved source image’s Village Stories anime
-style for the entire frame. Preserve line art, cel-style shading, Mother’s
+style for the entire frame. Preserve line art, soft gradient shading, Mother’s
 natural South Indian anatomy and identity, cool diffused monsoon light, wet yard
 beyond the doorway, and restrained colour. No visual-style change, face
 beautification, object transformation, or named-style imitation.
@@ -390,7 +394,7 @@ reference illustration language.
 Review at full frame and at intended delivery crop. Reject a candidate if it:
 
 - imitates or visibly resembles a named external property requested in error;
-- changes the original painterly 2D anime series identity;
+- changes the smooth digital anime series identity;
 - makes South Indian people generic, lightened, glamourized, childlike,
   photographic, plastic, or anatomically implausible;
 - uses thick comic outlines, heavy cel shading, flat vector treatment, glossy
@@ -470,5 +474,5 @@ why this asset matches the series without guessing from the pixels.
 
 Describe and preserve the original visible properties of Village Stories. Do
 not borrow a visual identity from elsewhere, and do not let a model’s default
-replace cultural truth, believable South Indian anatomy, painterly material
+replace cultural truth, believable South Indian anatomy, soft-gradient digital material
 presence, or calm human dignity.

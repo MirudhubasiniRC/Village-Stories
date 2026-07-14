@@ -30,15 +30,17 @@ He teaches without announcing lessons.
 
 Father is:
 
-- Kind
-- Steady
-- Patient
-- Hardworking
+- **Quiet**
+- **Kind**
+- **Responsible**
+- **Hard-working**
+- **Patient**
+- **Protective**
+- **Gentle humour**
+- **Calm, confident presence**
 - Practical
 - Humble
 - Observant
-- Quietly humorous
-- Responsible
 - Emotionally grounded
 
 He rarely becomes the loudest person in a room.

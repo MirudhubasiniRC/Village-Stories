@@ -30,9 +30,14 @@ Approximately:
 
 **115–125 cm**
 
+Top of head reaches roughly **Mother's chest / mid-torso height** when standing
+beside her.
+
 Shorter than Elder Brother.
 
 Much shorter than Father and Mother.
+
+See `01_Canon/Relative_Height_And_Scale.md`.
 
 ---
 

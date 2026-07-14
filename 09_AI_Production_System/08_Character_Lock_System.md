@@ -61,7 +61,27 @@ Hard locks survive every shot unless a higher source explicitly changes them.
 
 Variables may change only when their start and end state are recorded.
 
-## Character Source Packet
+## Relative Height & Scale Lock
+
+Authority: `01_Canon/Relative_Height_And_Scale.md`
+
+When **two or more** recurring characters appear in one frame, relative scale is a
+hard lock — not optional.
+
+| Character | Relative to Father (tallest) |
+| --- | --- |
+| Father | Baseline — tallest human in frame |
+| Mother | ~5 cm / 2 inches shorter — slim graceful build |
+| Elder Brother | Top of head reaches Mother's shoulder |
+| Younger Daughter | Top of head reaches Mother's chest / mid-torso |
+| Family Dog (standing) | Mid-thigh height on Father |
+
+Solo shots use each character's absolute height from their appearance document.
+Multi-character shots must include the scale lock block from the canon document.
+Never make Mother equal height to Father. Never make children adult-proportioned
+beside parents.
+
+---
 
 Build one compact packet per visible character before prompt construction.
 
@@ -161,35 +181,35 @@ Father is principal, face-visible, establishing, or being repaired.
 
 ### Father Immutable Facts
 
-- Approximately 31–33 years old.
-- Warm medium-brown South Indian complexion.
+- Approximately **30–32** years old.
+- **Medium brown** South Indian complexion with healthy outdoor tone.
 - Natural outdoor tanning on face, neck, forearms, and lower legs.
-- Lean farmer build.
-- Broad shoulders.
-- Strong forearms.
+- **Tall** (175–180 cm) — **strong, lean athletic hardworking** build.
+- **Strong, capable frame** with broad shoulders and strong forearms.
 - Healthy practical muscle, never a gym physique.
-- Lean strong jawline.
-- Straight well-defined nose.
-- Dark brown almond-shaped steady eyes.
-- Naturally thick black hair.
-- Short-to-medium rural cut.
-- Softly tousled side-swept hair.
-- Slightly irregular front fringe.
-- Light naturally kept stubble.
-- No prominent separate moustache.
-- Calm, grounded posture.
+- **Handsome young South Indian man** — strong structured masculine face, strong yet
+  approachable.
+- **Prominent angular well-defined jawline** — never soft or round.
+- Slightly rectangular masculine face lean — not Mother's soft oval.
+- **Kind but strong** facial features.
+- **Sharp nose** — straight clean bridge, defined tip.
+- **Warm expressive brown** steady eyes — approximately 1/5 of face height.
+- **Thick well-kept black hair**, medium length, naturally full, slightly textured.
+- **Neatly trimmed black moustache** — clean-shaven jaw and chin.
+- Calm confident expression; gentle smile; **relaxed posture**.
+- **Warm painterly facial shading.**
 - Steady, economical walking.
 - Capable weathered hands.
 - Recognisable outdoor-worker silhouette.
 
 ### Father Wardrobe Locks
 
-- Practical cotton shirt.
-- Deep muted blue is his primary recurring work-shirt colour.
-- Cotton veshti or practical work veshti.
-- Simple cotton thundu when the scene supports it.
-- Bare feet in appropriate familiar home areas.
-- Traditional sandals where the location requires them.
+- **White or cream cotton veshti** for daily wear.
+- **Checked cotton lungi** for household work.
+- **Light-coloured cotton shirt** with rolled sleeves.
+- **Angavastram** for festivals and ceremonies.
+- **Barefoot** by default.
+- **Simple rubber sandals** for travel and longer outdoor paths.
 - Natural cotton texture and work wrinkles.
 - No fashion tailoring.
 - No synthetic shine.
@@ -197,17 +217,18 @@ Father is principal, face-visible, establishing, or being repaired.
 ### Father Permitted Variables
 
 - Sleeve roll during practical work.
-- Higher veshti fold during labour.
+- Veshti or lungi fold during labour.
 - Light sweat after heat or effort.
 - Soil, hay dust, water, sap, or grease when motivated.
-- Damp hairline after work or rain.
-- White or muted shirt variation when source-backed.
-- Cleaner white veshti and neater grooming for approved ceremony.
+- Damp or tousled hair after work or rain.
+- Deep muted blue shirt for heavy field labour only — not home identity.
+- Cleaner white veshti, angavastram, and neater grooming for approved ceremony.
 - Thundu position: shoulder, hand, head cover, or absent when not required.
 
 ### Father Negatives
 
 - Never clean-shaven.
+- Never stubble-only jaw.
 - Never heavily bearded.
 - Never handlebar moustached.
 - Never salon-styled.
@@ -233,7 +254,8 @@ Mother is the same recurring South Indian village woman in every appearance.
 - Naturally thick long black hair.
 - Everyday traditional half-up hairstyle.
 - Soft waves through the lower hair.
-- Small centered red bindi.
+- Small centered red or maroon bindi.
+- **Small black mole on left side of chin.**
 - Small gold nose pin on the left nostril.
 - Small traditional gold jhumkas.
 - Exactly one simple gold chain.
@@ -337,8 +359,11 @@ The Family Dog is a healthy adult male German Shepherd household companion.
 - Approximately 3–5 years old.
 - Male.
 - Medium-large real German Shepherd scale.
-- Classic black-and-tan saddle pattern.
-- Medium outdoor coat.
+- Standing height reaches roughly **mid-thigh on Father** when Father is standing.
+- Noticeably taller than Younger Daughter when the dog is standing and the child
+  is seated.
+- Classic black-and-tan fluffy long coat — black saddle/back, rich tan/cream on
+  legs, chest, belly, muzzle, and eyebrows.
 - Erect mobile ears.
 - Dark intelligent eyes.
 - Strong chest and athletic practical body.
@@ -367,7 +392,8 @@ The Family Dog is a healthy adult male German Shepherd household companion.
 - Never rescue device.
 - Never missing-pet hook.
 - Never injury or distress hook.
-- Never oversized wolf-like anatomy.
+- Never solid all-black coat.
+- Never sable-only or wolf-grey recolour.
 - Never polished show-dog grooming.
 - Never an unexplained collar, uniform, or leash.
 
@@ -415,8 +441,9 @@ Build character instructions in this order.
 
 Keep the wording concrete and observable.
 
-Prefer “Father, same canon-design reference, light stubble, muted blue cotton
-shirt, lifts the brass pot with both hands” to adjective piles.
+Prefer “Father, same canon-design reference, neatly trimmed black mustache,
+white veshti, light cotton shirt with rolled sleeves, lifts the brass pot with
+both hands” to adjective piles.
 
 Do not ask the model to remember an entire biography.
 
@@ -434,17 +461,58 @@ Preserve: [CARRYOVER FACTS].
 Do not show: [CHARACTER-SPECIFIC NEGATIVES].
 ```
 
-## Father Prompt Example
+## Father Flow Image Prompt (canonical)
+
+Attach `11_Assets/Character_References/Father_Canon_Design_Reference.png` as
+**CHARACTER_IDENTITY**.
+
+```text
+### STYLE
+Studio Ghibli-inspired anime aesthetic — soft, warm, emotionally resonant.
+Painterly watercolor and gouache textures, soft matte finish, delicate fine
+linework. Naturalistic anime proportions — NOT chibi, NOT shoujo.
+
+Lighting Family: Warm & Sunlit
+Time: Early morning | Season: Post-Monsoon/Harvest
+
+### FACE & JAW (priority)
+Strong structured masculine South Indian face. PROMINENT ANGULAR JAWLINE clearly
+visible. Slightly rectangular masculine structure — NOT soft round face. Strong
+cheekbones and jaw. Sharp straight nose. Handsome age 30–32.
+
+### CHARACTER
+5'5"–5'7" tallest family member. Lean athletic build. Medium-to-fair skin
+#E8C89A #E0C890 #DDBF8A. Thick wavy black hair medium length, soft side part.
+Solid neatly trimmed black moustache, clean-shaven jaw. Warm brown eyes ~1/5 face
+height. Calm confident gentle expression. White shirt rolled sleeves. White cream
+veshti #F5E6C8 thin gold kasavu border. Barefoot.
+
+### SCENE
+Standing in traditional village kitchen, hand on wooden stool beside brass water
+pot. Terracotta roof, red oxide floor, clay pots and brass on shelves. Open east
+doorway — green fields, palms, soft golden morning sun.
+
+### LIGHT & COLORS
+Morning sun from east through doorway; golden side light on jaw and face. Cream
+#F5E6C8, terracotta #C97B4A, brass gold. Never neon or HDR.
+
+### NEGATIVE
+soft round face, weak jaw, narrow chin, boyish face, feminine features, clean-shaven,
+stubble, oversized shoujo eyes, blue shirt, gym body, photoreal, CGI.
+```
+
+## Father Prompt Example (short motion / continuity)
 
 ```text
 Father, the same man from Father_Canon_Design_Reference.png, stands at the
-west-side kitchen threshold. Preserve his warm medium-brown complexion, thick
-softly tousled black hair, light natural stubble, lean farmer build, broad
-shoulders, and strong forearms. He wears his muted deep-blue cotton work shirt,
-off-white work veshti, and a soft cotton thundu on one shoulder. He sets down
-one approved water vessel with both hands, then looks toward Mother. Keep his
-calm grounded posture and screen-right-facing carryover direction. Do not make
-him clean-shaven, heavily bearded, gym-built, salon-styled, or fashion dressed.
+west-side kitchen threshold. Preserve his medium-brown complexion, thick black
+medium-length hair slightly tousled, **neatly trimmed black mustache** with
+clean-shaven jaw, lean athletic build, broad shoulders, and strong forearms. He
+wears a light-coloured cotton shirt with rolled sleeves, white cream veshti with
+thin gold kasavu border, and is barefoot. He sets down one approved water vessel
+with both hands, then looks toward Mother. Keep his calm confident posture and
+screen-right-facing carryover direction. Do not make him clean-shaven, stubble-
+jawed, heavily bearded, gym-built, salon-styled, or fashion dressed.
 ```
 
 ## Mother Prompt Example
@@ -463,12 +531,15 @@ modernise her clothing.
 ## Dog Prompt Example
 
 ```text
-The established adult male Family Dog, a calm black-and-tan German Shepherd,
-rests beside the Front Thinnai step with ears softly alert toward the family.
-Preserve his real medium-large shepherd scale, erect ears, dark eyes, outdoor
-coat texture, and gentle household-companion behaviour. He remains still except
-for a small ear turn. Do not make him threatening, uniformed, injured, chasing,
-or wolf-like.
+The established adult male Family Dog, a calm classic black-and-tan fluffy German
+Shepherd, rests on the **Front Thinnai terracotta tiles** in afternoon shade with
+ears softly alert toward family voices inside. Preserve his real medium-large
+shepherd scale, prominent black saddle with rich tan/cream legs and chest, fully
+fluffy long coat with thick ruff and bushy tail, erect ears, warm dark brown eyes,
+and gentle household-companion behaviour. He remains still except for a small ear
+turn. Match Family_Dog_Canon_Design_Reference.png and
+Front_Thinnai_Canon_Design_Reference.png. Do not make him solid all-black,
+threatening, uniformed, injured, chasing, or wolf-like.
 ```
 
 ## Scene Continuity Ledger
@@ -498,7 +569,7 @@ Before approving a shot, compare it with the incoming selected asset.
 - Same age band.
 - Same height and scale relationship.
 - Same face shape and hair silhouette.
-- Same Father stubble treatment.
+- Same Father mustache treatment — neatly trimmed, clean-shaven jaw.
 - Same Mother jewellery set and side-specific nose pin.
 - Same current garment unless a change is shown or logged.
 - Same garment wetness, soil, sleeve, pallu, and fold state where visible.
@@ -553,7 +624,7 @@ Approve only when every applicable item passes.
 - Skin tone is natural and consistent.
 - Face and hair are recognisable.
 - Father matches the canon reference.
-- Father has light stubble.
+- Father has neatly trimmed black mustache; clean-shaven jaw.
 - Mother has left-nostril nose pin.
 - Mother has small jhumkas.
 - Mother has one thali chain.
@@ -575,7 +646,7 @@ Approve only when:
 - Face does not morph.
 - Hair length and silhouette do not drift.
 - Jewellery does not vanish, multiply, or enlarge.
-- Father’s stubble does not change.
+- Father’s mustache does not change to stubble or beard.
 - Clothing does not change colour or cut.
 - Saree and veshti remain physically plausible.
 - Hands remain anatomically credible.

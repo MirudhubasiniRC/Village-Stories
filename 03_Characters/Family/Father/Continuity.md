@@ -23,19 +23,18 @@ Always preserve:
 
 Always preserve:
 
-- Age appearance approximately 31–33.
-- Warm medium-brown complexion.
-- Healthy masculine face.
-- Sharp jawline.
-- Straight well-defined nose.
-- Dark brown almond-shaped eyes.
-- Thick naturally black, softly tousled hair with a recognisable side-swept fringe.
-- Light natural stubble with a soft upper-lip shadow, never a heavy beard or prominent moustache.
-- Broad shoulders.
-- Strong forearms.
-- Natural farming athleticism.
+- Age appearance approximately **30–32**.
+- **165–170 cm (5'5"–5'7")** — tallest family member.
+- **Medium-to-fair** warm golden complexion (#E8C89A–#DDBF8A).
+- **Strong structured masculine face** with **prominent angular jawline**.
+- Handsome features — slightly rectangular lean, never soft-round.
+- **Sharp nose.**
+- Thick wavy black hair medium length, soft side part.
+- **Neatly trimmed solid black moustache**; clean-shaven jaw and chin.
+- **Lean athletic hardworking** build with broad shoulders.
+- Natural farming capability.
 - Height greater than Mother.
-- Grounded posture.
+- Calm confident grounded posture.
 - Match the visual identity in `11_Assets/Character_References/Father_Canon_Design_Reference.png`.
 
 ---
@@ -44,12 +43,13 @@ Always preserve:
 
 Always preserve:
 
-- Traditional cotton shirt, with deep muted blue as his primary recurring work-shirt colour.
-- Traditional cotton veshti / dhoti.
-- Optional shoulder thundu.
+- **White or cream veshti** for daily wear.
+- **Checked cotton lungi** for household work.
+- **Light-coloured cotton shirt** with rolled sleeves.
+- **Angavastram** for festivals and ceremonies.
+- **Barefoot** by default.
+- **Simple rubber sandals** for travel and longer outdoor paths.
 - Practical rural appearance.
-- Barefoot indoors when appropriate.
-- Traditional sandals outdoors when needed.
 - No modern fashion clothing.
 
 ---
@@ -58,15 +58,15 @@ Always preserve:
 
 Always preserve:
 
-- Kind.
+- **Quiet, kind, responsible.**
+- **Hard-working, patient.**
+- **Protective** without aggression.
+- **Gentle humour.**
+- **Calm, confident presence.**
 - Steady.
-- Patient.
-- Hardworking.
 - Humble.
 - Practical.
-- Quietly humorous.
 - Emotionally grounded.
-- Quietly confident.
 
 ---
 
@@ -182,7 +182,7 @@ Do not alter:
 
 - Facial identity.
 - Hair.
-- Light natural stubble.
+- Traditional neatly trimmed black mustache.
 - Body proportions.
 - Clothing style.
 - Personality.

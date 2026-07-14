@@ -76,24 +76,37 @@ When Father is visible, preserve the same individual established by:
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 ```
 
-This is a character lock, not a temporary mood reference. Preserve his face,
-thick naturally tousled black hair, light naturally kept stubble, warm
-medium-brown South Indian complexion, calm observant expression range, lean
-farmer build with broad shoulders and strong forearms, natural outdoor-worker
-posture, and age-appropriate anime identity.
+This is a character lock, not a temporary mood reference. Preserve **strong
+structured masculine face** with **prominent angular jawline** — NOT soft-round
+face; **medium-to-fair** warm golden complexion (#E8C89A–#DDBF8A); **warm brown
+eyes** ~1/5 face height; thick wavy black medium-length hair with soft side part;
+**neatly trimmed solid black moustache** with clean-shaven jaw; **lean athletic
+build** 5'5"–5'7" tallest family member; calm confident presence.
 
-Father’s typical work clothing follows the canon packet: practical cotton shirt,
-often deep muted blue, cotton veshti or work veshti, and a simple thundu where
-the scene supports it.
+Father’s wardrobe: **white or cream veshti** #F5E6C8 daily, light shirt rolled
+sleeves, **checked lungi** for household work, **angavastram** for festivals,
+barefoot, simple rubber sandals for travel.
 
-Never render Father as clean-shaven, heavily bearded, salon-styled, gym-built,
-fashion-model glamorous, or as a different man.
+Never render soft round face, weak jaw, boyish feminine proportions, clean-shaven,
+stubble-jawed, heavily bearded, salon-styled, gym-built, or a different man.
 
 ### Family Dog
 
 The Dog is a gentle, loyal household companion. It may wait, follow, observe,
 rest, respond softly to a familiar sound, play naturally, or receive ordinary
 care.
+
+Preserve **classic black-and-tan German Shepherd** coat identity: prominent black
+saddle and dark muzzle, rich tan/cream on legs, chest, belly, neck, and eyebrows;
+**fully fluffy** long double coat with thick ruff, feathered legs, and bushy
+tail. Attach `11_Assets/Character_References/Family_Dog_Canon_Design_Reference.png`
+as `CHARACTER_IDENTITY` when the dog is visible and the tool supports references.
+
+Canonical resting scene: **Front Thinnai terracotta tiles**, afternoon shade,
+ears alert toward family inside. Location reference:
+`11_Assets/Location_References/Front_Thinnai_Canon_Design_Reference.png`.
+
+Never render solid all-black, sable-only, wolf-grey, or a different breed.
 
 It must never become a police dog, military dog, attack dog, rescue device, chase
 device, missing-pet plot device, injured-animal hook, threat, or source of fear.
@@ -106,27 +119,28 @@ animals, objects, buildings, plants, and backgrounds.
 Anchor:
 
 ```text
+11_Assets/Character_References/Mother_Canon_Design_Reference.png
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 01_Canon/01_Series_Style_Lock/Art_Style.md
 ```
 
 Every accepted image must use:
 
-* original painterly 2D anime-inspired illustration;
-* thin clean consistent line art;
-* soft cel-style painted shading with subtle gradients;
+* Studio Ghibli-inspired digital anime aesthetic — soft, warm, emotionally resonant;
+* painterly digital rendering with simulated watercolor and gouache textures;
+* soft matte finish and soft delicate linework with slight variation;
+* naturalistic anime proportions; soft rounded faces; grounded expressive eyes;
+* soft cel-style shading blended with painted digital brushwork;
+* richly illustrated digital backgrounds with atmospheric depth;
 * natural South Indian facial features, skin tones, hair, and proportions;
-* matte, non-glossy handcrafted animation finish;
-* warm cinematic lighting and earthy grounded palette;
 * detailed, culturally accurate rural environments in the same anime language;
 * believable anime anatomy and subtle expressions; and
 * warm, observant slice-of-life feeling.
 
-Never use named-studio, named-film, named-artist, or franchise visual language;
-photorealistic rendering; plastic CGI; 3D look; chibi proportions; Western
-cartoon style; hyper-real human faces; glossy synthetic surfaces; generic
-low-detail anime; mixed-style frames; vector-flat illustration; neon colour
-treatment; excessive bloom; unmotivated coloured rim lights; or action-film
+Never use hard flat cel blocks without blending; photorealistic rendering; plastic
+CGI; 3D look; chibi proportions; Western cartoon style; hyper-real human faces;
+glossy synthetic surfaces; generic modern TV anime; mixed-style frames;
+Bollywood saturation; neon colour treatment; excessive bloom; or action-film
 spectacle.
 
 ### Lighting, Geography, And Camera
@@ -264,6 +278,12 @@ Permitted background activity:
 Do not substitute generic huts, tropical foliage, or generic Indian village
 streets for an approved specific location.
 
+**Front Thinnai example** — when visible, attach
+`11_Assets/Location_References/Front_Thinnai_Canon_Design_Reference.png` and
+preserve: gabled wooden roof, dark wooden pillars, terracotta floor tiles, carved
+two-panel door, bougainvillea with magenta flowers, clay pots with ferns and
+marigolds, striped cushions, dappled warm afternoon light.
+
 ### Object Locks
 
 Use an object lock when it causes the scene action, carries a before/after state,
@@ -379,7 +399,8 @@ Family Dog:
 
 ```text
 no aggression, snarling, attack stance, police or military styling, rescue
-staging, injury, threat behaviour, exaggerated wolf features
+staging, injury, threat behaviour, exaggerated wolf features, solid all-black
+coat, sable-only recolour, wrong breed redesign
 ```
 
 ### Location, Period, And Composition

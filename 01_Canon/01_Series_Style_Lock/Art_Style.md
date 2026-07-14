@@ -12,31 +12,41 @@ Every visual asset produced for the series must follow these standards.
 
 # Canon Visual Style Reference
 
-The permanent series style anchor is:
+The permanent series rendering standard is **Studio Ghibli-inspired digital
+anime aesthetic** — soft, warm, and emotionally resonant. Painterly digital
+rendering with simulated watercolor and gouache textures. India supplies setting
+and culture; the **color and rendering language** is Japanese-influenced anime
+warmth and atmosphere, not Indian folk-art saturation.
+
+Primary character and style anchors:
 
 ```text
+11_Assets/Character_References/Mother_Canon_Design_Reference.png
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 ```
 
-This reference sheet defines the **official Village Stories anime look**.
+| Reference | Role |
+| --- | --- |
+| `Mother_Canon_Design_Reference.png` | Official **female face design** and series rendering standard |
+| `Father_Canon_Design_Reference.png` | Official **Father identity** and **male face design** in the same rendering language |
 
-It is not only Father's character lock.
+These references define the **official Village Stories anime look**:
 
-It is the visual standard for:
+* Studio Ghibli-inspired digital anime aesthetic — soft, warm, emotionally resonant.
+* Painterly digital rendering with simulated watercolor and gouache textures.
+* Soft matte finish.
+* Soft, delicate linework with slight variation.
+* Gentle, expressive character designs with naturalistic anime proportions.
+* Soft rounded faces; expressive but grounded eyes approximately 1/5 of face height.
+* Soft cel-style shading blended with painted digital brushwork.
+* Richly illustrated digital backgrounds with atmospheric depth.
+* 1990s rural Tamil Nadu as **setting** — not Indian folk-art illustration style.
 
-* Line quality.
-* Cel-shading treatment.
-* Character proportions.
-* Warm slice-of-life anime identity.
-* Lighting mood.
-* Earthy colour palette.
-* Emotional readability.
-* 1990s rural Tamil Nadu cultural grounding.
+Every frame, character, animal, prop, and environment must belong in the same
+Ghibli-inspired digital anime world.
 
-Every frame, character, animal, prop, and environment should look as though it
-belongs in the same animated world as this reference.
-
-When a generated image drifts away from this reference's illustration language,
+When a generated image drifts toward hard flat cel blocks without blending,
+Bollywood saturation, photorealism, 3D CGI, or generic modern TV anime drift,
 reject it and repair the prompt or source.
 
 ---
@@ -54,12 +64,12 @@ language:
 
 | Category | Style requirement |
 | --- | --- |
-| **All characters** | Mother, Elder Brother, Younger Daughter, villagers, elders, children — same thin line art, soft cel-style shading, warm anime faces |
-| **All animals** | Family Dog, cows, chickens, birds, goats — same painted anime finish, not photoreal fur |
-| **All objects** | Brass vessels, clay pots, tools, baskets, furniture — same line art and cel-shaded material rendering |
-| **All places** | House, kitchen, yard, fields, pond, temple, shop, path — same anime background quality as characters |
-| **All plants** | Trees, crops, garden plants, weeds — painted anime botanical detail, not generic blobs |
-| **All surfaces** | Mud, stone, wood, water, cloth, metal — same matte handcrafted anime texture |
+| **All characters** | Same soft delicate linework, painterly digital finish, soft cel-style shading blended with brushwork |
+| **All animals** | Same Ghibli-inspired digital anime finish, not photoreal fur |
+| **All objects** | Same soft linework and painterly digital material rendering |
+| **All places** | Richly illustrated digital backgrounds with atmospheric depth |
+| **All plants** | Painterly botanical detail with atmospheric perspective |
+| **All surfaces** | Simulated watercolor and gouache texture within digital anime finish |
 | **Sky and weather** | Rain, clouds, sun, mist — same atmospheric anime treatment |
 
 ### Production rule
@@ -89,24 +99,28 @@ Style lock controls **how everything is drawn**.
 
 # Artistic Direction
 
-Village Stories uses an **original high-quality slice-of-life anime illustration
-style**.
+Village Stories uses a **Studio Ghibli-inspired digital anime aesthetic** —
+soft, warm, and emotionally resonant — applied to early-1990s rural Tamil Nadu
+settings.
 
-The artwork must feel warm, grounded, emotionally readable, culturally specific,
-and handcrafted — like a carefully produced rural Tamil Nadu animated series,
-not a generic AI image and not an imitation of any named studio or film.
+The artwork must feel warm, grounded, emotionally readable, and culturally
+specific — **India imagined through Japanese anime warmth and atmosphere**,
+not Indian folk-art illustration style.
 
 The style combines:
 
-* Clean anime character design with natural South Indian features.
-* Thin, consistent, expressive line art.
-* Soft cel-style painted shading with gentle gradients.
-* Warm cinematic lighting.
-* Earthy, natural colour grading.
-* Richly observed early-1990s rural environments.
+* Painterly digital rendering with simulated watercolor and gouache textures.
+* Soft matte finish and soft, delicate linework with slight variation.
+* Gentle, expressive character designs with naturalistic anime proportions.
+* Soft rounded faces; expressive but grounded eyes approximately 1/5 of face height.
+* Soft cel-style shading blended with painted digital brushwork.
+* Richly illustrated digital backgrounds with atmospheric depth.
+* Warm muted palette with soft diffused cinematic light.
+* Natural South Indian features, clothing, and village geography as setting.
 
-Do not drift toward semi-realistic portraiture, Western cartoon, chibi comedy,
-plastic CGI, photorealism, or named-property imitation.
+Do not drift toward hard flat cel blocks without painted blending, Bollywood
+saturation, oversaturated tropical Indian palettes, semi-realistic portraiture,
+Western cartoon, chibi comedy, plastic CGI, photorealism, or thick comic outlines.
 
 ---
 
@@ -114,19 +128,19 @@ plastic CGI, photorealism, or named-property imitation.
 
 Maintain:
 
-* Modern slice-of-life / seinen anime character design.
-* Thin, clean, consistent dark line art.
-* Soft cel-style painted shading with subtle form gradients.
-* Warm naturalistic cinematic lighting.
-* Earthy grounded colour palette.
-* Expressive but believable South Indian faces.
-* Handcrafted animation-sheet quality.
+* Studio Ghibli-inspired digital anime aesthetic — soft, warm, emotionally resonant.
+* Painterly digital rendering with simulated watercolor and gouache textures.
+* Soft matte finish.
+* Soft, delicate linework with slight variation.
+* Naturalistic anime proportions with soft rounded faces.
+* Soft cel-style shading blended with painted digital brushwork.
+* Richly illustrated digital backgrounds with atmospheric depth.
 * Comfortable emotional atmosphere.
 * Stable recurring character and environment identity.
 * Google Flow-ready visual clarity.
 
-The intended result is unmistakably Village Stories: warm, anime, rural, and
-timeless.
+The intended result is unmistakably Village Stories: warm Ghibli-inspired
+digital anime, rural Tamil Nadu setting, timeless and cohesive.
 
 ---
 
@@ -134,31 +148,27 @@ timeless.
 
 Maintain throughout the series:
 
-* Original painterly 2D anime-inspired illustration.
-* Soft digital brushwork.
-* Subtle watercolor and gouache texture feeling.
-* Expressive clean line art.
-* Gentle cel-style painted shading.
-* Matte, non-glossy finish.
-* Layered natural colour and material texture.
-* Soft atmospheric depth.
-* Handcrafted animation aesthetic.
+* Studio Ghibli-inspired digital anime aesthetic.
+* Painterly digital rendering with simulated watercolor and gouache textures.
+* Soft matte finish.
+* Soft, delicate linework with slight variation.
+* Soft cel-style shading blended with painted digital brushwork.
+* Richly illustrated digital backgrounds with atmospheric depth.
+* Warm muted palette with soft diffused light.
 
 Avoid:
 
+* Hard flat cel blocks without painted blending.
+* 3D photorealistic rendering or plastic CGI.
 * Photorealistic human rendering.
-* Plastic CGI surfaces.
-* 3D-rendered look.
 * Hyper-real faces.
 * Chibi proportions.
 * Western cartoon exaggeration.
 * Comic-book thick outlines.
-* Flat vector artwork.
-* Heavy flat cel blocks without painted softness.
-* Generic low-detail anime.
+* Bollywood saturation or bright tropical Indian folk-art palettes.
+* Generic low-detail modern TV anime.
 * Oversaturated HDR colour.
 * AI glossy textures.
-* Imitation of any named studio or existing film.
 
 ---
 
@@ -194,20 +204,50 @@ same anime language.
 
 # Facial Proportions
 
-Maintain consistent anime proportions across all recurring characters.
+Maintain consistent modern anime proportions across all recurring characters.
 
-Eyes:
+### Mother (naturalistic Ghibli-inspired anime face)
 
-* Large enough to carry clear emotion.
-* Naturally integrated into the anime face.
-* Expressive without doll-like exaggeration.
+* Soft rounded face, gentle jawline, warm feminine proportions.
+* Expressive but grounded dark brown eyes — approximately 1/5 of face height.
+* Soft delicate linework; subtle catchlights; calm compassionate gaze.
+* Softly curved natural eyebrows.
+* Small delicate nose with traditional South Indian warmth.
+* Soft natural pink lips with gentle smile.
+* Subtle rosy blush on cheeks.
+* Precise red circular tilak bindi centered on forehead — mandatory every day.
+* Small gold nose pin on left nostril.
 
-Avoid:
+Lock to `Mother_Canon_Design_Reference.png` when generating or reviewing Mother.
+
+### Father (naturalistic Ghibli-inspired anime face)
+
+**Father does NOT use Mother's soft-round face shape.** Use a **strong structured
+masculine face** with **prominent angular jawline** and slightly rectangular lean.
+
+* Strong structured masculine face; prominent angular jawline; masculine cheekbone structure.
+* Expressive but grounded warm brown eyes — approximately 1/5 of face height.
+* Steady calm gaze with subtle catchlights.
+* Naturally thick straight-to-gently-angled eyebrows.
+* Sharp nose — straight clean bridge, defined tip.
+* Medium fullness lips, soft closed-mouth smile when at ease.
+* **Neatly trimmed solid black moustache**; clean-shaven jaw and chin.
+* Medium-to-fair complexion with warm golden sun-kissed undertones (#E8C89A–#DDBF8A).
+
+Lock to `Father_Canon_Design_Reference.png` when generating or reviewing Father.
+
+Avoid for Father:
+
+* Soft round face, weak jaw, narrow chin, boyish or feminine facial proportions.
+* Clean-shaven or heavy-beard redesigns.
+
+**General character avoid (all people):**
 
 * Chibi proportions.
-* Oversized decorative eyes.
 * Hyper-realistic anatomy.
 * Cartoon slapstick exaggeration.
+* Oversized decorative doll eyes.
+* Missing bindi on Mother.
 
 Characters should remain recognisable in every episode.
 
@@ -217,42 +257,38 @@ Characters should remain recognisable in every episode.
 
 Use:
 
-* Thin, clean, consistent dark line art.
+* Soft, delicate linework with slight variation.
 * Expressive contours on face, hair, clothing folds, and hands.
-* Line weight variation only where it supports clarity.
-* Painted shading working together with line art, not replacing it.
+* Line weight variation only where it supports warmth and readability.
+* Painted digital brushwork and shading working together with line art.
 
 Avoid:
 
 * Thick comic outlines.
 * Missing line art with photoreal shading only.
-* Harsh mechanical strokes.
+* Harsh mechanical uniform strokes.
 * Scratchy unstable contour drift between shots.
-
-The drawing should feel like a professional anime production model sheet.
 
 ---
 
-# Cel-Shading And Painted Finish
+# Painterly Digital Finish And Shading
 
 Surfaces should display:
 
-* Soft cel-style painted shading.
-* Gentle gradients following facial and body form.
+* Soft cel-style shading blended with painted digital brushwork.
+* Simulated watercolor and gouache textures within a digital anime finish.
+* Soft matte finish on skin, cloth, wood, clay, and metal.
 * Warm edge highlights from natural light.
-* Layered colour transitions.
-* Natural material texture within an anime finish.
-* Matte, handcrafted surfaces.
+* Gentle form gradients — not hard flat cel blocks without blending.
+* Natural material readability within a painterly digital anime finish.
+* Atmospheric depth in richly illustrated backgrounds.
 
 Do not create:
 
-* Hard flat vector cel blocks.
-* Plastic CGI material.
-* Glossy AI skin.
-* Photoreal pore detail.
-
-Small painted softness and brush feeling help reinforce the handcrafted anime
-aesthetic.
+* Hard flat cel blocks without painted blending.
+* Plastic CGI material or 3D photorealistic rendering.
+* Glossy AI skin or photoreal pore detail.
+* Lineless airbrushed wallpaper art without delicate linework.
 
 ---
 
@@ -260,20 +296,22 @@ aesthetic.
 
 Use:
 
-* Warm golden or soft diffused light when season, time, and location permit.
-* Natural cinematic lighting that gives characters gentle volume.
-* Earthy grounded palette: deep browns, warm tans, muted blues, creams, natural
-  greens, ember warmth, and soft monsoon coolness when needed.
+* Soft diffused daylight or gentle cinematic light appropriate to time and
+  weather.
+* **Muted desaturated palette** — slate grey, moss green, dusty blue, earthy
+  browns, warm tan skin tones, pale cream highlights.
+* Japanese-influenced anime color grading on Indian village settings.
 * Dreamy atmospheric depth without artificial bloom or fantasy haze.
 * Controlled contrast that keeps faces and story action readable.
 
 Avoid:
 
+* Bollywood golden-orange saturation.
+* Bright tropical oversaturated greens and yellows.
+* Indian folk-art jewel-tone palettes.
 * Neon colour treatment.
 * Excessive bloom.
 * High-contrast action-film lighting.
-* Flat unmodulated colour.
-* Unmotivated coloured rim lights.
 * Oversaturated HDR treatment.
 
 Lighting direction, weather, and time of day remain governed by
@@ -292,7 +330,7 @@ Maintain:
 * Layered vegetation.
 * Atmospheric perspective.
 * Soft distance haze.
-* Hand-painted anime skies.
+* Soft-gradient anime skies with atmospheric depth.
 * Natural terrain variation.
 
 Every environment should feel like a place someone could explore.
@@ -331,7 +369,7 @@ Maintain:
 
 * Soft expressive anime eyes.
 * Natural proportions.
-* Painted fur and feathers with cel-style softness.
+* Soft-gradient painterly fur and feathers with anime finish.
 * Gentle personality.
 * Believable anatomy.
 
@@ -386,7 +424,7 @@ Every episode should feel like it belongs to the same animated series.
 Do not change:
 
 * Anime line quality.
-* Cel-shading language.
+* Painterly digital shading language.
 * Character proportions.
 * Colour palette family.
 * Illustration finish.
@@ -402,34 +440,39 @@ sheet.
 
 Prompts and reference selections must describe the series as:
 
-* Original painterly 2D anime-inspired illustration.
-* Soft digital brushwork with subtle watercolor and gouache textures.
-* Expressive clean line art.
-* Gentle cel-style painted shading.
-* Matte finish.
-* Warm cinematic lighting.
-* Authentic early-1990s South Indian village atmosphere.
-* Handcrafted animation aesthetic.
+* Studio Ghibli-inspired digital anime aesthetic — soft, warm, emotionally resonant.
+* Painterly digital rendering with simulated watercolor and gouache textures.
+* Soft matte finish; soft delicate linework with slight variation.
+* Naturalistic anime proportions; soft rounded faces; grounded expressive eyes.
+* Soft cel-style shading blended with painted digital brushwork.
+* Richly illustrated digital backgrounds with atmospheric depth.
+* Authentic early-1990s South Indian village **setting**.
 * Emotionally warm and timeless.
 
-Attach `Father_Canon_Design_Reference.png` as the series style anchor whenever
-the tool supports a style or character reference and the shot includes Father or
-needs a style-recovery anchor.
+Reference attachment rules:
 
-Prompt instructions must not use named-studio imitation language.
+* **Mother visible** → attach `Mother_Canon_Design_Reference.png` as
+  `STYLE_TARGET` and `CHARACTER_IDENTITY`.
+* **Father visible** → attach `Father_Canon_Design_Reference.png` as
+  `CHARACTER_IDENTITY`; attach `Mother_Canon_Design_Reference.png` as
+  `STYLE_TARGET` when rendering drifts.
+* **Location/object only** → attach `Mother_Canon_Design_Reference.png` as
+  `STYLE_TARGET` for rendering language.
 
-Generated outputs must be rejected when they introduce photorealistic humans,
-plastic CGI, 3D rendering, chibi anatomy, Western cartoon style, missing line
-art, hyper-real faces, generic low-detail anime, glossy textures, or unstable
-recurring identities.
+Generated outputs must be rejected when they introduce hard flat cel blocks
+without painted blending, Bollywood saturation, photorealistic humans, plastic
+CGI, 3D rendering, chibi anatomy, Western cartoon style, missing bindi on
+Mother, oversized doll eyes, hyper-real faces, generic modern TV anime, glossy
+textures, or unstable recurring identities.
 
 ---
 
 # Guiding Principle
 
 Every frame should look as though it belongs beside
-`Father_Canon_Design_Reference.png`.
+`Mother_Canon_Design_Reference.png` and `Father_Canon_Design_Reference.png` in
+the same Ghibli-inspired digital anime world.
 
 The artwork should support the world, the story, and the emotions of Village
-Stories through warm, clean, handcrafted anime — never through artificial
-perfection, photoreal drift, or spectacle.
+Stories through warm, painterly, emotionally resonant digital anime — never
+through Bollywood colour, photoreal rendering, or spectacle.

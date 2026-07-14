@@ -274,14 +274,48 @@ Record which doorway, threshold, or yard edge a subject uses.
 
 The Front Thinnai is a front-facing resting and receiving space.
 
-Use it for seated waiting, familiar conversation, small domestic pauses, and
-practical thundu or footwear moments when source-backed.
+Primary visual reference:
+
+```text
+11_Assets/Location_References/Front_Thinnai_Canon_Design_Reference.png
+```
+
+Attach as `LOCATION_IDENTITY` when the tool supports references and the Front
+Thinnai is principal, establishing, or being repaired.
+
+### Front Thinnai Immutable Facts
+
+- Gabled wooden roof with deep overhang and dark wooden support pillars.
+- Terracotta-toned floor tiles on the thinnai platform.
+- Centered carved two-panel traditional wooden entrance door — may stand slightly
+  ajar.
+- White lime-plastered walls.
+- Bougainvillea vine with magenta flowers climbing the left wall.
+- Clay pots with lush green ferns and bright orange marigolds at porch edges.
+- Soft striped floor cushions in red, blue, and yellow tones.
+- East-facing orientation toward Front Garden and village path.
+- Soft dappled warm afternoon golden sunlight through nearby trees when
+  appropriate to time of day.
+- Studio Ghibli-inspired digital anime background rendering — painterly, warm,
+  emotionally resonant.
+
+Use it for seated waiting, familiar conversation, small domestic pauses, Family
+Dog resting in afternoon shade, and practical thundu or footwear moments when
+source-backed.
 
 Preserve its relation to the house front and village-facing approach.
 
 Do not treat it as an indoor living room, shop counter, or concrete veranda.
 
-Keep its shade and sitting logic readable.
+Keep its shade, planting, and sitting logic readable.
+
+### Front Thinnai Negatives
+
+- Never modern glass veranda.
+- Never marble or glossy tile replacement.
+- Never remove bougainvillea, marigolds, or established planting without canon
+  change.
+- Never photoreal or 3D-rendered background detached from anime characters.
 
 ## Courtyard Lock
 
