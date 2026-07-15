@@ -326,7 +326,9 @@ BLUE: clear bluey sky #5BA3D9–#7EB8E8 + soft white clouds
 RED: warm brick reddish terracotta / check / maroon #B85C3A–#C97B4A — not pink · not dull brown mud
 YELLOW: clear marigold #E8A020 · sunny yellow dress — not creamy pale
 SKIN: medium-fair golden #E8C89A–#F0D8B0
-HAIR: natural BLACK per character bible — Mother long thick wavy black (no brown/red highlights)
+HAIR: natural BLACK per character bible — Mother daytime default HALF-UP
+  (subtle dark-brown sheen only — never brown/auburn hair); braid only on request
+  jhumkas ~1.5–2 in gold bell-shaped; left-chin mole; nose stud
 NOT muted · NOT soft-warm whitewash · NOT high contrast · NOT dull indoor · NOT neon/HDR
 ```
 ### Ep1 / outdoor path · neighbourhood (simple)

@@ -31,10 +31,11 @@ Mother's canonical everyday clothing consists of:
 - Traditional cotton saree.
 - Matching short-sleeved blouse.
 - One simple gold chain carrying her traditional thali pendant.
-- Small traditional gold jhumkas.
-- Small gold nose pin.
-- Thin glass bangles.
-- Small red tilak bindi.
+- Traditional **gold jhumka earrings** — bell-shaped, dangling, ~1.5–2 inches
+  (3.5–5 cm); soft painterly warm gold; gentle sway; not oversized chandelier.
+- Small gold nose stud.
+- Thin glass bangles (green / red / gold).
+- Small red or maroon tilak bindi.
 
 This is Mother's default appearance in most stories.
 
@@ -74,22 +75,14 @@ Avoid:
 
 # Everyday Colour Palette
 
-Mother prefers calm earthy colours.
+Mother prefers calm earthy cotton colours (approved hex):
 
-Examples:
-
-- Mustard
-- Rust
-- Maroon
-- Deep Green
-- Olive
-- Brown
-- Indigo
-- Navy Blue
-- Cream
-- Off White
-- Soft Teal
-- Muted Pink
+- Maroon `#7A1F2B`
+- Mustard `#D4A017`
+- Dark green `#3A6B3A`
+- Cream `#F5E6C8`
+- Indigo `#2A3A5A`
+- Also: rust, olive, brown, navy, off-white, soft teal when scene needs variety
 
 Bright neon colours should never appear.
 
@@ -134,9 +127,9 @@ Mother wears the same small collection every day.
 Maintain:
 
 - One simple, modest gold chain carrying the traditional thali pendant.
-- Small traditional gold jhumkas with restrained movement.
-- Small gold nose pin.
-- Thin glass bangles.
+- Traditional **gold jhumkas** (~1.5–2 inches) with restrained gentle sway.
+- Small gold nose stud.
+- Thin glass bangles (green / red / gold).
 - Occasionally a simple finger ring.
 
 Jewellery should never dominate the character.
@@ -156,10 +149,12 @@ Mother almost always wears:
 Typical colours:
 
 - Green
-- Maroon
-- Amber
+- Red / maroon
+- Gold / amber
 - Transparent
-- Dark Green
+- Dark green
+
+(Coordinate with saree; green + red + gold is the preferred everyday mix.)
 
 The bangles naturally produce soft glass sounds while:
 

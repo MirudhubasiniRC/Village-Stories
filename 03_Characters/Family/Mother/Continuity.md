@@ -23,18 +23,22 @@ Always preserve:
 
 Always preserve:
 
-- Warm medium-brown complexion.
-- Soft oval face.
-- Dark brown almond-shaped eyes.
-- Long naturally black hair — **morning free hair down** until after morning tea;
-  **low clutch** during active cooking; **half-up** for the rest of the ordinary day.
+- Age **28–30**.
+- Warm medium-fair golden complexion `#E8C89A`–`#F0D8B0`.
+- Soft **oval** face — not round; lightly sharp/tapered chin (gentle, not hard).
+- Large **almond** warm-brown eyes (~1/5 face height) — readable in distant shots.
+- Long naturally **black** hair:
+  - morning **free hair** down until after morning tea;
+  - daytime default **half-up**;
+  - **low clutch** during active cooking when needed;
+  - neat **shoulder braid only when explicitly requested**.
 - Small red or maroon tilak bindi.
 - **Small black mole on left side of chin.**
-- Small gold nose pin.
-- Small traditional gold jhumkas.
+- Small gold nose stud.
+- **Traditional gold jhumkas** (~1.5–2 inches, soft sway).
 - One simple gold chain carrying her traditional thali pendant.
-- Thin glass bangles.
-- Medium build.
+- Thin glass bangles (green / red / gold).
+- Slim graceful healthy build ~155–160 cm.
 - Graceful posture.
 
 ---

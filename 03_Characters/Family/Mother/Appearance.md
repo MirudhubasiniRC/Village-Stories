@@ -24,24 +24,36 @@ This image establishes Mother's recurring face, jewellery, hairstyle, expression
 range, and the **official Ghibli-inspired digital anime rendering standard** for
 female characters in Village Stories.
 
-**Approved identity reference:** beautiful young South Indian woman, age 28–30;
-soft rounded face; warm expressive brown eyes approximately 1/5 of face height;
-small red or maroon tilak bindi; gold nose pin on left nostril; **small black
-mole on left side of chin**; long thick wavy black hair; warm medium-fair
-complexion with golden undertones; gentle warm smile.
+**Approved identity reference:** beautiful young South Indian woman, age **28–30**;
+soft **oval** face (not round/chubby), lightly defined chin (gentle sharp — not
+hard angular); large expressive **almond** warm-brown eyes (~1/5 of face height —
+readable even in distant/wide shots); small maroon or red bindi centered on
+forehead; gold nose stud on left nostril; **small black mole on left side of
+chin**; long thick naturally wavy **black** hair (subtle dark-brown sheen only —
+never brown/auburn hair); warm medium-fair complexion with golden undertones
+`#E8C89A`–`#F0D8B0`; gentle warm smile; slim graceful healthy build ~155–160 cm.
 
-**Cooking / filter-coffee reference look:** traditional **low clutch hairstyle**
-(gathered at back); mustard or dark green cotton saree; pouring filter coffee
-between two brass tumblers with soft steam; semi-open traditional kitchen with
-terracotta roof, red oxide floor, raised clay stove, west-facing window at dusk.
-Save approved output to `Mother_Canon_Design_Reference.png`.
+**Match face/eyes to:** `11_Assets/Character_References/Mother_Canon_Design_Reference.png`
 
-**Morning reference look:** free hair worn fully down over shoulders while waking,
-praying, or having early morning tea — cream or off-white cotton saree with thin
-gold border, holding a simple clay or ceramic tea mug with steam.
+**Colour & lighting:** do **not** invent Mother-specific colour grades. Use series
+locks in `01_Canon/01_Series_Style_Lock/Color_And_Lighting_Formula.md`,
+`Color_Language.md`, `Lighting_Style.md`, and `Art_Style.md`.
 
-Save the approved Google Flow output that matches this document and
-`01_Canon/01_Series_Style_Lock/Art_Style.md` to that path before production use.
+**Default everyday jewellery:** traditional **gold jhumka earrings** (bell-shaped,
+~1.5–2 inches / 3.5–5 cm, soft painterly warm gold — not oversized chandelier);
+small gold nose stud left nostril; thin glass bangles (green / red / gold);
+optional simple thin gold thali chain.
+
+**Default daytime hairstyle:** **half-up** — upper portion gathered at back with
+simple clutch/clip; remaining long waves flow down the back; soft face-framing
+strands. See Hairstyle section for morning free hair, cooking low clutch, and
+**optional braid** (only when explicitly requested).
+
+**Canon still (`Mother_Canon_Design_Reference.png`):** face / jewellery / kitchen
+identity lock. That still currently shows a **braid over one shoulder** during
+filter-coffee pour (mustard saree) — treat the braid as an **approved optional
+state**, not the everyday default. Everyday prompts default to **half-up +
+jhumkas** unless the user requests braid.
 
 ---
 
@@ -49,14 +61,21 @@ Save the approved Google Flow output that matches this document and
 
 Mother's recurring jewellery identity is deliberately modest and stable:
 
-* Small traditional gold jhumkas.
-* One simple gold chain carrying her traditional thali pendant.
-* Small gold nose pin on the left nostril.
-* Thin glass bangles.
+* **Traditional gold jhumka earrings** — bell-shaped, dangling, ~1.5–2 inches
+  (3.5–5 cm), intricate detailing, small pearls/beads at bottom optional; rich
+  warm gold `#D4A017`–`#E8C040`; soft painterly gleam (not chrome-glossy);
+  sway gently with movement.
+* One simple thin gold chain carrying her traditional thali pendant (optional in
+  some frames; preferred when necklace is readable).
+* Small gold nose stud on the left nostril.
+* Thin glass bangles in coordinating **green, red, and gold**.
 
 Her jewellery communicates married village life and personal care; it never becomes ornate, heavy, or fashion-led.
 
 No additional necklaces should appear unless a specific festival or ceremony is documented.
+
+Never: thin stud-only earrings as default · oversized chandelier earrings ·
+heavy bridal jewellery sets on ordinary days.
 
 ---
 
@@ -74,7 +93,7 @@ She should appear naturally beautiful through authenticity rather than glamour.
 
 Approximately:
 
-**30–35 years old** (approved reference generation: **28–30**).
+**28–30 years old** (locked for generation and prompts).
 
 She should consistently appear within this age range throughout the series unless a future canonical time jump occurs.
 
@@ -97,11 +116,10 @@ Her height remains consistent in every scene.
 
 Maintain:
 
-- Medium build.
-- Healthy physique.
-- Naturally strong from years of household work and gardening.
+- Slim, graceful, healthy build.
+- Natural strength from years of household work and gardening.
 - Graceful posture.
-- Neither overweight nor excessively slim.
+- Neither overweight nor excessively slim / frail.
 
 Her body reflects everyday village life rather than exercise.
 
@@ -124,30 +142,35 @@ Avoid unrealistic beauty-filter skin or orange oversaturated tones.
 
 # Face Shape
 
-Maintain — naturalistic Ghibli-inspired anime face design:
+Maintain — match `Mother_Canon_Design_Reference.png`:
 
-- Soft rounded oval face.
-- Gentle jawline.
-- Rounded cheeks.
-- Warm feminine proportions matching the approved Mother reference.
+- Soft **oval** face — **not** round / chubby / apple-cheeked round face.
+- Soft feminine cheeks (present, not puffy).
+- Chin: **lightly sharp / gently tapered** — clear soft definition, **not** hard
+  square jaw, **not** overly pointed anime chin.
+- Warm feminine proportions from the approved Mother reference.
 
-Her face should immediately communicate warmth and kindness.
+Her face should immediately communicate warmth and kindness while staying true
+to the reference silhouette.
 
 ---
 
 # Eyes
 
-Maintain:
+Maintain — match reference; keep readable at distance:
 
-- Dark brown.
-- Expressive but grounded — approximately 1/5 of face height.
-- Almond-shaped with soft naturalistic anime proportion.
+- Warm dark brown.
+- Clearly **almond-shaped** (not round doll eyes).
+- **Large and expressive** within Ghibli grounded scale — approximately **1/5 of
+  face height** so the almond shape and warmth remain **visible even in medium-wide
+  / distant shots**.
+- Soft naturalistic anime proportion — never chibi-huge, never tiny.
 - Subtle catchlights.
 - Calm compassionate gaze.
-- Gentle eye movement.
+- Thin neatly arched black brows framing the almond eye line.
 
-Her eyes naturally express compassion and patience — warm and readable, never
-oversized or doll-like.
+Her eyes naturally express compassion and patience — warm almond eyes must stay
+the strongest facial read of Mother at every shot size.
 
 ---
 
@@ -197,22 +220,25 @@ She smiles gently rather than broadly.
 
 Maintain:
 
-- Naturally black.
+- Naturally **black** (`#1A0A0A` family).
 - Thick.
 - Long.
 - Healthy.
 - Softly wavy.
 - Natural volume.
+- Soft dark-brown **sheen / micro-highlights only** from light — hair colour remains
+  black. **Never** brown hair, auburn, warm red highlights, or dyed look.
 
-Hair should never appear artificially styled.
+Hair should never appear artificially salon-styled.
 
 ---
 
 # Hairstyle
 
-Mother has **three canonical everyday hair states**:
+Mother has **canonical hair states**. **Default for ordinary daytime prompts =
+half-up** unless another state is explicitly requested.
 
-## Morning — free hair (wake through early morning)
+## 1. Morning — free hair (wake through early morning)
 
 From waking until she finishes morning tea and prepares for household work:
 
@@ -228,32 +254,42 @@ Use free hair for:
 - Early morning tea alone or with family.
 - Quiet first moments at the kitchen window.
 
-## Daytime — half-up (ordinary outdoor and general household)
+## 2. Daytime DEFAULT — half-up (ordinary outdoor and general household)
 
-After morning preparation through most of the ordinary day:
+**Primary everyday look for prompts** after morning preparation through most of
+the ordinary day:
 
-- Upper section gently gathered and secured at the back.
-- Remaining long voluminous wavy black hair flowing naturally down the back.
-- Soft side-framing strands neatly framing the face.
-- Soft waves through the lower half.
-- Clean, neat, practical appearance.
+- Upper section gently gathered at the back of the head.
+- Secured with a **simple hair clutch or small decorative clip**.
+- Remaining long voluminous wavy black hair flowing freely down the back in soft
+  painterly waves.
+- A few soft strands frame the face naturally.
+- Elegant, practical, versatile — suitable for household work while staying graceful.
 
-## Cooking and indoor work — low clutch
+## 3. Cooking and indoor work — low clutch
 
-During active cooking, filter-coffee preparation, and sustained kitchen labour:
+During active cooking, filter-coffee preparation, and sustained kitchen labour
+(when face-clear practical styling is needed):
 
 - Long thick wavy black hair **gathered into a traditional low clutch at the back**.
 - Neat, practical, face-clear styling — parted cleanly, secured low behind head.
-- Consistent with the approved Mother kitchen reference look.
 
 After work:
 
 - Hair returns to the canonical **half-up** daytime hairstyle — not free hair,
   unless the scene is explicitly the next morning.
 
+## 4. Optional — neat braid over one shoulder (ON REQUEST ONLY)
+
+Mother may wear a **neat thick braid resting over one shoulder** (as seen in
+`Mother_Canon_Design_Reference.png` filter-coffee still).
+
+**Rule:** Use braid **only when the user / episode board explicitly asks**.
+Do not default to braid in ordinary prompts. Default remains **half-up**.
+
 Festivals:
 
-- Fresh jasmine flowers may be added.
+- Fresh jasmine flowers may be added to half-up, clutch, or braid.
 
 Weddings and major ceremonies:
 
@@ -296,11 +332,14 @@ Maintain:
 
 - Traditional pierced ears.
 
-Wear:
+Wear (everyday default):
 
-- Small traditional gold jhumkas.
+- **Traditional gold jhumka earrings** — bell-shaped, dangling, approximately
+  1.5–2 inches (3.5–5 cm); intricate detailing; small pearls/beads at tip optional;
+  rich warm gold; soft painterly metallic gleam; sway gently with head movement.
 
-The jhumkas should move gently as Mother walks and works, without becoming oversized or visually dominant.
+The jhumkas should move gently as Mother walks and works, without becoming
+oversized chandelier earrings or visually dominant.
 
 ---
 
@@ -354,7 +393,7 @@ Hands are among Mother's most expressive features.
 Mother wears:
 
 - Thin traditional glass bangles.
-- Usually green, maroon, amber, or transparent depending on her saree.
+- Coordinating **green, red, and gold** (and amber/transparent variants matching saree).
 - Worn on both wrists.
 
 The bangles should move naturally while cooking, gardening, serving food, or performing household work.
@@ -406,16 +445,17 @@ She never rushes unnecessarily.
 
 Mother should remain instantly recognizable through:
 
-- Traditional half-up long black hairstyle.
-- Warm medium-brown complexion.
+- **Half-up** long black hairstyle (default daytime).
+- Warm medium-fair golden complexion.
+- Soft **oval** face (not round); lightly sharp/tapered chin (gentle, not hard).
+- Large **almond** warm-brown eyes ~1/5 face height — readable in distant shots.
 - Small red or maroon tilak bindi.
 - **Small black mole on left side of chin.**
-- Small gold nose pin.
-- Small gold jhumkas.
+- Small gold nose stud.
+- **Gold jhumka earrings** (~1.5–2 inches, soft sway).
 - One simple gold thali chain.
 - Gentle smile.
-- Calm dark brown eyes.
-- Glass bangles.
+- Glass bangles (green / red / gold).
 - Graceful posture.
 - Skilled expressive hands.
 
@@ -520,14 +560,18 @@ Related documents:
 Always maintain:
 
 - Traditional South Indian appearance.
-- Warm medium-brown complexion.
-- Long black half-up hairstyle.
+- Age **28–30**.
+- Warm medium-fair golden complexion `#E8C89A`–`#F0D8B0`.
+- Soft **oval** face — not round; lightly sharp chin (gentle).
+- Large **almond** warm-brown eyes readable at distance (~1/5 face height).
+- Long **black** hair — daytime default **half-up**; morning free hair; cooking
+  low clutch; braid **only when explicitly requested**.
 - Small red or maroon tilak bindi.
 - **Small black mole on left side of chin.**
-- Small gold nose pin.
-- Small traditional gold jhumkas.
+- Small gold nose stud.
+- **Traditional gold jhumkas** (~1.5–2 inches).
 - One simple gold chain carrying her traditional thali pendant.
-- Thin glass bangles.
+- Thin glass bangles (green / red / gold).
 - Gentle smile.
 - Calm eyes.
 - Natural beauty.
@@ -535,14 +579,53 @@ Always maintain:
 
 Never:
 
+- Round chubby face · tiny eyes · round doll eyes.
+- Hard angular jaw · overly pointed chin.
 - Change facial proportions.
 - Remove permanent jewellery without story justification.
 - Remove the everyday bindi.
 - Remove or relocate the permanent left-chin mole.
-- Cut or recolour the hair.
+- Cut or recolour the hair (especially never brown/auburn hair drift).
+- Default to shoulder braid without request.
 - Introduce heavy makeup.
 - Modernize her appearance.
 - Change height or body proportions.
+- Swap jhumkas for stud-only or oversized chandelier earrings on ordinary days.
+- Invent Mother-only colour/lighting grades — use series Style Lock docs.
+
+---
+
+# Prompt-ready appearance block (copy into image prompts)
+
+**Default daytime (half-up + jhumkas):**
+
+```text
+MOTHER (Per Character Bible): Beautiful young South Indian woman, age 28–30,
+soft gentle presence. Medium-fair complexion with warm golden undertones
+#E8C89A–#F0D8B0. Soft OVAL face — not round; lightly sharp/tapered chin (gentle
+definition, not hard). Large expressive ALMOND warm-brown eyes (~1/5 of face
+height) — almond shape readable even in distant shots; delicate eyelashes; kind
+gaze. Small maroon or red bindi centered on forehead. Small black mole on left
+chin. Slim graceful healthy build ~5'2"–5'3" (155–160 cm). Long thick naturally
+wavy BLACK hair with subtle dark-brown sheen only (never brown/auburn hair) —
+styled HALF-UP: upper portion gathered at back with simple clutch/clip; remaining
+hair flows freely down the back in soft painterly waves; a few soft strands frame
+the face. Traditional gold JHUMKA earrings — bell-shaped dangling, ~1.5–2 inches,
+intricate detailing, soft painterly warm gold, gentle sway. Small gold nose stud
+on left nostril. Thin glass bangles green/red/gold. Cotton saree (maroon #7A1F2B /
+mustard #D4A017 / dark green #3A6B3A / cream #F5E6C8 / indigo #2A3A5A as scene
+requires) with simple matching short-sleeve blouse. Barefoot indoors. Calm
+patient gentle expression; warm smile; never rushed. Ghibli maternal tenderness.
+Colour & lighting: follow Color_And_Lighting_Formula.md / Lighting_Style.md /
+Art_Style.md — do not invent a separate Mother colour grade.
+```
+
+**Optional braid (only when user asks):**
+
+```text
+HAIR OVERRIDE: neat thick braid resting over one shoulder (approved optional look
+from Mother_Canon_Design_Reference.png) — still black hair; keep jhumkas.
+```
 
 ---
 

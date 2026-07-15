@@ -101,7 +101,10 @@ deeper than Mother in warm light:
 | Cream | `#F5E6C8` | Morning / calm scenes |
 | Indigo | `#2A3A5A` | Cooler / evening |
 
-Glass bangles: coordinating green, red, gold — never oversized.
+Glass bangles: coordinating **green, red, gold** — never oversized.
+
+Mother jewellery default: traditional gold **jhumkas** (~1.5–2 in) + nose stud +
+optional thali chain. Hair daytime default: **half-up black** (braid on request only).
 
 ## Father
 
