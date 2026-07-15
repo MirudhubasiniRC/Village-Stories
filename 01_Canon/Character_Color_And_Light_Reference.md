@@ -28,12 +28,14 @@ days, kitchen firelight at dusk blending with western window glow.
 
 Prompt label: `Lighting: Warm & Sunlit`
 
-Characteristics: soft golden sunlight, warm bounce, gentle contrast, rich warmth,
-comfortable atmosphere — never harsh noon blast or neon saturation. Post-Monsoon
-outdoor: soft blue sky (not blown white); **fresh saturated greens** — banana /
-garden / palm (`#5A9A4A`, `#4F8F3C`, `#4A6B3D`), never pale sage or cream-washed
-foliage (`Color_And_Lighting_Formula.md` GREENS LOCK). Art look follows
-`Art_Style.md`.
+Characteristics: gentle golden sunlight, slight morning warmth, **slightly
+reduced brightness** (gentle midtones, controlled highlights), clear colour with
+gentle pop (bluey / greeny / reddy), comfortable atmosphere — never harsh noon
+blast, never overbright high-key glare, never neon, never white “soft warm” wash. Post-Monsoon outdoor:
+bluey sky `#5BA3D9`–`#7EB8E8`; fresh greeny greens; brick reddy terracotta/check;
+distant neighbour cream walls + terracotta roofs readable —
+(`Color_And_Lighting_Formula.md` GENTLE COLOR POP + WARMTH LOCK). Art look
+follows `Art_Style.md`.
 
 ## Cool & Monsoon
 

@@ -16,7 +16,10 @@ Every colour choice should strengthen the feeling of the world rather than simpl
 
 Village Stories uses colours that feel naturally rich, emotionally warm, and true to life.
 
-The world should feel vibrant because it is full of life, not because colours are artificially saturated.
+The world should feel vibrant because living colours **gently pop** — blue more
+bluey, green more greeny and fresh, red more reddy/brick — with only a **slight
+morning warmth**. Not because of neon or heavy amber filter. Not because of a
+white “soft warm” wash that flattens pigment.
 
 Every colour should appear to belong to the environment.
 
@@ -151,11 +154,12 @@ Fresh produce.
 
 Festival decorations.
 
-**Greens (locked):** Post-Monsoon foliage must read **fresh and saturated** —
-banana leaf, garden plant, palm, and path-edge grass stay clearly green
-(`#5A9A4A`–`#4F8F3C`, coconut `#4A6B3D`). Do **not** render milky sage, cream-
-washed, or heat-haze bleached leaves under soft morning light. Full lock:
-`Color_And_Lighting_Formula.md` → **GREENS LOCK**.
+**Color richness (locked):** Post-Monsoon outdoor uses **GENTLE COLOR POP** —
+fresh greeny greens, clear bluey sky (`#5BA3D9`–`#7EB8E8`), warm brick reddy
+terracotta/check, clear yellow accents, and distant neighbour houses with warm
+cream plaster + terracotta roofs still readable. Slight morning warmth only —
+**not** white high-key, **not** muted pastel, **not** heavy sunset amber. Full
+lock: `Color_And_Lighting_Formula.md` → **GENTLE COLOR POP + WARMTH LOCK**.
 
 ---
 

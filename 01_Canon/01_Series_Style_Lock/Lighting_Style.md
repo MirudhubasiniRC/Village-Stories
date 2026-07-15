@@ -328,14 +328,14 @@ Light should enhance emotion without overwhelming it.
 
 One production add-on that does **not** change art style:
 
-Post-Monsoon clear day / morning outdoor shots should show a **soft blue
-sky**, not a blown-white or featureless cream sky. Do not add harsh contrast,
-extra saturation grades, or “cinematic” filters beyond `Art_Style.md`.
+Post-Monsoon clear day / morning outdoor shots should show a **bluey clear
+blue sky**, fresh greeny greens, and brick reddy terracotta accents — slight
+morning warmth only. Do not use “soft warm / muted / airy” wording that
+whitewashes pigment. Do not add HDR, neon, or heavy sunset amber.
 
-**Ep1 Clip 01 locked baseline:** use the original Warm & Sunlit early-morning
-Ghibli prompt structure (warm muted palette, soft side-light, cream wall bokeh,
-vivid painterly blue butterfly / marigold hex accents). The **only** lighting
-correction carried forward is soft blue sky in the background — not white wash.
+**Series outdoor lock:** Warm & Sunlit early-morning Ghibli structure with
+**GENTLE COLOR POP** (bluey · greeny · reddy · clear yellow). See
+`Color_And_Lighting_Formula.md`.
 
 Art style authority remains: `Art_Style.md` and Mother/Father canon references.
 

@@ -67,18 +67,21 @@ target from table above.
 
 **Motion speed:** All motion blocks use **Normal Speed**. See `21_Clip_Prompt_Formula.md`.
 
-**Lighting/colour — LOCKED from Ep1 Clip 01 baseline:**
+**Lighting/colour — LOCKED (Ep1 shipped; regen / Ep2+ use GENTLE COLOR POP):**
 
-- Art: Studio Ghibli-inspired anime — soft warm, delicate linework, painterly
+- Art: Studio Ghibli-inspired anime — delicate linework, painterly
   watercolor/gouache, soft matte (`Art_Style.md`)
-- Lighting: Warm & Sunlit · **early morning** · soft golden east side-light
-- Colors: marigold `#E8A020` · terracotta `#C97B4A` · iridescent blue butterfly ·
-  cream `#F5E6C8` · soft green `#5A9A4A`
-- **Only post-update keep:** soft **blue sky** in bokeh — not blown white
-- **Greens lock (Post-Monsoon):** fresh **saturated** greens — banana leaf / garden
-  green `#5A9A4A`–`#4F8F3C`, coconut green `#4A6B3D`. **Never** pale sage, milky
-  lime, cream-washed foliage, or heat-haze bleach on leaves. Soft morning light
-  without lifting greens into pastel.
+- Lighting: Warm & Sunlit · **early morning** · gentle golden east side-light ·
+  **slight warmth** (not white high-key, not heavy amber)
+- **GENTLE COLOR POP:** blue more bluey · green more greeny/fresh · red more
+  reddy/brick · yellow clear — never muted pastel wash
+- Colors: marigold `#E8A020` · terracotta / check `#B85C3A`–`#C97B4A` ·
+  bluey sky `#5BA3D9`–`#7EB8E8` · greeny leaves `#3F8F3A`–`#5A9A4A` ·
+  palm `#3D6B35`–`#4A6B3D` · skin `#E8C89A`–`#F0D8B0`
+- See `Color_And_Lighting_Formula.md` → **GENTLE COLOR POP + WARMTH LOCK**
+
+**Avoid in prompts:** `soft warm wash` · `muted` · `airy high-key` · `pastel` ·
+`dreamy haze` (these bleach colour white).
 
 Do not apply medium-cinematic / anti-fog / hex-heavy stacks to Ep1 prompts.
 

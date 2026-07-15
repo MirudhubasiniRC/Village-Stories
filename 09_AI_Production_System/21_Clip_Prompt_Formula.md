@@ -98,8 +98,10 @@ highlights, shadows]
 **Season:** **[Summer / Monsoon / Post-Monsoon/Harvest]** — [vegetation, water,
 ground]
 
-**Colors (Ghibli-inspired):** [Warm muted anime palette — never neon/HDR.
-Post-Monsoon outdoor: soft blue sky, not blown white.]
+**Colors (Ghibli-inspired):** [GENTLE COLOR POP — bluey blue · greeny green ·
+reddy brick · clear yellow; slight morning warmth; medium-soft contrast;
+slightly reduced brightness (gentle midtones). Never muted pastel / overbright
+glare / high contrast / neon / HDR. See Color_And_Lighting_Formula.md.]
 
 **Atmosphere:** [Mood, emotional quality]
 

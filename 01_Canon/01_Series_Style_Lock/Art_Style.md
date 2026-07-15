@@ -115,7 +115,8 @@ The style combines:
 * Soft rounded faces; expressive but grounded eyes approximately 1/5 of face height.
 * Soft cel-style shading blended with painted digital brushwork.
 * Richly illustrated digital backgrounds with atmospheric depth.
-* Warm muted palette with soft diffused cinematic light.
+* Clear warm palette with gentle colour pop (bluey / greeny / reddy) and soft
+  diffused cinematic light — never muted whitewash, never neon.
 * Natural South Indian features, clothing, and village geography as setting.
 
 Do not drift toward hard flat cel blocks without painted blending, Bollywood
@@ -154,7 +155,8 @@ Maintain throughout the series:
 * Soft, delicate linework with slight variation.
 * Soft cel-style shading blended with painted digital brushwork.
 * Richly illustrated digital backgrounds with atmospheric depth.
-* Warm muted palette with soft diffused light.
+* Clear warm palette with gentle colour pop and soft diffused light — never
+  muted whitewash, never neon.
 
 Avoid:
 
