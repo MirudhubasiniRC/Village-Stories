@@ -24,7 +24,9 @@ It does not create a new person, wardrobe, relationship, or behavioural fact.
 - Apply the same anime finish to every visible person in the shot.
 - Faces retain natural South Indian features in clean anime line art with soft
   cel-style painted shading.
-- Never name or imitate an external studio, artist, film, or franchise.
+- Use the official Studio Ghibli-inspired digital anime aesthetic
+  (`01_Canon/01_Series_Style_Lock/Art_Style.md`). Do not name or imitate any
+  other external studio, artist, film, franchise, or property.
 
 ## Authority
 

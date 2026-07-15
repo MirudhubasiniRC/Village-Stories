@@ -2,13 +2,14 @@
 
 ## Purpose
 
-This document is the navigation system for the entire Village Stories production repository.
+Navigation system for the Village Stories production repository.
 
 It does **not** contain project knowledge itself.
 
-Its responsibility is to tell both humans and AI where authoritative information is stored.
+Locate and read the authoritative document instead of inventing or duplicating facts.
 
-Whenever information is needed, always locate and read the relevant document instead of inventing or duplicating information.
+Duplication guidance: `01_Canon/08_Project_Maintenance/Duplication_Map.md`  
+Folder numbering: `01_Canon/08_Project_Maintenance/Folder_Migration_Plan.md`
 
 ---
 
@@ -16,320 +17,130 @@ Whenever information is needed, always locate and read the relevant document ins
 
 ## 00_Project_Core
 
-Purpose:
-Project identity, workflow and AI operating instructions.
+Project identity, workflow overview, AI operating instructions.
 
-Contains:
-
-* README.md
-* MASTER_INDEX.md
-* PROJECT_VISION.md
-* PRODUCTION_PIPELINE.md
-* AI_INSTRUCTIONS.md
-
-Use when:
-
-* Understanding the project.
-* Learning the production workflow.
-* Determining how AI should operate.
+* `README.md` · `Master Index.md` · `Project Vision.md` · `Production Pipeline.md` · `AI Instructions.md`
+* Root: `MASTER_CURSOR_COMMAND.md`
 
 ---
 
 ## 01_Canon
 
-Purpose:
-The permanent rules of the universe.
+Permanent laws and series style lock.
 
-Contains:
-
-* Series Style Lock
-* Global Rules
-* Continuity Rules
-* Timeline
-* Season Tracker
-* Instruction Priority
-
-Use when:
-
-* Checking continuity.
-* Verifying permanent rules.
-* Determining what may or may not change.
-* Planning new episodes.
+* Global Rules · Universe Principles · Instruction Priority · Continuity · Timeline · Seasonal Tracker
+* `01_Series_Style_Lock/` — Art, Color, Lighting, Camera, Animation, Audio, Authenticity
+* `08_Project_Maintenance/` — Duplication Map, Style Decision, Folder Migration, Automation Architecture
 
 ---
 
 ## 02_World
 
-Purpose:
-Defines the physical world.
+Physical world, culture, nature, **and all location bibles**.
 
-Contains:
-
-* Village Geography
-* World Layout
-* Sun Logic
-* Weather
-* Lighting
-* Seasons
-* Environmental Rules
-
-Use when:
-
-* Writing scenes.
-* Moving characters.
-* Planning camera geography.
-* Determining environmental conditions.
+* `Geography/` — Master Map, Orientation, Landmarks, Walking Routes, River System
+* `Locations/` — Family House, Kitchen, Thinnai, Ghat, School, Tea Stall, Water Well, etc.
+* `Nature/` · `Time/` · `Culture/`
 
 ---
 
 ## 03_Characters
 
-Purpose:
-Defines every recurring character.
+Recurring character packets + Character_Rules.
 
-Each character has their own folder.
-
-Typical files include:
-
-* Appearance
-* Personality
-* Relationships
-* Daily Routine
-* Clothing
-* Skills
-* Emotional Traits
-
-Use when:
-
-* Writing dialogue-free stories.
-* Maintaining character consistency.
-* Planning emotional interactions.
+* Family · Neighbours · Village_People · Community
 
 ---
 
-## 04_Locations
+## 04_Objects
 
-Purpose:
-Defines every permanent location.
-
-Examples:
-
-* Family House
-* Kitchen
-* Courtyard
-* River Ghat
-* Banyan Shrine
-* Well
-* Paddy Fields
-
-Each location contains:
-
-* Layout
-* Fixed Objects
-* Activities
-* Camera Notes
-* Environmental Behaviour
-
-Use when:
-
-* Creating storyboards.
-* Writing image prompts.
-* Maintaining geographical continuity.
-
----
-
-## 05_Objects
-
-Purpose:
-Defines recurring objects.
-
-Examples:
-
-* Clay Stove
-* Ammikkal
-* Brass Lamp
-* Bicycle
-* Radio
-* Lantern
-* Bullock Cart
-
-Use when:
-
-* Creating scenes.
-* Maintaining historical accuracy.
-* Ensuring object consistency.
-
----
-
-## 06_Culture
-
-Purpose:
-Defines how villagers live.
-
-Examples:
-
-* Food
-* Festivals
-* Farming
-* Clothing
-* Religion
-* Education
-* Household Routines
-* Village Customs
-
-Use when:
-
-* Writing everyday life.
-* Creating authentic cultural moments.
-* Planning seasonal activities.
+Recurring material culture (tools, vehicles, lighting, furniture, etc.).
 
 ---
 
 ## 05_Research
 
-Purpose:
-Historical knowledge base.
-
-Examples:
-
-* Forgotten Occupations
-* Forgotten Communication
-* Forgotten Technology
-* Village Economy
-* Sounds
-* Smells
-* Plants
-* Animals
-* Household Habits
-* Common Historical Mistakes
-
-Use when:
-
-* Adding realism.
-* Finding forgotten details.
-* Avoiding historical inaccuracies.
+Authenticity feed. Does not override canon.
 
 ---
 
 ## 06_Story_Engine
 
-Purpose:
-Creative planning.
+How stories are constructed (philosophy, conflict, emotion, ASMR, forbidden patterns).
 
-Contains:
+---
 
-* Story Formula
-* Story Hooks
-* Emotional Beats
-* Character Arcs
-* Themes
-* Conflict Library
-* Ending Library
+## 07_Episode_System
 
-Use when:
-
-* Planning new episodes.
-* Solving story problems.
-* Generating ideas.
+Viewer experience (types, hooks, pacing, Shorts, long-form, episode checklist).
 
 ---
 
 ## 08_Production
 
-Purpose:
-Episode creation workflow.
+Human workflows from research through publish (script, board, Flow, voice, QC, metadata).
 
-Contains:
+---
 
-* Storyboard Process
-* Image Prompt Templates
-* Animation Prompt Templates
-* Voice Workflow
-* Sound Design
-* Camera Workflow
-* Publishing Checklist
+## 09_AI_Production_System
 
-Use when:
-
-* Producing episodes.
-* Generating prompts.
-* Preparing uploads.
+Prompt modules, locks, Clip Formula, camera bibles, Flow practices, generation pipeline.
 
 ---
 
 ## 10_Episodes
 
-Purpose:
-Episode archive.
+Live episode packages (`ep_001`, …).  
+*(Shares number prefix with Studio Standards — see Folder Migration Plan.)*
 
-Each episode contains:
+---
 
-* Story
-* Storyboard
-* Prompt Files
-* Production Notes
-* Final Assets
-* SEO
-* Lessons Learned
+## 10_Studio_Standards
 
-Use when:
-
-* Reviewing previous work.
-* Maintaining continuity.
-* Referencing earlier events.
+Naming, folders, assets, version control, quality score, review, release, canon change.
 
 ---
 
 ## 11_Assets
 
-Purpose:
-Production resources.
+Approved reusable visual references (`Character_References/`, `Location_References/`).
 
-Contains:
+---
 
-* Reference Images
-* Character Sheets
-* Maps
-* Sound Effects
-* Music
-* Textures
-* Logos
-* Fonts
+## 11_Templates
 
-Use when:
+Fillable production forms (story, episode, script, prompts, checklists).  
+Copy into episode folders — do not treat as doctrine manuals.
 
-* Creating production assets.
-* Referencing visual materials.
+---
+
+## 12_Lessons_Learned
+
+Episode logs + `Categories/` continuous improvement registers.
 
 ---
 
 ## 12_Quality_Assurance
 
-Purpose:
-Final verification.
+Pointer only — operational QA lives in Studio Standards + Production + Prompt QA.  
+See folder README. *(Empty shell retained until migration Option A/B.)*
 
-Contains:
+---
 
-* Continuity Checklist
-* Historical Accuracy Checklist
-* Visual Consistency Checklist
-* Camera Checklist
-* Production Checklist
+## Archive
 
-Use before publishing every episode.
+Deprecated material parking.
 
 ---
 
 # AI Operating Rules
 
-Before performing any task:
-
 1. Determine the objective.
 2. Locate the relevant documentation.
-3. Read only the files necessary for that task.
-4. Treat those files as the authoritative source.
-5. Never invent information that already exists elsewhere in the repository.
-6. If required information cannot be found, clearly indicate that it is undefined rather than making assumptions.
+3. Read only the files necessary.
+4. Treat those files as authoritative.
+5. Never invent information that already exists elsewhere.
+6. If undefined, say so — do not assume.
 
 ---
 
@@ -339,6 +150,4 @@ Every document has one responsibility.
 
 Avoid duplicating information.
 
-If information already exists in another document, reference that document instead of copying its contents.
-
-This repository is designed as a long-term production knowledge base capable of supporting hundreds of consistent episodes.
+Reference the canonical owner (see Duplication Map).

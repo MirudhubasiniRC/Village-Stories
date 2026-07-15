@@ -26,18 +26,25 @@ The objective is not simply to create individual videos, but to build a living, 
 ```text
 00_Project_Core      → Project identity, workflow, AI operating instructions
 01_Canon             → Rules that never change
-02_World             → Geography, environment, seasons, world layout
+02_World             → Geography, locations, environment, seasons, culture
 03_Characters        → Character profiles and relationships
 04_Objects           → Recurring tools, furniture, vehicles and household items
 05_Research          → Historical research and forgotten details of the era
 06_Story_Engine      → Story structure, hooks, themes and episode planning
+07_Episode_System    → Episode form, pacing, Shorts / long-form design
 08_Production        → Episode production workflow and studio handbook
-10_Episodes          → Completed episode documentation
+09_AI_Production_System → Prompt modules, locks, Flow, generation pipeline
+10_Episodes          → Episode packages and archive
 10_Studio_Standards  → Naming, folders, quality, review, and release governance
 11_Assets            → Reference images and production assets
-12_Lessons_Learned   → Per-episode production evidence and improvement records
+11_Templates         → Fillable production forms (copy into episodes)
+12_Lessons_Learned   → Episode evidence + continuous improvement registers
+12_Quality_Assurance → Pointer only (QA lives in Standards / Production)
 Archive              → Deprecated or historical documents
 ```
+
+Numbering collisions (`10_*`, `11_*`, `12_*`) are documented in
+`01_Canon/08_Project_Maintenance/Folder_Migration_Plan.md`.
 
 ---
 

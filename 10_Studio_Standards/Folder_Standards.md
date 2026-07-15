@@ -146,10 +146,20 @@ production-method documentation.
 `09_AI_Production_System/` owns AI-generation systems, prompt controls, locks,
 and generation governance.
 
+`10_Episodes/` owns per-episode packages, boards, generation, audio, edit, QA,
+and release records for individual episodes.
+
 `10_Studio_Standards/` owns shared studio conventions and governance manuals.
 
 `11_Assets/` owns approved reusable assets and their durable indexes where
 established.
+
+`11_Templates/` owns approved fillable production forms (not doctrine).
+
+`12_Lessons_Learned/` owns episode evidence and continuous-improvement registers.
+
+`12_Quality_Assurance/` is a pointer shell only; operational QA authority lives
+in Studio Standards, Production QC, and Prompt QA until migration retires it.
 
 No folder becomes a lower-authority copy of another folder simply because a
 production task needs convenient access.

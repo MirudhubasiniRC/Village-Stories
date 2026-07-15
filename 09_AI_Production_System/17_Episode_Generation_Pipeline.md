@@ -94,11 +94,13 @@ optional because it appears only in a background detail.
 
 ### Style, location, light, camera
 
-* Use original Village Stories anime style for the entire frame, matching
-  `11_Assets/Character_References/Father_Canon_Design_Reference.png`: painterly
-  2D anime-inspired illustration; thin clean line art; soft cel-style painted
-  shading; warm cinematic lighting; handcrafted animation aesthetic. Never name
-  or imitate another studio, artist, film, franchise, or property.
+* Use the official Studio Ghibli-inspired digital anime aesthetic for the entire
+  frame (`Art_Style.md`), matching
+  `11_Assets/Character_References/Father_Canon_Design_Reference.png` /
+  `Mother_Canon_Design_Reference.png`: painterly watercolor/gouache digital
+  anime; soft delicate linework; soft cel-style painted shading; warm cinematic
+  lighting. Do not name or imitate any other studio, artist, film, franchise, or
+  property.
 * Preserve documented location layout, materials, work zones, entry points,
   routes, landmarks, and screen geography.
 * Preserve season, time, weather, wetness, vegetation, smoke, water, and

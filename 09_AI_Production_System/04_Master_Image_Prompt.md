@@ -82,8 +82,9 @@ Apply these to every prompt. They are fixed instructions, not variables.
   shading; atmospheric depth; muted cinematic color grading; Japanese anime color
   palette on Indian village settings; clean defined line art; clean-up drawing;
   natural South Indian features; emotionally warm and timeless.
-* No named studio, artist, film, franchise, or other external-property
-  imitation.
+* Use the official Studio Ghibli-inspired digital anime aesthetic
+  (`Art_Style.md`). Do not name or imitate any other studio, artist, film,
+  franchise, or external property.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
   contemporary vehicles, modern branding or packaging, current fashion, urban
   infrastructure, or unsupported modern items.

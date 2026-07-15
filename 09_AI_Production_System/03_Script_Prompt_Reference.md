@@ -1007,8 +1007,9 @@ SERIES LOCKS — IMMUTABLE
 - Style: original Village Stories anime for the entire frame, matching
   `11_Assets/Character_References/Father_Canon_Design_Reference.png`; painterly
   2D anime-inspired illustration; thin clean line art; soft cel-style painted
-  shading; warm cinematic lighting; handcrafted animation aesthetic. Never
-  imitate a named studio.
+  shading; warm cinematic lighting; handcrafted animation aesthetic. Use the
+  official Studio Ghibli-inspired lock (`Art_Style.md`); do not imitate any
+  other named studio.
 - Story: one practical everyday action; one gentle proportionate pressure;
   visible care and response; emotional rest by the end.
 - Never use modern technology, modern products, present-day slang, violence,

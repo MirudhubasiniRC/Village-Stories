@@ -112,26 +112,27 @@ Do not create a lesson record for:
 ```text
 12_Lessons_Learned/
 ├── README.md
+├── Continuous_Improvement_Index.md
+├── Categories/                    ← cross-episode registers (see index)
 ├── Episode_001.md
 ├── Episode_002.md
 └── ...
 ```
 
-### Series-level supplements
+### Continuous improvement layer
 
-Add a series-level file only when a lesson is not owned by one episode:
-
-```text
-12_Lessons_Learned/Series_Prompt_Patterns.md
-12_Lessons_Learned/Series_Flow_Recovery.md
-```
+Use `Continuous_Improvement_Index.md` and `Categories/` for studio-wide
+pattern capture (prompt failures, Flow limits, SEO, bottlenecks, etc.).
 
 Prefer episode-owned records first.
 
-Promote to a series file only after the same lesson appears in two or more
-episodes or clearly applies across the whole studio.
+Add a category register row only when an episode lesson (or verified release
+event) supplies evidence.
 
-Do not create empty series files in advance.
+Do not invent lessons to fill registers.
+
+Optional series supplements (e.g. `Series_Prompt_Patterns.md`) may still be
+created after the same lesson appears in two or more episodes.
 
 ---
 

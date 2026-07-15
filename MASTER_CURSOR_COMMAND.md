@@ -59,29 +59,38 @@ Never revert to the obsolete single-child “Daughter” family model.
 
 ---
 
-# Remaining Production Bible Roadmap
+# Production Bible Mode
 
-The next planned sections are:
+The Production Bible is **mature and in maintenance / production mode**.
+
+Do not expand documentation for its own sake.
+
+Prefer: templates, reference assets, lessons from live work, deduplication,
+and automation design that reduce production effort.
+
+## Established operational folders
 
 ```text
-09_AI_Production_System/
-10_Studio_Standards/
-11_Templates/
-12_Lessons_Learned/
+09_AI_Production_System/   — active
+10_Studio_Standards/       — active
+10_Episodes/               — active (ep packages)
+11_Assets/                 — active
+11_Templates/              — active
+12_Lessons_Learned/        — active
 ```
 
-Do not create every remaining file automatically.
+See `01_Canon/08_Project_Maintenance/Folder_Migration_Plan.md` for dual-number notes.
 
 Before creating any new file:
 
 1. Inspect the current production bible.
-2. Identify the single highest-priority missing document.
-3. Briefly explain why that document is the right next step.
-4. Create only that document.
-5. Review it against canon and related workflow documents.
-6. Suggest the next document only after the current document is complete.
+2. Identify the single highest-priority **production** need.
+3. Briefly explain why that document/template/asset is required.
+4. Create only that item.
+5. Cross-reference existing owners (Duplication Map).
+6. Prefer updating an existing file over adding a rival authority.
 
-Choose the option that remains useful after 1,000 episodes, not merely the option that serves today's episode.
+Choose the option that remains useful after 1,000 episodes.
 
 ---
 

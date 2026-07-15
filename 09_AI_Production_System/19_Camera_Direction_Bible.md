@@ -113,7 +113,8 @@ line art; soft cel-style painted shading; natural South Indian people; warm
 cinematic lighting; and detailed culturally accurate environments in the same
 anime finish.
 
-Do not name, imitate, or invoke a studio, artist, franchise, or film.
+Use the official Studio Ghibli-inspired digital anime aesthetic (`Art_Style.md`).
+Do not name, imitate, or invoke any other studio, artist, franchise, or film.
 
 The camera is a calm human observer.
 
