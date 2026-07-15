@@ -1,14 +1,18 @@
 # Episode ep_001 — Google Flow generation guide
 
-> **Workflow:** Image prompts only, one clip at a time (01 → 10). After each
+> **STATUS:** Superseded for production.  
+> **Shipped board:** `episode-ep_001__clip-prompt-workflow__approved__r01.md`
+> (12 clips · Flow generation complete 2026-07-15).  
+> Keep this file only as early 7-shot archive. Do not use for regen.
+
+> **Legacy workflow note:** Image prompts only, one clip at a time. After each
 > still is approved in Flow, request animation + audio for that clip.
-> Dialogue goes inside the audio prompt. See
-> `episode-ep_001__clip-prompt-workflow__approved__r01.md`.
+> Dialogue goes inside the audio prompt.
 
 **Aspect ratio:** 9:16 vertical (portrait) — design every frame vertical, never crop
 from 16:9.
 
-**Recommended order:** sh_002 → sh_001 → sh_004 → sh_003 → sh_005 → sh_006 → sh_007
+**Recommended order (legacy):** sh_002 → sh_001 → sh_004 → sh_003 → sh_005 → sh_006 → sh_007
 
 **Optional attachments in Flow:**
 - sh_002+: `Elder_Brother_Younger_Daughter_Scale_Reference.png` as STYLE_TARGET

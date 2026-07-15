@@ -1,5 +1,15 @@
 # ep_001 — Clip prompt workflow
 
+## Status
+
+**COMPLETE — Flow generation finished (2026-07-15).**  
+All Clips **01–12** image + animation + audio prompts delivered and approved.
+Next: assemble edit in `06_Edit/` (calendar → fade black on Clip 12).
+
+This file remains the **authority board** for any regen of ep_001 clips.
+
+---
+
 ## Phased delivery (locked)
 
 | Phase | When | What you receive |
@@ -8,6 +18,23 @@
 | **2** | After you approve that still in Flow | **Animation prompt** + **Audio prompt** (dialogue inside audio) |
 
 Do not request animation/audio until the current clip image is done.
+
+## Generation checklist (shipped)
+
+| Clip | Image | Anim + Audio | Notes |
+| --- | --- | --- | --- |
+| 01 | ✓ | ✓ | Butterfly hook · open path · greens |
+| 02 | ✓ | ✓ | Siblings + dog · pull from pot |
+| 03 | ✓ | ✓ | Rise + `Butterfly…` + brother laugh |
+| 04 | ✓ | ✓ | Calf insert |
+| 05 | ✓ | ✓ | Goats insert |
+| 06 | ✓ | ✓ | Sister pours little water · brother mixes |
+| 07 | ✓ | ✓ | Pack wet sand into coconut shell |
+| 08 | ✓ | ✓ | Demould — flip/lift shell · sand idli |
+| 09 | ✓ | ✓ | MS proud smile · pose lock kneeling |
+| 10 | ✓ | ✓ | Dog lick + `No…!` |
+| 11 | ✓ | ✓ | Wide open path · no fade |
+| 12 | ✓ | ✓ | Tamil **daily** calendar → fade black |
 
 ## Dialogue rule
 
@@ -42,6 +69,12 @@ voice file.
 **Calendar end (locked):** 1990s Tamil wall calendar on cream house wall — **readable Tamil numbers**, small **printed deity/idol images**, soft day-end light; **fade to black** only on Clip 12 (not on wide Clip 11).
 
 **Production note — renumber after Clip 06:** inserting the press beat (+1) and calendar (+1) shifts prior Clips 07–10. Old palm-mould Clip 07 / smile / dog / wide map to new **07–11**; calendar is **12**. Re-generate **07, 08, 09** for shell method continuity; **10** (dog) can keep if still contiguous after new smile still; **11** = prior wide still (drop fade).
+
+**Relative position lock (lessons learned LL-EP001-05):** When Brother + Sister +
+Dog appear together, maintain **screen order and proximity** from the approved
+prior clip. If a later beat needs dog → girl contact (Clip 10 lick), dog must
+stay **beside/near sister** in every intervening group shot — not far across frame.
+State in each CONTINUITY LOCK: e.g. `Sister left · Dog centre/near sister · Brother right`.
 
 **Removed from prior draft:** palm-mould idli; fade-to-black on courtyard wide (fade now lives on Clip 12).
 

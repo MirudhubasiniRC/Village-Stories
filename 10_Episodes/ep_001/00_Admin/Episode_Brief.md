@@ -7,31 +7,32 @@
 | Episode ID | `ep_001` |
 | Working title | **Butterfly Morning** |
 | Format | **YouTube Short** |
-| Target duration | **50–55 seconds** |
+| Target duration | **~60–70 seconds** (12 clips) |
 | Season | **Post-Monsoon / Harvest** |
-| Primary locations | **Backyard** (courtyard garden) |
+| Primary locations | **Front Garden / entrance-path edge** · open neighbourhood (no compound wall) |
 | Lesson log | `12_Lessons_Learned/Episode_001.md` |
-| Brief version | `r02` |
-| Status | **story approved — generation ready** |
+| Brief version | `r03` |
+| Status | **Flow generation complete** — edit / QA next |
 
 ---
 
 # 1. Episode promise
 
-> In the early-morning courtyard, Elder Brother and Younger Daughter pause when a
-> blue butterfly lands on a marigold — they watch together, then share a quiet
-> smile as the day continues.
+> On an early village morning, Elder Brother and Younger Daughter — with the Family
+> Dog — discover a blue butterfly on a marigold, play choppu sand-idli by the
+> path, share a laugh when the dog licks her face, then the day softens to a
+> Tamil daily calendar and fade to black.
 
 ### Viewer gain
 
-* Emotional: gentle sibling warmth and wonder
-* Sensory / ASMR: morning garden, basket creak, soft breeze, distant birds
-* Cultural / everyday-life insight: rural Tamil Nadu childhood in the compound
+* Emotional: sibling warmth, wonder, gentle comedy
+* Sensory / ASMR: morning path birds, wet sand, soft leaf air, dog lick laugh
+* Cultural / everyday-life insight: 1990s Tamil village childhood + choppu play
 
 ### What this episode is not
 
 * Not a butterfly rescue or chase
-* Not a family-wide ensemble debut
+* Not a parent-led ensemble debut
 * Not a cliffhanger or “Part 2” bait
 
 ---
@@ -42,10 +43,10 @@
 | --- | --- | --- | --- |
 | Mother | No | — | — |
 | Father | No | — | — |
-| Elder Brother | **Yes** | Morning courtyard errand; older sibling presence | `03_Characters/Family/Elder_Brother/` |
-| Younger Daughter | **Yes** | Shared discovery; younger sibling wonder | `03_Characters/Family/Younger_Daughter/` |
-| Family Dog | No | — | — |
-| Other | No | — | — |
+| Elder Brother | **Yes** | Discovery + choppu sand idli | `03_Characters/Family/Elder_Brother/` |
+| Younger Daughter | **Yes** | Wonder lines + laugh | `03_Characters/Family/Younger_Daughter/` |
+| Family Dog | **Yes** | Discovery · play companion · lick comedy | `03_Characters/Family/Family_Dog/` |
+| Calf / goats | **Yes** | Soft livestock inserts | `02_World/Nature/Fauna.md` |
 
 ---
 
@@ -54,45 +55,55 @@
 | Field | Approved value | Source |
 | --- | --- | --- |
 | Season | Post-Monsoon / Harvest | `02_World/Nature/Seasons.md` |
-| Time span | Single early morning | ~55 s |
+| Time span | Single early morning → quiet day-end calendar | ~60–70 s |
 | Weather | Clear, soft sun | Warm & Sunlit |
-| Primary location(s) | Backyard / courtyard | `02_World/Locations/Backyard.md` |
+| Primary location(s) | Neighbourhood path / Front Garden edge | `Village_Neighbourhood.md` · `Front_Garden.md` |
 | Orientation | Morning east light | `02_World/Geography/Orientation.md` |
+| Environment lock | **No large compound walls** | Continuity Rules |
 
 ---
 
-# 4. Story spine
+# 4. Story spine (shipped — 12 clips)
 
-### Practical need
+### Practical need / morning
 
-Children crossing the courtyard on a small morning task (basket in hand).
+Children + dog at path-edge marigold.
 
-### Gentle obstacle
+### Gentle obstacle / wonder
 
-A butterfly on a marigold asks for their attention.
+Blue butterfly on marigold; sister says `Butterfly…`; brother laughs.
 
-### Practical response
+### Village life inserts
 
-They stop and watch together — no grabbing, no chase.
+Baby calf + hay · goats at stone trough.
 
-### Emotional turn
+### Choppu play
 
-Butterfly flies; quiet shared delight.
+Wet sand + little water → pack coconut shell → demould sand idli on earth → proud smile.
+
+### Emotional comedy
+
+Dog licks sister’s face; she laughs `No…!`
 
 ### Ending rest
 
-Brother offers a marigold petal; wide courtyard holds in peace.
+Wide open-path settle → Tamil **daily** wall calendar → fade to black.
+
+Authority: `04_Generation/episode-ep_001__clip-prompt-workflow__approved__r01.md`
 
 ---
 
 # 5. Objects and continuity
 
-| Object | Role | Canon source | State start → end |
-| --- | --- | --- | --- |
-| Wicker basket | Brother's morning task | rural craft | In right hand throughout |
-| Marigold pot | Hook + setting | courtyard | Static |
-| Blue butterfly | Gentle turn | story device | On flower → flies away |
-| Marigold petal | Resolution gift | sh_006 | Appears → sister holds |
+| Object | Role | State |
+| --- | --- | --- |
+| Terracotta marigold pot | Hook + discovery | Path edge |
+| Blue butterfly | Wonder turn | On flower → rises |
+| Coconut shell | Sand-idli mould | Filled → demoulded |
+| Sand idli | Choppu payoff | Stamped on earth |
+| Mini clay stove / choppu pots | Play setup | Present macros |
+| Tamil daily calendar | Day end | Clip 12 → fade black |
+| Wicker basket | Brother optional prop | When visible |
 
 ---
 
@@ -100,17 +111,19 @@ Brother offers a marigold petal; wide courtyard holds in peace.
 
 | Layer | Intent |
 | --- | --- |
-| Primary visible sounds | Basket creak, foot on earth, leaf rustle |
-| Ambience | Morning birds, distant village, soft breeze |
-| Narration | Optional one line end card only |
+| Primary visible sounds | Wings, wet sand, shell demould, dog lick, laughs |
+| Ambience | Morning birds, breeze, distant village |
+| Dialogue | Clip 03 `Butterfly…` · Clip 10 `No…!` (inside audio prompts) |
 | Music | None for first cut |
 
 ---
 
 # 7. Visual style lock
 
-**Anchors:** Mother + child canon refs · `Art_Style.md`  
-**Guide:** `04_Generation/episode-ep_001__generation-guide__approved__r01.md`
+**Anchors:** `Art_Style.md` · child canon refs · Ep1 shipped look  
+**Colour (series):** `Color_And_Lighting_Formula.md` — GENTLE COLOR POP + medium-soft
+contrast + slightly reduced brightness (Ep2+ / any regen)  
+**Clip board:** `04_Generation/episode-ep_001__clip-prompt-workflow__approved__r01.md`
 
 ---
 
@@ -119,41 +132,43 @@ Brother offers a marigold petal; wide courtyard holds in peace.
 | Field | Value |
 | --- | --- |
 | Aspect ratio | **9:16** |
+| Clip count | **12** (sh_001–sh_012) |
 | Shorts strategy | Single complete story; muted-safe |
-| Caption plan | Minimal; optional end card only |
+| Caption plan | Minimal; fade black ends clip |
 
 ---
 
 # 9. Production files
 
-| Stage | Path |
-| --- | --- |
-| Premise | `01_Story/episode-ep_001__premise__approved__r01.md` |
-| Script | `01_Story/episode-ep_001__script__approved__r01.md` |
-| References | `02_References/episode-ep_001__reference_manifest__approved__r01.md` |
-| Beat sheet | `03_Storyboard/episode-ep_001__vertical_beat_sheet__approved__r01.md` |
-| Shot list | `03_Storyboard/episode-ep_001__shot_list__approved__r01.md` |
-| Flow prompts | `04_Generation/episode-ep_001__generation-guide__approved__r01.md` |
+| Stage | Path | Note |
+| --- | --- | --- |
+| Premise | `01_Story/episode-ep_001__premise__approved__r01.md` | Early draft |
+| Script | `01_Story/episode-ep_001__script__approved__r01.md` | Early draft |
+| References | `02_References/episode-ep_001__reference_manifest__approved__r01.md` | — |
+| Beat sheet | `03_Storyboard/episode-ep_001__vertical_beat_sheet__approved__r01.md` | Early 7-shot |
+| Shot list | `03_Storyboard/episode-ep_001__shot_list__approved__r01.md` | Early 7-shot |
+| **Clip workflow (authority)** | `04_Generation/episode-ep_001__clip-prompt-workflow__approved__r01.md` | **12-clip shipped board** |
+| Generation guide | `04_Generation/episode-ep_001__generation-guide__approved__r01.md` | **Superseded** by clip workflow |
 
 ---
 
-# 10. Pre-production gates
+# 10. Production gates
 
 - [x] **Gate 1 — Canon foundation**
 - [x] **Gate 2 — Story readiness**
 - [x] **Gate 3 — Scene readiness**
 - [x] **Gate 4 — Generation readiness**
-- [ ] **Gate 5 — Sound readiness** (after picture lock)
-- [ ] **Gate 6+** — generation / edit / QA / release
+- [x] **Gate 5 — Flow picture + motion + audio prompts** (Clips 01–12 done)
+- [ ] **Gate 6 — Edit assemble** (`06_Edit/`)
+- [ ] **Gate 7 — QA**
+- [ ] **Gate 8 — Release**
 
 ---
 
 # 11. Next action
 
-**Generate in Google Flow:** Start with **sh_002** (hero sibling shot) using
-`04_Generation/episode-ep_001__generation-guide__approved__r01.md`.
-
-Then sh_001, sh_004, remaining shots. Assemble 50–55 s master in `06_Edit/`.
+**Edit:** Assemble approved Flow clips **01 → 12** into a vertical Short master.
+Clip 12 ends with daily Tamil calendar hold → fade to black. Then QA + release.
 
 ---
 
@@ -162,4 +177,5 @@ Then sh_001, sh_004, remaining shots. Assemble 50–55 s master in `06_Edit/`.
 | Version | Date | Disposition | Notes |
 | --- | --- | --- | --- |
 | r01 | — | draft | workspace opened |
-| r02 | 2026-07-14 | story approved | Butterfly Morning Short locked |
+| r02 | 2026-07-14 | story approved | Butterfly Morning Short locked (early 7-shot) |
+| r03 | 2026-07-15 | **Flow generation complete** | 12-clip board shipped: dog, choppu shell idli, calendar end, open path, no compound wall |
