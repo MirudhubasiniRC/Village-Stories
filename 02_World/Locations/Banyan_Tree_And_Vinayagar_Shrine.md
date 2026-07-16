@@ -12,6 +12,31 @@ Every return to this location should immediately feel familiar.
 
 ---
 
+# Canon Visual Reference
+
+Approved Banyan + Vinayagar Shrine identity reference:
+
+```text
+11_Assets/Location_References/Banyan_Vinayagar_Shrine_Canon_Design_Reference.png
+```
+
+**Approved look (locked · 2026-07-16):**
+
+- **Sacred banyan tree** — massive trunk, hanging aerial roots, wide green canopy.
+- **Circular stone / lime platform** (“round stage”) around the trunk — knee height, weathered grey stone, **wide steps** leading up from the path.
+- **Hand-carved stone Vinayagar idol at CENTER** — seated at banyan trunk base **on the round platform**, flower garland, small stone offering ledge.
+- **Brass standing oil lamps** flanking the idol on the platform — period-correct, humble.
+- **Open worship under the tree** — dappled shade; **NOT** a boxed four-pillar mini-temple as the hero architecture.
+- Earthen path, soft village greenery beyond; early-1990s rural Tamil Nadu · Ghibli-inspired soft matte.
+
+**Composition rule for prayer beats:** Camera **faces the idol centre**; worshippers stand **below the round platform** at the foot of the steps — on the earthen path only. **Animals (Family Dog included) never stand on the circular sacred platform** beside the idol; the dog waits on ground level beside the person.
+
+Attach as `LOCATION_IDENTITY` when generating this place.
+
+**Production note:** Older prompts describing a dominant four-pillar tiled canopy shrine are **superseded** for image generation by this reference. The shrine identity is **banyan + round platform + central stone Vinayagar**.
+
+---
+
 # Identity
 
 This location is not a temple building.
@@ -107,15 +132,18 @@ The shrine sits beneath the eastern side of the Banyan canopy, facing west towar
 
 Maintain:
 
-* Modest stone pedestal.
-* Hand-carved stone Vinayagar idol.
-* Simple protective tiled canopy supported by four wooden pillars.
-* Brass oil lamps on either side.
-* Brass bell suspended from the canopy.
-* Fresh flowers whenever appropriate.
+* **Circular stone platform** (round stage) — see Canon Visual Reference above.
+* **Hand-carved stone Vinayagar idol at centre** of platform, at banyan trunk base.
+* Modest stone pedestal / offering ledge before the idol.
+* **Brass standing oil lamps** on either side on the platform.
+* Fresh flowers and garlands whenever appropriate.
 * Turmeric and kumkum markings.
-* Incense holder.
-* Small brass plate for offerings.
+* Incense holder and small brass plate for offerings when story requires.
+* Optional brass bell near shrine — not mandatory in every frame.
+
+**Primary identity:** open banyan shade + round platform + central stone god.
+
+**Do not default to:** a separate four-pillar tiled canopy box dominating the frame (not the approved visual identity).
 
 The shrine should remain humble and deeply authentic.
 
@@ -306,6 +334,7 @@ Always maintain:
 * Stone pathway to the River Ghat.
 * Mature aerial roots.
 * Natural weathered appearance.
+* **Sacred platform boundary:** people pray from the path or foot of steps; **Family Dog and other animals stay on ground below the round platform**, never beside the idol on the stage.
 
 Never:
 
@@ -316,6 +345,7 @@ Never:
 * Add electric lighting.
 * Add concrete structures.
 * Remove the circular platform.
+* Place the Family Dog (or any animal) **on the circular sacred platform** beside the Vinayagar idol.
 
 ---
 

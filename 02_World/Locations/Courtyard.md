@@ -34,6 +34,29 @@ The Courtyard should always feel alive, peaceful, and deeply lived in.
 
 ---
 
+# Canon Visual Reference
+
+Approved Courtyard (mutram) interior identity reference:
+
+```text
+11_Assets/Location_References/Courtyard_Mutram_Canon_Design_Reference.png
+```
+
+**Approved architectural look (layout lock · 2026-07-16):**
+
+- **Open-to-sky mutram** at house centre — sky visible above open roof void.
+- **Red oxide floor** throughout walking corridor around the open centre.
+- **Dark wooden pillars** supporting **terracotta/Mangalore tile** roof overhang around the perimeter.
+- **Continuous covered corridor** around the open centre — rooms open off this corridor (Kitchen, Bedroom, etc.).
+- **Central rain drain** (granite circular) may appear in wider mutram shots — not required in tight entry beats.
+- Kitchen and other rooms visible as **doorway glimpses** off the corridor — **not** full cook-station hero in threshold shots.
+
+**Threshold / entry rule:** When a character **enters the Kitchen room from the mutram**, show **mutram corridor + pillars + open sky behind** the walker; Kitchen background reads as **utensil shelves, brass pots, clay vessels** only — **do not** frame raised clay stove, garden window cook zone, or full `Kitchen_Layout` geography in the same entry clip.
+
+Attach as `LOCATION_IDENTITY` for mutram corridor and kitchen-entry shots.
+
+---
+
 # Location
 
 The Courtyard is located at the exact centre of the Family House.

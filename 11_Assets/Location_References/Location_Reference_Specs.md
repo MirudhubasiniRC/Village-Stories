@@ -35,7 +35,19 @@ Do not treat this file as higher authority than the location bible.
 | Must show | Open-to-sky mutram; red-oxide / traditional floor; surrounding rooms; rain drain; soft sky visible above |
 | Atmosphere | Peaceful, lived-in family heart |
 | Must not | Fully roofed courtyard; modern atrium glass; empty CGI courtyard |
-| Suggested shot | Slightly elevated or eye-level wide from kitchen/passage looking across open sky |
+| Suggested shot | Eye-level wide from kitchen/passage looking across open sky |
+
+---
+
+## Courtyard Mutram (interior) — `Courtyard_Mutram_Canon_Design_Reference.png`
+
+| Field | Lock |
+| --- | --- |
+| Sources | `Courtyard.md`, `Family_House.md`, `Kitchen.md` (threshold rule only) |
+| Must show | Open-to-sky mutram · red oxide floor · wooden pillars · terracotta roof overhang · corridor around open centre |
+| Threshold shots | Mutram visible behind walker; Kitchen room = **utensil shelves/brass/clay pots in BG only** — **NO** stove hero · **NO** full kitchen layout |
+| Must not | Full cook zone · garden window hero · modern interior · closed ceiling room |
+| Status | **approved PNG present** |
 
 ---
 
@@ -55,11 +67,12 @@ Do not treat this file as higher authority than the location bible.
 
 | Field | Lock |
 | --- | --- |
-| Sources | `Backyard.md` |
-| Must show | Packed earth; kitchen rear / stone washing sense; natural path toward garden & shelter; lived wear |
-| Atmosphere | Private, functional, warm family outdoor life |
-| Must not | Concrete patio; pool; modern fencing PVC |
-| Suggested shot | From near kitchen back door looking into yard toward shelter/garden split |
+| Sources | `Backyard.md`, `Vegetable_Garden.md`, `Livestock_Shelter.md` |
+| Must show | **Very green lush** vegetation; marigold · hibiscus · bougainvillea · brinjal beds; packed earth path; **open livestock shelter** in depth — **no compound wall** |
+| Atmosphere | Private warm family outdoor heart · Post-Monsoon green · afternoon sun |
+| Must not | Bare brown yard · compound fortress wall · concrete patio · modern PVC fencing hero |
+| Suggested shot | Medium-wide family moment with garden depth (e.g. Mother receives basket from dog) |
+| Status | **approved PNG present** (ep_002 sh_F08 · 2026-07-16) |
 
 ---
 
@@ -128,10 +141,11 @@ Do not treat this file as higher authority than the location bible.
 | Field | Lock |
 | --- | --- |
 | Sources | `Banyan_Tree_And_Vinayagar_Shrine.md` |
-| Must show | Large sacred banyan canopy; humble Vinayagar shrine beneath; stone resting platform; village entrance approach north |
+| Must show | Sacred **banyan** with aerial roots; **circular stone platform** (round stage) with steps; **stone Vinayagar idol at CENTER** at trunk base; brass standing lamps; open shade — **not** boxed four-pillar mini-temple as hero |
 | Atmosphere | Peaceful, welcoming, rooted — **not** a large temple building |
-| Must not | Multi-storey temple gopuram as this site; marble mall shrine; electric facade lights as default |
-| Suggested shot | Establishing beneath canopy toward shrine |
+| Must not | Four-pillar roof box shrine dominating frame; multi-storey gopuram; marble mall shrine; wrong idol off-centre |
+| Suggested shot | Straight-on to idol centre; worshippers **below platform** at step foot; dog on ground beside person — **never on round stage** |
+| Status | **approved PNG present** |
 
 ---
 

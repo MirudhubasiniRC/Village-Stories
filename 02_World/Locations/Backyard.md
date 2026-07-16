@@ -12,6 +12,32 @@ It is a place of work, family interaction, animals, gardening, and quiet everyda
 
 ---
 
+# Canon Visual Reference
+
+Approved Backyard identity reference:
+
+```text
+11_Assets/Location_References/Backyard_Canon_Design_Reference.png
+```
+
+**Approved look (ep_002 · sh_F08 · 2026-07-16):**
+
+- **Very green lush backyard** — dense Post-Monsoon vegetation; **GENTLE COLOR POP greeny-greens** throughout.
+- **Vegetable beds + flowers interwoven:** brinjal/eggplant with purple fruit · okra/greens · **orange marigolds** · **red hibiscus** · **magenta bougainvillea** on stakes/trellises · climbing creepers on wooden supports.
+- **Packed earth path** through the yard — not concrete · not tile plaza.
+- **Open Livestock Shelter** visible deep background — simple wooden/roof hay storage · **NO compound fortress wall** · **NO tall enclosure** boxing the scene.
+- Free **chickens** pecking optional · open flow between garden and shelter.
+- Kitchen back-door zone implied; afternoon warm sun · soft dappled shade.
+- Ghibli-inspired digital anime · soft matte · early-1990s rural Tamil Nadu.
+
+**Scale note for family beats:** Father tallest · Mother ~5 cm shorter · Family Dog mid-thigh on standing Father when adults present (`01_Canon/Relative_Height_And_Scale.md`).
+
+Attach as `LOCATION_IDENTITY` when generating backyard / garden-handoff shots.
+
+All future image generation, Google Flow scenes, and storyboards involving the family Backyard must preserve this lush green identity unless a documented canonical change is introduced.
+
+---
+
 # Philosophy
 
 Unlike the Front Garden, which welcomes visitors, the Backyard is a private family space.
@@ -325,6 +351,7 @@ Always maintain:
 - Natural village atmosphere.
 - Packed earth ground.
 - Seasonal vegetation.
+- **Lush green garden identity** per `Backyard_Canon_Design_Reference.png` — flowers, bougainvillea, marigold, dense beds.
 
 Never:
 
@@ -332,6 +359,8 @@ Never:
 - Pave the entire area.
 - Leave the Backyard unnaturally empty.
 - Separate it visually from the Kitchen or Garden.
+- **Compound fortress wall** or tall enclosure around livestock/garden.
+- Bare dead-brown yard when Post-Monsoon / Harvest green is canon for this space.
 
 ---
 
