@@ -64,6 +64,7 @@ Maintain:
 * Banyan Tree & Shrine
 * Family House
 * Paddy Fields
+* Field Rest Area (paddy edge)
 * Pond
 * Irrigation Canal
 

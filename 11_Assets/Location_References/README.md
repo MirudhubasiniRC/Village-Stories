@@ -41,6 +41,7 @@ Locations that should have permanent visual references for series continuity:
 | Banyan + Vinayagar Shrine (Temple) | `Banyan_Vinayagar_Shrine_Canon_Design_Reference.png` | `02_World/Locations/Banyan_Tree_And_Vinayagar_Shrine.md` | spec_ready |
 | Primary School | `Primary_School_Canon_Design_Reference.png` | `02_World/Locations/Primary_School.md` | spec_ready |
 | Tea Stall | `Tea_Stall_Canon_Design_Reference.png` | `02_World/Locations/Tea_Stall.md` | spec_ready |
+| Field Rest Area (neem · kattil · field well) | `Field_Rest_Area_Canon_Design_Reference.png` | `02_World/Locations/Field_Rest_Area.md` | **approved** (ep_002 sh_F05 · 2026-07-16) |
 
 ## Explicitly deferred
 

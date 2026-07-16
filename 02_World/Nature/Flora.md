@@ -129,6 +129,8 @@ Purpose:
 
 Often planted near homes and pathways.
 
+Common at **field edges** — see Field Rest Area (`02_World/Locations/Field_Rest_Area.md`) for the family's large neem at the paddy pause point.
+
 ---
 
 ## Tamarind Tree

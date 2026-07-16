@@ -227,6 +227,7 @@ These landmarks are important but appear less frequently than the sacred and civ
 * Courtyard
 * Kitchen
 * Coconut Grove
+* Field Rest Area (neem · kayiru kattil · field well)
 * Paddy Fields
 * Irrigation Canal
 * Cow & Goat Shed

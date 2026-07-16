@@ -159,6 +159,18 @@ Do not treat this file as higher authority than the location bible.
 
 ---
 
+## Field Rest Area — `Field_Rest_Area_Canon_Design_Reference.png`
+
+| Field | Lock |
+| --- | --- |
+| Sources | `Field_Rest_Area.md`, `Walking_Routes.md` (Farm Route), `Nature/Flora.md` (Neem) |
+| Must show | **Wide distant** view; large **neem tree**; **kayiru kattil** (woven rope charpai) under shade; **field well** with wooden pulley **slightly right** of tree/kattil; green **paddy rows** / open farmland; optional small figures (Father washing, dog on kattil) |
+| Atmosphere | Peaceful mid-field pause; warm afternoon; labour rest — not temple, not backyard compound |
+| Must not | Backyard kitchen well architecture; Vinayagar banyan shrine; MCU-only face wash as identity frame; modern pump house; compound wall box |
+| Suggested shot | Wide / long establishing — environment hero, people small |
+
+---
+
 ## Generation QA (all location refs)
 
 - [ ] Matches location bible orientation / adjacency cues

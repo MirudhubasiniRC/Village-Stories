@@ -100,6 +100,7 @@ Seasonal change may alter water level, moss, mud, and laundry hanging nearby —
 | Vegetable Garden | Garden watering source |
 | Livestock Shelter | Animals nearby; well remains separate from shelter interior |
 | River Ghat | Public bathing/washing alternative — different place |
+| Field Rest Area | **Separate field-edge well** at paddy edge for agricultural labour washing — see `Field_Rest_Area.md`. Not this household well. |
 
 ---
 
@@ -127,7 +128,7 @@ Busy, but not chaotic. Background life stays restrained so story action remains 
 * Prefer readable well rim + washing zone in establishing shots.
 * Keep Kitchen rear / Backyard adjacency honest when both appear.
 * Morning: soft utility light; avoid harsh white blowout.
-* Do not invent a second family well.
+* Do not invent a second **household** well in the compound. The **field well** at the Field Rest Area (`Field_Rest_Area.md`) is a distinct agricultural landmark — not a duplicate of this place.
 
 Authority support: `Village_Master_Map.md`, `Orientation.md`, `Family_House.md`, `Backyard.md`, `Kitchen/` workflows.
 

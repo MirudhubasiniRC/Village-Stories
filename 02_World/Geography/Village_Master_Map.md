@@ -122,6 +122,8 @@ This compass never changes.
                                │
                          Coconut Grove
                                │
+              Field Rest Area (neem · kattil · field well)
+                               │
                           Paddy Fields
                                │
                           Village Pond
@@ -271,10 +273,12 @@ Contains:
 - Livestock Shelter
 - Compost Area
 - Coconut Grove
+- Field Rest Area (neem · kayiru kattil · field well — see `Locations/Field_Rest_Area.md`)
 - Paddy Fields
 
 Typical activity:
 
+- Field-work rest and face washing at field well
 - Feeding livestock
 - Milking cows
 - Collecting eggs

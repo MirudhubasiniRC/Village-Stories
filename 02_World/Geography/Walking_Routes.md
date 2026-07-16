@@ -112,6 +112,8 @@ Cow & Goat Shed
       │
 Coconut Grove
       │
+Field Rest Area (neem · kayiru kattil · field well)
+      │
 Paddy Fields
       │
 Village Pond
