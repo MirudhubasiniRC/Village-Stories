@@ -29,18 +29,29 @@ anime background rendering.
 **Approved look:**
 
 - Gabled wooden roof with deep overhang, supported by **dark wooden pillars**.
-- **Terracotta-toned floor tiles** on the thinnai platform.
+- **Packed earth / natural worn land** as the floor under the thinnai and open
+  porch — **not** terracotta floor tiles or ceramic paving. Free-range chickens
+  naturally peck and roam here; dogs and bare feet meet the same earth.
+- Raised sit edge / steps may be simple plastered masonry or granite, but the
+  main walking and resting ground stays **earth**.
 - Centered **carved two-panel traditional wooden entrance door**, may stand
   slightly ajar revealing warm interior family presence.
 - White lime-plastered walls.
 - **Bougainvillea vine** with **magenta flowers** climbing the left wall.
 - **Clay pots** with lush green **ferns** and bright orange **marigolds** at
   porch edges.
-- Soft **striped floor cushions** in red, blue, and yellow tones for resting.
+- Soft **striped floor cushions** in red, blue, and yellow tones for resting
+  (placed on mats or directly on packed earth).
 - **Soft dappled warm afternoon golden sunlight** filtering through nearby
-  trees — painterly rounded shadows on floor and subjects.
+  trees — painterly rounded shadows on earth and subjects.
 - Lush surrounding greenery; nostalgic emotionally warm early-1990s rural Tamil
   Nadu atmosphere.
+
+**Reference note (2026-07-15):**  
+`Front_Thinnai_Canon_Design_Reference.png` may still show an older terracotta-tile
+floor. **Packed earth is now canon.** Do not copy tiled flooring from that PNG.
+Regenerate the location reference when production allows so the image matches
+this document.
 
 All future image generation, Google Flow scenes, storyboards, and production
 artwork must preserve this location identity and rendering language unless a
@@ -104,11 +115,15 @@ It remains visually connected to both the garden and the village.
 
 # Architecture
 
-Maintain — match `Front_Thinnai_Canon_Design_Reference.png`:
+Maintain — match architecture plantings and pillars; **ground = packed earth**
+(see Canon Visual Reference note if PNG still shows tiles):
 
-* Raised platform approximately 2½ feet above ground.
-* Granite entrance steps leading up when visible from garden approach.
-* **Terracotta-toned floor tiles** on the thinnai platform.
+* Raised platform approximately 2½ feet above the Front Garden earth level.
+* Granite or simple plastered entrance steps leading up when visible from garden approach.
+* **Packed earth / natural worn land** as the primary floor under the open thinnai —
+  scuffed village earth where bare feet, the Family Dog, and **free-range chickens**
+  peck and roam. Occasional dry leaves, grain scraps, and worn paths are normal.
+* **Not** terracotta floor-tile grids, ceramic tile plazas, or polished paving.
 * **Gabled wooden roof** with thick exposed beams and deep overhang for shade and
   rain protection.
 * **Dark wooden support pillars** framing the open porch.
@@ -169,7 +184,7 @@ Morning
 
 Afternoon
 
-* **Family Dog resting on terracotta tiles** in dappled afternoon shade, ears
+* **Family Dog resting on packed earth** in dappled afternoon shade, ears
   alert toward family voices inside.
 * Dog sleeping in the shade.
 * Mother cleaning vegetables.
@@ -310,8 +325,10 @@ Useful compositions include:
 * Warm sunrise entering from the east.
 * Rain falling beyond the roof edge.
 * Evening lamps creating soft silhouettes.
-* **Family Dog resting on terracotta tiles** in afternoon shade, ears alert
+* **Family Dog resting on packed earth** in afternoon shade, ears alert
   toward family voices inside.
+* Occasional **chickens pecking** on the open earth near the thinnai edge /
+  Front Garden transition (background life — never chaos).
 
 The wooden pillars should frequently be used to frame characters and create visual depth.
 
@@ -326,15 +343,17 @@ Always maintain:
 
 * East-facing orientation.
 * Raised platform.
-* Granite entrance steps when visible from approach.
-* **Terracotta-toned floor tiles.**
+* Granite or simple plastered entrance steps when visible from approach.
+* **Packed earth / natural worn land** as the primary thinnai floor (chickens
+  may peck and roam).
 * Dark wooden support pillars under gabled roof.
 * Carved two-panel wooden entrance door.
 * Bougainvillea, marigolds, and fern pots as established planting.
 * Clay water pot.
 * Long wooden bench or approved striped cushions.
 * Relationship with the Front Garden.
-* Match visual identity in
+* Prefer regenerated location still when available; until then **do not** copy
+  terracotta floor tiles from
   `11_Assets/Location_References/Front_Thinnai_Canon_Design_Reference.png`.
 
 Never:
@@ -345,7 +364,8 @@ Never:
 * Replace the wooden pillars.
 * Remove the open connection to the village.
 * Change its position relative to the Front Garden or Courtyard.
-* Swap terracotta tiles for modern ceramic or marble flooring.
+* Cover the thinnai ground in terracotta floor-tile grids, ceramic, marble, or
+  polished patio paving (packed earth is required for village authenticity).
 
 ---
 

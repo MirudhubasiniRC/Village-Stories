@@ -6,7 +6,7 @@ Authority support: `09_AI_Production_System/14_Prompt_QA.md` · `15_Common_Failu
 
 | ID | Date | Source | Stage | Summary | Recommendation | Policy status |
 | --- | --- | --- | --- | --- | --- | --- |
-| — | — | — | — | No entries yet | — | — |
+| LL-CAT-PRM-01 | 2026-07-15 | LL-EP002-01 | image | Prompt omitted open-neighbourhood lock → Flow adds compound walls | Paste Village Neighbourhood openness block on every outdoor house-edge prompt | observe |
 
 ## Open patterns to watch
 
@@ -15,3 +15,4 @@ Authority support: `09_AI_Production_System/14_Prompt_QA.md` · `15_Common_Failu
 - Character lock incomplete (wardrobe/state carryover)
 - Location geography flipped
 - Module checklist skipped under time pressure
+- **Outdoor prompts missing “no compound wall / open neighbour houses + greens”**

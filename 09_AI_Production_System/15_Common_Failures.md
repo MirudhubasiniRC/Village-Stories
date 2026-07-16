@@ -382,6 +382,35 @@ adjective.
 shorter motion, simpler action, a different approved coverage angle, or an
 editorial cut. Record the limitation so future boards avoid it.
 
+### TOOL-02: Image Tiling / Seam Artifacts (“Picture Tiles”)
+
+**Symptoms:** faint horizontal or vertical bands across the still; faces or roof
+split as if the image were stitched from strips; repeated collage panels; grid
+lines through eyes, hair, or architecture. Common on wide **16:9** generates
+and upscale/tile tool modes.
+
+**Do not confuse with:** terracotta **floor tiles** (location materials). This
+failure is a generation seam, not a paving design.
+
+**Likely causes:** tool tiling/upscale stitch; oversized frame; multipanel layout
+language in the prompt; browser/tool “tile” or panorama modes.
+
+**Repair (smallest first):**
+
+1. Reject the still — do not animate or crop as a “fix” if seams cross faces.
+2. Regenerate at the board’s **native aspect** in one pass (prefer native 16:9,
+   not stitch-from-portrait).
+3. Add anti-tiling negatives: `image tiling · horizontal seam · vertical seam ·
+   split composition bands · collage panels · grid lines across face · stitch
+   artifact`.
+4. Simplify composition (fewer deep BG layers) if seams persist.
+5. If still blocked: generate a tighter MS/MCU, then composite/crop in edit —
+   never invent new canon to “fill” missing sides.
+6. Record under Lessons when it cost a regen loop (`TOOL-02`).
+
+**Do not** create a separate “position fix” manual — repair lives here and in
+`11_Templates/Image_Prompt_Template.md`.
+
 ---
 
 ## Edge Cases

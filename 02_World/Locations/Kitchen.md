@@ -12,6 +12,37 @@ Because cooking is central to the series, the Kitchen serves as one of the prima
 
 ---
 
+# Canon Visual Reference
+
+Approved Kitchen **layout** reference:
+
+```text
+11_Assets/Location_References/Kitchen_Layout_Canon_Design_Reference.png
+```
+
+Wide establishing still (ep_002) — clay stove · concrete prep slab · Garden Window(s) ·
+red oxide floor · timber rafters · Ghibli-inspired digital anime room map.
+
+**Use for:** geography / station placement continuity across cook shots.
+
+**Regen before treating as perfect stove close-up lock:**
+
+* Window by the clay stove must show **backyard greens** outside (not blank wall / bare sky).
+* Prefer **BIG open wood windows** like `Kitchen_Cook_Window_Canon_Design_Reference.png` —
+  large rectangular openings from near slab/stove height almost to beam line · dark wood frames ·
+  shutters open outward · dense lush greens filling the view.
+* Burners = **open mud/clay stove holes** in the clay top — not metal burner rings/plates.
+* Stove working height ≈ **waist** per `Kitchen/Raised_Clay_Stove.md` (raise if still reads thigh-low).
+* Subfolder docs remain authority if PNG and text conflict — regen deliberately.
+
+Cook + big-window still:
+
+```text
+11_Assets/Location_References/Kitchen_Cook_Window_Canon_Design_Reference.png
+```
+
+---
+
 # Identity
 
 The Kitchen is a traditional 1990s South Indian village kitchen.

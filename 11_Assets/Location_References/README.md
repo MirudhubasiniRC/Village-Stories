@@ -28,8 +28,8 @@ Locations that should have permanent visual references for series continuity:
 
 | Location | Expected asset | Canon source | Status |
 | --- | --- | --- | --- |
-| Front Thinnai | `Front_Thinnai_Canon_Design_Reference.png` | `02_World/Locations/Front_Thinnai.md` | **approved** |
-| Kitchen | `Kitchen_Canon_Design_Reference.png` | `02_World/Locations/Kitchen.md` + `Kitchen/` | spec_ready |
+| Front Thinnai | `Front_Thinnai_Canon_Design_Reference.png` | `02_World/Locations/Front_Thinnai.md` | **approved PNG — ground pending regen** (canon = packed earth, not tiles) |
+| Kitchen | `Kitchen_Layout_Canon_Design_Reference.png` · `Kitchen_Cook_Window_Canon_Design_Reference.png` | `02_World/Locations/Kitchen.md` + `Kitchen/` | **layout + cook/window PNGs** — big open wood windows + dense greens locked |
 | Courtyard | `Courtyard_Canon_Design_Reference.png` | `02_World/Locations/Courtyard.md` | spec_ready |
 | Front Garden | `Front_Garden_Canon_Design_Reference.png` | `02_World/Locations/Front_Garden.md` | spec_ready |
 | Backyard | `Backyard_Canon_Design_Reference.png` | `02_World/Locations/Backyard.md` | spec_ready |

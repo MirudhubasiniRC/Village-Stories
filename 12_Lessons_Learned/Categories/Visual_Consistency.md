@@ -6,7 +6,7 @@ Authority support: Character / Location / Object / Style Lock systems · `01_Can
 
 | ID | Date | Source | Stage | Summary | Recommendation | Policy status |
 | --- | --- | --- | --- | --- | --- | --- |
-| — | — | — | — | No entries yet | — | — |
+| LL-CAT-VIS-01 | 2026-07-15 | LL-EP002-01 | image | Outdoor stills invent large compound walls / sealed house box | Always prompt open neighbour houses + greens; negative compound walls | observe |
 
 ## Open patterns to watch
 
@@ -15,3 +15,5 @@ Authority support: Character / Location / Object / Style Lock systems · `01_Can
 - Kitchen tool station drift
 - Lighting family mix inside one episode without story reason
 - Photoreal wall behind anime character
+- **Large compound / boundary walls isolating the family house (recurring Ep1+Ep2)**
+- Missing neighbour roofs / village greens behind Front Thinnai

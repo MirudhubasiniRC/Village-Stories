@@ -166,7 +166,9 @@ Behaviour:
 * Walking through yards.
 * Gathering near food preparation.
 
-They frequently appear around the Family House.
+They frequently appear around the Family House — including **packed-earth Front
+Thinnai / Front Garden edge** (pecking and roaming), Backyard, Well Utility Area,
+Vegetable Garden, and Livestock Shelter during daylight.
 
 ---
 
