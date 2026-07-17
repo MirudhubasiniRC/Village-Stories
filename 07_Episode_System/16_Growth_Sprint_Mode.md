@@ -93,6 +93,36 @@ cooking, and a warm payoff. The lesson is:
 These channels and figures are dated research snapshots, not permanent targets.
 Refresh benchmarks when their relevance changes.
 
+### Village Stories self-audit — 2026-07-17
+
+Public review of `@RadioPettiASMR` found **49 subscribers, 10 uploads, and eight
+Shorts** approximately nine days after the first public Short. This is too early
+to declare the channel unsuccessful. The observed story pattern was:
+
+- strongest Short: father cooks chicken curry for his sick wife — a specific
+  dish attached to a clear relationship need;
+- next strongest: Poori and Mutter Paneer — a specific food/process promise;
+- weaker concept: siblings, butterfly, dog, and mud-stove toy — several pleasant
+  elements without one causal story;
+- newest teaser: “Wait Until the Ending” redirected to a full episode instead
+  of completing its own promise;
+- recurring weakness: empty establishing openings and routine montages delay
+  the event promised by the title.
+
+The butterfly concept was recommended by the assistant. It is recorded as a
+story-development failure by the production system, not as a weak idea supplied
+by the producer.
+
+**Correction for all future unfinished episodes:**
+
+1. Put the title event, need, or sensory promise in the opening.
+2. Build one causal chain; remove adjacent routine beats that do not cause the
+   next action.
+3. Make every Short complete its own promise, even when it promotes long-form.
+4. Reject “beautiful situation only” concepts until they gain a need, change,
+   decision, and earned payoff.
+5. Preserve finished ep_002 unless the producer explicitly requests changes.
+
 ---
 
 ## Short Runtime And Cadence
