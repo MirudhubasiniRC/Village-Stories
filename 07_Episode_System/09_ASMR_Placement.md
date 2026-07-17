@@ -87,6 +87,34 @@ Every scene needs a clearly ranked mix:
 Never mix all layers at equal prominence. Dialogue and a character's reaction
 override texture when they carry the scene's meaning.
 
+### Subject-first ASMR contract (2026-07-17 lock)
+
+Primary-subject audio must be **audibly stronger** than ambience on phone
+speakers and headphones. “Soft birds under everything” is a defect when hands,
+vessels, water, fire, or food are the hero action.
+
+For every featured ASMR beat, record before mix approval:
+
+| Field | Required answer |
+| --- | --- |
+| Source | Exact object / body / material visible on screen |
+| Contact | Attack → body → decay of the sound |
+| Listener distance | CU / MCU / MS / wide (must match framing) |
+| Prominence | Primary / supporting / bed only |
+| Level intent | Primary must remain clear above ambience |
+| Competing layers | List what must be ducked or removed |
+| Sync points | Exact visual contacts that must hit |
+
+**Mix rule of thumb:**
+
+- Primary ASMR / action: clearly forward
+- Room / birds / breeze: soft bed — never equal to primary
+- Music: usually off during featured ASMR; if present, −18 to −24 dB relative to primary
+- Phone-speaker test: if the pour/stir/splash cannot be heard, the mix fails
+
+**Prompt rule for Flow audio:** name the primary sound first, with concrete verbs
+(pour, splash, creak, peck, stir, scrape). Do not write only “soft morning ambience.”
+
 ### 5. Protect the transition and result
 
 Record when the action starts, changes, and stops. The sound must evolve with

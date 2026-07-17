@@ -104,11 +104,54 @@ Beat density is the rate of meaningful change, not the number of cuts.
 | --- | --- | --- |
 | 15–30 second Short | One action with one turn | High; nearly every shot advances the action |
 | 30–60 second Short | One compact beginning-to-end arc | High between beats; selective sensory holds |
-| 60–120 second Short | One focused task or feeling-led arc | Moderate-high; two to five scene changes |
-| 3–6 minute long form | One substantial process or family day segment | Moderate; room for process and place |
-| 6–12 minute long form | Layered process, ensemble, or reflective episode | Moderate with periodic renewed orientation |
+| 60–120 second Short | One focused task or feeling-led arc | High; new information every 1–3 seconds |
+| 3–6 minute long form | One substantial process or family day segment | Moderate-high; renewed progression every 4–8 seconds |
+| 6–12 minute long form | Layered process, ensemble, or reflective episode | Moderate with reorientation every 45–75 seconds |
 
 Do not count cuts as beats. Five cuts of a pot boiling are usually one beat unless each cut shows a meaningful new stage.
+
+### Retention-first cadence (2026-07-17 lock)
+
+**Goal:** viewers feel constant progress. **Method:** compress waiting, walking, repeated setup, and already-understood actions. Keep ASMR and emotion long enough to land.
+
+| Situation | Default |
+| --- | --- |
+| Recognition complete (viewer already understands the image) | Cut or advance immediately |
+| Process ASMR (pour, stir, grind, wash, chew) | Hold only while the sound/action still changes |
+| Walk between locations | Compress unless geography or relationship is the story |
+| Establishing wide | 1–3 seconds max unless the place itself is the hook |
+| Reaction / emotion | Hold until the feeling is readable, then exit |
+| Calendar / logo / title | After relevance; Shorts often skip or place at end |
+
+**Information-change test:** every 2–4 seconds of screen time must deliver at least one of:
+
+- new action stage
+- new object state
+- new character intention/feeling
+- new place relation
+- new primary sound event
+
+If none occur, the shot is padding. Remove it.
+
+**Forbidden “fast” tactics:**
+
+- brainrot micro-cut spam with no readable cause/effect outside approved
+  `16_Growth_Sprint_Mode.md`
+- jump cuts that hide missing story
+- distress or shock packaging for retention
+- cutting ASMR mid-contact before attack/body/decay complete
+
+### Growth Sprint override (future releases)
+
+When explicitly selected in the episode brief, Growth Sprint uses:
+
+- 0.7–2.0 s typical shots;
+- pattern interruption every 1–3 s;
+- 15–35 s preferred Shorts runtime;
+- strongest subject sound in first 0–0.5 s;
+- stable Flow generation followed by aggressive editorial trimming.
+
+See `16_Growth_Sprint_Mode.md`. Finished episodes are not retroactively changed.
 
 ---
 
@@ -169,12 +212,12 @@ Recommended for one process with enough physical stages to reward observation.
 
 | Sequence | Typical timing | Purpose |
 | --- | ---: | --- |
-| Direct opening | 0:00–0:20 | Active condition and episode promise |
-| Orientation and plan | 0:20–0:50 | Place, participants, and objective |
-| First movement | 0:50–2:00 | Preparation or initial attempt |
-| Development | 2:00–3:50 | Process, interaction, and real adjustment |
-| Result | 3:50–5:15 | Outcome becomes visible and shared |
-| Release | final 20–45 seconds | Quiet reflection, cleanup, or place return |
+| Direct opening | 0:00–0:12 | Active condition and episode promise |
+| Orientation and plan | 0:12–0:40 | Place, participants, and objective — no calendar-first delay |
+| First movement | 0:40–1:40 | Preparation or initial attempt |
+| Development | 1:40–3:30 | Process, interaction, and real adjustment |
+| Result | 3:30–4:45 | Outcome becomes visible and shared |
+| Release | final 15–30 seconds | Quiet reflection, cleanup, or place return — do not pad |
 
 ### 7.2 Six to twelve minutes
 

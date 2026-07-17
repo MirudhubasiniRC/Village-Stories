@@ -87,6 +87,23 @@ An effective hook answers, within the first moments:
 
 If analytics show an early drop, first diagnose clarity, relevance, audio comprehension, and title-to-opening alignment. Do not automatically add danger, captions, faster cuts, or a louder music cue.
 
+### Retention-first opening (2026-07-17 lock)
+
+Village Stories must feel **alive early**, not delayed. Viewers decide quickly.
+
+| Rule | Requirement |
+| --- | --- |
+| First frame | Active subject already doing something, or a clear condition that will change |
+| First meaningful sound | Belongs to the **active subject** — vessel, hands, footsteps, water, fire, laugh — not generic distant birds alone |
+| First 3 seconds | Anchor + change readable without captions |
+| First 15 seconds | Premise, place, and who is involved are clear |
+| Calendar / title cards | After relevance is established — never as the first reason to stay |
+| Distress | Never open on unexplained tears or crisis without cause/context |
+
+**Speed rule:** Advance to the next meaningful beat as soon as recognition is complete. Do not hold a “pretty village” shot hoping retention will arrive later.
+
+**Not brainrot:** Faster progression ≠ rapid micro-cuts, jump scares, false cliffhangers, or distress packaging. Cut dead waiting; keep readable action and truthful ASMR.
+
 ---
 
 ## 4. Hook Anatomy
@@ -125,11 +142,23 @@ Timing follows function, not a fixed number of seconds. Use the ranges below as 
 | --- | ---: | ---: | ---: |
 | Short under 60 seconds | 0–1 second | 1–4 seconds | 3–6 seconds |
 | Short 60–120 seconds | 0–2 seconds | 2–7 seconds | 5–10 seconds |
-| Long form | 0–3 seconds | 4–15 seconds | 10–25 seconds |
+| Long form | 0–3 seconds | 4–12 seconds | 8–20 seconds |
 
 Long-form episodes may breathe, but they may not postpone relevance. A beautiful dawn can open a long-form episode only when dawn itself is the meaningful condition: for example, the family must leave before heat, or Father is starting work while the village wakes.
 
 Do not use a fixed “hook shot” duration. Hold a shot long enough for recognition and emotional reading; cut when new information, action, or attention is needed.
+
+### First-15-second diagnostic (mandatory before approve)
+
+Answer yes/no before locking the opening:
+
+1. Can a cold viewer name the active subject in one sentence after 3 seconds?
+2. Does the first meaningful sound come from that subject?
+3. Does the title/thumbnail promise match what the first 15 seconds deliver?
+4. Has any calendar, logo, or slow establishing hold delayed the first action?
+5. Would removing two seconds of opening still leave the story clear?
+
+If any answer fails, revise the opening before generating more mid-episode coverage.
 
 ---
 

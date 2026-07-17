@@ -58,7 +58,21 @@ A Short is not:
 * a false emergency, mystery, rescue, or cliffhanger;
 * a long-form scene arbitrarily cropped into 9:16;
 * an excuse to make children, the Family Dog, weather, or ordinary work feel unsafe;
-* a vehicle for modern trends, meme editing, aggressive music, or clickbait packaging.
+* a vehicle for unrelated meme footage, copyrighted trend assets, or deceptive
+  clickbait packaging.
+
+### Growth Sprint exception
+
+When the episode brief selects **Growth Sprint Mode**, rapid cuts, punch-in
+crops, captions, tactile sound accents, and loopable endings are permitted under:
+
+```text
+07_Episode_System/16_Growth_Sprint_Mode.md
+```
+
+The Short must still be original, episode-specific, complete, and truthful.
+Growth Sprint changes editorial velocity; it does not permit mass-produced
+template content, false danger, or unrelated visual noise.
 
 ---
 

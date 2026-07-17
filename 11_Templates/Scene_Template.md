@@ -56,21 +56,30 @@
 | --- | --- |
 | Story job of this scene | |
 | Emotional beat | |
+| Retention purpose | Hook / Orient / Progress / ASMR payoff / Turn / Resolve / Rest |
 | What must be true after this scene | |
+| Entry timestamp target | |
+| Exit timestamp target | |
+| Compressible material (walks/setup/repeats) | |
 
 ---
 
 ## Beat list (inside scene)
 
-| Beat | Action | Approx. duration | Shot IDs |
-| --- | --- | --- | --- |
-| | | | |
+| Beat | Action | New information | Approx. duration | Shot IDs |
+| --- | --- | --- | --- | --- |
+| | | | | |
 
 ---
 
 ## ASMR / silence in scene
 
--
+| Field | Value |
+| --- | --- |
+| Primary source | |
+| Prominence | Primary / Supporting / Bed |
+| Sync contacts | |
+| Silence window | |
 
 ---
 

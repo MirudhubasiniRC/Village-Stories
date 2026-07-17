@@ -156,7 +156,22 @@ Storyboard applies the plan; Google Flow generates bounded clips; post-productio
 * cut before cause-and-effect is readable;
 * hold a shot solely to make the runtime longer;
 * repeat the same action from multiple angles if one angle already tells it clearly;
-* use a reaction shot to hide a continuity error.
+* use a reaction shot to hide a continuity error;
+* change scenes only because the previous shot looked pretty.
+
+### Truthful attention renewals (2026-07-17)
+
+Renew viewer attention with a real change, not decorative cutting. Approved renewals:
+
+* action-state change (empty → pouring → full)
+* scale change (wide place → macro contact)
+* perspective/camera-side change that clarifies work
+* sound handoff (ambience → primary ASMR contact)
+* progress reveal (foam rising, wood withdrawn, path completed)
+* readable reaction after cause
+* location move that advances the task
+
+If two seconds pass with no renewal of information, action, feeling, or primary sound, cut or compress.
 
 ---
 

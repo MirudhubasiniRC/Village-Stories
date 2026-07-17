@@ -327,6 +327,23 @@ Use level, frequency balance, and arrangement to make space. Avoid making every 
 
 Preserve dynamic contrast: a room can grow quieter before rain; a small vessel sound can be intimate; a music entrance can remain modest. Do not normalize every moment to the same intensity.
 
+### Subject-first mix targets (2026-07-17)
+
+| Layer | Intent | Failure mode |
+| --- | --- | --- |
+| Dialogue | Clearest intelligible layer when present | Covered by birds / music |
+| Primary action ASMR | Forward, textured, synced to contact | Soft wallpaper under ambience |
+| Supporting ambience | Quiet bed that locates the place | Equal volume to primary |
+| Music | Rare; below action; never instructs emotion | Constant bed that flattens ASMR |
+
+Delivery checks before upload:
+
+* Integrated loudness near YouTube comfort (~−14 LUFS) without crushing ASMR peaks.
+* Peaks leave headroom; no clipping on pours, scrapes, or fire pops.
+* Phone-speaker pass: primary action remains recognizable.
+* Headphone pass: no painful spikes; natural decay preserved.
+* A/B natural pass: mute music — does the scene still feel alive through action sound?
+
 ---
 
 ## Quality Checks

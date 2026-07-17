@@ -18,6 +18,31 @@
 
 >
 
+### Supplied story (preserve intent)
+
+>
+
+### Viral-benchmark refinement
+
+| Review item | Finding |
+| --- | --- |
+| Current verified references / date checked | |
+| Comparable winning structures | |
+| First-frame clarity | |
+| Emotional / relationship stake | |
+| Specific cultural or food promise | |
+| Tactile ASMR opportunities | |
+| Meaningful progression | |
+| Obstacle / anticipation / discovery | |
+| Emotional + sensory payoff | |
+| Reason to subscribe | |
+| Missing or weak elements | |
+| What must not be copied | |
+
+### Refined episode promise
+
+>
+
 ### Viewer gain
 
 * Emotional:
@@ -88,6 +113,12 @@
 | Emotional accent | |
 | Silence | |
 
+First featured sound (subject-first):
+
+```text
+
+```
+
 ---
 
 ## 7. Format plan
@@ -95,7 +126,16 @@
 | Item | Value |
 | --- | --- |
 | Aspect | 9:16 / 16:9 |
+| Pace profile | **Growth Sprint Short (default for acquisition)** / Brisk Short / Sensory Short / Balanced long-form / Process-led long-form |
 | Hook type | |
+| Hook candidate A | |
+| Hook candidate B | |
+| Hook candidate C | |
+| Selected first sound | |
+| Attention renewals planned | |
+| Analytics cohort (compare to) | |
+| Runtime cohort | 20–45s tactile / 60–120s complete / 120–180s extended |
+| Benchmark-informed refinement made | |
 | Ending type | Resolved / Partial-but-honest |
 | Education moment (if any) | Through action only |
 | Humour (if any) | |

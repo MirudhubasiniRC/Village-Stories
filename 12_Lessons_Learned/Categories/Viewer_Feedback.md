@@ -7,6 +7,7 @@ Authority support: `08_Production/15_Publishing_Workflow.md` · Release Standard
 | ID | Date | Source | Stage | Summary | Recommendation | Policy status |
 | --- | --- | --- | --- | --- | --- | --- |
 | — | — | — | — | No entries yet | — | — |
+| LL-VF-001 | 2026-07-17 | Creator self-diagnosis | observe | Videos feel too slow for feed culture; primary subject audio not strong enough; desire for faster situation changes + stronger ASMR | Adopt retention-first pacing + subject-first ASMR locks; reject brainrot/distress tactics | adopted into Hook/Pacing/ASMR/SFX + Analytics workflow |
 
 ## Rules
 

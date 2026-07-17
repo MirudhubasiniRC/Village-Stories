@@ -27,6 +27,10 @@
 | --- | --- |
 | Scene | |
 | Duration target | |
+| Information delta (what NEW does this shot add?) | |
+| Cut trigger (when to leave this shot) | |
+| Hold justification (ASMR / emotion / process change) | |
+| Removable seconds if recognition is complete | |
 | Story purpose | Hook / Orient / Process / Turn / Resolve / Rest |
 | Emotional objective | |
 | Subject | |
@@ -43,6 +47,8 @@
 | Object lock sources | |
 | Reference assets (M-61 roles) | |
 | Motion intent (later Flow) | One principal action: |
+| Primary audio source (subject-first) | |
+| ASMR priority | Primary / Supporting / Bed only |
 | Audio intent | |
 | Dialogue / narration | None / … |
 | Negatives (clip-specific) | |
@@ -59,9 +65,12 @@
 ## Board QA
 
 - [ ] Every shot has purpose + emotional objective
+- [ ] Information delta + cut trigger filled
+- [ ] First 15 seconds: active subject + subject-first sound
 - [ ] Screen direction consistent along route
 - [ ] Crop-safe for declared aspect
 - [ ] One principal action per clip planned
+- [ ] Primary ASMR louder than ambience planned
 - [ ] Scene-state ledger complete
 - [ ] Ready for Image Prompt Template (phased)
 

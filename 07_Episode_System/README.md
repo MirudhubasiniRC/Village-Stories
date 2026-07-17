@@ -295,6 +295,16 @@ This file answers:
 
 **“What did this episode achieve, and what should improve next time?”**
 
+## 16_Growth_Sprint_Mode.md
+
+Defines the default high-velocity, Shorts-led audience-acquisition mode for
+future releases: frame-one hooks, 0.7–2.0 s editorial shots, dense subject-first
+ASMR, pattern interrupts, looping, originality, and monetization safeguards.
+
+This file answers:
+
+**“How do we pursue rapid views without producing inauthentic mass-template content?”**
+
 ---
 
 # Canon Authority

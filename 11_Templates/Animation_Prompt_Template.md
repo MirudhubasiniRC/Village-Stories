@@ -23,6 +23,11 @@ Authority: `09_AI_Production_System/21_Clip_Prompt_Formula.md` ·
 1. Deliver **Animation + Audio together** with explicit **Duration**. Character motion speed = **Normal Speed**.
 2. **Think continuity first** (LL-EP002-02): Do not wait for producer pushback. Before writing the prompt, decide one-image vs two-image and name Begin→End.
 3. **Use the Camera Movement Bible** (LL-EP002-03): Do not default to Static out of habit. Run preference order; if moving, use named moves (**Slow Push In**, **Slow Pull Out** = push-back, Pan, Tilt, short Truck/Dolly). Fill all five Flow camera fields every time.
+4. **Retention-first duration** (2026-07-17): default Shorts clips **3–6 s**, long-form action clips **4–8 s**, ASMR process clips **5–8 s**. Only exceed when the sound/emotion still changes. Cut dead tails.
+5. **Subject-first ASMR:** primary audible layer = the hero action (pour, stir, splash, peck, footsteps). Ambience is bed only.
+6. **Growth Sprint:** generate one stable **4–6 s** action, then mark the strongest
+   **0.7–2.5 s editorial extraction window**. Do not ask Flow to create rapid
+   multi-scene brainrot inside one clip; speed is created in the edit.
 
 ---
 
@@ -37,6 +42,7 @@ Answer before drafting:
 | Story relation readable in silhouette? (win / lose / arrive / comfort) | |
 | Camera purpose? (hold / emotion push in / return to context pull out / follow small action) | |
 | Chosen camera from Bible preference order | |
+| Growth Sprint extraction window (if selected) | [start–end seconds] / N/A |
 
 ### When to use Two-image (default yes if…)
 
@@ -161,27 +167,31 @@ CLIP [Number] — Audio / ASMR Prompt
 
 Duration Match: Align to picture [N] seconds.
 
-Primary Sounds (Visible Actions):
-[sound timed to Begin→End beats]
+Primary Sounds (Visible Actions) — MUST BE LOUDEST LAYER:
+Source: [exact object/material]
+Contact: [attack → body → decay]
+Sync: [visual moments]
+Level: PRIMARY / FORWARD
 
-Environmental Ambience:
-Village: [beds]
-Home / place: [beds]
+Supporting Ambience — BED ONLY (ducked under primary):
+Village: [soft beds]
+Home / place: [soft beds]
 
 Dialogue:
 NONE / [Speaker]: "[line]" at [time window] — English · Indian accent (if locked)
 
 Audio Mix Priority:
-1. [primary]
-2. [supporting]
-3. [silence / fade]
+1. Primary subject ASMR / dialogue
+2. Human presence (cloth, breath, bangles)
+3. Soft ambience bed
+4. Music (usually NONE during ASMR)
 
 Fade behaviour (if any):
 […]
 
 Continuous Ambience: [bridge from previous clip — REQUIRED]
 
-No: […]
+No: equal-loud birds · music over ASMR · owl · night insects in morning · empty soft bed without primary contact
 ```
 
 ---
@@ -194,9 +204,9 @@ No: […]
 - [ ] Story silhouette lock (win/lose/arrive) if relevant  
 - [ ] **All five camera fields** filled · move named or Locked + why  
 - [ ] Slow Push In / Slow Pull Out considered when emotion or context earns it  
-- [ ] Duration + beat breakdown  
+- [ ] Duration + beat breakdown · **retention-first length** (no dead tail)  
 - [ ] Style lock lists shot-specific PRESERVE facts  
 - [ ] One principal action chain · Normal Speed  
-- [ ] Audio in same message · continuous ambience bridge  
+- [ ] Audio in same message · **primary ASMR louder than ambience** · continuous ambience bridge  
 
 **Handoff:** After Flow approve → next IMAGE PROMPT only (phased).

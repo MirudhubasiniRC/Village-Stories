@@ -18,6 +18,29 @@ The current user request always has the highest priority.
 
 However, if the request intentionally changes an established part of the world (such as adding a new permanent location or modifying a recurring character), the appropriate Canon documents must also be updated.
 
+## Standing Story-Refinement Directive (approved 2026-07-17)
+
+When the user provides even a single sentence, situation, or rough story idea,
+do **not** move directly into image prompts, animation prompts, or production.
+
+First:
+
+1. preserve the user's core event, characters, and intended feeling;
+2. analyze the idea against current verified viral references in the same niche
+   and the channel's own analytics;
+3. identify missing emotional stakes, sensory actions, progression, payoff, and
+   subscriber reason;
+4. refine the story into a stronger Village Stories version;
+5. present or record the refined spine before production begins.
+
+Viral references are structural evidence, not material to copy. Never duplicate
+another channel's characters, shots, wording, or exact sequence. Add no fake
+danger, forced drama, or culturally false behavior merely because it performed
+elsewhere.
+
+This refinement is the default unless the user explicitly says the supplied
+story is locked, verbatim, or must not be changed.
+
 ---
 
 # Priority Level 2 — Canon
@@ -153,7 +176,7 @@ Every creative decision should support one or more of the following qualities:
 
 * Authentic 1990s South Indian village life.
 * Emotional warmth.
-* Slow, peaceful pacing.
+* Peaceful emotional tone with retention-first progression — move promptly between meaningful beats; remain present only inside tactile, emotional, or causal payoffs.
 * Everyday human stories.
 * Strong family relationships.
 * Community life.

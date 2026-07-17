@@ -201,6 +201,15 @@ This file answers:
 
 **“Has every required stage been completed before release and archive?”**
 
+## 19_Analytics_And_Retention_Workflow.md
+
+Defines post-publish retention diagnosis, Shorts vs long-form targets, experiment
+protocol, and subject-first audio checks.
+
+This file answers:
+
+**“Did viewers stay, why did they leave, and what single change do we test next?”**
+
 ---
 
 # Relationship With Other Documents

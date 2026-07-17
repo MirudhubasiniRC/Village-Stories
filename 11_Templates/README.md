@@ -37,6 +37,8 @@ Templates do not invent facts.
 | `YouTube_Metadata_Template.md` | Title, description, tags, chapters |
 | `Episode_Checklist.md` | Episode-level gate checklist (working copy) |
 | `Production_Checklist.md` | Project-wide production gate checklist (working copy) |
+| `Analytics_Review_Template.md` | Post-publish retention / CTR / ASMR diagnosis |
+| `Audio_Plan_Template.md` | Per-shot subject-first ASMR / mix plan |
 
 ## How to use
 
