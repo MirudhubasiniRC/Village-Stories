@@ -20,10 +20,10 @@ Do not treat this file as higher authority than the location bible.
 | Field | Lock |
 | --- | --- |
 | Sources | `Kitchen.md`, `Kitchen/Architecture.md`, `Kitchen/Raised_Clay_Stove.md` |
-| Must show | Lime-plaster walls; red-oxide floor; Mangalore tile roof / exposed rafters; raised clay stove on **north** cooking wall; south garden window; east→courtyard / west→rear veranda circulation |
+| Must show | Lime-plaster walls; red-oxide floor; exposed rafters; raised clay stove on **north** cooking wall; **large open wooden Cook-Side Garden Window immediately beside stove** with dense greens; south garden window; east→courtyard / west→rear veranda circulation |
 | Atmosphere | Warm, smoke-aged, airy, natural daylight |
 | Must not | Modern appliances, LPG cylinder showcased as primary, tiled luxury kitchen, fluorescent strips as primary vibe |
-| Suggested shot | Medium-wide interior looking toward stove wall with garden window side-light |
+| Suggested shot | Medium-wide interior showing stove + adjacent open green window together |
 
 ---
 
@@ -56,8 +56,8 @@ Do not treat this file as higher authority than the location bible.
 | Field | Lock |
 | --- | --- |
 | Sources | `Front_Garden.md`, Orientation (house faces east) |
-| Must show | East-facing approach to house; path to Front Thinnai; village-appropriate plants; not formal landscaping |
-| Atmosphere | Welcoming threshold between path and home |
+| Must show | East-facing approach; **full lush garden both sides**; **single center packed-earth path** gate→thinnai; **curry leaf tree + lemon tree + mango**; chilli · tomato · banana · hibiscus · marigold; dense Post-Monsoon green |
+| Atmosphere | Welcoming productive homestead — overflowing greenery, not bare yard |
 | Must not | English lawn / exotic landscaping / concrete driveway |
 | Suggested shot | From Main Village Path looking west toward thinnai (morning light from east behind/ beside camera as appropriate) |
 
@@ -81,10 +81,11 @@ Do not treat this file as higher authority than the location bible.
 | Field | Lock |
 | --- | --- |
 | Sources | `Water_Well.md`, Master Map Well Utility Area |
-| Must show | Traditional family well behind kitchen; stone/brick rim; pulley or traditional draw method; utility washing adjacent; earth ground |
-| Atmosphere | Practical daily water place |
-| Must not | Electric pump house as primary look; plastic tanks dominating; municipal metal hatch modernism |
-| Suggested shot | Medium-wide utility area with well as subject; soft daylight |
+| Must show | Household well behind kitchen; **one large shade tree beside well** (trunk + canopy); stone/brick rim; **wooden pulley + rope + bucket**; grey stone washing slab; matkas/brass pot; wet earth; rear veranda edge; lush backyard beyond — **NO compound wall** |
+| Atmosphere | Practical morning utility · ~6–7am soft light |
+| Must not | Field well (neem kattil) look · electric pump hero · plastic tanks · bare yard without tree |
+| Suggested shot | MS Mother at well — pull bucket OR wash face from bucket |
+| Status | **approved PNG present** (M03a · 2026-07-17) |
 
 ---
 
@@ -109,6 +110,17 @@ Do not treat this file as higher authority than the location bible.
 | Atmosphere | Calm caretaker space |
 | Must not | Industrial dairy metal barn; concrete free-stall modern farm |
 | Suggested shot | Exterior three-quarter of shelter with soft afternoon light |
+
+### Goat Pen — `Livestock_Shelter_Goat_Pen_Canon_Design_Reference.png`
+
+| Field | Lock |
+| --- | --- |
+| Sources | `Livestock_Shelter.md` · `Family_Goat_Canon_Design_Reference.png` |
+| Must show | Low wooden fence · stone trough · straw/earth · open tile-roof shelter · cream wall · matkas · banana/palm greens · open Backyard depth |
+| Composition | Caretaker outside fence · white and brown goats inside; both goat faces and offered fodder readable |
+| Atmosphere | Warm & Sunlit early morning · rich layered greens · gentle golden side-light |
+| Must not | Industrial pen · compound wall · goats outside fence · sparse bare setting |
+| Status | **approved PNG present** (M05 · 2026-07-17) |
 
 ---
 
@@ -181,7 +193,20 @@ Do not treat this file as higher authority than the location bible.
 | Must show | **Wide distant** view; large **neem tree**; **kayiru kattil** (woven rope charpai) under shade; **field well** with wooden pulley **slightly right** of tree/kattil; green **paddy rows** / open farmland; optional small figures (Father washing, dog on kattil) |
 | Atmosphere | Peaceful mid-field pause; warm afternoon; labour rest — not temple, not backyard compound |
 | Must not | Backyard kitchen well architecture; Vinayagar banyan shrine; MCU-only face wash as identity frame; modern pump house; compound wall box |
-| Suggested shot | Wide / long establishing — environment hero, people small |
+| Suggested shot | Wide distant — environment hero, people small |
+
+---
+
+## Family House establishing — `Family_House_Establishing_Canon_Design_Reference.png`
+
+| Field | Lock |
+| --- | --- |
+| Sources | `Family_House.md`, `Front_Thinnai.md`, `Front_Garden.md`, `Orientation.md` |
+| Must show | **Ultra-wide** dawn/dusk; cream walls · terracotta roof; **wide shallow thinnai**; **full lush front garden** · **center path only**; curry leaf + lemon + mango trees; chilli · tomato; low wooden gate; distant **paddy + river** |
+| Atmosphere | M01 opening hook — peaceful early morning ~6–7am; Ghibli soft golden mist |
+| Must not | Deep thinnai tunnel · compound fortress wall · tile thinnai floor · bare open yard · ornamental English lawn · photoreal |
+| Suggested shot | Ultra-wide aerial-leaning village vista — family house centre-left, landscape opens right |
+| Status | **approved PNG present** (M01 · 2026-07-17) |
 
 ---
 

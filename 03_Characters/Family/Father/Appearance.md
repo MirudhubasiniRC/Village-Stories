@@ -20,6 +20,17 @@ Father's permanent visual-reference sheet is:
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 ```
 
+Approved seated morning-tea appearance:
+
+```text
+11_Assets/Character_References/Father_Morning_Tea_Appearance_Canon_Reference.png
+```
+
+Use the morning-tea reference to lock Father's **face, hair, moustache, warm skin
+tone, seated proportions, gentle expression, and white-shirt/cream-veshti home
+look**. It is a secondary scene reference, not a replacement for the master
+character sheet.
+
 This image establishes Father's recurring **strong structured masculine face**,
 **prominent angular jawline**, thick wavy black medium-length hair with soft side
 part, **neatly trimmed solid black moustache**, lean athletic build, warm
@@ -41,7 +52,10 @@ kasavu border; barefoot.
 - **Kitchen standing (primary reference):** morning kitchen, hand on stool beside
   brass pot, open east doorway with fields and palms, warm golden side light.
 - **Morning tea seated:** wooden bench, terracotta cup with steam, quiet interior,
-  strong jaw emphasized in soft side light.
+  strong jaw emphasized in soft side light. Match
+  `Father_Morning_Tea_Appearance_Canon_Reference.png`: thick wavy black hair,
+  neatly trimmed black moustache, angular jaw, warm gentle eyes, white rolled-sleeve
+  cotton shirt, cream veshti with thin gold border.
 
 The reference sheet is:
 

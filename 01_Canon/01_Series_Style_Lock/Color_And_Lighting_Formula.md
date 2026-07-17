@@ -30,6 +30,36 @@ anime). Seasonal lighting tables below choose sky / weather / mood; they do
 - **Post-Monsoon outdoor:** keep a **soft blue sky** — not blown white / cream wipe
 - Do not pile hex locks or high-contrast filters into every Flow prompt
 
+### Approved early-morning visual target (2026-07-17)
+
+```text
+11_Assets/Style_References/Early_Morning_Color_Lighting_Canon_Reference.png
+```
+
+This reference is the permanent **colour richness, contrast, and lighting-quality
+target** for clear early-morning exteriors:
+
+- Full, layered **fresh green foliage** — deep leaf greens in shade and lively
+  yellow-green sunlit edges; never pale sage or grey-green wash.
+- Soft golden east side-light on skin, cream plaster, terracotta roof, earth,
+  animals, and plants — warm but **not** orange sunset grading.
+- **Medium-soft contrast** with readable dark green canopy shade, open midtones,
+  and controlled highlights.
+- Rich warm terracotta, orange marigolds, red/pink hibiscus, purple brinjal,
+  indigo clothing, and natural chicken colours remain distinct and harmonious.
+- Skin remains warm golden and naturally integrated into the environment.
+- Painterly depth: detailed foreground plants, readable midground action, softer
+  background greenery — never a flat wall of green.
+
+**Global application:** Use this as the colour/lighting target for all compatible
+**Warm & Sunlit early-morning outdoor scenes** (Front Garden, Backyard, well,
+livestock shelter, village path, field). Preserve the same richness and gentle
+contrast indoors when morning window light permits.
+
+It does **not** override story-true time or weather: Monsoon rain, midday,
+evening, and night retain their own lighting rows. Translate the same colour
+clarity and controlled-highlight philosophy into those conditions.
+
 ### Art style authority (unchanged)
 
 ```text

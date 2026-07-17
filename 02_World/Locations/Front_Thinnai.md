@@ -28,30 +28,30 @@ anime background rendering.
 
 **Approved look:**
 
-- Gabled wooden roof with deep overhang, supported by **dark wooden pillars**.
-- **Packed earth / natural worn land** as the floor under the thinnai and open
-  porch — **not** terracotta floor tiles or ceramic paving. Free-range chickens
-  naturally peck and roam here; dogs and bare feet meet the same earth.
-- Raised sit edge / steps may be simple plastered masonry or granite, but the
-  main walking and resting ground stays **earth**.
-- Centered **carved two-panel traditional wooden entrance door**, may stand
-  slightly ajar revealing warm interior family presence.
-- White lime-plastered walls.
-- **Bougainvillea vine** with **magenta flowers** climbing the left wall.
-- **Clay pots** with lush green **ferns** and bright orange **marigolds** at
-  porch edges.
-- Soft **striped floor cushions** in red, blue, and yellow tones for resting
-  (placed on mats or directly on packed earth).
-- **Soft dappled warm afternoon golden sunlight** filtering through nearby
-  trees — painterly rounded shadows on earth and subjects.
-- Lush surrounding greenery; nostalgic emotionally warm early-1990s rural Tamil
-  Nadu atmosphere.
+- **WIDE + SHALLOW thinnai** — spans most of house front width; **short depth**
+  (broad porch — NOT a long deep veranda). Elevated platform ~2½ ft · **2–4 wooden
+  pillars across the WIDTH** under gabled roof overhang.
+- **Packed earth** thinnai floor — not tile plaza. Chickens peck freely.
+- Centered **wooden entrance door**; small **wood-barred windows** may flank door.
+- **Clay matkas / pots** on porch edge · woven mats or striped cushions on earth.
+- White lime-plaster · **magenta bougainvillea** on wall.
+- **Front Garden:** **full lush green** garden · **center path only** · **curry leaf
+  tree** · **lemon tree** · large **mango** with ripe fruit · chilli · tomato ·
+  banana · palms · hibiscus · marigold · bougainvillea. Low open wooden gate —
+  **NOT** compound wall.
+
+**Wide establishing reference (house + thinnai proportions):**
+
+```text
+11_Assets/Location_References/Family_House_Establishing_Canon_Design_Reference.png
+```
+
+Thinnai must stay **wide and shallow** like this reference — not elongated deep.
 
 **Reference note (2026-07-15):**  
 `Front_Thinnai_Canon_Design_Reference.png` may still show an older terracotta-tile
-floor. **Packed earth is now canon.** Do not copy tiled flooring from that PNG.
-Regenerate the location reference when production allows so the image matches
-this document.
+floor or deep veranda. **Packed earth + wide shallow porch** are canon. Prefer
+`Family_House_Establishing_Canon_Design_Reference.png` for wide shots.
 
 All future image generation, Google Flow scenes, storyboards, and production
 artwork must preserve this location identity and rendering language unless a
@@ -89,23 +89,21 @@ It faces east toward the Front Garden and the Main Village Path, receiving the f
 # Architectural Layout
 
 ```text
-                     EAST
-
-                 Front Garden
+                     EAST · Front Garden
+          (mango · banana · palms · flowers · low open gate)
                        │
-        ┌──────────────────────────┐
-        │                          │
-        │      Front Thinnai       │
-        │                          │
- Pillar │                    Pillar│
-        │                          │
-────────┴──────────────────────────┴────────
-          Main Wooden Entrance Door
+        ┌────────────────────────────────────┐  ← WIDE shallow roof
+        │  Pillar    Pillar    Pillar          │     (short depth ~1–1.5 m)
+        │         packed earth floor           │
+        └────────────────────────────────────┘
+              │   door   │ win │ win │
                      │
-                 Courtyard
-
-                     WEST
+                 Courtyard · WEST
 ```
+
+**Proportion lock:** Thinnai is **WIDE across the façade** and **SHALLOW front-to-back**
+— like a broad entry porch, **not** a long deep corridor. Match
+`Family_House_Establishing_Canon_Design_Reference.png`.
 
 The Front Thinnai is open on the eastern side and protected by the extended roof.
 
@@ -125,8 +123,9 @@ Maintain — match architecture plantings and pillars; **ground = packed earth**
   peck and roam. Occasional dry leaves, grain scraps, and worn paths are normal.
 * **Not** terracotta floor-tile grids, ceramic tile plazas, or polished paving.
 * **Gabled wooden roof** with thick exposed beams and deep overhang for shade and
-  rain protection.
-* **Dark wooden support pillars** framing the open porch.
+  rain protection — roof spans **wide** across façade; platform stays **shallow**.
+* **Dark wooden support pillars** (2–4) across the **width** of the porch — not a
+  deep row pushing far into the garden.
 * White lime-plastered walls.
 * Centered **carved two-panel traditional wooden entrance door** on the rear
   wall — may stand slightly ajar, revealing warm blurred interior family presence.

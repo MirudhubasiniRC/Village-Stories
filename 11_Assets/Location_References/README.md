@@ -32,17 +32,19 @@ Locations that should have permanent visual references for series continuity:
 | Kitchen | `Kitchen_Layout_Canon_Design_Reference.png` · `Kitchen_Cook_Window_Canon_Design_Reference.png` | `02_World/Locations/Kitchen.md` + `Kitchen/` | **layout + cook/window PNGs** — big open wood windows + dense greens locked |
 | Courtyard | `Courtyard_Canon_Design_Reference.png` | `02_World/Locations/Courtyard.md` | spec_ready (exterior/wide) |
 | Courtyard Mutram (interior layout) | `Courtyard_Mutram_Canon_Design_Reference.png` | `02_World/Locations/Courtyard.md` | **approved** (2026-07-16) |
-| Front Garden | `Front_Garden_Canon_Design_Reference.png` | `02_World/Locations/Front_Garden.md` | spec_ready |
+| Front Garden | `Front_Garden_Canon_Design_Reference.png` | `02_World/Locations/Front_Garden.md` | **approved** (M01 · 2026-07-17) |
 | Backyard | `Backyard_Canon_Design_Reference.png` | `02_World/Locations/Backyard.md` | **approved** (ep_002 sh_F08 · 2026-07-16) |
-| Water Well / Well Utility Area | `Water_Well_Canon_Design_Reference.png` | `02_World/Locations/Water_Well.md` | spec_ready |
+| Water Well / Well Utility Area | `Water_Well_Canon_Design_Reference.png` | `02_World/Locations/Water_Well.md` | **approved** (M03a · 2026-07-17) |
 | Vegetable Garden | `Vegetable_Garden_Canon_Design_Reference.png` | `02_World/Locations/Vegetable_Garden.md` | spec_ready |
 | Livestock Shelter | `Livestock_Shelter_Canon_Design_Reference.png` | `02_World/Locations/Livestock_Shelter.md` | spec_ready |
+| Livestock Shelter — Goat Pen | `Livestock_Shelter_Goat_Pen_Canon_Design_Reference.png` | `02_World/Locations/Livestock_Shelter.md` | **approved** (M05 · 2026-07-17) |
 | River Ghat | `River_Ghat_Canon_Design_Reference.png` | `02_World/Locations/River_Ghat.md` | spec_ready |
 | Village Square | `Village_Square_Canon_Design_Reference.png` | `02_World/Locations/Village_Square.md` | spec_ready |
 | Banyan + Vinayagar Shrine (Temple) | `Banyan_Vinayagar_Shrine_Canon_Design_Reference.png` | `02_World/Locations/Banyan_Tree_And_Vinayagar_Shrine.md` | **approved** (2026-07-16) |
 | Primary School | `Primary_School_Canon_Design_Reference.png` | `02_World/Locations/Primary_School.md` | spec_ready |
 | Tea Stall | `Tea_Stall_Canon_Design_Reference.png` | `02_World/Locations/Tea_Stall.md` | spec_ready |
 | Field Rest Area (neem · kattil · field well) | `Field_Rest_Area_Canon_Design_Reference.png` | `02_World/Locations/Field_Rest_Area.md` | **approved** (ep_002 sh_F05 · 2026-07-16) |
+| Family House establishing (wide · thinnai) | `Family_House_Establishing_Canon_Design_Reference.png` | `Front_Thinnai.md` · `Front_Garden.md` | **approved** (M01 · 2026-07-17) |
 
 ## Explicitly deferred
 
@@ -62,7 +64,7 @@ Locations that should have permanent visual references for series continuity:
 | Small Grocery Store | `Small_Grocery_Store.md` | deferred |
 | Festival Ground | `Festival_Ground.md` | deferred |
 | Barber / Forge / Carpenter / Potter | each craft file | deferred |
-| Family House exterior establishing | `Family_House.md` | deferred (partial coverage via Thinnai + Garden) |
+| Family House exterior establishing | `Family_House.md` | **approved** via `Family_House_Establishing_Canon_Design_Reference.png` |
 
 ---
 

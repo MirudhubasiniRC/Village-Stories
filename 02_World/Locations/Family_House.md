@@ -81,7 +81,7 @@ This orientation must never change.
                             │
                     Family Entrance Gate
                             │
-                     Front Garden
+              Front Garden (+ kitchen veg beds)
                             │
                      Front Thinnai
                             │

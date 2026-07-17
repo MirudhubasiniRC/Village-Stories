@@ -197,8 +197,26 @@ pair shown in the approved reference.
 11_Assets/Character_References/Family_Goat_Canon_Design_Reference.png
 ```
 
-Attach as `CHARACTER_IDENTITY` or `STYLE_TARGET` when generating goats in Google
-Flow.
+Approved goat-pen location and feeding composition:
+
+```text
+11_Assets/Location_References/Livestock_Shelter_Goat_Pen_Canon_Design_Reference.png
+```
+
+Attach the character reference as `CHARACTER_IDENTITY` and the goat-pen reference
+as `LOCATION_IDENTITY` when generating future goat-care scenes.
+
+**Approved goat-pen look (M05 · 2026-07-17):**
+
+- Mother stands **outside** the low weathered wooden fence; both goats remain inside.
+- White goat foreground/centre; brown droopy-eared goat beside/slightly behind.
+- Stone water trough inside pen · scattered straw · warm packed earth.
+- Open-sided shelter with dark wooden posts and terracotta country-tile roof.
+- Cream lime-plastered shelter wall · terracotta matkas on raised edge.
+- Dense banana, palm, and garden greens surround the pen; open Backyard path and
+  distant chickens remain visible — no compound fortress wall.
+- Warm & Sunlit early morning: rich layered greens, soft golden side-light,
+  medium-soft contrast, controlled highlights.
 
 ### White goat (foreground)
 

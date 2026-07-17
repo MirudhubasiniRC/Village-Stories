@@ -28,12 +28,29 @@ The stove is permanently built against the **north wall** of the Kitchen.
 
 It must never be moved.
 
+A **large open wooden Cook-Side Garden Window** is permanently positioned
+**immediately beside the stove on the same north cooking wall**. The stove and
+window form one recognizable composition:
+
+```text
+NORTH COOKING WALL
+
+┌───────────────────────┬─────────────────────────────────┐
+│ RAISED CLAY STOVE     │ LARGE OPEN WOOD GARDEN WINDOW   │
+│ waist height          │ shutters open · dense greens    │
+│ three clay openings   │ sill near stove/slab height     │
+└───────────────────────┴─────────────────────────────────┘
+```
+
+Never place a blank wall, tiny vent, or closed modern window beside the stove.
+
 Its position supports:
 
 * Efficient cooking.
 * Safe movement.
 * Natural smoke ventilation.
 * Easy access to nearby cookware.
+* Direct garden light and a lush green view beside the cook.
 
 ---
 

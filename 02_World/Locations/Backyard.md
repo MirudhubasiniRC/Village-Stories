@@ -20,6 +20,12 @@ Approved Backyard identity reference:
 11_Assets/Location_References/Backyard_Canon_Design_Reference.png
 ```
 
+Approved early-morning colour and lighting target:
+
+```text
+11_Assets/Style_References/Early_Morning_Color_Lighting_Canon_Reference.png
+```
+
 **Approved look (ep_002 · sh_F08 · 2026-07-16):**
 
 - **Very green lush backyard** — dense Post-Monsoon vegetation; **GENTLE COLOR POP greeny-greens** throughout.
@@ -29,6 +35,10 @@ Approved Backyard identity reference:
 - Free **chickens** pecking optional · open flow between garden and shelter.
 - Kitchen back-door zone implied; afternoon warm sun · soft dappled shade.
 - Ghibli-inspired digital anime · soft matte · early-1990s rural Tamil Nadu.
+
+**Morning look lock (M04 · 2026-07-17):** Preserve the style reference's lush
+layered greens, indigo/terracotta/flower colour separation, soft golden
+side-light, medium-soft contrast, controlled highlights, and painterly depth.
 
 **Scale note for family beats:** Father tallest · Mother ~5 cm shorter · Family Dog mid-thigh on standing Father when adults present (`01_Canon/Relative_Height_And_Scale.md`).
 

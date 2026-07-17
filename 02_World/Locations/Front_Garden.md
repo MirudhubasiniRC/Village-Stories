@@ -12,6 +12,29 @@ It should immediately communicate warmth, care, and the family's close relations
 
 ---
 
+# Canon Visual Reference
+
+Wide establishing (house + thinnai + landscape):
+
+```text
+11_Assets/Location_References/Family_House_Establishing_Canon_Design_Reference.png
+```
+
+Front garden planting density + center path:
+
+```text
+11_Assets/Location_References/Front_Garden_Canon_Design_Reference.png
+```
+
+**Approved look (2026-07-17):** **Full lush green garden** filling the entire front
+yard — **one narrow packed-earth path down the CENTER** from wooden gate to thinnai
+steps. **Curry leaf tree** · **lemon tree** · large **mango** with ripe fruit ·
+chilli · tomato · brinjal · hibiscus · marigold · chickens · dense Post-Monsoon
+foliage. Wide shallow thinnai · low wooden gate · paddy + river in distance.
+**Approved PNG locked** — no further regen unless canonical change.
+
+---
+
 # Identity
 
 Unlike a decorative garden, this is a living family space.
@@ -42,23 +65,44 @@ Morning sunlight reaches this area before any other part of the house.
 
 # Overall Layout
 
-```
+```text
                  Main Village Path
                         │
-              Wooden Entrance Gate
+              Wooden Entrance Gate (low · open)
                         │
-             Packed Earth Entrance Path
+    ┌─────────────────────────────────────────────┐
+    │  FULL LUSH GARDEN · dense green both sides   │
+    │  mango · curry leaf · lemon · chilli · tomato│
+    │  banana · hibiscus · marigold · jasmine      │
+    │         │  CENTER PATH ONLY  │               │
+    │         │  (packed earth)    │               │
+    └─────────────────────────────────────────────┘
                         │
-        Flower Beds      │      Flower Beds
-
-     Jasmine Plants      │      Hibiscus Plants
-
-        Tulsi Shrine      │      Butterfly Plants
-
-                        │
-
-                 Front Thinnai
+        ┌───────────────────────────────────┐
+        │   WIDE SHALLOW Front Thinnai        │
+        └───────────────────────────────────┘
 ```
+
+**Layout lock:** The front yard is **entirely garden** — vegetables, fruit trees,
+flowers, and herbs fill **both sides** of a **single narrow center path**. No bare
+open lawn · no wide empty dirt plaza. Path worn smooth · edges soft with creeping grass
+and fallen petals.
+
+**Front Garden planting lock (approved 2026-07-17):**
+
+- **Density:** Post-Monsoon **full green** — lush, juicy foliage everywhere; garden
+  feels thick, mature, and lovingly tended.
+- **Center path only** — one straight-ish packed-earth aisle gate → thinnai steps.
+- **Curry leaf tree (karuveppilai maram)** — small/medium tree in garden (left or
+  right of path); dense compound leaves · daily cooking harvest.
+- **Lemon tree (nimbu)** — compact citrus with **green/yellow lemons** visible.
+- **Large mango tree(s)** — ripe yellow-orange fruit hanging.
+- **Kitchen beds in garden:** green **chilli**, **tomato** (red fruit on vine),
+  brinjal/okra at edges — woven through flowers, not isolated strip.
+- **Banana** clumps · **hibiscus** · **jasmine** · **marigold** · **bougainvillea**
+  on house wall · optional **Tulsi** pedestal near path edge.
+- Match `Front_Garden_Canon_Design_Reference.png` for density + path;
+  `Family_House_Establishing_Canon_Design_Reference.png` for house + distant landscape.
 
 Nothing should feel perfectly symmetrical.
 
@@ -84,14 +128,41 @@ The gate usually remains open during the day unless livestock need to be kept in
 
 Maintain:
 
-* Packed earth.
-* Slightly worn by years of walking.
-* Grass growing along the edges.
-* Small natural stones.
-* Fallen flowers.
-* Leaves after windy days.
+* **Single center path only** — narrow packed earth running gate → thinnai.
+* Garden fills **both sides** completely; path is the only clear walkway.
+* Slightly worn by years of walking · grass and flowers creeping at edges.
+* Small natural stones · fallen flowers · leaves after windy days.
 
-The path should gently guide visitors toward the Front Thinnai.
+The path should gently guide visitors toward the Front Thinnai through lush greenery.
+
+---
+
+# Front Kitchen Vegetable Beds
+
+Vegetables grow **inside the full front garden** — on both sides of the center path —
+not as a separate bare strip.
+
+Maintain:
+
+* **Green chilli plants** — bushy rows among flowers.
+* **Tomato vines** — stakes/trellis; **ripe red tomatoes** visible.
+* Brinjal · okra · cluster beans at bed edges — never bare soil patches.
+* Rich brown soil · small earthen borders · garden feels **overflowing green**.
+* Hand-watered practical kitchen garden woven with fruit trees and flowers.
+
+**Fruit trees in front garden (required):**
+
+* **Curry leaf tree** — medium height beside path; dense karuveppilai foliage.
+* **Lemon tree** — compact; green/yellow lemons on branches.
+* **Mango tree(s)** — large; ripe hanging fruit.
+
+Purpose:
+
+* Daily harvest — Mother plucks curry leaves, lemon, chilli, tomato on her way in.
+* Complements the larger **Vegetable Garden** behind the house.
+
+Seasonal note: peak abundance Post-Monsoon / early harvest — match
+`Agricultural_Calendar.md` when story timing matters.
 
 ---
 
@@ -137,20 +208,25 @@ The Tulsi is part of the family's daily routine.
 
 # Trees
 
-The Front Garden should include one medium-sized shade tree.
+The Front Garden is **tree-rich** — not flower-only beds.
 
-Recommended:
+Required / primary:
 
-* Indian Gooseberry (Amla)
-  or
-* Guava
+* **Large mango tree(s)** — ripe yellow-orange mangoes when in season.
+* **Curry leaf tree (karuveppilai maram)** — cooking harvest; dense small compound leaves.
+* **Lemon tree (nimbu)** — compact citrus; fruit visible on branches.
 
-The tree should:
+Also maintain:
 
-* Provide gentle shade.
+* **Banana** clumps with broad fronds.
+* Coconut/palm in mid-ground or framing (ultra-wide shots).
+* Guava or amla optional at garden edge.
+
+Trees should:
+
+* Fill the garden with shade dapple and deep green canopy layers.
 * Attract birds.
-* Produce seasonal fruit.
-* Never block the house façade.
+* Never block the wide shallow thinnai façade entirely.
 
 ---
 
@@ -294,12 +370,13 @@ The garden should make the house feel inviting before viewers even enter it.
 Always maintain:
 
 * Wooden entrance gate.
-* Earthen pathway.
-* Flower beds.
+* **Center path only** through full lush garden.
+* **Curry leaf tree + lemon tree + mango tree** in front garden.
+* Front kitchen vegetables (chilli · tomato minimum).
+* Flower beds woven through greenery.
 * Tulsi platform.
-* Medium shade tree.
 * Open relationship with the Front Thinnai.
-* Traditional planting style.
+* Traditional planting style · **dense Post-Monsoon green**.
 
 Never:
 

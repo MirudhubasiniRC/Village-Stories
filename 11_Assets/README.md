@@ -13,12 +13,13 @@ Reusable identity locks live here.
 | --- | --- |
 | `Character_References/` | Family, livestock, scale locks |
 | `Location_References/` | Permanent place identity locks + generation specs |
+| `Style_References/` | Global rendering, colour, and lighting targets |
 
 ## Rules
 
 - Do not store candidates here — only approved canon references (or pending specs awaiting image generation).
 - Filenames follow: `[Subject]_Canon_Design_Reference.png`
-- Every approved reference must be cited from its owning character or location document.
+- Every approved reference must be cited from its owning character, location, or series-style document.
 - Templates for production forms live in `11_Templates/` — not here.
 
 ## Related

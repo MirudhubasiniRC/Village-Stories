@@ -37,6 +37,11 @@ It connects naturally with:
 
 Fresh vegetables are carried directly from the garden into the Kitchen.
 
+**Front Kitchen Garden Strip:** A smaller **wide, shallow** bed of chilli and tomato
+(and optional greens) also exists in the **Front Garden** — visible from the village
+path and thinnai. Daily quick harvest; main production remains here behind the house.
+See `Front_Garden.md` · `# Front Kitchen Vegetable Beds`.
+
 ---
 
 # Layout

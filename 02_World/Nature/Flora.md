@@ -148,9 +148,10 @@ Usually found near roads and fields.
 
 Purpose:
 
-Daily cooking.
+Daily cooking — sambar, rasam, tadka.
 
-Commonly planted beside kitchens.
+Commonly planted beside kitchens **and in the Front Garden** (one medium tree near
+the center path). Dense small compound leaves · karuveppilai maram.
 
 ---
 
@@ -161,7 +162,7 @@ Common varieties include:
 * Banana
 * Papaya
 * Guava
-* Lemon
+* Lemon — **Front Garden lemon tree** (nimbu) with visible fruit; also backyard
 * Mango
 
 Fruit availability changes naturally with the seasons.

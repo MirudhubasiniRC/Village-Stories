@@ -23,12 +23,14 @@ Primary character and style anchors:
 ```text
 11_Assets/Character_References/Mother_Canon_Design_Reference.png
 11_Assets/Character_References/Father_Canon_Design_Reference.png
+11_Assets/Style_References/Early_Morning_Color_Lighting_Canon_Reference.png
 ```
 
 | Reference | Role |
 | --- | --- |
 | `Mother_Canon_Design_Reference.png` | Official **female face design** and series rendering standard |
 | `Father_Canon_Design_Reference.png` | Official **Father identity** and **male face design** in the same rendering language |
+| `Early_Morning_Color_Lighting_Canon_Reference.png` | Official **Warm & Sunlit early-morning colour richness, lush-green balance, medium-soft contrast, and golden side-light target** |
 
 These references define the **official Village Stories anime look**:
 

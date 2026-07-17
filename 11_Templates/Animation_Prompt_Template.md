@@ -55,6 +55,10 @@ Answer before drafting:
 | Pan Left / Right · Tilt Up / Down | One-axis only |
 | Short Truck / Short Dolly | Rare · bounded path only |
 
+**External / AI terms:** translate via `20_Camera_Movement_Bible.md` § **Flow Synonym Map**
+(e.g. "tracking" → Truck, "reveal" → Slow Pull Out). Never paste vague cinematic
+synonyms into Flow.
+
 Never combine two move types in one clip. Speed words: `none` / `nearly imperceptible` / `very slow` / `slow` / `measured` — never `fast` / `cinematic` / `dramatic`.
 
 ---

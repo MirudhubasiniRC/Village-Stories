@@ -36,6 +36,16 @@ Father's canonical wardrobe by situation:
 - Sleeves **rolled naturally** to mid-forearm when working.
 - **Barefoot** inside home, compound, and familiar village paths.
 
+Approved morning-tea home outfit reference:
+
+```text
+11_Assets/Character_References/Father_Morning_Tea_Appearance_Canon_Reference.png
+```
+
+White cotton button shirt with sleeves rolled to mid-forearm · cream veshti with
+thin gold border · barefoot. Use this outfit for seated morning tea and calm
+indoor home beats unless the shot explicitly requires banian/inner-vest continuity.
+
 ## Household work
 
 - **Checked cotton lungi** for active household chores, yard work near the house,

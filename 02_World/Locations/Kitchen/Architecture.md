@@ -199,25 +199,32 @@ The shutters are usually fully open during the day.
 
 ---
 
-## North Ventilation Window
+## Cook-Side Garden Window
 
 Permanent position:
 
-Above the cooking wall.
+On the **north cooking wall, immediately beside the Raised Clay Stove**.
 
 Purpose:
 
-* Additional airflow.
-* Smoke release.
-* Soft northern light.
+* Direct garden light beside the cook.
+* Strong airflow and smoke release.
+* Signature stove-and-open-window composition.
+* Visual connection to dense Backyard greenery while cooking.
 
 Maintain:
 
-* Small wooden frame.
-* Wooden shutters.
+* **Large rectangular open wooden window** — not a tiny ventilation slot.
+* Sill begins near stove/slab height and opening reaches close to the beam line.
+* Thick dark-wood frame.
+* Double wooden shutters opened fully outward during daytime.
 * No glass.
+* No metal grills.
+* Dense banana, palm, curry-leaf, and garden greens filling the exterior view.
 
-This window supports ventilation without becoming a visual focal point.
+This window is permanently **next to the clay stove** and is a principal visual
+identity of the Kitchen. In stove compositions, both stove and open green window
+should normally be readable.
 
 ---
 
@@ -237,7 +244,7 @@ Cooking Area
 
 ↓
 
-North Ventilation Window
+Cook-Side Garden Window beside stove
 
 ↓
 

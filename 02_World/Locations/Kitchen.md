@@ -31,6 +31,9 @@ red oxide floor · timber rafters · Ghibli-inspired digital anime room map.
 * Prefer **BIG open wood windows** like `Kitchen_Cook_Window_Canon_Design_Reference.png` —
   large rectangular openings from near slab/stove height almost to beam line · dark wood frames ·
   shutters open outward · dense lush greens filling the view.
+* **Permanent preference lock (2026-07-17):** one large open wooden Garden Window
+  sits **immediately beside the Raised Clay Stove on the same north cooking wall**.
+  Stove + open green window must read together in cooking compositions.
 * Burners = **open mud/clay stove holes** in the clay top — not metal burner rings/plates.
 * Stove working height ≈ **waist** per `Kitchen/Raised_Clay_Stove.md` (raise if still reads thigh-low).
 * Subfolder docs remain authority if PNG and text conflict — regen deliberately.
@@ -167,7 +170,7 @@ The Kitchen permanently consists of the following work areas.
 * Open Working Area
 * Rear Veranda Access
 * Large Garden Window
-* North Ventilation Window
+* Large Cook-Side Garden Window immediately beside stove
 
 These workstations remain fixed throughout the series.
 

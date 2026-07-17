@@ -352,6 +352,9 @@ visible path, or imply several moves, repair the board and sources first.
 
 ## Movement Library
 
+For external filmmaking terms and AI-suggested moves, translate through
+**§ Flow Synonym Map And Forbidden Prompt Language** before prompting Flow.
+
 ### Static
 
 **Definition**  
@@ -1824,3 +1827,148 @@ Use energetic handheld shake while the family runs through heavy rain.
 series-compatible.
 
 **Movement boundaries**  
+Hold one approved frame with at most minimal micro-instability. No travel, pan,
+tilt, zoom, or escalation. Reject any candidate with visible shake or jitter.
+
+**Camera-direction pairings**  
+Exception only. Requires explicit authorization stating why Locked Camera is
+insufficient.
+
+---
+
+## Flow Synonym Map And Forbidden Prompt Language
+
+### Purpose
+
+Filmmaking, AI tools, and general cinematography lists use many movement names
+that are **not** separate Village Stories canon entries. Some map to approved
+moves under a different name. Others conflict with the observer principle or
+break Google Flow continuity.
+
+**Rule for every Flow animation prompt:** write **one approved bible name**
+from the Movement Library above — never a vague or theatrical synonym.
+
+This appendix is operational guidance for prompt writers. It does not add new
+movement types. When a synonym maps to an approved move, use the **bible name**
+in the `Camera Movement:` field.
+
+---
+
+### Approved alias map
+
+When you think in common filmmaking terms, translate to the bible name before
+prompting.
+
+| Common / AI-suggested term | Use this bible name | Notes |
+| --- | --- | --- |
+| Tracking Shot (generic) | **Truck Left / Truck Right** | Never write "tracking" alone — Flow may chase or orbit |
+| Side Tracking Shot | **Truck Left / Truck Right** | Same as above; name screen direction |
+| Parallel Tracking Shot | **Truck Left / Truck Right** | Keep parallel side profile; 2–3 steps max |
+| Follow Shot | **Truck Left / Truck Right** | Subject walks; camera travels short parallel path |
+| Leading Shot | **Truck** or **Locked Camera** | Subject walks toward camera; prefer lock if subject approaches frame |
+| Push Follow | **Slow Push In** | Only if subject stays fixed and camera advances slightly |
+| Pull Follow | **Slow Pull Out** | Only if opening modest context from closer start |
+| Lateral Slide / Side Glide | **Truck Left / Truck Right** | Synonyms only — do not use "slide" or "glide" in prompts |
+| Dolly Track | **Dolly In / Dolly Out** | Prefer **Slow Push In / Slow Pull Out** unless parallax is required |
+| Arc Tracking Shot / Semi-Orbit | **Arc Left / Arc Right** | Small curve only — not a circle |
+| Boom Up / Boom Down / Jib Shot | **Crane Up / Crane Down** | Short local vertical travel only |
+| Reveal Shot | **Slow Pull Out** or **Pan Left / Pan Right** | Name what is revealed and endpoint frame |
+| Parallax Reveal | **Dolly Out** or **Slow Pull Out** | Prefer pull out unless doorway parallax is boarded |
+| Peek Reveal / Rack Reveal | **Pan** or **Slow Pull Out** | One-axis only; no rack focus language in Flow |
+| Establishing Glide | **Slow Push In** or **Slow Pull Out** | Wide establishing only; never "glide" |
+| POV Walk | **Truck** + approved **POV** direction (Doc 19) | Fragile — prefer cut to MS |
+| Shoulder Follow / OTS Tracking | **Truck** + **Over-the-Shoulder** direction (Doc 19) | Rare; two-image if endpoint matters |
+| First-Person Tracking | **Truck** + **POV** direction | Almost never — observer principle |
+| Observer Camera / Scenic Drift | **Static** or **Locked Camera** | Stillness is the series observer |
+| Floating Camera | **Static** or **Locked Camera** | Do not prompt "float" — causes drift |
+| Lock-On Tracking / Center Lock Follow | **Truck** (bounded) | Never "lock-on" — Flow chases and morphs |
+| Composition Shift / Dynamic Reframe | **Locked Camera** or **cut** | Reframing mid-clip is not authorized |
+| Reframing Shot | **Separate approved shot** | Use editorial cut, not in-clip reframe |
+
+---
+
+### Forbidden prompt language
+
+**Never use these words or phrases in Flow `Camera Movement:` or movement
+instructions.** They are not canon, and they reliably degrade identity,
+geography, and calm observation.
+
+| Forbidden term | Why |
+| --- | --- |
+| Dolly Zoom / Vertigo Effect | Stylized thriller grammar — not Village Stories |
+| Whip Pan / Snap Pan | Conflicts with slow observer; Flow invents motion blur chaos |
+| Snap Zoom / Crash Zoom / Zoom In / Zoom Out | Zoom ≠ push/pull; causes face morph |
+| Orbit Shot / 360° / Full Orbit | Listed as **Orbit (Rare)** — reject in ordinary production |
+| Steadicam Shot / Gimbal Follow | Reads as action/docu; becomes float and shake |
+| Snorricam | Specialty stunt grammar — never |
+| Handheld (unless doc exception) | Default prohibition |
+| Floating Camera / Drone / Aerial sweep | Conflicts with grounded village scale |
+| Cinematic camera / Dynamic move / Camera dance | Unbounded — Flow improvises |
+| Move around [subject] | Not a movement name — define truck, arc, or cut |
+| Tracking (alone, unqualified) | Too vague — always specify **Truck** + direction |
+| Glide / Drift / Float / Sweep | Causes unmotivated camera drift |
+| Energetic / Fast / Dramatic / Epic | Speed and tone violate movement speed rules |
+
+If a tool suggests one of these, replace it using the alias map or choose
+**Locked Camera**.
+
+---
+
+### Six-beat movement cheat sheet
+
+Default move when the board does not specify otherwise:
+
+| Story beat | Preferred movement | Speed | Typical duration |
+| --- | --- | --- | --- |
+| **Establish** — village, house, field, morning hook | **Slow Push In** or **Locked Camera** wide | Very slow / none | 8–12 s |
+| **Intimate** — wake, realization, quiet care | **Slow Push In** | Nearly imperceptible | 6–8 s |
+| **Walk** — path, field edge, beside subject | **Truck Left / Truck Right** | Slow | 6–10 s |
+| **Cook / hands / dialogue** — kitchen, thinnai talk | **Locked Camera** or **Static** | None | 4–8 s |
+| **Wide life** — environment, rest, animals, hold | **Locked Camera** | None | 8–12 s |
+| **End / breathe** — return to shared space before cut | **Slow Pull Out** | Very slow | 8–12 s |
+
+Secondary options (only when cheat-sheet default cannot show the beat):
+
+- **Pan / Tilt** — connect two approved details in the same room (2–4 s).
+- **Arc** — reveal second person behind pillar (rare, 3–5 s).
+- **Crane** — short ground-to-waist garden relation (rare, 3–5 s).
+- **Dolly** — doorway threshold parallax when push/pull is insufficient.
+
+When in doubt: **Locked Camera** beats a stylish move.
+
+---
+
+### Copy-ready Flow rule block
+
+Append to animation prompts when using any move:
+
+```text
+Camera Movement: [ONE APPROVED BIBLE NAME ONLY — see Movement Library § Flow Synonym Map]
+Movement Speed: [None / nearly imperceptible / very slow / slow — never fast]
+Framing Stability: Start [exact frame]. End [exact frame or finite reveal].
+  Preserve camera side, screen direction, geography, and identity.
+  No second move, zoom, orbit, drift, shake, or reframe.
+```
+
+---
+
+### Cross-reference
+
+| Document | Role |
+| --- | --- |
+| `19_Camera_Direction_Bible.md` | Shot size, angle, side — **where** camera starts |
+| This document § Movement Library | **How** camera moves — approved names |
+| This document § Flow Synonym Map | Translate external terms → bible names |
+| `11_Templates/Animation_Prompt_Template.md` | Prompt assembly and pre-flight |
+
+---
+
+## Guiding Principle (Recap)
+
+The camera exists to quietly witness life.
+
+Choose the stillest truthful frame. When movement is necessary, make **one**
+small, slow, **named** movement from the Movement Library. Translate every
+external or AI-suggested term through the Flow Synonym Map before prompting.
+Never add new movement vocabulary to Flow without updating this document.
+
