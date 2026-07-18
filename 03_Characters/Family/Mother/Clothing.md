@@ -171,23 +171,21 @@ This gentle sound is one of Mother's signature audio characteristics.
 
 # Hair Flowers
 
-Daily
+Daily (approved 2026-07-18 — `CANON-2026-002`)
 
-Usually none.
-
-Occasionally
-
-- Small strand of fresh jasmine.
+- Fresh **mallipoo** (white jasmine strand) with the daytime **shoulder braid**.
+- Modest everyday amount — woven into or laid along the braid.
+- Not a full bridal jadai on ordinary days.
 
 Festivals
 
-- Full jasmine garland.
+- Fuller jasmine veni / garland on the braid.
 
 Special ceremonies
 
-- Larger floral arrangements.
+- Larger floral arrangements / Jadai Alangaram when story-justified.
 
-Flowers should always be fresh.
+Flowers should always be fresh white jasmine — never plastic.
 
 ---
 

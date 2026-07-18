@@ -42,6 +42,7 @@ Naming follows `10_Studio_Standards/Naming_Standards.md` and
 | --- | --- | --- | --- | --- |
 | `ep_001` | **Butterfly Morning** | YouTube Short · 9:16 · ~60–70 s | **Flow generation complete** — edit next | `ep_001/00_Admin/Episode_Brief.md` |
 | `ep_002` | **Kesari Afternoon** | Long-form · 16:9 · ~4:30–5:00 | **Phase 5 — sh_002 still** | `ep_002/00_Admin/Episode_Brief.md` |
+| `ep_003` | **Paati's Wet Firewood** | YouTube Short · 9:16 · ~135–165 s | **Production complete — edit / release pending** | `ep_003/00_Admin/Episode_Brief.md` |
 
 Update this table when an episode title, format, or status is approved.
 
@@ -62,3 +63,29 @@ Update this table when an episode title, format, or status is approved.
 Create a new `ep_###/` folder only when that episode enters pre-production.
 
 Do not pre-create empty episode folders for future numbering.
+
+---
+
+# Story-First Episode Files (approved 2026-07-17)
+
+Keep episode folders lean. Permanent story truth belongs here; reusable
+production systems do not.
+
+**Save in the episode folder:**
+
+- brief (promise, cast, season, format, spine);
+- story development / beat list;
+- script when needed;
+- later: shot list, prompt packages, audio/edit/QA/release records as the
+  episode actually reaches those stages.
+
+**Do not permanently store inside episode folders:**
+
+- long viral research essays;
+- full camera / ASMR manuals;
+- reusable character or location design prompts;
+- canon that belongs in `01_Canon/`, `02_World/`, or `03_Characters/`.
+
+Generate camera direction, ASMR plans, and image/animation prompts when the
+shot needs them, using studio manuals and approved references. Keep episode
+story files short enough that a future chat can open them quickly.

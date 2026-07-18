@@ -24,6 +24,33 @@ unless the producer explicitly requests a re-edit.
 
 ---
 
+## Fast Retention Default (Producer lock — 2026-07-18)
+
+From `ep_004` onward, unfinished Shorts default to **fast retention pacing**.
+The producer does **not** want slow, leisurely village montages.
+
+| Do | Do not |
+| --- | --- |
+| Title event / ASMR contact / decision on **frame one** | Empty wide → Slow Push In before action |
+| Typical cut **0.7–2.5 s**; hero ASMR **1.5–3.5 s** max while state changes | 8–12 s establishing holds |
+| **Locked Camera** as default Flow move | Default Slow Push In for every beat |
+| Cause → next cause → payoff with hard exits | Routine “wake, sweep, stroll” filler |
+| Brainrot pace in **edit** (short selects + hard cuts) | Asking Flow for long drifting clips |
+
+Physics motion stays **Normal Speed** (see `21_Clip_Prompt_Formula.md`). “Fast”
+means editorial rhythm and story density — not rushed morphing hands.
+
+Stillness is rare and short: only after something has already changed, then cut.
+
+### Sudden rain = loud face (CANON-2026-006)
+
+When rain hits suddenly, do **not** stay on ambience alone. Cut to a **loud
+readable face reaction** (eyes wide, mouth open gasp/surprise) within ~1 s of
+the weather change, then cut to the practical scramble. Tiny calm glances fail
+this lock.
+
+---
+
 ## Monetization Reality
 
 Current official YPP routes:
@@ -140,6 +167,16 @@ story into 15–35 seconds merely to appear fast.
 
 ### Editorial cadence
 
+**Growth Sprint / `ep_004`+ Shorts (fast default):**
+
+- Typical action shot: **0.7–2.5 seconds**.
+- Hero ASMR contact: **1.5–3.5 seconds** while material or state changes — then cut.
+- Emotional face: **0.8–2 seconds** once the turn is readable.
+- Establishing wide: **≤2 seconds** or skip unless weather / arrival / danger is the story.
+- Prefer hard cut renewals over camera drift.
+
+**Long-form or rare calm exceptions only** (when the board explicitly says so):
+
 - Typical action shot: **1.5–4 seconds**.
 - Hero ASMR contact: **2–5 seconds** while material, sound, or state changes.
 - Emotional face: hold long enough to read the relationship turn; trim only the
@@ -184,6 +221,10 @@ Never begin with:
 - dialogue setup;
 - generic birds/breeze;
 - unexplained crying used as bait.
+
+If the story promise is **sudden rain**, frame one may be the first hard drop
+**or** a loud mid-gasp face already reacting — never a calm establish before
+the weather hits.
 
 ### Caption formula
 

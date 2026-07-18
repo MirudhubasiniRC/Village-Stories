@@ -121,8 +121,8 @@ She naturally:
 - May sit quietly with her own steaming mug at the kitchen window before serving.
 - Serves Father and other family members.
 
-After morning tea she gathers her hair into the canonical **half-up** daytime
-style before breakfast preparation and active household work.
+After morning tea she dresses her hair into the canonical daytime **shoulder
+braid with mallipoo** before breakfast preparation and active household work.
 
 Morning tea marks the beginning of the family's daily activities.
 

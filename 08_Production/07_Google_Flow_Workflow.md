@@ -835,18 +835,28 @@ Why it succeeds:
 * controlled end state;
 * a clean cut to a child noticing the tumbler.
 
-## Example: Rain Observation
+## Example: Sudden Rain + Loud Face (CANON-2026-006)
 
-Storyboard plan: rain begins during a courtyard task.
+Storyboard plan: rain bursts during a courtyard / thinnai / yard task.
 
-Flow plan: static medium shot; three first raindrops darken the packed earth, Mother looks toward the roof edge, clothesline cloth moves slightly.
+Flow plan — **split into two clips** (do not cram weather + face + run in one):
+
+1. **Weather hit:** locked wide/medium; first hard drops darken earth / hit
+   leaf / roof edge; cloth jumps.
+2. **Loud face reaction:** medium-close or close; eyes wide, brows up, mouth
+   open gasp/surprise (kids may shout-face); ~1–2 s; then cut to scramble.
 
 Why it succeeds:
 
-* weather changes are readable;
-* the character reaction is small;
-* the location remains stable;
-* the editor can cut from the first drop, the glance, or the rain texture.
+* sudden weather is felt on a **human face**, not only ambience;
+* reaction is loud and readable for Shorts retention;
+* location stays stable per clip;
+* editor can hard-cut rain → face → run for cover.
+
+**Reject:** calm glance at sky, blank polite face, or rain-only montage with no
+person reacting.
+
+---
 
 ## Example: Family Dog Beat
 

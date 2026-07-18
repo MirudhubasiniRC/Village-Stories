@@ -45,7 +45,8 @@ Viewers should recognize a character immediately—not because they are introduc
 │   ├── Mother/
 │   ├── Elder_Brother/
 │   ├── Younger_Daughter/
-│   └── Family_Dog/
+│   ├── Family_Dog/
+│   └── Maternal_Grandmother/
 │
 ├── Neighbours/
 │
@@ -95,6 +96,8 @@ Members include:
 * Elder Brother
 * Younger Daughter
 * Family Dog (German Shepherd)
+* Maternal Grandmother / Maternal Paati — recurring extended family in the
+  Waterfall Hamlet
 
 These characters appear most frequently and receive the most detailed documentation.
 

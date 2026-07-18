@@ -12,9 +12,18 @@ This manual defines the timing architecture, beat density, hold discipline, and 
 
 **Move promptly between meaningful beats; remain present inside meaningful moments.**
 
-Village Stories must never feel delayed, but it must also never rush the small actions that give village life its texture. Good pacing is not continuous acceleration. It is the deliberate alternation of progress, observation, reaction, and release.
+Village Stories must never feel delayed. From `ep_004` Shorts onward, **Growth
+Sprint fast retention is the default** (`16_Growth_Sprint_Mode.md` § Fast
+Retention Default): hook immediately, short cuts, Locked Camera preferred, no
+leisurely establishing montages.
 
-The audience should always sense that the episode is moving somewhere, even during a quiet hold. A held shot earns its duration when it reveals process, emotion, place, sound, or a change the viewer needs time to feel.
+Long-form may still hold process texture when the board says so — but never
+confuse “calm authenticity” with slow empty time. Good pacing is progress +
+readable action, not continuous acceleration into noise.
+
+The audience should always sense that the episode is moving somewhere. A held
+shot earns its duration only when it reveals process, emotion, place, sound, or
+a change the viewer needs — then cut.
 
 ---
 

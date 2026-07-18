@@ -26,12 +26,17 @@ Front garden planting density + center path:
 11_Assets/Location_References/Front_Garden_Canon_Design_Reference.png
 ```
 
-**Approved look (2026-07-17):** **Full lush green garden** filling the entire front
-yard — **one narrow packed-earth path down the CENTER** from wooden gate to thinnai
-steps. **Curry leaf tree** · **lemon tree** · large **mango** with ripe fruit ·
-chilli · tomato · brinjal · hibiscus · marigold · chickens · dense Post-Monsoon
-foliage. Wide shallow thinnai · low wooden gate · paddy + river in distance.
-**Approved PNG locked** — no further regen unless canonical change.
+**Approved look (CANON-2026-008 — 2026-07-18):** Working **homestead yard** with
+**dense green kitchen garden** (not bare dirt only, not pretty cottage). Packed
+earth path · **kolam** near thinnai · **Tulsi madam** · chickens · **one narrow
+center path** gate → thinnai, flanked by lush greens: curry leaf · lemon ·
+banana · chilli · tomato · marigold · hibiscus · bougainvillea · more trees.
+House = **thatch + earthen walls**. Long shots also show cow/goat/chicken
+shelters, well under big tree, water beyond rear, close neighbour roofs (see
+`Family_House.md` § Long-shot establishing).
+**NO compound / perimeter wall** — open village approach. Neighbours **close and
+irregular** (not perfect grid lines); soft **village green path**; river + paddy
+fields in the wider frame; jackfruit, banana, mango near house and shelters.
 
 ---
 

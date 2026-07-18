@@ -51,6 +51,12 @@ This compass never changes.
                                         NORTH
                                           ↑
 
+                    Waterfall Hamlet House (Maternal Paati)
+                                  │
+                      Upland Cascade / Rocky Stream
+                                  │
+                     North-West Upland Fork
+                                  │
                           Dirt Road From Nearby Village
                                           │
                                    Village Entrance
@@ -138,6 +144,22 @@ This compass never changes.
 ---
 
 # Village Zones
+
+## 0. Northern Upland Extension
+
+Located beyond the central village boundary and connected to the existing dirt
+road north of the Village Entrance.
+
+Contains:
+
+- North-West Upland Fork
+- Waterfall Hamlet
+- Maternal Paati's Waterfall Hamlet House
+- Upland cascade and rocky stream
+
+The cascade joins the established river upstream outside the central village.
+The house remains safely set back on raised ground, and its arrival route never
+requires crossing the waterfall or fast stream.
 
 ## 1. Entrance Zone
 
@@ -313,6 +335,8 @@ This area is generally quieter than the River Ghat.
 
 | From | To | Time |
 |------|----|------:|
+| Family House | Waterfall Hamlet House | 20–25 minutes dry · 30–35 minutes safe rain |
+| Village Entrance | Waterfall Hamlet House | 15–20 minutes dry |
 | Village Entrance | Banyan Tree | 30 seconds |
 | Banyan Tree | River Ghat | 20 seconds |
 | River Ghat | Stone Bridge | 30 seconds |
@@ -377,6 +401,15 @@ Still reserved nearby:
 
 - Bus Stop
 
+## North / North-West Upland
+
+Established through `CANON-2026-001`:
+
+- Permanent upland fork from the northern dirt road
+- Waterfall Hamlet
+- Maternal Paati's Waterfall Hamlet House
+- Upland cascade feeding the river upstream
+
 ## East of the Village Centre
 
 Established:
@@ -436,6 +469,10 @@ Always maintain:
 - Pond south of the fields.
 - Canal connected to the pond.
 - Logical walking paths between all permanent locations.
+- Waterfall Hamlet reached only from the northern dirt-road upland fork.
+- Upland cascade joins the river upstream outside the central village boundary.
+- Maternal Paati's house remains on raised ground with no required stream
+  crossing.
 - Free-range chickens naturally roaming between the Backyard, Well Utility Area, Vegetable Garden, and Livestock Shelter during daylight hours.
 - The family's traditional bullock cart stored beside the Livestock Shelter.
 
@@ -448,6 +485,9 @@ Never:
 - Relocate the Family House.
 - Change the established relationship between the Backyard, Vegetable Garden, and Livestock Shelter.
 - Break established walking connections.
+- Move the Waterfall Hamlet into the central village.
+- Place Maternal Paati's house on a cliff, over the cascade, or across a
+  required flood crossing.
 
 ---
 

@@ -16,6 +16,12 @@ these principles for visual consistency.
 This file is the **production copy-ready reference** — hex values, time-of-day
 tables, and prompt blocks.
 
+**Google Flow delivery rule:** internal references and hex tables are planning
+sources, not sufficient prompt language. Every Flow prompt must restate the
+selected visible colours, light temperature/direction, shadow quality,
+saturation, brightness, contrast, and forbidden colour casts in plain words.
+Never send only “match the approved/reference palette.”
+
 ---
 
 ## Overall Visual Philosophy

@@ -29,9 +29,9 @@ Always preserve:
 - Large **almond** warm-brown eyes (~1/5 face height) — readable in distant shots.
 - Long naturally **black** hair:
   - morning **free hair** down until after morning tea;
-  - daytime default **half-up**;
-  - **low clutch** during active cooking when needed;
-  - neat **shoulder braid only when explicitly requested**.
+  - daytime default **shoulder braid + mallipoo** (from `ep_004` / `CANON-2026-002`);
+  - braid usually kept while cooking; temporary **low clutch** only when needed;
+  - **half-up only when explicitly requested**.
 - Small red or maroon tilak bindi.
 - **Small black mole on left side of chin.**
 - Small gold nose stud.

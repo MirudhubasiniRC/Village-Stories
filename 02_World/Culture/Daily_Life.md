@@ -307,6 +307,15 @@ Dinner prepared slowly.
 
 Tea or coffee naturally connects different parts of the day.
 
+**Dish repertoire (approved 2026-07-18 — `CANON-2026-004`):**
+
+- The family’s **home and village stay early-1990s rural Tamil Nadu**.
+- The Kitchen may cook **South staples and North/shared comfort dishes**
+  (e.g. rice payasam titled as kheer, poori, samosa, dal tadka, occasional roti)
+  so South + North + diaspora viewers both feel welcome.
+- Full rules: `Food_Repertoire_And_Audience_Bridge.md`.
+- Never relocate the house into North-village set dressing for a single dish.
+
 ---
 
 # Nature's Presence

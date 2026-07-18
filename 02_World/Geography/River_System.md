@@ -30,9 +30,14 @@ The river system should always feel alive and essential to the village.
 
 # Water Network
 
-The Village Stories universe contains three permanent water bodies.
+The central village contains three permanent water bodies. An approved upland
+source extension sits outside the central boundary.
 
 ```text
+Upland Cascade / Rocky Stream
+   │
+(Joins upstream beyond central village)
+   │
 River
    │
 River Ghat
@@ -45,6 +50,27 @@ Irrigation Canal
 ```
 
 Each has its own identity and purpose.
+
+---
+
+# Upland Cascade And Rocky Stream
+
+The upland cascade lies beside the Waterfall Hamlet north of the main village.
+It is a permanent natural source feature that joins the established river
+upstream outside the central village boundary.
+
+Maintain:
+
+- dark natural rock;
+- seasonal moss and ferns;
+- clear freshwater;
+- stronger flow and mist during heavy rain;
+- a safe planted setback between Maternal Paati's house and the water;
+- no required crossing on the household arrival route.
+
+The cascade is atmospheric and powerful but never supernatural. Children do not
+play beside it during heavy rain, and the waterfall sound must remain below the
+current story's primary tactile ASMR source.
 
 ---
 
@@ -302,6 +328,7 @@ Always maintain:
 * Pond south of the agricultural fields.
 * Canal connected to the pond.
 * Natural water flow.
+* Upland cascade joining the river upstream outside the village boundary.
 
 Never:
 
@@ -310,6 +337,8 @@ Never:
 * Replace the Ghat.
 * Introduce modern structures.
 * Allow water to disappear without a story-based reason.
+* Reverse the upstream relationship between cascade and river.
+* Relocate the cascade beside the River Ghat, pond, or canal.
 
 ---
 

@@ -31,7 +31,10 @@ Metadata must:
 3. Set expectations fulfilled by the thumbnail and opening.
 4. Provide accurate accessibility and language support.
 5. Connect episodes into useful playlists and truthful continuities.
-6. Preserve the early-1990s rural Tamil Nadu setting in all public language.
+6. Preserve the early-1990s rural Tamil Nadu **setting** in all public language,
+   while titles may use familiar pan-Indian dish search names (e.g. kheer, poori,
+   samosa) when the episode truly shows that food — see
+   `02_World/Culture/Food_Repertoire_And_Audience_Bridge.md`.
 7. Create a durable release record that can be audited or updated safely.
 
 ## Truth Rules

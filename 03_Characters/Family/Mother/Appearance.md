@@ -44,16 +44,16 @@ locks in `01_Canon/01_Series_Style_Lock/Color_And_Lighting_Formula.md`,
 small gold nose stud left nostril; thin glass bangles (green / red / gold);
 optional simple thin gold thali chain.
 
-**Default daytime hairstyle:** **half-up** — upper portion gathered at back with
-simple clutch/clip; remaining long waves flow down the back; soft face-framing
-strands. See Hairstyle section for morning free hair, cooking low clutch, and
-**optional braid** (only when explicitly requested).
+**Default daytime hairstyle (approved 2026-07-18):** neat thick **braid over one
+shoulder** with a fresh **mallipoo** (jasmine) strand woven into / along the
+braid. See Hairstyle section for morning free hair, cooking exceptions, and
+half-up as a secondary state.
 
 **Canon still (`Mother_Canon_Design_Reference.png`):** face / jewellery / kitchen
-identity lock. That still currently shows a **braid over one shoulder** during
-filter-coffee pour (mustard saree) — treat the braid as an **approved optional
-state**, not the everyday default. Everyday prompts default to **half-up +
-jhumkas** unless the user requests braid.
+identity lock. That still shows a **braid over one shoulder** during filter-coffee
+pour (mustard saree) — this matches the approved everyday braid. Add **mallipoo**
+in all ordinary daytime prompts from `ep_004` onward unless the episode board
+explicitly removes flowers.
 
 ---
 
@@ -236,7 +236,10 @@ Hair should never appear artificially salon-styled.
 # Hairstyle
 
 Mother has **canonical hair states**. **Default for ordinary daytime prompts =
-half-up** unless another state is explicitly requested.
+braid + mallipoo** unless another state is explicitly requested.
+
+Authority: `CANON-2026-002` (effective from the next unfinished episode / `ep_004`).
+Finished `ep_003` and earlier work are not retconned.
 
 ## 1. Morning — free hair (wake through early morning)
 
@@ -244,8 +247,9 @@ From waking until she finishes morning tea and prepares for household work:
 
 - Long, thick, voluminous wavy black hair worn **fully down**.
 - Hair flows naturally over shoulders and back.
-- Soft waves with natural volume — not tied, not half-up, not in a bun.
+- Soft waves with natural volume — not tied, not half-up, not in a bun, not braided yet.
 - A few strands may frame the face softly.
+- No mallipoo until after she dresses her hair for the day.
 
 Use free hair for:
 
@@ -254,48 +258,51 @@ Use free hair for:
 - Early morning tea alone or with family.
 - Quiet first moments at the kitchen window.
 
-## 2. Daytime DEFAULT — half-up (ordinary outdoor and general household)
+## 2. Daytime DEFAULT — braid + mallipoo (ordinary outdoor and general household)
 
 **Primary everyday look for prompts** after morning preparation through most of
 the ordinary day:
 
-- Upper section gently gathered at the back of the head.
-- Secured with a **simple hair clutch or small decorative clip**.
-- Remaining long voluminous wavy black hair flowing freely down the back in soft
-  painterly waves.
-- A few soft strands frame the face naturally.
-- Elegant, practical, versatile — suitable for household work while staying graceful.
+- Long thick naturally wavy **black** hair dressed in a **neat thick braid**.
+- Braid rests over **one shoulder** (as in `Mother_Canon_Design_Reference.png`).
+- Fresh **mallipoo** (white jasmine strand) woven into or laid along the braid —
+  modest village everyday amount, not a full bridal jadai.
+- A few soft face-framing strands permitted.
+- Remains practical for household work, walking, and outdoor tasks.
 
-## 3. Cooking and indoor work — low clutch
+**Mallipoo lock:**
 
-During active cooking, filter-coffee preparation, and sustained kitchen labour
-(when face-clear practical styling is needed):
+- Fresh white jasmine only.
+- Small everyday strand / short veni along the braid.
+- Never plastic flowers, never oversized glamorous bridal hair jewelry on ordinary days.
 
-- Long thick wavy black hair **gathered into a traditional low clutch at the back**.
-- Neat, practical, face-clear styling — parted cleanly, secured low behind head.
+## 3. Cooking and indoor work — braid kept, or temporary low clutch
 
-After work:
+Default during cooking: keep the **braid + mallipoo**.
 
-- Hair returns to the canonical **half-up** daytime hairstyle — not free hair,
-  unless the scene is explicitly the next morning.
+Only when the episode board needs maximum face-clear practical styling near fire:
 
-## 4. Optional — neat braid over one shoulder (ON REQUEST ONLY)
+- Temporary **low clutch** at the back is allowed.
+- After that work, return to **braid + mallipoo** — not free hair, unless the
+  scene is explicitly the next morning.
 
-Mother may wear a **neat thick braid resting over one shoulder** (as seen in
-`Mother_Canon_Design_Reference.png` filter-coffee still).
+## 4. Secondary — half-up (ON REQUEST ONLY)
 
-**Rule:** Use braid **only when the user / episode board explicitly asks**.
-Do not default to braid in ordinary prompts. Default remains **half-up**.
+Mother may wear the older **half-up** daytime style when the user / episode board
+explicitly asks (upper section clutched; remaining waves down the back).
+
+**Rule:** Do not default to half-up in ordinary prompts. Default is **braid +
+mallipoo**.
 
 Festivals:
 
-- Fresh jasmine flowers may be added to half-up, clutch, or braid.
+- Fuller jasmine veni / garland may be added to the braid.
 
 Weddings and major ceremonies:
 
 - Traditional Jadai Alangaram may be worn.
 
-These ceremonial ornaments are never used during ordinary days.
+Heavy ceremonial ornaments are never used during ordinary days.
 
 ---
 
@@ -445,7 +452,7 @@ She never rushes unnecessarily.
 
 Mother should remain instantly recognizable through:
 
-- **Half-up** long black hairstyle (default daytime).
+- **Braid + mallipoo** long black hairstyle (default daytime).
 - Warm medium-fair golden complexion.
 - Soft **oval** face (not round); lightly sharp/tapered chin (gentle, not hard).
 - Large **almond** warm-brown eyes ~1/5 face height — readable in distant shots.
@@ -564,8 +571,9 @@ Always maintain:
 - Warm medium-fair golden complexion `#E8C89A`–`#F0D8B0`.
 - Soft **oval** face — not round; lightly sharp chin (gentle).
 - Large **almond** warm-brown eyes readable at distance (~1/5 face height).
-- Long **black** hair — daytime default **half-up**; morning free hair; cooking
-  low clutch; braid **only when explicitly requested**.
+- Long **black** hair — daytime default **braid + mallipoo**; morning free hair;
+  cooking usually keeps braid; temporary low clutch only when explicitly needed;
+  half-up **only when explicitly requested**.
 - Small red or maroon tilak bindi.
 - **Small black mole on left side of chin.**
 - Small gold nose stud.
@@ -586,7 +594,8 @@ Never:
 - Remove the everyday bindi.
 - Remove or relocate the permanent left-chin mole.
 - Cut or recolour the hair (especially never brown/auburn hair drift).
-- Default to shoulder braid without request.
+- Default to half-up without request (from `ep_004` onward).
+- Omit everyday mallipoo on ordinary daytime braid shots without story reason.
 - Introduce heavy makeup.
 - Modernize her appearance.
 - Change height or body proportions.
@@ -597,7 +606,7 @@ Never:
 
 # Prompt-ready appearance block (copy into image prompts)
 
-**Default daytime (half-up + jhumkas):**
+**Default daytime (braid + mallipoo + jhumkas):**
 
 ```text
 MOTHER (Per Character Bible): Beautiful young South Indian woman, age 28–30,
@@ -608,23 +617,25 @@ height) — almond shape readable even in distant shots; delicate eyelashes; kin
 gaze. Small maroon or red bindi centered on forehead. Small black mole on left
 chin. Slim graceful healthy build ~5'2"–5'3" (155–160 cm). Long thick naturally
 wavy BLACK hair with subtle dark-brown sheen only (never brown/auburn hair) —
-styled HALF-UP: upper portion gathered at back with simple clutch/clip; remaining
-hair flows freely down the back in soft painterly waves; a few soft strands frame
-the face. Traditional gold JHUMKA earrings — bell-shaped dangling, ~1.5–2 inches,
-intricate detailing, soft painterly warm gold, gentle sway. Small gold nose stud
-on left nostril. Thin glass bangles green/red/gold. Cotton saree (maroon #7A1F2B /
-mustard #D4A017 / dark green #3A6B3A / cream #F5E6C8 / indigo #2A3A5A as scene
-requires) with simple matching short-sleeve blouse. Barefoot indoors. Calm
-patient gentle expression; warm smile; never rushed. Ghibli maternal tenderness.
-Colour & lighting: follow Color_And_Lighting_Formula.md / Lighting_Style.md /
+styled in a neat thick BRAID resting over one shoulder; fresh white MALLIPOO
+(jasmine strand) woven into / along the braid — modest everyday amount, not
+bridal jadai. A few soft strands may frame the face. Traditional gold JHUMKA
+earrings — bell-shaped dangling, ~1.5–2 inches, intricate detailing, soft
+painterly warm gold, gentle sway. Small gold nose stud on left nostril. Thin
+glass bangles green/red/gold. Cotton saree (maroon #7A1F2B / mustard #D4A017 /
+dark green #3A6B3A / cream #F5E6C8 / indigo #2A3A5A as scene requires) with
+simple matching short-sleeve blouse. Barefoot indoors. Calm patient gentle
+expression; warm smile; never rushed. Ghibli maternal tenderness. Colour &
+lighting: follow Color_And_Lighting_Formula.md / Lighting_Style.md /
 Art_Style.md — do not invent a separate Mother colour grade.
 ```
 
-**Optional braid (only when user asks):**
+**Optional half-up (only when user asks):**
 
 ```text
-HAIR OVERRIDE: neat thick braid resting over one shoulder (approved optional look
-from Mother_Canon_Design_Reference.png) — still black hair; keep jhumkas.
+HAIR OVERRIDE: daytime HALF-UP — upper portion gathered at back with simple
+clutch/clip; remaining hair flows freely down the back; keep or omit mallipoo
+as the episode board specifies; keep jhumkas.
 ```
 
 ---
@@ -641,4 +652,4 @@ Every image prompt, Google Flow scene, storyboard, animation, illustration, and 
 
 Mother's appearance should reflect a lifetime of quiet care.
 
-Her warm smile, traditional half-up hairstyle, small red tilak bindi, gold nose pin, gently moving small jhumkas, one simple gold thali chain, softly chiming glass bangles, skilled hands, and calm presence should make her instantly recognizable, allowing viewers to feel they are meeting the same familiar person in every story.
+Her warm smile, traditional shoulder braid with mallipoo, small red tilak bindi, gold nose pin, gently moving small jhumkas, one simple gold thali chain, softly chiming glass bangles, skilled hands, and calm presence should make her instantly recognizable, allowing viewers to feel they are meeting the same familiar person in every story.

@@ -48,6 +48,51 @@ This is the busiest pedestrian route in the village.
 
 ---
 
+# Waterfall Hamlet Route
+
+This permanent extended-family route begins at the Main Family House and leaves
+the central village through the established northern approach.
+
+```text
+Main Family House
+        │
+Family Entrance Path
+        │
+Village Square
+        │
+Main Village Path
+        │
+Village Entrance
+        │
+Northern Dirt Road
+        │
+North-West Upland Fork
+        │
+Waterfall Hamlet House
+```
+
+Travel time:
+
+- approximately 20–25 minutes in dry weather;
+- approximately 30–35 minutes during rain when an adult confirms the route is
+  safe.
+
+The route approaches Maternal Paati's house from the front upland track. It does
+not cross the waterfall, rocky stream, village river, or Stone Bridge.
+
+Typical users:
+
+- Mother visiting Maternal Paati;
+- Elder Brother and Younger Daughter with family knowledge;
+- Father or the whole family on selected visits;
+- Family Dog accompanying calmly.
+
+**Heavy-rain safety lock:** Elder Brother and Younger Daughter do not take this
+route alone in heavy rain. Mother, Father, or another approved adult accompanies
+them. If runoff makes the track unsafe, the visit is delayed.
+
+---
+
 # River Route
 
 A short stone path connects the village to the river.
@@ -139,6 +184,7 @@ Common routes include:
 * Village Square ↔ Small Grocery Store (errands with adults)
 * River Ghat ↔ Stone Bridge
 * Pond ↔ Paddy Fields
+* Family House ↔ Waterfall Hamlet House (adult accompaniment in heavy rain)
 
 Children may stop to explore, play, climb trees, or interact with animals along these routes.
 
@@ -382,6 +428,8 @@ Never:
 * Invent shortcuts through buildings.
 * Change route locations.
 * Skip important connecting areas without a narrative reason.
+* Send children alone to the Waterfall Hamlet during heavy rain.
+* Require characters to cross the upland waterfall or rocky stream.
 
 ---
 

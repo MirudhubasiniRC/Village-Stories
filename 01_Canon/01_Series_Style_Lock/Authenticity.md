@@ -237,6 +237,20 @@ Examples include:
 * Modern vehicles dominating village life.
 * Contemporary branding.
 * Modern packaging.
+* Resort / villa / homestay architecture, spotless show-home walls, marble or
+  ceramic courtyards, glass sliding doors, steel railings, or empty “perfect”
+  porches that erase lived-in 1990s village wear (see Family House / Front
+  Thinnai **90s Lived-In Lock**).
+* **Big house / mansion / multi-wing estate / oversized farmhouse** — Family
+  House stays a **small simple** village dwelling (CANON-2026-007).
+* **Cream tiled “pretty cottage” Main Family House** — default is **thatch +
+  earthen ochre walls** homestead (CANON-2026-008); Mangalore tiles belong on
+  neighbours, not as this house’s hero roof.
+* Spacious villa-style bedrooms or hotel-suite interiors — rooms stay **compact**
+  with **kayiru / kayathu kattil** as the default household rest cot (Bedroom +
+  Front Thinnai; field kattil remains field-only).
+* Wide modern retail strips, supermarket aisles, glass mall shopfronts, or
+  Devanagari shopboards as default village street language.
 
 If an item existed during the 1990s but was uncommon in rural villages, include it only when it makes sense for the story.
 

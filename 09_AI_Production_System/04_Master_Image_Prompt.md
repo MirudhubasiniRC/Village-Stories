@@ -26,6 +26,28 @@ If the frame cannot plausibly occur with the known people, place, period,
 objects, weather, light, and emotional scale, reject it or return the earlier
 decision to its owner.
 
+### Self-Contained Flow Colour Payload
+
+Google Flow receives only the text and attachments supplied for the current
+generation. It cannot follow internal file paths or infer an approved palette
+from project documentation.
+
+Therefore every direct-use image prompt must translate the applicable colour
+canon into explicit words. Include:
+
+- named dominant colours for foliage, soil, walls, roof, water, and sky;
+- each visible character's skin and garment colours;
+- important object and food colours;
+- warm/cool light quality and physical direction;
+- shadow hue, softness, and readability;
+- saturation, brightness, contrast, and highlight behaviour;
+- explicit exclusions such as grey wash, cold blue cast, orange filter, neon,
+  HDR, crushed shadows, or blown highlights.
+
+Do not use “match the approved palette,” “same as reference,” or a file citation
+as the colour instruction. A visual reference may support identity, but the
+prompt must still carry the complete verbal colour payload.
+
 ---
 
 ## Authority Summary
@@ -88,6 +110,18 @@ Apply these to every prompt. They are fixed instructions, not variables.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
   contemporary vehicles, modern branding or packaging, current fashion, urban
   infrastructure, or unsupported modern items.
+* Family House / Front Thinnai / front-yard / long-establish shots must apply the
+  **LOCKED thatch homestead** package (CANON-2026-007 / 008) from
+  `02_World/Locations/Family_House.md`: small thatch roof, earthen ochre walls,
+  kayiru kattil, dense green front garden, village green path, close irregular
+  neighbours, jackfruit/banana/mango, cow/goat/chicken shelters nearby, well under
+  tree, river + fields in wide frame — **never** cream tiled cottage, Mangalore
+  tiles on this house, compound/perimeter wall, perfect street-grid neighbours,
+  big mansion, resort, villa, marble, glass, or steel.
+* Bedroom / thinnai interiors: **compact small rooms**; default sleep/rest cot is
+  **kayiru kattil** (rope charpai / *kayathu kattil*) — see CANON-2026-005.
+* Village shop / lane shots: narrow packed-earth petty-shop street lock from
+  `Small_Grocery_Store.md` — Tamil boards, packed shelves, no mall glass.
 
 ### Camera, Geography, And Light
 

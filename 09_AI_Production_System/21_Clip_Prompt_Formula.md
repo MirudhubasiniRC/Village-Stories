@@ -16,6 +16,33 @@ that clip.
 **Dialogue:** when the approved script assigns speech, include a **Dialogue**
 subsection inside the **Audio / ASMR Prompt** (not a separate voice file).
 
+## Google Flow Self-Contained Colour Rule (approved 2026-07-17)
+
+Every prompt delivered to Google Flow must describe its complete colour and
+lighting treatment **in words inside that prompt**.
+
+Never write only:
+
+- “match the approved palette”;
+- “use the reference palette”;
+- “same colours as canon”;
+- “see `Color_And_Lighting_Formula.md`.”
+
+Flow cannot inspect project documentation or an unattached palette. For every
+image prompt, explicitly state:
+
+1. dominant environment colours;
+2. character skin and clothing colours;
+3. architecture and object colours;
+4. light temperature and direction;
+5. shadow colour and softness;
+6. saturation, brightness, and contrast;
+7. forbidden colour casts or grading.
+
+Animation prompts must also repeat the key colours in words, even when a source
+image is attached. References support identity and continuity; they never
+replace verbal colour instructions.
+
 ---
 
 ## Prompt titles
@@ -98,10 +125,11 @@ highlights, shadows]
 **Season:** **[Summer / Monsoon / Post-Monsoon/Harvest]** — [vegetation, water,
 ground]
 
-**Colors (Ghibli-inspired):** [GENTLE COLOR POP — bluey blue · greeny green ·
-reddy brick · clear yellow; slight morning warmth; medium-soft contrast;
-slightly reduced brightness (gentle midtones). Never muted pastel / overbright
-glare / high contrast / neon / HDR. See Color_And_Lighting_Formula.md.]
+**Colours — write every value in words for Flow:** [Dominant foliage / earth /
+wall / roof / water colours. Character skin and garment colours. Light
+temperature and direction. Shadow colour and softness. Saturation, brightness,
+and contrast. Explicitly forbid unwanted blue, orange, grey, neon, HDR, or
+washed-out grading.]
 
 **Atmosphere:** [Mood, emotional quality]
 
@@ -157,10 +185,16 @@ a rare exception (e.g. approved time-lapse insert).
 | Write | Do not write in animation prompts |
 | --- | --- |
 | **Normal Speed** on Character / Environment / Micro motion blocks | `slow`, `too slow`, `very slow`, `slower`, `Fastly Normal Speed` |
-| **Pacing:** Normal speed — natural physical timing, not rushed. | `not slow`, `slowly`, `languid`, `leisurely` as pacing labels |
+| **Pacing:** Normal speed — natural physical timing. Editorial pace is fast
+  (Growth Sprint); do not write “slowly / leisurely.” | `not slow`, `slowly`,
+  `languid`, `leisurely` as pacing labels |
 
 Describe *what* moves and *how much* — not “slowly.” Example: “one partial wing
 open (~30%) then close over ~2 seconds” instead of “wings slowly open.”
+
+**Sudden rain face (CANON-2026-006):** on a dedicated reaction clip, write the
+loud face explicitly — e.g. “eyes snap wide, brows up, mouth opens in gasp” —
+never “looks calmly at the rain.”
 
 Camera movement speed follows `20_Camera_Movement_Bible.md` when the camera is
 not locked — that is separate from character/environment motion speed.
@@ -179,7 +213,8 @@ STYLE LOCK INSTRUCTIONS:
 - PRESERVE lighting family and light direction from source image.
 - PRESERVE [character] exact appearance: [description]
 - PRESERVE [location] environment: [description]
-- PRESERVE colour palette: [key colours]
+- PRESERVE these colours exactly: [repeat key environment, skin, clothing,
+  architecture, object, light, and shadow colours in words]
 - DO NOT drift toward generic anime, Western cartoon, or photorealism.
 - DO NOT change proportions, relative scale, or anatomy.
 - FOLLOW source image exactly — animate only required natural motion.
@@ -215,7 +250,8 @@ STYLE LOCK INSTRUCTIONS:
 **Quality Lock:** Avoid morphing, melting, stretching, flicker, double limbs, face
 distortion, identity drift. Maintain [character/location] consistency.
 
-**Pacing:** Normal speed — natural physical timing, not rushed.
+**Pacing:** Normal speed — natural physical timing. Keep editorial selects short
+(Growth Sprint); do not describe leisurely motion.
 ```
 
 ---

@@ -68,6 +68,19 @@ Every family has privacy while remaining closely connected to the rest of the vi
 
 ---
 
+# Shop Edge Near Centre (street language)
+
+Toward the Village Square / trades side (not inside each house compound), path
+shots may show a **tight shop-street edge**: Small Grocery Store row language +
+Tea Stall path-edge seating. Keep lanes narrow and packed-earth. See
+`Small_Grocery_Store.md` § Shop-Street Visual Lock and `Tea_Stall.md`.
+
+Do not turn the residential Main Village Path into a modern commercial high
+street — only brief authentic petty-shop / tea edges when the story walks that
+corridor.
+
+---
+
 # Permanent Houses
 
 ## House N-01

@@ -35,6 +35,20 @@ Mother's expressions should always feel:
 
 Avoid exaggerated acting.
 
+### Exception — Sudden Rain (CANON-2026-006)
+
+When rain **suddenly** hits while Mother is outdoors or on the thinnai, her face
+must show a **loud readable startle** for one short beat:
+
+- Eyes snap wide.
+- Brows lift.
+- Mouth opens in a clear gasp / “Ah!” shape.
+- Cheeks and whole face commit — not a subtle eye-flick.
+
+She remains Mother (warm, not cartoon-villain melodrama), but the reaction must
+read instantly on a phone screen. Then cut to her practical next move (call
+children, gather clothes, pull them under roof).
+
 ---
 
 # Neutral Expression

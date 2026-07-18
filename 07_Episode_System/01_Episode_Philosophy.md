@@ -209,11 +209,13 @@ The middle steps need not all be shown.
 
 ## Stillness Has a Job
 
-Silence, held frames, and slow observational shots are production tools.
+Silence, held frames, and slow observational shots are production tools — **not
+the default** for Growth Sprint Shorts from `ep_004` onward.
 
-Use them after a viewer has received something to notice.
+On Shorts: stillness is rare, short, and only after the viewer already has
+something to notice. Prefer hard cut to the next cause.
 
-Good stillness may:
+On long-form (when approved): stillness may:
 
 * Let an emotional response land.
 * Clarify a completed task.
@@ -224,6 +226,9 @@ Good stillness may:
 Bad stillness arrives before the viewer knows what matters.
 
 Bad stillness repeats an already-understood image without new feeling or information.
+
+Bad stillness also includes leisurely village “life montage” before the title
+event — reject that for unfinished Shorts.
 
 ## Character Use in an Episode
 

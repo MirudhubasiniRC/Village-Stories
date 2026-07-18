@@ -28,17 +28,19 @@ anime background rendering.
 
 **Approved look:**
 
-- **WIDE + SHALLOW thinnai** — spans most of house front width; **short depth**
-  (broad porch — NOT a long deep veranda). Elevated platform ~2½ ft · **2–4 wooden
-  pillars across the WIDTH** under gabled roof overhang.
+- **SMALL thatch homestead** — thick palm/coconut thatch roof; warm earthen
+  ochre mud-plaster walls (CANON-2026-008).
+- **WIDE + SHALLOW thinnai on a SMALL house** — spans most of this modest façade
+  (short width overall); **short depth** (broad porch — NOT a long deep veranda).
+  Elevated platform ~2½ ft · **2–3 wooden pillars** under thatch eaves
+  (CANON-2026-007 — not a palace porch).
 - **Packed earth** thinnai floor — not tile plaza. Chickens peck freely.
 - Centered **wooden entrance door**; small **wood-barred windows** may flank door.
-- **Clay matkas / pots** on porch edge · woven mats or striped cushions on earth.
-- White lime-plaster · **magenta bougainvillea** on wall.
-- **Front Garden:** **full lush green** garden · **center path only** · **curry leaf
-  tree** · **lemon tree** · large **mango** with ripe fruit · chilli · tomato ·
-  banana · palms · hibiscus · marigold · bougainvillea. Low open wooden gate —
-  **NOT** compound wall.
+- **Kayiru kattil**, **clay matkas / pots** on porch edge · woven mats · firewood.
+- Yard: **kolam**, **Tulsi madam**, packed earth — not pretty cottage landscaping.
+- **Front Garden:** working homestead greens · **center path only** · curry leaf ·
+  lemon · banana · chilli · marigold · bougainvillea. Low open wooden gate —
+  **NOT** compound wall / picket cottage fence.
 
 **Wide establishing reference (house + thinnai proportions):**
 
@@ -56,6 +58,43 @@ floor or deep veranda. **Packed earth + wide shallow porch** are canon. Prefer
 All future image generation, Google Flow scenes, storyboards, and production
 artwork must preserve this location identity and rendering language unless a
 documented canonical change is introduced.
+
+---
+
+# 90s Lived-In Lock (approved 2026-07-18)
+
+The Front Thinnai is the first authenticity test viewers apply. If it looks like
+a hotel porch or clean villa verandah, comments will call the world “modern /
+fake” even when characters are correct.
+
+**Always:**
+
+- Packed-earth floor with natural wear — bare feet, occasional leaves, grain
+  scraps; chickens may peck.
+- Dark wooden pillars with visible age, not lacquered furniture-showroom finish
+  (**2–3 pillars** on a **small** house front).
+- Slightly weathered cream / white lime plaster behind the porch.
+- Lived-in props: **kayiru kattil**, matkas, broom, woven mat / striped cushions,
+  umbrella when story needs it, small clutter.
+- Roof eaves that feel thick and protective; runoff curtains in rain.
+- Open visual connection to garden and village — low wooden gate only.
+- Overall: **small simple thatch homestead**, earthen walls — not cream tiled
+  cottage or big estate (CANON-2026-007 / 008).
+
+**Never:**
+
+- Tile plaza / ceramic thinnai floor.
+- Deep hotel corridor verandah.
+- Long mansion colonnade or oversized façade.
+- Mangalore tile roof on this house (neighbours OK).
+- Bright cream villa walls.
+- Empty perfect porch with zero household objects.
+- Steel railing, glass, aluminium, LED.
+- Compound wall closing the front.
+- Resort / picket-cottage landscaping instead of working homestead yard.
+
+When generating, also paste the house lock from `Family_House.md` § 90s Lived-In
+Lock.
 
 Attach as `LOCATION_IDENTITY` or `STYLE_TARGET` when the tool supports references
 and the Front Thinnai is principal or establishing.
@@ -122,16 +161,18 @@ Maintain — match architecture plantings and pillars; **ground = packed earth**
   scuffed village earth where bare feet, the Family Dog, and **free-range chickens**
   peck and roam. Occasional dry leaves, grain scraps, and worn paths are normal.
 * **Not** terracotta floor-tile grids, ceramic tile plazas, or polished paving.
-* **Gabled wooden roof** with thick exposed beams and deep overhang for shade and
+* **Gabled / sloping thatch eaves** with thick exposed beams/poles for shade and
   rain protection — roof spans **wide** across façade; platform stays **shallow**.
-* **Dark wooden support pillars** (2–4) across the **width** of the porch — not a
-  deep row pushing far into the garden.
-* White lime-plastered walls.
+* **Dark wooden support pillars** (2–3) across the **width** of this small porch —
+  not a deep row pushing far into the garden; not a long mansion colonnade.
+* Warm **earthen ochre mud-plaster** walls — weathered / lived-in, never bright
+  cream villa paint.
 * Centered **carved two-panel traditional wooden entrance door** on the rear
   wall — may stand slightly ajar, revealing warm blurred interior family presence.
 * Open eastern side visually connected to garden and village.
 
-The proportions should feel generous but modest.
+The proportions should feel **simple and compact** — a small village porch, not
+a generous estate verandah.
 
 ---
 
@@ -139,6 +180,8 @@ The proportions should feel generous but modest.
 
 These items permanently belong here:
 
+* **One kayiru kattil** (rope-woven charpai / *kayathu kattil*) along the porch
+  — sit, nap, evening rest; viral-village rest language (CANON-2026-005).
 * Long wooden bench.
 * One traditional wooden reclining chair.
 * **Soft striped floor cushions** in red, blue, and yellow tones for resting.
@@ -149,7 +192,8 @@ These items permanently belong here:
 * Pair of wooden footwear stands near the entrance.
 * Small umbrella stand made from bamboo.
 
-Furniture should remain simple and practical.
+Furniture should remain simple and practical. The kayiru kattil should be
+readable in most thinnai establishing shots unless a story beat clears the porch.
 
 ---
 

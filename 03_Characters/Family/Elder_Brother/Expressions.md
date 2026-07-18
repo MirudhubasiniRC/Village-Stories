@@ -10,7 +10,8 @@ This document permanently defines Elder Brother's facial expressions and emotion
 
 Elder Brother's face is open and readable.
 
-His emotions are honest and age-appropriate, never overacted into cartoon extremes.
+His emotions are honest and age-appropriate, never overacted into cartoon
+extremes — **except** Sudden Rain Loud Face (CANON-2026-006).
 
 ---
 
@@ -31,6 +32,8 @@ His emotions are honest and age-appropriate, never overacted into cartoon extrem
 - Focused brows while learning.
 - Softened face with Mother.
 - Quick concern if Younger Daughter cries.
+- **Sudden rain burst (CANON-2026-006):** loud open-mouth surprise / shout-face,
+  eyes wide, then laugh or dash for cover with sibling.
 
 ---
 

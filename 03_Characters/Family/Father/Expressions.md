@@ -35,6 +35,11 @@ Father's expressions should always feel:
 
 Avoid exaggerated acting or cinematic hero intensity.
 
+### Exception — Sudden Rain (CANON-2026-006)
+
+Sudden rain burst: **loud readable startle face** — eyes wide, brows up, mouth
+open gasp — then practical cover/action. Not a calm sky glance only.
+
 ---
 
 # Neutral Expression

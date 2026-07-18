@@ -18,7 +18,11 @@ This is not a modern bedroom.
 
 It is a traditional 1990s South Indian village bedroom designed for simplicity, comfort, and natural ventilation.
 
-During the day it feels spacious and uncluttered.
+**Compact-room lock (CANON-2026-005):** the room must read **small and lived-in** —
+a modest side chamber off the mutram, not a spacious villa suite. Thick walls,
+low clutter, limited floor, one sleep cot as the visual hero.
+
+During the day it feels tidy but tight.
 
 At night it transforms into a warm, intimate sleeping space.
 
@@ -43,25 +47,21 @@ The east-facing window behind the bed receives the first soft sunlight every mor
 ```text
                     East
 
-              Large Wooden Window
+           Wooden Window (modest)
 
-┌─────────────────────────────────────┐
-│                                     │
-│        Wooden Cot                   │
-│                                     │
-│                                     │
-│             Open Floor              │
-│                                     │
-│ Wooden      Small      Clothes       │
-│ Chest       Stool      Rack          │
-│                                     │
-│                 Door                 │
-└─────────────────────────────────────┘
+┌───────────────────────────────┐
+│                               │
+│     Kayiru Kattil (rope cot)  │
+│                               │
+│   Chest   Stool   Clothes     │
+│                     Rack      │
+│            Door               │
+└───────────────────────────────┘
 
               Towards Courtyard
 ```
 
-The room should remain uncluttered with enough open floor space for daily activities.
+Keep circulation tight. Do not leave a large empty “hotel room” centre floor.
 
 ---
 
@@ -82,21 +82,28 @@ The room should always feel naturally cool.
 
 ---
 
-# Wooden Cot
+# Kayiru Kattil (Bedroom Sleep Cot)
 
-The cot is the room's primary piece of furniture.
+The **kayiru kattil** (rope-woven charpai; also spoken *kayathu kattil*) is the
+room's primary furniture from `ep_004` onward (CANON-2026-005).
 
 Maintain:
 
-* Traditional teak wooden cot.
-* Handcrafted headboard.
-* Natural woven coir support.
-* Cotton mattress.
-* White cotton bedsheet.
-* Thin cotton blanket folded neatly.
-* Two cotton pillows.
+* Four wooden legs + light **woven rope** sleeping surface (charpai weave).
+* Thin cotton mattress or folded cotton quilt on the weave — not a thick hotel
+  mattress stack.
+* White or faded cotton bedsheet.
+* Thin cotton blanket folded neatly when unused.
+* One or two simple cotton pillows.
+* No ornate carved teak headboard as the default hero (that reads furniture-showroom).
 
-The cot remains permanently beneath the east-facing window.
+**Rare exception:** a solid teak wooden cot may appear only for a documented
+elder/guest beat — never as the everyday bedroom default.
+
+The kattil remains permanently beneath the east-facing window.
+
+Cross-reference: field kayiru kattil stays under the neem in
+`Field_Rest_Area.md` — do not relocate the bedroom cot outdoors.
 
 ---
 

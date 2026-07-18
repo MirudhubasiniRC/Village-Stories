@@ -1916,16 +1916,30 @@ If a tool suggests one of these, replace it using the alias map or choose
 
 ### Six-beat movement cheat sheet
 
-Default move when the board does not specify otherwise:
+Default move when the board does not specify otherwise.
+
+**Growth Sprint Shorts (`ep_004`+ — fast default):** prefer **Locked Camera**.
+Use Slow Push In only for one tiny earned detail — never as the open.
 
 | Story beat | Preferred movement | Speed | Typical duration |
 | --- | --- | --- | --- |
-| **Establish** — village, house, field, morning hook | **Slow Push In** or **Locked Camera** wide | Very slow / none | 8–12 s |
-| **Intimate** — wake, realization, quiet care | **Slow Push In** | Nearly imperceptible | 6–8 s |
-| **Walk** — path, field edge, beside subject | **Truck Left / Truck Right** | Slow | 6–10 s |
-| **Cook / hands / dialogue** — kitchen, thinnai talk | **Locked Camera** or **Static** | None | 4–8 s |
-| **Wide life** — environment, rest, animals, hold | **Locked Camera** | None | 8–12 s |
-| **End / breathe** — return to shared space before cut | **Slow Pull Out** | Very slow | 8–12 s |
+| **Establish** — village, house, field, morning hook | **Locked Camera** wide (or skip establish) | None | **1–2.5 s** |
+| **Intimate** — wake, realization, quiet care | **Locked Camera**; rare Slow Push In | None / nearly imperceptible | **1.5–3 s** |
+| **Walk** — path, field edge, beside subject | **Truck Left / Truck Right** or cut | Slow | **2–4 s** |
+| **Cook / hands / dialogue** — kitchen, thinnai talk | **Locked Camera** or **Static** | None | **1.5–3.5 s** |
+| **Wide life** — environment, rest, animals | **Locked Camera** | None | **1–2.5 s** then cut |
+| **End / breathe** — shared space before cut / loop | **Locked Camera** (rare Slow Pull Out) | None / very slow | **1.5–3 s** |
+
+**Long-form or board-marked calm exception only:**
+
+| Story beat | Preferred movement | Speed | Typical duration |
+| --- | --- | --- | --- |
+| **Establish** | **Slow Push In** or **Locked Camera** wide | Very slow / none | 8–12 s |
+| **Intimate** | **Slow Push In** | Nearly imperceptible | 6–8 s |
+| **Walk** | **Truck Left / Truck Right** | Slow | 6–10 s |
+| **Cook / hands / dialogue** | **Locked Camera** or **Static** | None | 4–8 s |
+| **Wide life** | **Locked Camera** | None | 8–12 s |
+| **End / breathe** | **Slow Pull Out** | Very slow | 8–12 s |
 
 Secondary options (only when cheat-sheet default cannot show the beat):
 
@@ -1934,7 +1948,8 @@ Secondary options (only when cheat-sheet default cannot show the beat):
 - **Crane** — short ground-to-waist garden relation (rare, 3–5 s).
 - **Dolly** — doorway threshold parallax when push/pull is insufficient.
 
-When in doubt: **Locked Camera** beats a stylish move.
+When in doubt: **Locked Camera** beats a stylish move. For Shorts, **cut** beats
+a long move.
 
 ---
 
@@ -1965,10 +1980,16 @@ Framing Stability: Start [exact frame]. End [exact frame or finite reveal].
 
 ## Guiding Principle (Recap)
 
-The camera exists to quietly witness life.
+The camera exists to witness life clearly.
 
-Choose the stillest truthful frame. When movement is necessary, make **one**
-small, slow, **named** movement from the Movement Library. Translate every
-external or AI-suggested term through the Flow Synonym Map before prompting.
-Never add new movement vocabulary to Flow without updating this document.
+For Growth Sprint Shorts (`ep_004`+): choose the stillest truthful frame, keep
+duration short, and **cut** for pace. When movement is necessary, make **one**
+small, **named** movement from the Movement Library — prefer Locked Camera over
+Slow Push In.
+
+For long-form calm exceptions: one small slow named move is allowed.
+
+Translate every external or AI-suggested term through the Flow Synonym Map
+before prompting. Never add new movement vocabulary to Flow without updating
+this document.
 

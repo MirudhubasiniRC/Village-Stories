@@ -93,6 +93,10 @@ It should feel like a place the audience could smell before they see.
 
 The stall faces the public path so customers can watch village movement while drinking tea.
 
+When wide path shots include the stall with nearby shops, apply the **Shop-Street
+Visual Lock** in `Small_Grocery_Store.md` (narrow packed-earth lane, Tamil boards,
+no mall glass).
+
 ---
 
 # Structure

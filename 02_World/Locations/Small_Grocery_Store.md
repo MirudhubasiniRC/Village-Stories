@@ -100,6 +100,37 @@ The shop should feel deeper than it is wide, packed but organized by the owner's
 
 ---
 
+# Shop-Street Visual Lock (CANON-2026-005)
+
+When the grocery appears with path / neighbouring trades (establishing or
+approach shots), match viral early-1990s village street language:
+
+**Always:**
+
+* Narrow packed-earth lane — not a wide asphalt boulevard.
+* Open shutter shopfront; raised sit-step; counter + scale readable.
+* Shelves packed with jars, tins, gunny, hanging brooms / rope / goods.
+* Hand-painted **Tamil** signboard (no Devanagari default).
+* Neighbouring shop edges or tea-stall path language when the wide includes street.
+* Lived-in paint wear at counter lean-edge.
+
+**Never:**
+
+* Supermarket aisles, glass mall fronts, franchise boards, LED strip glow.
+* Empty “show” shelves or luxury café seating.
+* Wide modern highway retail strip.
+
+### Copy-ready street / shop block
+
+```text
+Early-1990s rural Tamil village petty shop on a NARROW packed-earth lane.
+Open shutter front, raised sit-step, packed wooden shelves, weighing scale,
+hand-painted Tamil signboard, hanging household goods, lived-in paint wear.
+NO supermarket, NO glass mall, NO franchise, NO LED strip, NO Devanagari boards.
+```
+
+---
+
 # Architecture
 
 Maintain:

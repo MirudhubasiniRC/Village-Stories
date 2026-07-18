@@ -324,7 +324,10 @@ Use grounded, economical, character-appropriate motion:
 - a person takes a few measured steps, sits, stands, turns slightly, looks,
   nods, or responds with a restrained expression;
 - body weight, feet, hands, cloth, hair, and eyeline move in believable order;
-- expressions change subtly and only when supported by the approved beat.
+- expressions change subtly and only when supported by the approved beat —
+  **except Sudden Rain Loud Face (CANON-2026-006):** when rain bursts suddenly,
+  use a dedicated reaction clip with **loud readable face** (eyes wide, mouth
+  open gasp/surprise). Split rain-hit / face / scramble into separate clips.
 
 Keep the cast small. A secondary person may make one quiet, clearly subordinate
 response only if approved. Do not create crowd choreography, broad gesturing,

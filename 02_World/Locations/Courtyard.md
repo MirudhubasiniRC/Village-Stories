@@ -202,6 +202,11 @@ The Courtyard permanently includes:
 * Clay storage pots.
 * Low wooden plank used during household work.
 
+**Optional (story / afternoon heat only):** one movable **kayiru kattil** may be
+brought into a shaded corridor corner for rest — never a permanent clutter pile
+blocking the mutram centre. Bedroom and Front Thinnai own the standing household
+kattils (CANON-2026-005).
+
 These objects may move slightly during use but always belong to the Courtyard.
 
 ---

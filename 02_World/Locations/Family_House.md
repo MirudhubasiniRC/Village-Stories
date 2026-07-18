@@ -14,9 +14,17 @@ Every room, pathway, and outdoor space should feel familiar to viewers over time
 
 # Identity
 
-The house is a modest, well-maintained South Indian farming home built decades before the events of the series.
+## LOCKED — Thatch Homestead (CANON-2026-008 · 2026-07-18)
 
-It has grown naturally with the family's needs while preserving its traditional architecture.
+**Status: LOCKED by producer.** Do not regenerate toward cream tiled cottage,
+Mangalore-roof family house, compound walls, or perfect neighbour grids.
+
+The house is a **small, simple thatch homestead** — a humble early-1990s rural
+Tamil farming dwelling (CANON-2026-007 / 008).
+
+Vibe target: working Village Nest–style homestead — earthen walls, thick thatch,
+animals and tulsi in the yard — **not** a pretty cream tiled cottage or landlord
+mansion.
 
 Nothing feels luxurious.
 
@@ -24,7 +32,52 @@ Nothing feels neglected.
 
 Everything reflects years of careful use, quiet maintenance, and deep family history.
 
-The home should always feel warm, welcoming, practical, and authentic.
+The home should always feel warm, welcoming, practical, compact, and authentic.
+
+### Authority references (LOCKED)
+
+```text
+11_Assets/Location_References/Family_House_Thatch_Homestead_Approved_2026-07-18.png
+11_Assets/Location_References/Family_House_Vibe_Target_VillageNest_Style.png
+11_Assets/Location_References/Family_House_Interior_Vibe_RainArrival.png
+```
+
+**Materials / scale QA:** thatch + earthen walls + kayiru kattil + kolam + tulsi +
+nearby cow shelter = **PASS** (approved still).
+
+Rejected (do not match):
+
+```text
+11_Assets/Location_References/Family_House_Look_Test_2026-07-18_REJECTED_scale_OK_materials_wrong.png
+11_Assets/Location_References/Family_House_LongShot_2026-07-18_REJECTED_compound_wall_and_grid_neighbours.png
+11_Assets/Location_References/Family_House_LongShot_2026-07-18_KEEP_layout_REMOVE_compound_wall.png
+```
+
+### Long-shot establishing composition (LOCKED)
+
+When generating a **wide / long establishing** of the property, include in one
+readable frame (**eye-level or slight 3/4** — **not** high bird’s-eye map view):
+
+1. **Front (east):** denser **green kitchen garden** along a narrow **village
+   green path** (packed earth with grass/plant edges) — curry leaf, lemon,
+   banana, chilli, marigold, hibiscus — not bare dirt only.
+2. **House centre:** small thatch homestead + thinnai + kayiru kattil.
+3. **Nearby shelters (west/rear, readable beside or behind):** thatch **cow
+   shelter**, separate small **goat pen**, **chicken coop** — all close by.
+4. **Big fruit trees near house + shelters:** **jackfruit**, **banana**, and
+   **mango** (large, readable).
+5. **Well under big tree:** kitchen well + large shade tree toward rear.
+6. **Water + fields:** **river** in the wider landscape; **paddy / fields**
+   beyond rear. No fake river through the front yard.
+7. **Close irregular neighbours:** tiled-roof homes **close** to this house —
+   staggered, organic village clustering along a soft path — **NOT** a perfect
+   straight street grid, **NOT** symmetrical mirror rows, **NOT** wide planned
+   boulevards.
+8. **NO compound wall / NO perimeter wall / NO enclosed plot** — yard opens to
+   the village path. No stone enclosure, no mud compound, no gated courtyard wall.
+
+Reject any still that shows a wall around the property or “perfect town-planning”
+neighbour lines.
 
 ---
 
@@ -32,19 +85,88 @@ The home should always feel warm, welcoming, practical, and authentic.
 
 Maintain throughout the series:
 
-* Traditional 1990s South Indian village architecture.
-* Whitewashed lime-plastered walls.
-* Terracotta Mangalore tiled roof.
-* Exposed wooden rafters beneath the roof.
-* Thick load-bearing masonry walls.
-* Red oxide flooring throughout most interiors.
-* Solid teak and country-wood doors.
-* Large wooden windows for natural ventilation.
-* Wide roof overhangs protecting walls from rain.
+* Traditional 1990s South Indian **village homestead** architecture.
+* Warm **earthen / mud-ochre plaster** walls (soft brown-cream terracotta wash —
+  not bright villa white).
+* Thick **palm / coconut-leaf thatch roof** as the Main Family House hero roof
+  (CANON-2026-008).
+* Exposed wooden rafters / poles under thatch when interior ceiling shows.
+* Thick load-bearing mud or masonry walls.
+* Red oxide or packed smooth earth flooring in interiors as appropriate.
+* Solid country-wood doors.
+* Modest wooden windows for natural ventilation (not mansion-scale openings).
+* Practical thatch eaves protecting walls from rain.
 * Natural ventilation rather than mechanical cooling.
 * Hand-built construction using local materials.
 
 The house should never appear modernized.
+
+**Neighbours** may keep Mangalore tiled roofs in background — that contrast
+helps the family house stay the humble thatch home.
+
+---
+
+# 90s Lived-In Lock (approved 2026-07-18)
+
+YouTube viewers reject “village” houses that look like a clean resort, villa,
+homestay, or curated Instagram farmstay. Layout may be correct and still fail
+authenticity if surfaces are too perfect.
+
+**Always show (when the house exterior / thinnai / yard is visible):**
+
+- **Small simple thatch homestead** — compact footprint, short façade, lived-in
+  (CANON-2026-007 / 008). Match Village Nest–style humble farm compound.
+- Warm **earthen ochre / mud plaster** walls with soft wear stains (never bright
+  cream villa paint).
+- Thick textured **palm/coconut thatch roof** — not Mangalore tiles on this house.
+- **Short shallow thinnai** (2–3 dark wooden pillars), packed-earth porch.
+- Lived-in porch clutter: **kayiru kattil**, clay matkas, firewood stack, woven
+  mat, coconut broom.
+- Working yard: packed earth path through **dense green kitchen garden**,
+  **kolam**, **Tulsi madam**, free-range chickens.
+- Adjacent humble **thatch cow shelter**, **goat pen**, and **chicken coop**
+  readable nearby in establishes / long shots.
+- Long shots: **well under large shade tree** toward rear; canal/pond water
+  glint beyond; **close neighbouring tiled roofs**.
+- Lush coconut palms + banana + extra trees; low mud/stone boundary + simple
+  wooden gate — **no high compound wall**.
+
+**Never show (unless a documented story exception exists):**
+
+- **Mangalore / terracotta tile roof on the Main Family House** (tiles OK on
+  neighbours only).
+- Bright cream lime “pretty cottage” walls.
+- **Big house / mansion / multi-wing estate / tall double-storey villa.**
+- Long palace-like façade or oversized courtyard mansion.
+- Spotless fresh-paint villa walls.
+- Resort / boutique farmstay architecture.
+- Marble, ceramic floor-tile plazas, polished concrete courtyards.
+- Glass sliding doors, aluminium windows, steel railings, PVC pipes as hero.
+- LED bulbs, tube-light glare, modern switches as identity.
+- Symmetrical “show home” emptiness with no household clutter.
+- Western cottage picket perfection that erases Tamil village wear.
+
+### Copy-ready prompt block (paste into every house / thinnai / front-yard shot)
+
+```text
+SMALL simple 1990s rural Tamil thatch homestead — compact footprint,
+thick palm/coconut THATCHed roof, warm EARTHEN ochre mud-plaster walls.
+NOT a big house, NOT a cream tiled cottage, NOT Mangalore tiles on this house,
+NOT a mansion, NOT a resort villa.
+Short shallow thinnai (2–3 pillars), packed-earth floor, kayiru kattil,
+clay matkas, firewood, broom, kolam, Tulsi madam, dense green front garden,
+chickens. Thatch cow shelter + goat pen + chicken coop nearby.
+Well under big shade tree toward rear; RIVER in wider landscape; PADDY FIELDS beyond.
+Neighbours CLOSE and IRREGULAR — staggered tiled roofs near this house —
+NOT perfect straight street grid, NOT symmetrical mirror rows.
+Narrow VILLAGE GREEN PATH (packed earth + grass edges) — NOT wide planned roads.
+OPEN front — NO compound wall, NO perimeter wall, NO enclosed plot, NO gate-wall.
+Big JACKFRUIT + BANANA + MANGO near house and shelters.
+NO marble, NO ceramic tiles, NO glass, NO steel railing, NO LED, NO pretty villa paint.
+```
+
+Authority note: **LOCKED 2026-07-18 (CANON-2026-008).** Applies to Main Family
+House from `ep_004` onward. Finished `ep_003` frames are not retconned.
 
 ---
 
@@ -136,6 +258,16 @@ This layout forms the permanent backbone of the property.
 
 No permanent location may be moved without updating the world canon.
 
+### Compact interior + simple small house (CANON-2026-005 / 007)
+
+- Whole house footprint stays **small and simple** — short façade, few rooms,
+  not an inflated AI mansion.
+- Rooms off the mutram (especially Bedroom) read **small / compact**, not open
+  villa suites.
+- **Kayiru kattil** (*kayathu kattil*): permanent on Front Thinnai; default sleep
+  cot in Bedroom; field kattil stays at Field Rest Area only.
+- Paste Lived-In Lock + **SMALL house** language on every house / thinnai exterior.
+
 ---
 
 # Property Boundaries
@@ -169,11 +301,11 @@ Only traditional materials should appear.
 
 Maintain:
 
-* Lime plaster.
-* Fired clay bricks.
+* Earthen / mud plaster (warm ochre wash) and lime where needed.
+* Fired clay bricks / mud brick.
 * Granite foundation stones.
-* Terracotta roof tiles.
-* Teak wood.
+* **Palm / coconut-leaf thatch** as Main Family House roof.
+* Teak / country wood.
 * Coconut timber where appropriate.
 * Bamboo.
 * Clay.
@@ -183,6 +315,9 @@ Maintain:
 * Coir rope.
 * Stone.
 
+Terracotta Mangalore tiles may appear on **neighbouring** roofs only — not as
+the Main Family House default (CANON-2026-008).
+
 Never introduce modern building materials without an intentional story reason.
 
 ---
@@ -191,14 +326,15 @@ Never introduce modern building materials without an intentional story reason.
 
 Maintain:
 
-* Traditional sloping Mangalore tile roof.
-* Deep overhangs.
-* Timber roof structure.
-* Natural ventilation beneath tiles.
-* Rainwater dripping from roof edges during monsoon.
-* Small birds occasionally nesting beneath eaves.
+* Thick sloping **thatch roof** (dried palm / coconut leaf) on the Main Family
+  House.
+* Deep thatch eaves / overhangs.
+* Timber / bamboo pole structure beneath.
+* Natural ventilation under thatch.
+* Rainwater dripping from thatch edges during monsoon.
+* Occasional birds nesting in eaves.
 
-The roof should be instantly recognizable.
+The thatch silhouette should be instantly recognizable as this family’s home.
 
 ---
 
@@ -341,7 +477,7 @@ Evening
 
 Monsoon
 
-* Rain on roof tiles.
+* Rain on thatch roof.
 * Water dripping from eaves.
 * Damp earth.
 * Mist beyond the garden.

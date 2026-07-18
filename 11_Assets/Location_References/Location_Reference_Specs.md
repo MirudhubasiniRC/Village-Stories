@@ -197,16 +197,27 @@ Do not treat this file as higher authority than the location bible.
 
 ---
 
-## Family House establishing — `Family_House_Establishing_Canon_Design_Reference.png`
+## Family House establishing — LOCKED thatch homestead (CANON-2026-008)
+
+**Authority stills (use these — supersedes older cream/Mangalore establishing PNG):**
+
+```text
+11_Assets/Location_References/Family_House_Thatch_Homestead_Approved_2026-07-18.png
+11_Assets/Location_References/Family_House_Vibe_Target_VillageNest_Style.png
+```
 
 | Field | Lock |
 | --- | --- |
-| Sources | `Family_House.md`, `Front_Thinnai.md`, `Front_Garden.md`, `Orientation.md` |
-| Must show | **Ultra-wide** dawn/dusk; cream walls · terracotta roof; **wide shallow thinnai**; **full lush front garden** · **center path only**; curry leaf + lemon + mango trees; chilli · tomato; low wooden gate; distant **paddy + river** |
-| Atmosphere | M01 opening hook — peaceful early morning ~6–7am; Ghibli soft golden mist |
-| Must not | Deep thinnai tunnel · compound fortress wall · tile thinnai floor · bare open yard · ornamental English lawn · photoreal |
-| Suggested shot | Ultra-wide aerial-leaning village vista — family house centre-left, landscape opens right |
-| Status | **approved PNG present** (M01 · 2026-07-17) |
+| Sources | `Family_House.md` (LOCKED), `Front_Thinnai.md`, `Front_Garden.md`, `Orientation.md` |
+| Must show | Small **thatch** house · **earthen ochre** walls · short thinnai · kayiru kattil · kolam · tulsi · dense green front garden · **village green path** · cow/goat/chicken shelters nearby · jackfruit/banana/mango · well under tree · close **irregular** neighbours · river + paddy in wide frame |
+| Atmosphere | Warm lived-in homestead; eye-level or slight 3/4 — not bird’s-eye grid |
+| Must not | Mangalore tiles on **this** house · cream villa · **compound/perimeter wall** · perfect street-grid neighbours · deep thinnai tunnel · marble · photoreal |
+| Suggested shot | Eye-level / slight 3/4 wide — house centre, path opens to village, fields/river soft beyond |
+| Status | **LOCKED 2026-07-18** (producer confirmed) |
+
+Older file `Family_House_Establishing_Canon_Design_Reference.png` (cream + tiled) is
+**superseded** for Main Family House identity — keep only as archive if needed;
+do not attach as `LOCATION_IDENTITY` for `ep_004`+.
 
 ---
 

@@ -10,7 +10,8 @@ This document permanently defines Younger Daughter's facial expressions througho
 
 Her face is highly readable and tender.
 
-Emotions are honest, never exaggerated into cartoon extremes.
+Emotions are honest, never exaggerated into cartoon extremes — **except** the
+Sudden Rain Loud Face lock (CANON-2026-006), which must read big on a phone.
 
 ---
 
@@ -21,7 +22,10 @@ Emotions are honest, never exaggerated into cartoon extremes.
 - Bright open smile during play.
 - Concerned small frown when unsure.
 - Tearful eyes that recover quickly with comfort.
-- Quiet awe during festivals or rain.
+- Quiet awe during gentle rain that is already falling.
+- **Sudden rain burst (CANON-2026-006):** loud delighted/startled face — eyes
+  huge, mouth open shout or gasp, whole face commits; may squeal-laugh then run
+  for cover. Never a calm quiet face on sudden onset.
 - Sleepy softness at night.
 
 ---

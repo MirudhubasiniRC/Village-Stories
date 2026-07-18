@@ -52,6 +52,32 @@ Each shot should begin exactly where the previous shot ended unless the storyboa
 
 ---
 
+# Rule 2B — Sudden Rain Loud Face Reaction (CANON-2026-006)
+
+When rain **suddenly** begins (first hard drops, burst, squall, or unexpected
+downpour mid-scene), any visible person must get a **loud face reaction beat**
+before or as they act.
+
+**Required face read (close or medium-close):**
+
+* Eyes widen sharply.
+* Eyebrows lift.
+* Mouth opens in gasp / surprise / shout shape (readable, not a tiny smile).
+* Whole face commits — not a calm glance at the sky only.
+
+**Edit pattern (Growth Sprint):**
+
+1. Rain hit / first hard drops (macro or wide).
+2. **Face reaction cut** (loud — 0.7–2 s).
+3. Practical next action (run under roof, grab clothes, cover food, laugh + dash).
+
+Kids may react louder (delighted shriek-face or startled shout-face). Adults stay
+in character but still show clear startle. Reject blank calm faces on sudden rain.
+
+Does not apply to scenes that **open already raining** with no sudden onset.
+
+---
+
 # Rule 3 — Geographic Continuity
 
 Permanent locations never move.
@@ -67,6 +93,8 @@ Maintain:
 * Field Rest Area (paddy edge)
 * Pond
 * Irrigation Canal
+* Waterfall Hamlet House via the northern upland route
+* Upland cascade joining the river upstream outside the village boundary
 
 Characters should always travel using logical routes through the established geography.
 
