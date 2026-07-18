@@ -174,11 +174,18 @@ Vegetable Garden, and Livestock Shelter during daylight.
 
 ## Ducks
 
-Occasionally appear near:
+**Lakeside lock (CANON-2026-010):** when the Family House **lake** is visible,
+show **ducks** on the water or lake edge (2–5 birds typical) — swimming, dabbling,
+or walking the muddy rim. Native village ducks — brown/white mix OK; calm, not
+cartoon mascots.
 
-* Pond.
+Also appear near:
+
 * Canal.
-* Paddy fields.
+* Paddy field edges after rain.
+
+Do not leave a readable lake empty of all waterfowl in establishing or feed
+exteriors.
 
 ---
 
@@ -189,15 +196,43 @@ Common species include:
 * House Sparrow
 * Common Myna
 * Asian Koel
-* White-throated Kingfisher
+* White-throated Kingfisher (near water)
 * Green Bee-eater
 * Cattle Egret
-* Indian Pond Heron
+* Indian Pond Heron (lake/paddy)
 * Rock Pigeon
 * Crow
 * Parakeet
 
+**Outdoor density lock:** at least one bird cue when outdoors in daylight —
+perch on jackfruit/mango/thatch eave, flight across lake, or ground sparrows —
+unless the shot is extreme macro food-only.
+
 Birds should always match the environment.
+
+---
+
+# Living Environment Density (CANON-2026-010)
+
+Viral village Shorts feel alive because **animals and place scenery share the
+frame** with the story — not because of separate nature documentaries.
+
+**When the shot is outdoors / homestead / lake (ep_004+):**
+
+| Must usually show | Where |
+| --- | --- |
+| Chickens pecking | Yard, thinnai edge, garden path |
+| Ducks | On lake or lake edge when water is in frame |
+| Birds | Trees, eaves, flight, or ground |
+| Cows / goats | Shelter / feed beats; soft bg OK otherwise |
+| Family Dog | When story casts him |
+| Place scenery | Lake + hills + green path + fruit trees as locked |
+
+**Cut-cut Shorts:** weave life into story shots (background ducks while feeding
+cows; sparrow on jackfruit branch during harvest). Do **not** add 8 empty
+ambience-only clips — keep density **inside** the causal cuts.
+
+Animals support everyday life; they never steal the hook.
 
 ---
 

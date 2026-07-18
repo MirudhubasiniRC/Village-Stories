@@ -14,46 +14,51 @@ Clothing, personality, behaviour, and expressions are documented separately.
 
 # Canon Visual Reference
 
-Mother's permanent visual-reference image is:
+Mother's permanent visual-reference images:
 
 ```text
+11_Assets/Character_References/Mother_Doorway_Beauty_Canon_Reference.png
 11_Assets/Character_References/Mother_Canon_Design_Reference.png
 ```
 
-This image establishes Mother's recurring face, jewellery, hairstyle, expression
-range, and the **official Ghibli-inspired digital anime rendering standard** for
-female characters in Village Stories.
+| Reference | Role |
+| --- | --- |
+| `Mother_Doorway_Beauty_Canon_Reference.png` | **Primary face / beauty / daytime look** from `ep_004` onward (CANON-2026-014) — slim oval, large anime eyes + lashes + blush, left-chin mole, braid + mallipoo, cream saree + green blouse doorway still |
+| `Mother_Canon_Design_Reference.png` | Legacy kitchen identity (jewellery / silhouette support) — do not override the doorway beauty face |
 
-**Approved identity reference:** beautiful young South Indian woman, age **28–30**;
-soft **oval** face (not round/chubby), lightly defined chin (gentle sharp — not
-hard angular); large expressive **almond** warm-brown eyes (~1/5 of face height —
-readable even in distant/wide shots); small maroon or red bindi centered on
-forehead; gold nose stud on left nostril; **small black mole on left side of
-chin**; long thick naturally wavy **black** hair (subtle dark-brown sheen only —
-never brown/auburn hair); warm medium-fair complexion with golden undertones
-`#E8C89A`–`#F0D8B0`; gentle warm smile; slim graceful healthy build ~155–160 cm.
+This primary still establishes Mother's recurring face, jewellery, hairstyle,
+expression, and the **approved 2.5D polished digital anime beauty** for Mother.
 
-**Match face/eyes to:** `11_Assets/Character_References/Mother_Canon_Design_Reference.png`
+**Approved identity reference (match doorway still):** beautiful young South
+Indian woman, age **28–30**; slim soft **oval** face (NOT chubby / NOT puffy);
+gently tapered chin; **LARGE soft-almond** warm-brown eyes (~1/4 of face height)
+with bright catchlights; **long thick stylized anime eyelashes**; **clear soft
+pink cheek blush**; small red bindi centered on forehead; gold nose stud on left
+nostril; **small black mole on left side of chin** (never omit); long thick
+naturally wavy **black** hair in neat **braid over one shoulder** with white
+**mallipoo**; warm medium-fair golden complexion; gentle warm smile; slim
+graceful healthy build ~155–160 cm.
+
+**Match Mother to:** `Mother_Doorway_Beauty_Canon_Reference.png` whenever the
+tool supports a character reference. Words-first locks below must still match
+that still if no image is attached.
+
+**Default daytime wardrobe shown in beauty still (approved look):** cream /
+off-white cotton saree with **forest-green + gold** border; matching
+**short-sleeve forest-green blouse** with gold trim; green glass bangles; gold
+jhumkas; thin gold thali chain. Other saree colours remain allowed per episode
+board — face/hair/jewellery/mole stay locked to this still.
 
 **Colour & lighting:** do **not** invent Mother-specific colour grades. Use series
 locks in `01_Canon/01_Series_Style_Lock/Color_And_Lighting_Formula.md`,
-`Color_Language.md`, `Lighting_Style.md`, and `Art_Style.md`.
+`Color_Language.md`, `Lighting_Style.md`, and `Art_Style.md` (CANON-2026-013).
 
 **Default everyday jewellery:** traditional **gold jhumka earrings** (bell-shaped,
-~1.5–2 inches / 3.5–5 cm, soft painterly warm gold — not oversized chandelier);
-small gold nose stud left nostril; thin glass bangles (green / red / gold);
-optional simple thin gold thali chain.
+~1.5–2 inches / 3.5–5 cm); small gold nose stud left nostril; thin green glass
+bangles; simple thin gold thali chain.
 
-**Default daytime hairstyle (approved 2026-07-18):** neat thick **braid over one
-shoulder** with a fresh **mallipoo** (jasmine) strand woven into / along the
-braid. See Hairstyle section for morning free hair, cooking exceptions, and
-half-up as a secondary state.
-
-**Canon still (`Mother_Canon_Design_Reference.png`):** face / jewellery / kitchen
-identity lock. That still shows a **braid over one shoulder** during filter-coffee
-pour (mustard saree) — this matches the approved everyday braid. Add **mallipoo**
-in all ordinary daytime prompts from `ep_004` onward unless the episode board
-explicitly removes flowers.
+**Default daytime hairstyle:** neat thick **braid over one shoulder** with fresh
+**mallipoo** (jasmine) along the braid — exactly as in the doorway beauty still.
 
 ---
 
@@ -157,20 +162,27 @@ to the reference silhouette.
 
 # Eyes
 
-Maintain — match reference; keep readable at distance:
+Maintain — anime beauty finish on slim oval face (CANON-2026-012 / 013):
 
-- Warm dark brown.
-- Clearly **almond-shaped** (not round doll eyes).
-- **Large and expressive** within Ghibli grounded scale — approximately **1/5 of
-  face height** so the almond shape and warmth remain **visible even in medium-wide
-  / distant shots**.
-- Soft naturalistic anime proportion — never chibi-huge, never tiny.
-- Subtle catchlights.
+- Warm dark brown irises.
+- **Large, beautiful, highly expressive anime eyes** — about **~1/4 of face
+  height** (feed-beauty scale).
+- Soft rounded-almond shape — big and appealing, **not** tiny naturalistic,
+  **not** extreme chibi black dots.
+- Clear bright catchlights / soft sparkle in the eyes (kind shine, not plastic CGI).
+- **Long thick stylized anime eyelashes** (upper-lash emphasis — premium digital
+  anime beauty).
+- **Clear soft pink cheek blush** (pretty and visible, not heavy makeup).
 - Calm compassionate gaze.
-- Thin neatly arched black brows framing the almond eye line.
+- Thin neatly arched black brows framing the larger eye line.
 
-Her eyes naturally express compassion and patience — warm almond eyes must stay
-the strongest facial read of Mother at every shot size.
+**Face shape with eyes:** slim soft **oval** + gently tapered chin — **NOT**
+chubby / round baby / puffy cheeks. Normal adult head size — not bobblehead.
+
+**Keep forever:** warmth, kindness, Mother identity, **left-chin mole**. Eye
+scale + lashes + blush are the beauty upgrade; face stays slim oval.
+
+Her eyes are the strongest facial read of Mother at every shot size.
 
 ---
 
@@ -455,9 +467,10 @@ Mother should remain instantly recognizable through:
 - **Braid + mallipoo** long black hairstyle (default daytime).
 - Warm medium-fair golden complexion.
 - Soft **oval** face (not round); lightly sharp/tapered chin (gentle, not hard).
-- Large **almond** warm-brown eyes ~1/5 face height — readable in distant shots.
+- **LARGE beautiful soft-almond** warm-brown eyes ~1/4 face height with
+  catchlights / gentle sparkle (CANON-2026-012).
 - Small red or maroon tilak bindi.
-- **Small black mole on left side of chin.**
+- **Small black mole on left side of chin** — never omit.
 - Small gold nose stud.
 - **Gold jhumka earrings** (~1.5–2 inches, soft sway).
 - One simple gold thali chain.
@@ -570,26 +583,29 @@ Always maintain:
 - Age **28–30**.
 - Warm medium-fair golden complexion `#E8C89A`–`#F0D8B0`.
 - Soft **oval** face — not round; lightly sharp chin (gentle).
-- Large **almond** warm-brown eyes readable at distance (~1/5 face height).
+- **LARGE beautiful soft-almond** warm-brown eyes ~1/4 face height with
+  catchlights / gentle sparkle (CANON-2026-012).
 - Long **black** hair — daytime default **braid + mallipoo**; morning free hair;
   cooking usually keeps braid; temporary low clutch only when explicitly needed;
   half-up **only when explicitly requested**.
 - Small red or maroon tilak bindi.
-- **Small black mole on left side of chin.**
+- **Small black mole on left side of chin** — never omit.
 - Small gold nose stud.
 - **Traditional gold jhumkas** (~1.5–2 inches).
 - One simple gold chain carrying her traditional thali pendant.
 - Thin glass bangles (green / red / gold).
 - Gentle smile.
-- Calm eyes.
+- Calm kind eyes (large + sparkling, not tiny).
 - Natural beauty.
 - Graceful posture.
 
 Never:
 
-- Round chubby face · tiny eyes · round doll eyes.
+- Round chubby face · tiny naturalistic eyes · extreme chibi black-dot eyes.
+- Soft puffy / baby cheeks (Mother stays slim oval — CANON-2026-013).
 - Hard angular jaw · overly pointed chin.
-- Change facial proportions.
+- Change facial proportions except approved larger eye scale + lashes/blush
+  (CANON-2026-012 / 013).
 - Remove permanent jewellery without story justification.
 - Remove the everyday bindi.
 - Remove or relocate the permanent left-chin mole.
@@ -609,25 +625,23 @@ Never:
 **Default daytime (braid + mallipoo + jhumkas):**
 
 ```text
-MOTHER (Per Character Bible): Beautiful young South Indian woman, age 28–30,
-soft gentle presence. Medium-fair complexion with warm golden undertones
-#E8C89A–#F0D8B0. Soft OVAL face — not round; lightly sharp/tapered chin (gentle
-definition, not hard). Large expressive ALMOND warm-brown eyes (~1/5 of face
-height) — almond shape readable even in distant shots; delicate eyelashes; kind
-gaze. Small maroon or red bindi centered on forehead. Small black mole on left
-chin. Slim graceful healthy build ~5'2"–5'3" (155–160 cm). Long thick naturally
-wavy BLACK hair with subtle dark-brown sheen only (never brown/auburn hair) —
-styled in a neat thick BRAID resting over one shoulder; fresh white MALLIPOO
-(jasmine strand) woven into / along the braid — modest everyday amount, not
-bridal jadai. A few soft strands may frame the face. Traditional gold JHUMKA
-earrings — bell-shaped dangling, ~1.5–2 inches, intricate detailing, soft
-painterly warm gold, gentle sway. Small gold nose stud on left nostril. Thin
-glass bangles green/red/gold. Cotton saree (maroon #7A1F2B / mustard #D4A017 /
-dark green #3A6B3A / cream #F5E6C8 / indigo #2A3A5A as scene requires) with
-simple matching short-sleeve blouse. Barefoot indoors. Calm patient gentle
-expression; warm smile; never rushed. Ghibli maternal tenderness. Colour &
-lighting: follow Color_And_Lighting_Formula.md / Lighting_Style.md /
-Art_Style.md — do not invent a separate Mother colour grade.
+MOTHER (match Mother_Doorway_Beauty_Canon_Reference.png — CANON-2026-014):
+Beautiful young South Indian woman, age 28–30, soft gentle presence. Medium-fair
+complexion with warm golden undertones #E8C89A–#F0D8B0. Slim soft OVAL face —
+NOT chubby / NOT round baby / NOT puffy; lightly tapered chin. NORMAL adult head
+size — not bobblehead. LARGE beautiful soft-almond warm-brown eyes (~1/4 of face
+height) with bright catchlights; LONG thick stylized anime eyelashes; clear soft
+pink cheek blush; kind gentle smile (CANON-2026-012/013/014). Small red bindi
+centered on forehead. **Permanent small black mole on LEFT chin — never omit,
+never move.** Slim graceful healthy build ~5'2"–5'3" (155–160 cm). Long thick
+naturally wavy jet-BLACK hair — neat thick BRAID resting over one shoulder;
+fresh white MALLIPOO jasmine woven along the braid (modest everyday amount).
+Traditional gold JHUMKA earrings ~1.5–2 inches. Small gold nose stud left
+nostril. Thin gold thali chain. Thin green glass bangles. Default daytime look:
+cream/off-white cotton saree with forest-green + gold border; matching
+short-sleeve forest-green blouse with gold trim (other saree colours OK per
+episode — face stays doorway still). Barefoot indoors. Calm patient gentle
+expression. Rendering: Art_Style CANON-2026-013 2.5D polished digital.
 ```
 
 **Optional half-up (only when user asks):**

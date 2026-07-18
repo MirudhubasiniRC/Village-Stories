@@ -178,6 +178,7 @@ Short shallow thinnai (2–3 dark wooden pillars), packed-earth porch,
 kayiru kattil (rope charpai), clay matkas, firewood stack, coconut broom,
 kolam, Tulsi madam, chickens pecking, dense green kitchen plants at edges.
 OPEN yard to village path — NO compound wall, NO perimeter wall.
+Chickens may peck at edges; lake ducks / birds when water or trees show.
 NO marble, NO ceramic floor tiles, NO glass, NO steel, NO LED, NO villa paint.
 ```
 
@@ -187,11 +188,13 @@ NO marble, NO ceramic floor tiles, NO glass, NO steel, NO LED, NO villa paint.
 Eye-level or slight 3/4 WIDE establishing — NOT bird’s-eye map, NOT drone.
 LAKESIDE HILL homestead: SMALL thatch house on gentle hillside, earthen ochre walls,
 thatch roof, short thinnai, kayiru kattil, matkas, firewood, kolam, tulsi, chickens.
-Calm freshwater LAKE immediately BESIDE the house and yard (large still water).
-Green HILLS rising behind and around. Dense green front garden along a narrow
-VILLAGE GREEN PATH (packed earth + grass edges — soft, uneven, walked-in).
-Nearby: thatch cow shelter, goat pen, chicken coop; big JACKFRUIT, BANANA,
-MANGO trees beside house and shelters; well under large shade tree toward rear.
+Calm freshwater LAKE immediately BESIDE the house and yard (large still water)
+with **ducks** on water or lake edge. Green HILLS rising behind and around.
+Dense green front garden along a narrow VILLAGE GREEN PATH (packed earth +
+grass edges — soft, uneven, walked-in). **Chickens** pecking in yard. **Birds**
+in fruit trees or flight. Nearby: thatch cow shelter, goat pen, chicken coop;
+big JACKFRUIT, BANANA, MANGO trees beside house and shelters; well under large
+shade tree toward rear.
 Close IRREGULAR neighbour tiled roofs almost next door — staggered cluster,
 NOT perfect street grid, NOT symmetrical rows.
 OPEN front — NO compound wall, NO perimeter wall, NO enclosed plot.
@@ -206,11 +209,55 @@ crowded clay matkas on shelves, hanging ladles, hurricane lamp glow,
 clock + paper calendar on wall, clay stove ember if story needs.
 OPEN wooden door may show cool lake/hill green exterior when relevant.
 Cozy warm interior vs cooler outside. Compact room — not villa kitchen.
+Props: soft VOLUMETRIC 2.5D sheen on pots/vessels (CANON-2026-013).
 ```
 
-Authority note: **LOCKED 2026-07-18 (CANON-2026-008 / 009).** Words are the
-generation authority. Lakeside hill from `ep_004` onward. Finished `ep_003`
-not retconned.
+#### D — Doorway house-view test / production template (Mother + lakeside)
+
+Paste for style QA or Mother-in-doorway establish shots. Includes full style +
+face locks (CANON-2026-013). No character reference PNG required if this block
+is complete.
+
+```text
+RENDERING STYLE LOCK (CANON-2026-013 — Flow-agent match):
+Modern digital illustration heavily influenced by contemporary anime/manga.
+Clean defined linework; vibrant highly saturated but natural colors.
+Mix of cel-shading + soft gradients — polished three-dimensional 2.5D feel
+(NOT full Pixar CGI body mesh, NOT photoreal). Soft warm naturalistic lighting.
+Shallow depth of field: Mother sharp; village background softly blurred.
+High-fidelity textures on saree, metallic jewellery, clay/brass pots, water,
+animal feathers. Dense lived-in props. Warm lamp interior vs bright outdoor daylight.
+NOT plastic bobblehead. NOT empty flat cel.
+
+MOTHER: Match approved still Mother_Doorway_Beauty_Canon_Reference.png
+(CANON-2026-014). Beautiful young South Indian Tamil woman 28–30. Slim soft
+OVAL face — NOT chubby / NOT puffy. NORMAL adult head size. LARGE soft-almond
+warm-brown eyes ~1/4 face height with bright catchlights; LONG thick stylized
+anime eyelashes; clear soft pink cheek blush. Small red bindi. Permanent small
+black mole on LEFT chin — never omit. Gold nose stud, gold jhumkas, thin gold
+thali chain, green glass bangles. Warm medium-fair golden skin. Long BLACK hair
+in neat thick BRAID over one shoulder with white MALLIPOO jasmine. Cream/
+off-white cotton saree with forest-green and gold border; matching short-sleeve
+forest-green blouse with gold trim. Gentle warm smile. One hand lightly on
+wooden doorframe.
+
+HOUSE VIEW: 9:16 medium shot, eye-level. Mother in dark wooden doorway of SMALL
+simple 1990s rural Tamil thatch homestead — earthen ochre mud walls, thatched
+roof (NOT Mangalore on this house, NOT cream villa). INTERIOR left: lit kerosene
+hurricane lantern, wall clock ~10:10, paper calendar OCT 1994, wooden shelves
+with plump volumetric clay pots + brass vessels, woven rice basket. EXTERIOR
+right: calm LAKE beside house with soft-rounded 2.5D white duck + yellow
+ducklings; brown hens/rooster pecking; thatched neighbour hut; banana trees;
+green hills with soft blur; OPEN yard — NO compound wall.
+
+NEGATIVES: chubby face, bobblehead, tiny eyes, missing left-chin mole, flat
+outline-only ducks, Pixar CGI people, photoreal, cream villa, Mangalore on this
+house, compound wall, text, logos, watermarks.
+```
+
+Authority note: **LOCKED 2026-07-18 (CANON-2026-008 / 009); render/face
+CANON-2026-013 (2026-07-19).** Words are the generation authority. Lakeside hill
+from `ep_004` onward. Finished `ep_003` not retconned.
 
 ---
 

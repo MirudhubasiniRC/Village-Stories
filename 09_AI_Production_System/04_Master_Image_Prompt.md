@@ -98,15 +98,15 @@ Apply these to every prompt. They are fixed instructions, not variables.
   exotic village or impoverishment spectacle.
 * Period-correct work, clothing, objects, architecture, infrastructure, and
   problem solving.
-* Original Village Stories anime identity matching
-  `11_Assets/Character_References/Mother_Canon_Design_Reference.png`: smooth
-  digital anime illustration; polished digital painting with soft gradient
-  shading; atmospheric depth; muted cinematic color grading; Japanese anime color
-  palette on Indian village settings; clean defined line art; clean-up drawing;
-  natural South Indian features; emotionally warm and timeless.
-* Use the official Studio Ghibli-inspired digital anime aesthetic
-  (`Art_Style.md`). Do not name or imitate any other studio, artist, film,
-  franchise, or external property.
+* Original Village Stories **character appearance** matching
+  `11_Assets/Character_References/Mother_Canon_Design_Reference.png` (and other
+  character refs) for jewellery / mole / silhouette; Mother face beauty per
+  CANON-2026-012/013 (slim oval, large eyes, long anime lashes, soft blush).
+* **Rendering** must use **2.5D polished digital** (CANON-2026-013): clean 2D
+  anime characters + soft volumetric props/food/animals with gentle specular
+  sheen; cozy dense lived-in frames; warm interior vs cooler outdoor light when
+  both visible. Paste Art_Style § Rendering Style Lock into every prompt. Do not
+  redesign casts to look like another channel; do not use full Pixar CGI people.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
   contemporary vehicles, modern branding or packaging, current fashion, urban
   infrastructure, or unsupported modern items.
@@ -114,9 +114,13 @@ Apply these to every prompt. They are fixed instructions, not variables.
   the **verbal LOCKED thatch lakeside-hill homestead** copy-blocks from
   `02_World/Locations/Family_House.md` § Copy-ready verbal locks (words first —
   producer does not rely on saved house PNGs). Paste block A (close), B (long
-  **lake beside + hills**), or C (interior) as needed. Never cream tiled cottage,
-  Mangalore on this house, compound wall, perfect neighbour grid, or dry flat
-  plain with no house-side lake.
+  **lake beside + hills**), C (interior), or **D (doorway house-view)** as needed.
+  Never cream tiled cottage, Mangalore on this house, compound wall, perfect
+  neighbour grid, or dry flat plain with no house-side lake.
+* Outdoor / lakeside / yard stills must apply **Living Environment Density**
+  (CANON-2026-010): chickens in yard when daylight outdoor; **ducks on lake**
+  when lake shows; birds in trees/flight; livestock on feed/shelter beats;
+  lake + hills + path scenery in-frame — not empty void behind characters.
 * Bedroom / thinnai interiors: **compact small rooms**; default sleep/rest cot is
   **kayiru kattil** (rope charpai / *kayathu kattil*) — see CANON-2026-005.
 * Village shop / lane shots: narrow packed-earth petty-shop street lock from
@@ -298,7 +302,7 @@ placement; what must remain visible and unobstructed] |
 Flow clip; or NONE] |
 
 STYLE
-Studio Ghibli-inspired digital anime aesthetic — soft, warm, and emotionally resonant. Painterly digital rendering with simulated watercolor and gouache textures. Soft matte finish. Soft delicate linework with slight variation. Naturalistic anime proportions; soft rounded faces; expressive but grounded eyes approximately 1/5 of face height. Soft cel-style shading blended with painted digital brushwork. Richly illustrated digital backgrounds with atmospheric depth. Authentic 1990s South Indian village atmosphere, emotionally warm and timeless.
+2.5D polished digital anime (CANON-2026-013) — soft, warm, emotionally resonant. Clean 2D anime characters with soft cel + smooth gradient shading. Props/food/water/animals: soft volumetric 2.5D with gentle specular sheen. Soft far-background bokeh OK; optional golden dust motes. Mother: slim oval face (NOT chubby); LARGE soft-almond warm-brown eyes ~1/4 face height; long stylized anime lashes; soft pink blush; LEFT-chin mole; normal adult head (CANON-2026-012/013). Father/kids: grounded eyes ~1/5 until separately approved. Dense lived-in props; warm interior vs cooler outdoor light when both visible. Authentic 1990s South Indian village atmosphere, emotionally warm and timeless.
 
 Family Dog (STRICT Character Lock)
 Large healthy German Shepherd with a **classic black-and-tan, fully fluffy** long
@@ -307,13 +311,19 @@ muzzle, and eyebrows**. Thick fluffy neck ruff, feathered legs, full bushy tail
 curled naturally. Warm intelligent brown eyes, gentle happy expression. Soft
 Ghibli-inspired digital anime animal rendering. NOT solid all-black.
 
-Mother (Character Bible Lock)
-Young South Indian woman (28–30), warm medium-brown skin, expressive warm brown
-eyes gently closed in laughter, long naturally wavy black hair braided over one
-shoulder, small maroon bindi, mustard or dark green traditional cotton saree,
-small traditional gold jhumkas, exactly one simple gold chain with traditional
-thali pendant, small left-nostril gold nose pin, thin glass bangles, gentle
-affectionate smile.
+Mother (Character Bible Lock — match Mother_Doorway_Beauty_Canon_Reference.png)
+Young South Indian woman (28–30), warm medium-fair golden skin, slim soft OVAL
+face (NOT chubby / NOT puffy). LARGE beautiful soft-almond warm-brown eyes ~1/4
+face height with bright catchlights; long thick stylized anime eyelashes; clear
+soft pink cheek blush (CANON-2026-012/013/014). Small red bindi; **permanent
+small black mole on LEFT chin — never omit**; long naturally wavy black hair
+daytime default braid + mallipoo over one shoulder; default cream/off-white
+saree with forest-green + gold border and matching forest-green blouse (other
+saree colours OK per episode — face stays doorway still); small traditional gold
+jhumkas; exactly one simple gold chain with traditional thali pendant; small
+left-nostril gold nose pin; thin green glass bangles; gentle affectionate smile;
+normal adult head size. Attach doorway beauty PNG as CHARACTER_IDENTITY when
+supported.
 
 Father (Character Bible Lock)
 South Indian farmer (31–33), medium-brown complexion, lean athletic build with

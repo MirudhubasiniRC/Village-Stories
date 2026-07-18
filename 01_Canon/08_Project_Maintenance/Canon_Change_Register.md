@@ -1,5 +1,203 @@
 # Canon Change Register
 
+## CANON-2026-014 — Mother Doorway Beauty Still Is Face Authority
+
+| Field | Decision |
+| --- | --- |
+| Category | Appearance / reference lock |
+| Submitted | 2026-07-19 |
+| Approved | 2026-07-19 |
+| Effective | 2026-07-19 — from `ep_004` onward |
+| Initiating production | Producer: “mother should look like this” (doorway beauty still) |
+| Risk | Low — locks approved QA face |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None |
+
+### Approved change
+
+- Primary Mother face/beauty reference =
+  `11_Assets/Character_References/Mother_Doorway_Beauty_Canon_Reference.png`
+- Slim oval, large anime eyes + long lashes + soft pink blush, left-chin mole,
+  braid + mallipoo, cream saree + forest-green blouse as default daytime look.
+- Legacy `Mother_Canon_Design_Reference.png` remains jewellery/silhouette support
+  only — do not let it pull eyes/face back to older smaller-eye look.
+- Attach doorway beauty PNG whenever tools support CHARACTER_IDENTITY for Mother.
+
+### Required migration
+
+- `Mother/Appearance.md` canon visual reference + prompt block.
+- `Art_Style.md` Mother lock path.
+- Family House block D + Master Image Prompt Mother lines.
+
+### Validation status
+
+**Approved still locked.**
+
+---
+
+## CANON-2026-013 — 2.5D Polished Digital Render + Mother Anime Beauty Face
+
+| Field | Decision |
+| --- | --- |
+| Category | Style + Mother appearance lock |
+| Submitted | 2026-07-19 |
+| Approved | 2026-07-19 |
+| Effective | 2026-07-19 — from `ep_004` onward |
+| Initiating production | Producer QA: doorway / house+veg / leaf-food stills |
+| Risk | Medium — drift to full Pixar CGI or chubby chibi face |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None — do not retcon finished episodes as mandatory remasters |
+
+### Approved change
+
+**Rendering (supersedes pure “painterly gouache-only” emphasis of CANON-2026-011):**
+
+- Official look = **2.5D polished digital anime**:
+  - Characters: clean **2D** anime linework + soft cel / smooth gradients.
+  - Props / food / water / animals: soft **volumetric** forms with gentle
+    specular sheen (glossy tomatoes, plump pots, rounded ducks) — not flat
+    outline blobs.
+  - Soft far-background bokeh / depth OK; warm cozy light + optional dust motes.
+- Still **not** full Pixar/Disney CGI body mesh, **not** photoreal, **not**
+  plastic bobblehead figurines.
+- Cozy feed warmth / dense lived-in frames from CANON-2026-011 **kept**; paint
+  language shifts from “extra gouache-only” to this polished 2.5D finish.
+
+**Mother face (extends CANON-2026-012):**
+
+- Slim soft **oval** adult face — gently tapered chin.
+- **NOT** chubby / round baby / puffy cheeks.
+- LARGE soft-almond eyes ~1/4 face height + catchlights (012).
+- **Long thick stylized anime eyelashes** + **clear soft pink cheek blush**.
+- Permanent **left-chin mole** forever.
+- Normal adult head–body ratio — **not** huge chibi/bobble head.
+
+### Required migration
+
+- `Art_Style.md` rendering lock + Mother facial beauty.
+- `Mother/Appearance.md` eyes/face + prompt block.
+- `04_Master_Image_Prompt.md` + `21_Clip_Prompt_Formula.md`.
+- `Family_House.md` doorway house-view test / production prompt block.
+- ep_004+ generation style lines.
+
+### Validation status
+
+**Approved QA direction.** Doorway homestead + house/veg stills match intended
+look. Paste new RENDERING + FACE locks from `ep_004` onward.
+
+---
+
+## CANON-2026-012 — Mother Eyes: Feed-Beauty Scale (Keep Chin Mole)
+
+| Field | Decision |
+| --- | --- |
+| Category | Appearance lock update (Mother eyes only) |
+| Submitted | 2026-07-18 |
+| Approved | 2026-07-18 |
+| Effective | 2026-07-18 — from `ep_004` onward |
+| Initiating production | Producer: ours too small vs Village Nest–style big beautiful eyes |
+| Risk | Medium — eye drift into chibi / loss of mole |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None — do not retcon finished episodes as mandatory remasters |
+
+### Approved change
+
+- Mother eyes become **LARGE beautiful soft-almond** warm-brown, ~**1/4** of face
+  height, with clear bright catchlights / gentle sparkle (viral Desi-Ghibli
+  feed beauty).
+- **Permanent small black mole on LEFT chin stays forever** — never omit, never
+  move.
+- Not extreme chibi black-dot eyes; not tiny naturalistic eyes.
+- Father / kids stay ~1/5 until separately approved.
+- Still Village Stories identity (face, jewellery, wardrobe) — only eye scale +
+  sparkle; paint remains CANON-2026-011 GHIBLIBUCKET render lock.
+
+### Required migration
+
+- `Mother/Appearance.md` eyes + prompt block.
+- `Art_Style.md` Mother facial proportions.
+- Master Image Prompt + Clip Prompt Formula STYLE lines.
+
+### Validation status
+
+**Text lock.** Extended by CANON-2026-013 (lashes + blush + slim oval + 2.5D render).
+
+---
+
+## CANON-2026-011 — Rendering Matches THE GHIBLI BUCKET Paint (Appearance Unchanged)
+
+| Field | Decision |
+| --- | --- |
+| Category | Style lock update (rendering only) |
+| Submitted | 2026-07-18 |
+| Approved | 2026-07-18 |
+| Effective | 2026-07-18 — from `ep_004` onward |
+| Initiating production | Producer: style exactly like THE GHIBLI BUCKET; keep our appearances |
+| Risk | Medium — render drift vs identity |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None — do not retcon finished episodes’ look as mandatory remasters |
+
+### Approved change
+
+- **Appearance / identity** stays Village Stories character locks.
+- **Rendering / paint** must match soft cozy THE GHIBLI BUCKET feed style
+  (painterly gouache, warm/cool contrast, dense props, soft matte).
+- Copy-ready RENDERING STYLE LOCK required in every `ep_004`+ prompt.
+- Do not copy their characters, logos, or sets as identity.
+
+### Required migration
+
+- `Art_Style.md` appearance-vs-rendering split + required lock block.
+- Master Image Prompt + ep_004 generation prompts.
+
+### Validation status
+
+**Superseded for paint language by CANON-2026-013** (2.5D polished digital).
+Cozy dense-frame / warm–cool light intent from this entry **remains**.
+
+| Field | Decision |
+| --- | --- |
+| Category | Clarification / Production lock |
+| Submitted | 2026-07-18 |
+| Approved | 2026-07-18 |
+| Effective | 2026-07-18 — from `ep_004` onward |
+| Initiating production | Competitor gap vs animal-dense village Shorts (e.g. Mr Siba–style niche) |
+| Risk | Low — densify life in frame; no map move |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None |
+
+### Gap
+
+Canon already listed chickens, birds, occasional ducks — but **prompts and Shorts
+often omit them**, so frames feel empty vs viral channels that always show
+chickens, ducks on water, birds, livestock, and place scenery in the same cut.
+
+### Approved change
+
+Outdoor / homestead / lake shots must feel **alive**:
+
+- **Chickens** visible when yard/thinnai/garden is on screen (unless night/indoor-only).
+- **Ducks** on or at the **lake edge** when lake is readable (lakeside house).
+- **Birds** — at least sparrows/myna/flight or perch in trees when outdoors.
+- **Livestock** (cows/goats) when shelters or feed beats appear.
+- **Scenery of place** in the same frame: lake, hills, green path, fruit trees —
+  not empty flat void behind characters.
+- Prefer **in-frame peeks** (0.5–2 s or background life) over separate long
+  ambience reels in cut-cut Shorts.
+
+### Required migration
+
+- `Fauna.md` Living Environment Density section.
+- Family House verbal locks A/B.
+- ep_004 shot notes + sh_001 prompt enrichment.
+- Master Image Prompt outdoor note.
+
+### Validation status
+
+**Text lock.**
+
+---
+
 ## CANON-2026-009 — Family House Lakeside Hill Setting
 
 | Field | Decision |

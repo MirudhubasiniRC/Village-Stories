@@ -43,7 +43,7 @@ Naming follows `10_Studio_Standards/Naming_Standards.md` and
 | `ep_001` | **Butterfly Morning** | YouTube Short · 9:16 · ~60–70 s | **Flow generation complete** — edit next | `ep_001/00_Admin/Episode_Brief.md` |
 | `ep_002` | **Kesari Afternoon** | Long-form · 16:9 · ~4:30–5:00 | **Phase 5 — sh_002 still** | `ep_002/00_Admin/Episode_Brief.md` |
 | `ep_003` | **Paati's Wet Firewood** | YouTube Short · 9:16 · ~135–165 s | **Production complete — edit / release pending** | `ep_003/00_Admin/Episode_Brief.md` |
-| `ep_004` | **The Jackfruit That Almost Fell** | Short · 9:16 · ~90 s cut-cut · lakeside hill | **Shot list in review** | `ep_004/00_Admin/Episode_Brief.md` |
+| `ep_004` | **The Jackfruit That Almost Fell** | Short · 9:16 · ~90 s | **Generating — sh_001** | `ep_004/00_Admin/Episode_Brief.md` |
 
 Update this table when an episode title, format, or status is approved.
 

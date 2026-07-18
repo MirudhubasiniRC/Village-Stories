@@ -12,15 +12,27 @@ Every visual asset produced for the series must follow these standards.
 
 # Canon Visual Style Reference
 
-The permanent series rendering standard is **Studio Ghibli-inspired digital
-anime aesthetic** — soft, warm, and emotionally resonant. Painterly digital
-rendering with simulated watercolor and gouache textures. India supplies setting
-and culture; the **color and rendering language** is Japanese-influenced anime
-warmth and atmosphere, not Indian folk-art saturation.
+## Appearance vs rendering (producer lock 2026-07-19 — CANON-2026-013)
 
-Primary character and style anchors:
+| Layer | Authority | Rule |
+| --- | --- | --- |
+| **Appearance / identity** | `03_Characters/…/Appearance.md` + character ref PNGs | Village Stories faces/wardrobe — **Mother:** slim oval + large eyes + anime lashes/blush + left-chin mole (CANON-2026-012/013) |
+| **Rendering / paint style** | This document | **2.5D polished digital anime** (CANON-2026-013) — clean 2D characters + soft volumetric props/food/animals; cozy dense frames; warm/cool light contrast |
+
+Never redesign our characters to look like another channel’s people.  
+Never keep flat cel / empty-room rendering when the feed look requires rich depth.
+Never drift to full Pixar CGI bodies or chubby chibi Mother.
+
+The permanent **rendering** standard is **2.5D polished digital anime** with
+cozy Desi-village Shorts warmth (dense props, warm lamp/stove vs cooler outdoor
+light). India supplies setting and culture; finish is polished digital — not
+folk-art illustration, not photoreal, not full CGI film.
+
+Primary character **appearance** anchors (identity only — draw them in the new
+rendering language):
 
 ```text
+11_Assets/Character_References/Mother_Doorway_Beauty_Canon_Reference.png
 11_Assets/Character_References/Mother_Canon_Design_Reference.png
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 11_Assets/Style_References/Early_Morning_Color_Lighting_Canon_Reference.png
@@ -28,28 +40,30 @@ Primary character and style anchors:
 
 | Reference | Role |
 | --- | --- |
-| `Mother_Canon_Design_Reference.png` | Official **female face design** and series rendering standard |
-| `Father_Canon_Design_Reference.png` | Official **Father identity** and **male face design** in the same rendering language |
-| `Early_Morning_Color_Lighting_Canon_Reference.png` | Official **Warm & Sunlit early-morning colour richness, lush-green balance, medium-soft contrast, and golden side-light target** |
+| `Mother_Doorway_Beauty_Canon_Reference.png` | **Primary Mother face / beauty** (CANON-2026-014) |
+| `Mother_Canon_Design_Reference.png` | Legacy Mother jewellery / silhouette support |
+| `Father_Canon_Design_Reference.png` | Official **Father / male face identity** (appearance) |
+| `Early_Morning_Color_Lighting_Canon_Reference.png` | Warm & Sunlit colour richness target (adapt to cozy grade) |
 
-These references define the **official Village Stories anime look**:
+### Required rendering look (every frame)
 
-* Studio Ghibli-inspired digital anime aesthetic — soft, warm, emotionally resonant.
-* Painterly digital rendering with simulated watercolor and gouache textures.
-* Soft matte finish.
-* Soft, delicate linework with slight variation.
-* Gentle, expressive character designs with naturalistic anime proportions.
-* Soft rounded faces; expressive but grounded eyes approximately 1/5 of face height.
-* Soft cel-style shading blended with painted digital brushwork.
-* Richly illustrated digital backgrounds with atmospheric depth.
-* 1990s rural Tamil Nadu as **setting** — not Indian folk-art illustration style.
+* **2.5D polished digital anime** (CANON-2026-013).
+* Characters: clean 2D anime linework; soft cel + smooth gradient shading.
+* Props / food / water / animals: soft **volumetric** rounded forms with gentle
+  specular sheen — not flat outline blobs.
+* Soft far-background depth / light bokeh OK; optional golden dust motes.
+* Soft matte–gloss hybrid; gentle warm grade; no HDR; no photoreal.
+* Soft, delicate linework (not thick comic ink).
+* Dense lived-in prop readable detail on interiors (matkas, utensils, baskets).
+* Warm interior key (lamp / stove / window gold) vs cooler outdoor lake/rain/
+  shade when both show.
+* Face **identity** stays Village Stories. **Mother:** slim oval (not chubby);
+  LARGE eyes ~1/4 face height; long anime lashes; soft pink blush; left-chin
+  mole (CANON-2026-012/013). Father/kids keep grounded ~1/5 until approved.
+  Normal adult head size — never bobblehead.
 
-Every frame, character, animal, prop, and environment must belong in the same
-Ghibli-inspired digital anime world.
-
-When a generated image drifts toward hard flat cel blocks without blending,
-Bollywood saturation, photorealism, 3D CGI, or generic modern TV anime drift,
-reject it and repair the prompt or source.
+Reject: hard flat cel, empty show-home walls, photoreal, full Pixar CGI people,
+chubby chibi Mother, or redesigned “other channel” faces.
 
 ---
 
@@ -90,40 +104,64 @@ in `Father_Canon_Design_Reference.png`.
 
 ### Prompt rule
 
-Every image and animation prompt must state that the **full frame** uses the
-Village Stories anime style.
+Every image and animation prompt must state:
 
-Character locks control identity.
+1. **Appearance:** Village Stories character identity locks (Mother face per
+   CANON-2026-012/013).
+2. **Rendering:** **2.5D polished digital** (CANON-2026-013) — clean 2D
+   characters + soft volumetric props/food/animals; cozy dense lived-in frame.
 
-Style lock controls **how everything is drawn**.
+Copy-ready style lock for prompts:
+
+```text
+RENDERING STYLE LOCK (CANON-2026-013 — 2.5D polished digital / Flow-agent match):
+Modern digital illustration heavily influenced by contemporary anime/manga.
+Clean defined linework; vibrant highly saturated but natural colors.
+Mix of cel-shading + soft gradients for polished three-dimensional feel
+(2.5D — NOT full Pixar CGI body mesh, NOT photoreal).
+Soft warm naturalistic lighting (sunlit morning / warm ambient indoor).
+Shallow depth of field: character + immediate action sharp; village/kitchen
+background softly blurred. High-fidelity textures on saree fabric, metallic
+jewellery, clay/brass pots, organic food, water, animal feathers.
+Dense lived-in props; warm lamp/stove interior vs cooler outdoor lake/rain when both visible.
+NOT plastic bobblehead. NOT empty flat cel. NOT brushy watercolor-only flat paint.
+APPEARANCE LOCK: Village Stories identity — Mother slim oval face (NOT chubby),
+LARGE eyes ~1/4 face height, long anime lashes, soft pink blush, LEFT-chin mole;
+normal adult head size. Do NOT redesign cast to another channel.
+```
 
 ---
 
 # Artistic Direction
 
-Village Stories uses a **Studio Ghibli-inspired digital anime aesthetic** —
-soft, warm, and emotionally resonant — applied to early-1990s rural Tamil Nadu
-settings.
+Village Stories **people and Tamil world stay ours**. The **rendering** is
+**2.5D polished digital anime** (CANON-2026-013) with cozy Desi-village Shorts
+warmth — dense props, warm/cool light contrast — applied to early-1990s rural
+Tamil Nadu settings.
 
 The artwork must feel warm, grounded, emotionally readable, and culturally
-specific — **India imagined through Japanese anime warmth and atmosphere**,
+specific — **our characters and places**, in polished digital finish,
 not Indian folk-art illustration style.
 
 The style combines:
 
-* Painterly digital rendering with simulated watercolor and gouache textures.
-* Soft matte finish and soft, delicate linework with slight variation.
-* Gentle, expressive character designs with naturalistic anime proportions.
-* Soft rounded faces; expressive but grounded eyes approximately 1/5 of face height.
-* Soft cel-style shading blended with painted digital brushwork.
-* Richly illustrated digital backgrounds with atmospheric depth.
-* Clear warm palette with gentle colour pop (bluey / greeny / reddy) and soft
-  diffused cinematic light — never muted whitewash, never neon.
+* Clean 2D anime characters + soft volumetric 2.5D props/food/animals.
+* Soft matte–gloss hybrid; soft, delicate linework with slight variation.
+* Gentle, expressive designs with **Village Stories** proportions.
+* **Mother:** slim oval face (not chubby); LARGE soft-almond eyes ~1/4 face
+  height; long stylized anime lashes; soft pink blush; left-chin mole
+  (CANON-2026-012/013). Other adults/kids: grounded ~1/5 until approved.
+  Normal adult head — never bobblehead.
+* Soft cel-style shading with smooth gradients; soft specular on props/food.
+* Rich atmospheric backgrounds with optional soft bokeh; dense interior props.
+* Warm lamp/stove key vs cooler outdoor lake/rain when both visible.
+* Clear warm palette with gentle colour pop; soft diffused cinematic light —
+  never muted whitewash, never neon.
 * Natural South Indian features, clothing, and village geography as setting.
 
-Do not drift toward hard flat cel blocks without painted blending, Bollywood
-saturation, oversaturated tropical Indian palettes, semi-realistic portraiture,
-Western cartoon, chibi comedy, plastic CGI, photorealism, or thick comic outlines.
+Do not drift toward hard flat cel blocks, Bollywood saturation, oversaturated
+tropical Indian palettes, semi-realistic portraiture, Western cartoon, chibi
+comedy, full Pixar CGI people, photorealism, or thick comic outlines.
 
 ---
 
@@ -131,19 +169,44 @@ Western cartoon, chibi comedy, plastic CGI, photorealism, or thick comic outline
 
 Maintain:
 
-* Studio Ghibli-inspired digital anime aesthetic — soft, warm, emotionally resonant.
-* Painterly digital rendering with simulated watercolor and gouache textures.
-* Soft matte finish.
+* Soft warm emotionally resonant digital anime aesthetic.
+* 2.5D polished digital rendering (2D characters + volumetric props).
+* Soft matte–gloss hybrid finish.
 * Soft, delicate linework with slight variation.
-* Naturalistic anime proportions with soft rounded faces.
-* Soft cel-style shading blended with painted digital brushwork.
-* Richly illustrated digital backgrounds with atmospheric depth.
+* Naturalistic anime proportions; Mother slim oval + anime beauty face.
+* Soft cel-style shading with smooth gradients.
+* Rich digital backgrounds with atmospheric depth.
 * Comfortable emotional atmosphere.
 * Stable recurring character and environment identity.
 * Google Flow-ready visual clarity.
 
-The intended result is unmistakably Village Stories: warm Ghibli-inspired
-digital anime, rural Tamil Nadu setting, timeless and cohesive.
+The intended result is unmistakably Village Stories **people and places**,
+rendered in **2.5D polished digital** (CANON-2026-013).
+
+---
+
+# Rendering Style Lock (required)
+
+**Paste into every image/animation prompt from `ep_004` onward.**
+
+Uses the same vocabulary Google Flow’s style agent described for our approved look.
+
+```text
+RENDERING STYLE LOCK (CANON-2026-013 — 2.5D polished digital / Flow-agent match):
+Modern digital illustration heavily influenced by contemporary anime/manga.
+Clean defined linework; vibrant highly saturated but natural colors.
+Mix of cel-shading + soft gradients for polished three-dimensional feel
+(2.5D — NOT full Pixar CGI body mesh, NOT photoreal).
+Soft warm naturalistic lighting (sunlit morning / warm ambient indoor).
+Shallow depth of field: character + immediate action sharp; village/kitchen
+background softly blurred. High-fidelity textures on saree fabric, metallic
+jewellery, clay/brass pots, organic food, water, animal feathers.
+Dense lived-in props; warm lamp/stove interior vs cooler outdoor lake/rain when both visible.
+NOT plastic bobblehead. NOT empty flat cel. NOT brushy watercolor-only flat paint.
+APPEARANCE LOCK: Village Stories identity — Mother slim oval face (NOT chubby),
+LARGE eyes ~1/4 face height, long anime lashes, soft pink blush, LEFT-chin mole;
+normal adult head size. Do NOT redesign cast to another channel.
+```
 
 ---
 
@@ -210,19 +273,24 @@ same anime language.
 
 Maintain consistent modern anime proportions across all recurring characters.
 
-### Mother (naturalistic Ghibli-inspired anime face)
+### Mother (slim oval + anime beauty face — CANON-2026-012 / 013)
 
-* Soft rounded face, gentle jawline, warm feminine proportions.
-* Expressive but grounded dark brown eyes — approximately 1/5 of face height.
-* Soft delicate linework; subtle catchlights; calm compassionate gaze.
-* Softly curved natural eyebrows.
-* Small delicate nose with traditional South Indian warmth.
+* Slim soft **oval** face, gently tapered chin — elegant adult proportions.
+* **NOT** chubby cheeks, round baby face, or puffy face.
+* **LARGE beautiful soft-almond** warm-brown eyes — approximately **1/4** of face
+  height; clear bright catchlights / gentle sparkle.
+* **Long thick stylized anime eyelashes** (upper-lash emphasis).
+* Soft arched thin black brows framing the larger eye line.
+* **Clear soft pink cheek blush** (pretty and visible, not heavy makeup).
+* Small delicate nose with traditional South Indian warmth; soft face highlights OK.
 * Soft natural pink lips with gentle smile.
-* Subtle rosy blush on cheeks.
 * Precise red circular tilak bindi centered on forehead — mandatory every day.
 * Small gold nose pin on left nostril.
+* **Permanent small black mole on LEFT chin — never omit, never move.**
+* **Normal adult head–body ratio** — never huge chibi / bobblehead.
 
-Lock to `Mother_Canon_Design_Reference.png` when generating or reviewing Mother.
+Lock Mother to `Mother_Doorway_Beauty_Canon_Reference.png` (CANON-2026-014)
+whenever the tool supports CHARACTER_IDENTITY.
 
 ### Father (naturalistic Ghibli-inspired anime face)
 
@@ -250,8 +318,11 @@ Avoid for Father:
 * Chibi proportions.
 * Hyper-realistic anatomy.
 * Cartoon slapstick exaggeration.
-* Oversized decorative doll eyes.
+* Extreme chibi black-dot eyes with no iris (Mother’s large eyes still show iris).
+* Chubby / round baby / puffy Mother face.
+* Huge bobblehead / chibi head proportions.
 * Missing bindi on Mother.
+* Missing or relocated Mother left-chin mole.
 
 Characters should remain recognisable in every episode.
 

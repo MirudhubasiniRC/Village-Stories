@@ -9,9 +9,9 @@
 | Season | Post-Monsoon / Harvest · clear warm day |
 | Continuity | After `ep_003` · same harvest week-block |
 | Locations | **Lakeside hill** Family House (CANON-2026-009) · yard jackfruit · shelters · kitchen · thinnai |
-| Status | Shot list in review |
-| Brief | `r02` |
+| Status | **Generating** — sh_001 image ready |
 | Shot list | `03_Storyboard/episode-ep_004__shot_list__in_review__r01.md` |
+| First still | `04_Generation/shot-ep_004-sh_001__prompt-package__image__ready__r01.md` |
 
 ---
 
@@ -24,8 +24,8 @@
 ## Viral Short shape (like feed-first niche Shorts)
 
 ```text
-0:00–0:08  Feed cows / goats / chickens (ASMR + lake/hill peek)
-0:08–0:22  Jackfruit tips → loud faces → safe harvest
+0:00–0:10  Feed cows (lake+**ducks**+hills) → goats → chickens (+ optional duck peek)
+0:10–0:24  Jackfruit tips (**bird** on branch OK) → loud faces → safe harvest
 0:22–0:35  Open fruit + sticky sap (fast)
 0:35–0:55  Chips: slice → oil sizzle → golden
 0:55–1:15  Payasam: milk + fruit → stir → pour

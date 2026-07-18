@@ -104,10 +104,11 @@ per location bible]. [Neighbour continuity if applicable].
 
 **STYLE**
 
-Studio Ghibli-inspired anime aesthetic — soft, warm, emotionally resonant.
-Gentle expressive designs, naturalistic proportions, grounded eyes ~1/5 face
-height. Delicate fine linework. Painterly digital watercolor/gouache. Soft
-matte finish.
+Studio Ghibli–adjacent 2.5D polished digital anime (CANON-2026-013) — soft, warm,
+emotionally resonant. Clean 2D characters; soft volumetric props/food/animals.
+Mother: slim oval (NOT chubby), LARGE soft-almond eyes ~1/4 face height, long
+anime lashes, soft pink blush, LEFT-chin mole (CANON-2026-012/013); Father/kids:
+grounded ~1/5 until approved. Delicate fine linework. Soft matte–gloss hybrid.
 
 **Character Rendering (Per Character Bible):**
 
@@ -154,7 +155,7 @@ washed-out grading.]
 
 ```text
 Generic anime style — ONLY Studio Ghibli-inspired style described above
-Oversized shoujo or chibi eyes (grounded ~1/5 face height when people appear)
+Oversized shoujo or chibi black-dot eyes with no iris (Mother may use LARGE soft-almond ~1/4 face height WITH iris + catchlights per CANON-2026-012; Father/kids ~1/5)
 Heavy manga linework (soft delicate lines)
 Exaggerated anime expressions
 Western cartoon styling

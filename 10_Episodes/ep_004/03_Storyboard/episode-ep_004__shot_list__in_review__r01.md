@@ -12,7 +12,9 @@
 
 ## Style / locks
 
-- Ghibli-inspired digital anime · Post-Monsoon / Harvest · clear warm day
+- **Rendering:** THE GHIBLI BUCKET–matching cozy Ghibli-digital paint (CANON-2026-011)
+- **Appearance:** Village Stories character locks unchanged
+- Post-Monsoon / Harvest · clear warm day · Living Environment Density (ducks/birds/chickens)
 - House: **words** Block B (lakeside hill) on exteriors · C kitchen · A thinnai food
 - Mother: braid + mallipoo · CANON-2026-002
 - Loud face on B1 (almost-fall) · CANON-2026-006 pattern
@@ -22,9 +24,10 @@
 
 | Shot | Loc | Cast | Key props | Notes |
 | --- | --- | --- | --- | --- |
-| sh_001 | Cow shelter | Father or Mother | Feed / straw | Lake+hills peek |
-| sh_002 | Goat pen | Mother / kids | Leaves | Fast |
-| sh_003 | Yard chickens | — / Daughter | Grain | Hard cut out |
+| sh_001 | Cow shelter | Father | Feed / straw | Lake+hills+**ducks** peek |
+| sh_002 | Goat pen | Mother / kids | Leaves | Birds soft bg OK |
+| sh_003 | Yard chickens | — / Daughter | Grain | Chickens hero |
+| sh_003b | Lake edge (optional micro) | — | Ducks | 1–2s peek if edit needs life |
 | sh_004 | Jackfruit tree | Brother | Heavy fruit | Hook tip |
 | sh_005 | Tree | Brother, Father, Mother | — | Loud faces |
 | sh_006 | Tree | Father, Mother | Cloth/basket | Secure lower |
@@ -50,10 +53,11 @@
 
 | Shot | Dur | Framing | Story job | Still subject | Flow motion | Audio |
 | --- | ---: | --- | --- | --- | --- | --- |
-| sh_001 | 2–3s | MS | Cold open feed | Father/Mother feeds cows; lake+hills behind shelter | Hand feed / cow eat | Feed · soft cow |
-| sh_002 | 2–3s | MS | Feed goats | Goats take leaves at pen | Leaf pull / chew | Chew |
-| sh_003 | 2s | MS/low | Feed chickens | Grain scatter; chickens peck | Peck | Peck · cut |
-| sh_004 | 3–4s | CU→MS | Hook | Jackfruit stem/fruit **tips** on tree | Fruit tip settle | Creak |
+| sh_001 | 2–3s | MS | Cold open feed | Father feeds cows; **lake + ducks + hills** behind shelter | Hand feed / cow eat | Feed · soft cow · distant duck |
+| sh_002 | 2–3s | MS | Feed goats | Goats take leaves; soft **bird** in tree/flight OK | Leaf pull / chew | Chew · chirp soft |
+| sh_003 | 2s | MS/low | Feed chickens | Grain scatter; chickens peck | Peck | Peck |
+| sh_003b | 1–2s | MS lake | Life peek | **Ducks** on lakeside (optional if sh_001 already shows ducks clearly) | Swim / dabble | Soft water |
+| sh_004 | 3–4s | CU→MS | Hook | Jackfruit tips; **sparrow/myna** on branch soft bg OK | Fruit tip settle | Creak · chirp |
 | sh_005 | 3–4s | MCU | Loud face | Brother eyes wide mouth open; Father/Mother react | Face snap + step | Gasp |
 | sh_006 | 4–5s | MS | Save | Adults lower fruit into cloth/basket; kids back | Lower / hold | Effort · cloth |
 | sh_007 | 2–3s | MS | Land | Fruit safe in cloth on packed earth | Settle | Soft thump |
