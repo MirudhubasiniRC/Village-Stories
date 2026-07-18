@@ -47,14 +47,20 @@ Mangalore tile on the Main Family House is **not** the default from `ep_004`.
 
 ### Authority stills
 
+Producer confirmed **words-first** generation (2026-07-18): do not require saved
+house PNGs. Paste verbal locks from `Family_House.md` § Copy-ready verbal locks
+on every episode house shot.
+
+Optional archive paths only (not required):
+
 ```text
 11_Assets/Location_References/Family_House_Thatch_Homestead_Approved_2026-07-18.png
 11_Assets/Location_References/Family_House_Vibe_Target_VillageNest_Style.png
 11_Assets/Location_References/Family_House_Interior_Vibe_RainArrival.png
 ```
 
-Reject refs: cream+Mangalore materials test; long-shots with compound wall or
-perfect neighbour grids.
+Reject looks (in words): cream+Mangalore family house; compound wall; perfect
+neighbour grids.
 
 ### Required migration
 

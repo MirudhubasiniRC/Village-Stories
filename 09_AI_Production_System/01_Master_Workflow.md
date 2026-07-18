@@ -513,6 +513,15 @@ board, ledger, or canon packet, remove it or escalate it.
 
 Write one image request, not a compressed episode synopsis.
 
+**Family House rule (CANON-2026-008):** when the house, thinnai, yard, or
+homestead long-shot is visible, paste the full **verbal** lock from
+`02_World/Locations/Family_House.md` § Copy-ready verbal locks (block A, B, or
+C). Do not depend on saved house PNGs — the producer tweaks the words per
+episode (season, weather, time, story props only).
+
+For other locations, keep approved references when they exist; never invent
+geography.
+
 Start with who is doing what, where, when, and from what viewpoint. Add only
 the material, style, and continuity facts needed to make that frame reliable.
 

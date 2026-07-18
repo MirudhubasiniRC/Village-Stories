@@ -110,14 +110,13 @@ Apply these to every prompt. They are fixed instructions, not variables.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
   contemporary vehicles, modern branding or packaging, current fashion, urban
   infrastructure, or unsupported modern items.
-* Family House / Front Thinnai / front-yard / long-establish shots must apply the
-  **LOCKED thatch homestead** package (CANON-2026-007 / 008) from
-  `02_World/Locations/Family_House.md`: small thatch roof, earthen ochre walls,
-  kayiru kattil, dense green front garden, village green path, close irregular
-  neighbours, jackfruit/banana/mango, cow/goat/chicken shelters nearby, well under
-  tree, river + fields in wide frame — **never** cream tiled cottage, Mangalore
-  tiles on this house, compound/perimeter wall, perfect street-grid neighbours,
-  big mansion, resort, villa, marble, glass, or steel.
+* Family House / Front Thinnai / front-yard / long-establish shots must include
+  the **verbal LOCKED thatch homestead** copy-blocks from
+  `02_World/Locations/Family_House.md` § Copy-ready verbal locks (words first —
+  producer does not rely on saved house PNGs). Paste block A (close), B (long),
+  or C (interior) as needed; tweak only episode season/weather/time/story props.
+  Never cream tiled cottage, Mangalore on this house, compound wall, or perfect
+  neighbour street grid.
 * Bedroom / thinnai interiors: **compact small rooms**; default sleep/rest cot is
   **kayiru kattil** (rope charpai / *kayathu kattil*) — see CANON-2026-005.
 * Village shop / lane shots: narrow packed-earth petty-shop street lock from

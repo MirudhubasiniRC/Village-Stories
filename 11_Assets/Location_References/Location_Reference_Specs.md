@@ -199,25 +199,20 @@ Do not treat this file as higher authority than the location bible.
 
 ## Family House establishing — LOCKED thatch homestead (CANON-2026-008)
 
-**Authority stills (use these — supersedes older cream/Mangalore establishing PNG):**
-
-```text
-11_Assets/Location_References/Family_House_Thatch_Homestead_Approved_2026-07-18.png
-11_Assets/Location_References/Family_House_Vibe_Target_VillageNest_Style.png
-```
+**Generation authority = WORDS** (producer 2026-07-18): paste
+`Family_House.md` § Copy-ready verbal locks (A close / B long / C interior).
+Saved PNGs are optional archive only — not required for episode generation.
 
 | Field | Lock |
 | --- | --- |
-| Sources | `Family_House.md` (LOCKED), `Front_Thinnai.md`, `Front_Garden.md`, `Orientation.md` |
-| Must show | Small **thatch** house · **earthen ochre** walls · short thinnai · kayiru kattil · kolam · tulsi · dense green front garden · **village green path** · cow/goat/chicken shelters nearby · jackfruit/banana/mango · well under tree · close **irregular** neighbours · river + paddy in wide frame |
+| Sources | `Family_House.md` (LOCKED words), `Front_Thinnai.md`, `Front_Garden.md` |
+| Must show (say in prompt) | Small **thatch** house · **earthen ochre** walls · short thinnai · kayiru kattil · kolam · tulsi · dense green garden · **village green path** · cow/goat/chicken shelters · jackfruit/banana/mango · well under tree · close **irregular** neighbours · river + paddy in wide frame |
 | Atmosphere | Warm lived-in homestead; eye-level or slight 3/4 — not bird’s-eye grid |
-| Must not | Mangalore tiles on **this** house · cream villa · **compound/perimeter wall** · perfect street-grid neighbours · deep thinnai tunnel · marble · photoreal |
-| Suggested shot | Eye-level / slight 3/4 wide — house centre, path opens to village, fields/river soft beyond |
-| Status | **LOCKED 2026-07-18** (producer confirmed) |
+| Must not | Mangalore on **this** house · cream villa · **compound wall** · perfect street-grid neighbours · marble · photoreal |
+| Status | **LOCKED 2026-07-18** — words-first; producer does not save house refs |
 
-Older file `Family_House_Establishing_Canon_Design_Reference.png` (cream + tiled) is
-**superseded** for Main Family House identity — keep only as archive if needed;
-do not attach as `LOCATION_IDENTITY` for `ep_004`+.
+Older cream/Mangalore establishing PNGs are **superseded** — do not treat as
+required `LOCATION_IDENTITY` for `ep_004`+.
 
 ---
 

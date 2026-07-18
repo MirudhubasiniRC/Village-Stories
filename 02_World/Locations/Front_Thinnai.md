@@ -93,8 +93,9 @@ fake” even when characters are correct.
 - Compound wall closing the front.
 - Resort / picket-cottage landscaping instead of working homestead yard.
 
-When generating, also paste the house lock from `Family_House.md` § 90s Lived-In
-Lock.
+When generating, paste the house **verbal** lock from `Family_House.md` §
+Copy-ready verbal locks (words first — no house PNG required). Also paste the
+Lived-In / thatch materials language.
 
 Attach as `LOCATION_IDENTITY` or `STYLE_TARGET` when the tool supports references
 and the Front Thinnai is principal or establishing.
