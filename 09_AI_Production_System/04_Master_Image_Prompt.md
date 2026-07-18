@@ -111,12 +111,12 @@ Apply these to every prompt. They are fixed instructions, not variables.
   contemporary vehicles, modern branding or packaging, current fashion, urban
   infrastructure, or unsupported modern items.
 * Family House / Front Thinnai / front-yard / long-establish shots must include
-  the **verbal LOCKED thatch homestead** copy-blocks from
+  the **verbal LOCKED thatch lakeside-hill homestead** copy-blocks from
   `02_World/Locations/Family_House.md` § Copy-ready verbal locks (words first —
-  producer does not rely on saved house PNGs). Paste block A (close), B (long),
-  or C (interior) as needed; tweak only episode season/weather/time/story props.
-  Never cream tiled cottage, Mangalore on this house, compound wall, or perfect
-  neighbour street grid.
+  producer does not rely on saved house PNGs). Paste block A (close), B (long
+  **lake beside + hills**), or C (interior) as needed. Never cream tiled cottage,
+  Mangalore on this house, compound wall, perfect neighbour grid, or dry flat
+  plain with no house-side lake.
 * Bedroom / thinnai interiors: **compact small rooms**; default sleep/rest cot is
   **kayiru kattil** (rope charpai / *kayathu kattil*) — see CANON-2026-005.
 * Village shop / lane shots: narrow packed-earth petty-shop street lock from

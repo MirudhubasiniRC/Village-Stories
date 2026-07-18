@@ -14,10 +14,21 @@ Every room, pathway, and outdoor space should feel familiar to viewers over time
 
 # Identity
 
-## LOCKED — Thatch Homestead (CANON-2026-008 · 2026-07-18)
+## LOCKED — Thatch Homestead (CANON-2026-008 / 009 · 2026-07-18)
 
 **Status: LOCKED by producer.** Do not regenerate toward cream tiled cottage,
 Mangalore-roof family house, compound walls, or perfect neighbour grids.
+
+### Lakeside hill lock (CANON-2026-009)
+
+The Main Family House is a **lakeside house in the hills**:
+
+- Gentle **hill / hillside** setting — green slopes behind and around.
+- Calm freshwater **lake** immediately **beside** the house and yard (house-side
+  water in every useful exterior wide).
+- Still thatch + earthen ochre, open yard, no compound wall.
+- Lake ≠ river ghat; river stays the northern social water. This lake is the
+  still water next to home (village pond/lake body when seen from the homestead).
 
 ### Production rule — words first (producer 2026-07-18)
 
@@ -30,11 +41,12 @@ PNG files under `11_Assets/Location_References/` (if any) are optional archive /
 vibe memory only — **not required** and **not** the source of truth.
 
 The house is a **small, simple thatch homestead** — a humble early-1990s rural
-Tamil farming dwelling (CANON-2026-007 / 008).
+Tamil farming dwelling on a **hillside lakeside** edge (CANON-2026-007 / 008 /
+009).
 
 Vibe target: working Village Nest–style homestead — earthen walls, thick thatch,
-animals and tulsi in the yard — **not** a pretty cream tiled cottage or landlord
-mansion.
+animals and tulsi in the yard, **lake beside**, **hills behind** — **not** a
+pretty cream tiled cottage or landlord mansion.
 
 Nothing feels luxurious.
 
@@ -64,25 +76,22 @@ When generating a **wide / long establishing** of the property, include in one
 readable frame (**eye-level or slight 3/4** — **not** high bird’s-eye map view):
 
 1. **Front (east):** denser **green kitchen garden** along a narrow **village
-   green path** (packed earth with grass/plant edges) — curry leaf, lemon,
-   banana, chilli, marigold, hibiscus — not bare dirt only.
-2. **House centre:** small thatch homestead + thinnai + kayiru kattil.
-3. **Nearby shelters (west/rear, readable beside or behind):** thatch **cow
-   shelter**, separate small **goat pen**, **chicken coop** — all close by.
-4. **Big fruit trees near house + shelters:** **jackfruit**, **banana**, and
-   **mango** (large, readable).
-5. **Well under big tree:** kitchen well + large shade tree toward rear.
-6. **Water + fields:** **river** in the wider landscape; **paddy / fields**
-   beyond rear. No fake river through the front yard.
-7. **Close irregular neighbours:** tiled-roof homes **close** to this house —
-   staggered, organic village clustering along a soft path — **NOT** a perfect
-   straight street grid, **NOT** symmetrical mirror rows, **NOT** wide planned
-   boulevards.
-8. **NO compound wall / NO perimeter wall / NO enclosed plot** — yard opens to
-   the village path. No stone enclosure, no mud compound, no gated courtyard wall.
+   green path** (packed earth with grass/plant edges).
+2. **House centre:** small thatch homestead + thinnai + kayiru kattil on a
+   **gentle hill / hillside**.
+3. **LAKE BESIDE HOUSE (CANON-2026-009):** calm freshwater **lake** immediately
+   beside the yard/house-side — large still water readable in the frame.
+4. **HILLS:** green **hills / slopes** rising behind and around the homestead.
+5. **Nearby shelters:** thatch **cow shelter**, **goat pen**, **chicken coop**.
+6. **Big fruit trees:** **jackfruit**, **banana**, **mango** near house/shelters.
+7. **Well under big tree** toward rear when readable.
+8. **Close irregular neighbours** on the path — staggered, not a street grid.
+9. Soft paddy/fields may appear beyond; river ghat is **not** required in every
+   house wide (lake is the house-side water).
+10. **NO compound wall** — yard opens to the village green path.
 
-Reject any still that shows a wall around the property or “perfect town-planning”
-neighbour lines.
+Reject: compound wall, perfect neighbour grid, flat empty plain with no hills,
+house with no lake beside it in establishing wides.
 
 ---
 
@@ -161,8 +170,9 @@ LOCKED materials or open-yard rules.
 #### A — Close / medium (house + thinnai hero)
 
 ```text
-SMALL simple 1990s rural Tamil thatch homestead — compact footprint,
-thick palm/coconut THATCHed roof, warm EARTHEN ochre mud-plaster walls.
+SMALL simple 1990s rural Tamil thatch homestead on a gentle HILLSIDE —
+compact footprint, thick palm/coconut THATCHed roof, warm EARTHEN ochre mud walls.
+Calm LAKE beside the house/yard (house-side still water). Green hills behind.
 NOT a big house, NOT a cream tiled cottage, NOT Mangalore tiles on this house.
 Short shallow thinnai (2–3 dark wooden pillars), packed-earth porch,
 kayiru kattil (rope charpai), clay matkas, firewood stack, coconut broom,
@@ -171,19 +181,19 @@ OPEN yard to village path — NO compound wall, NO perimeter wall.
 NO marble, NO ceramic floor tiles, NO glass, NO steel, NO LED, NO villa paint.
 ```
 
-#### B — Long / wide establishing (full homestead + village)
+#### B — Long / wide establishing (lakeside hill homestead)
 
 ```text
 Eye-level or slight 3/4 WIDE establishing — NOT bird’s-eye map, NOT drone.
-SMALL thatch homestead centre: earthen ochre walls, thatch roof, short thinnai,
-kayiru kattil, matkas, firewood, kolam, tulsi, chickens.
-Dense green front garden along a narrow VILLAGE GREEN PATH (packed earth +
-grass/plant edges — soft, uneven, walked-in).
+LAKESIDE HILL homestead: SMALL thatch house on gentle hillside, earthen ochre walls,
+thatch roof, short thinnai, kayiru kattil, matkas, firewood, kolam, tulsi, chickens.
+Calm freshwater LAKE immediately BESIDE the house and yard (large still water).
+Green HILLS rising behind and around. Dense green front garden along a narrow
+VILLAGE GREEN PATH (packed earth + grass edges — soft, uneven, walked-in).
 Nearby: thatch cow shelter, goat pen, chicken coop; big JACKFRUIT, BANANA,
 MANGO trees beside house and shelters; well under large shade tree toward rear.
 Close IRREGULAR neighbour tiled roofs almost next door — staggered cluster,
-NOT perfect street grid, NOT symmetrical rows, NOT wide planned boulevards.
-River in soft distance; paddy fields beyond rear.
+NOT perfect street grid, NOT symmetrical rows.
 OPEN front — NO compound wall, NO perimeter wall, NO enclosed plot.
 Mangalore tiles OK on neighbours only — NOT on this family house.
 ```
@@ -194,12 +204,13 @@ Mangalore tiles OK on neighbours only — NOT on this family house.
 Small warm earthen-plaster village kitchen/entry: exposed wood rafters,
 crowded clay matkas on shelves, hanging ladles, hurricane lamp glow,
 clock + paper calendar on wall, clay stove ember if story needs.
-OPEN wooden door to cool rainy/green exterior when raining.
+OPEN wooden door may show cool lake/hill green exterior when relevant.
 Cozy warm interior vs cooler outside. Compact room — not villa kitchen.
 ```
 
-Authority note: **LOCKED 2026-07-18 (CANON-2026-008).** Words are the generation
-authority. Applies `ep_004` onward. Finished `ep_003` not retconned.
+Authority note: **LOCKED 2026-07-18 (CANON-2026-008 / 009).** Words are the
+generation authority. Lakeside hill from `ep_004` onward. Finished `ep_003`
+not retconned.
 
 ---
 

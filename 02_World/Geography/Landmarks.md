@@ -143,17 +143,21 @@ Detailed design:
 
 ## 5. Family House
 
-**Category:** Residential
+**Category:** Residential · **Lakeside hill homestead** (CANON-2026-009)
 
 **Location:**
 
-South of the Village Square.
+South of the Village Square, on a **gentle hillside**.
 
 **Purpose:**
 
 Primary setting of the series.
 
 Nearly every story begins, ends, or passes through this location.
+
+**Visual lock:** small thatch house · earthen walls · **lake beside** the yard ·
+**hills** behind/around · open yard (no compound wall). Words-first locks in
+`Family_House.md`.
 
 Detailed design:
 
@@ -192,22 +196,25 @@ Detailed design:
 
 ---
 
-## 7. Village Pond
+## 7. Village Pond / Family Lake
 
-**Category:** Natural
+**Category:** Natural · **house-side still water**
 
 **Location:**
 
-South of the Paddy Fields.
+Immediately **beside the Family House** homestead when framed from home
+(CANON-2026-009 lakeside lock). Broader village/pond geography toward fields
+south of paddy remains compatible — same still-water body family, not a second
+ocean.
 
 **Purpose:**
 
-* Irrigation.
-* Wildlife.
-* Reflection.
-* Quiet relaxation.
+* Lakeside house identity in exterior wides.
+* Wildlife, reflection, quiet relaxation.
+* Contrast to the lively River Ghat (north).
 
-The pond creates a peaceful contrast to the lively River Ghat.
+The **lake beside the house** is what establishing shots must show; do not leave
+the homestead on a dry flat plain with no house-side water.
 
 Detailed design:
 
@@ -215,6 +222,8 @@ Detailed design:
 02_World/
 └── Locations/
     └── Village_Pond.md
+└── Locations/
+    └── Family_House.md  (lakeside hill verbal locks)
 ```
 
 ---

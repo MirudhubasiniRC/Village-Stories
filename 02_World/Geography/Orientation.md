@@ -160,6 +160,11 @@ The Festival Ground remains open land that fills only during celebrations.
 
 The Family House has one permanent orientation.
 
+**Lakeside hill (CANON-2026-009):** the homestead sits on a **gentle hillside**.
+A calm **lake** lies immediately beside the house/yard (house-side still water).
+Green **hills** rise behind and around. This does not replace the northern
+River Ghat; the lake is the still water next to home.
+
 ## Front
 
 Faces East.
@@ -176,7 +181,8 @@ Faces West.
 
 The Rear Veranda, Kitchen, Well, and Vegetable Garden occupy the western side of the house.
 
-This side naturally connects household life with farming activities.
+This side naturally connects household life with farming activities. The **lake**
+may read along the house side / rear-side in exterior wides.
 
 ---
 
@@ -192,7 +198,8 @@ This side visually connects the family home with the village.
 
 Faces South.
 
-This side gradually opens toward the agricultural landscape.
+This side gradually opens toward the agricultural landscape and may show **lake
++ hill** continuity in establishing frames.
 
 ---
 

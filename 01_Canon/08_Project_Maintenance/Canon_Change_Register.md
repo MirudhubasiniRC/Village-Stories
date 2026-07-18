@@ -1,5 +1,50 @@
 # Canon Change Register
 
+## CANON-2026-009 — Family House Lakeside Hill Setting
+
+| Field | Decision |
+| --- | --- |
+| Category | Additive Extension / Geography–visual lock |
+| Submitted | 2026-07-18 |
+| Approved | 2026-07-18 |
+| Effective | 2026-07-18 — from `ep_004` onward |
+| Initiating production | Producer: lakeside house in the hills (viral Short framing) |
+| Risk | Medium — water + hills must stay map-safe |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None — do not retcon finished `ep_003` |
+
+### Approved change
+
+Main Family House is a **lakeside hill homestead**:
+
+- House sits on a **gentle hill / hillside** village edge (not flat empty plain).
+- A calm freshwater **lake** is immediately **beside** the house/yard (house-side
+  water readable in exterior wides) — same story water as the village pond/lake
+  body when framed from home; do not invent a second random ocean.
+- **Green hills** rise behind and around the property.
+- Keep: thatch + earthen walls, open yard (no compound wall), irregular close
+  neighbours, jackfruit/banana/mango, animal shelters nearby.
+- Words-first verbal locks updated (Block B).
+
+### Compatibility
+
+- Neighbourhood path still connects to village centre.
+- River Ghat remains the river social landmark north; this **lake** is the
+  still water beside the family homestead.
+- Waterfall Hamlet stays separate upland north.
+
+### Required migration
+
+- Family House verbal locks + long-shot rules.
+- Landmarks / Orientation note for lakeside hill.
+- ep_004 Short framing.
+
+### Validation status
+
+**Text lock.** Words-first; no PNG required.
+
+---
+
 ## CANON-2026-008 — Family House “Village Nest” Simple Homestead Vibe
 
 | Field | Decision |

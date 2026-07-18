@@ -41,6 +41,7 @@ The Village Stories universe currently recognizes three production seasons.
 | Same day (morning) | `ep_001` | Butterfly Morning | Post-Monsoon / Harvest | Early morning | Path / Front Garden edge | Children + dog · calendar open |
 | Same day (~3pm) | `ep_002` | Kesari Afternoon (working) | Post-Monsoon / Harvest | Afternoon ~3pm | Thinnai · Kitchen · N-04 Paati | Planning — not locked until Phase 2 approved |
 | Later that week | `ep_003` | Paati's Wet Firewood | Post-Monsoon / Harvest | Late afternoon → rain-dark evening | Main House · northern upland route · Waterfall Hamlet House | Exceptional heavy rain · Mother escorts children · Gate 1 review |
+| Same harvest week-block | `ep_004` | The Jackfruit That Almost Fell | Post-Monsoon / Harvest | Clear day | Lakeside hill Family House · yard · kitchen · thinnai | ~90 s cut-cut · feed animals cold open · chips + payasam · Gate 1 |
 
 ---
 
