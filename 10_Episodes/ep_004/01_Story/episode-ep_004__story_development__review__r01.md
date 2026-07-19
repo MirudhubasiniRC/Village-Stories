@@ -5,50 +5,55 @@
 | Episode ID | `ep_004` |
 | Title | **The Jackfruit That Almost Fell** |
 | Format | Short · 9:16 · **~85–95 s (done by ~1:30)** |
-| Pace | Viral cut-cut |
-| Status | Gate 1 — review |
-| Revision | `r02` |
+| Pace | Viral cut-cut · **hook-first** |
+| Status | Gate 1 — review (structure revised 2026-07-19) |
+| Revision | `r03` |
 
 ---
 
 ## Promise
 
-> Feed animals → jackfruit almost falls → harvest → **chips + payasam** → share.
-> Everything finished by **~1:30**. Lakeside hill house in frame.
+> Brother shakes the jackfruit branch → fruit almost falls → family saves it →
+> relief → **chips + payasam** from same fruit → share with neighbours.
+> Done by **~1:30**. Lakeside hill house in frame.
 
-## Causal chain
+## Causal chain (LOCKED)
 
 ```text
-Feed animals (cold open)
-→ jackfruit tips (loud face) → safe harvest → open/sap
-→ fry chips → cook payasam → family taste → **share with 3 neighbours** → end
+Brother plays / climbs → accidentally shakes branch
+→ jackfruit TIPS (hook)
+→ loud faces + rush
+→ Father (+ Mother) catch / lower into cloth
+→ relief laugh + Mother: “let’s make something special”
+→ optional 2–4 s animal/village peek
+→ open fruit + sap → chips + payasam
+→ family taste → share with 3 neighbours → end
 ```
+
+**Problem → Solution → Reward** (not Harvest → Cook → Eat alone).
 
 ---
 
-## Clip count — viral Short only (LOCKED approach)
-
-Producer direction: show **everything** with **cut cut cut** like niche Shorts
-that even feed animals before the story and still finish ~1:30. **Not** Mode 2/3
-long film.
+## Clip count — viral Short only
 
 | Block | Beats | Flow clips | Edit time |
 | --- | --- | ---: | ---: |
-| 0. Animal feed cold open | Cow/goat/chicken feed · lake/hill peek | 3–4 | 0:00–0:08 |
-| 1. Harvest hook | Tip · loud faces · lower to cloth | 4–5 | 0:08–0:22 |
-| 2. Open fruit | Cut · sap · bulbs | 2–3 | 0:22–0:35 |
-| 3. Chips | Slice · oil · sizzle · drain | 4–5 | 0:35–0:55 |
-| 4. Payasam | Milk · fruit in · stir · pour | 4–5 | 0:55–1:15 |
-| 5. Share + neighbours | Family taste → **give to 3 close neighbours** → end | 3–4 | 1:12–1:30 |
-| **TOTAL** | | **20–26** | **~90 s** |
+| 1. Hook + save | Shake · tip · loud faces · catch/lower · relief | 5–7 | 0:00–0:12 |
+| 2. Life peek | Ultra-short animal/yard montage | 1–2 | 0:12–0:16 |
+| 3. Open fruit | Cut · sap · bulbs | 2–3 | 0:16–0:32 |
+| 4. Chips | Slice · oil · sizzle · drain | 4–5 | 0:32–0:55 |
+| 5. Payasam | Milk · fruit in · stir · pour | 4–5 | 0:52–1:10 |
+| 6. Taste + neighbours | Family taste → **3 neighbours** → end | 3–4 | 1:08–1:30 |
+| **TOTAL** | | **19–26** | **~90 s** |
 
 **Rules:**
 
-- No dedicated 8–12 “ambience only” clips — lake/hills/animals live **inside**
-  feed + harvest + thinnai frames (Block B words).
-- Locked camera; Normal Speed physics; brainrot in **edit**.
-- Loud face on almost-fall (and optional milk rise if used).
+- **Never** open on animal feed. Hook in first **3 seconds**.
+- Animals only as **2–4 s total** peek after relief (or skip in final edit).
+- Locked camera; Normal Speed; brainrot in **edit**.
+- Loud face on almost-fall (CANON-2026-006 pattern).
 - Daughter away from hot oil; Father/Mother control fruit.
+- One ingredient → two dishes (chips then payasam) must stay surprising.
 
 ---
 
@@ -56,35 +61,30 @@ long film.
 
 | Beat | Time | What |
 | --- | --- | --- |
-| B0a | 0:00–0:03 | Feed cows at thatch shelter (lake behind) |
-| B0b | 0:03–0:06 | Goats eat leaves / chickens peck grain |
-| B0c | 0:06–0:08 | Hard cut — jackfruit in tree |
-| B1 | 0:08–0:12 | Fruit tips; Brother loud face |
-| B2 | 0:12–0:18 | Father + Mother secure; kids back |
-| B3 | 0:18–0:22 | Fruit in cloth/basket |
-| B4 | 0:22–0:28 | Open; sticky sap ASMR |
-| B5 | 0:28–0:35 | Yellow bulbs; quick awe |
-| B6 | 0:35–0:40 | Slice chips |
-| B7 | 0:40–0:48 | Oil sizzle (hero) |
-| B8 | 0:48–0:55 | Golden chips drain |
-| B9 | 0:55–1:02 | Milk on stove + jackfruit in |
-| B10 | 1:02–1:10 | Stir thicken; cardamom |
-| B11 | 1:10–1:15 | Pour bowls |
-| B12 | 1:12–1:18 | Thinnai: family first taste chips + payasam |
-| B13 | 1:18–1:26 | Mother shares chips + payasam with **three close neighbours** at path/thinnai edge |
-| B14 | 1:26–1:30 | Hard end / loop — neighbours + family; Dog shade; lake+hills soft bg |
+| B1 | 0:00–0:03 | Elder Brother by jackfruit tree shakes branch (play/climb mishap); fruit TIPS |
+| B2 | 0:03–0:08 | Loud faces; Father + Mother rush; Father helps catch/lower |
+| B3 | 0:08–0:12 | Fruit safe in cloth; relief laugh; Mother soft smile — let’s make something special |
+| B4 | 0:12–0:16 | Optional micro montage: cow / goat / chicken / duck peek (lakeside) — hard cuts |
+| B5 | 0:16–0:22 | Fruit fully down / carried; begin open |
+| B6 | 0:22–0:28 | Sticky sap ASMR |
+| B7 | 0:28–0:35 | Yellow bulbs; kids awe |
+| B8 | 0:35–0:40 | Slice chips |
+| B9 | 0:40–0:48 | Oil sizzle (hero) |
+| B10 | 0:48–0:55 | Golden chips drain + salt |
+| B11 | 0:55–1:02 | Milk + jackfruit into pot |
+| B12 | 1:02–1:08 | Stir; cardamom; thicken |
+| B13 | 1:08–1:12 | Pour payasam bowls |
+| B14 | 1:10–1:18 | Thinnai: family taste chips + payasam |
+| B15 | 1:18–1:26 | Mother shares with **three close neighbours** |
+| B16 | 1:26–1:30 | Hard end / loop — share warmth; Dog shade; lake+hills soft bg |
+
+**Never trim:** B1–B3, B9, B13, B15.  
+**Trim first if over:** B4, B7.
 
 ---
 
 ## House words
 
-Exteriors / feed / harvest / thinnai → **Block B** (lakeside hill).  
-Kitchen → **Block C**.  
-Close thinnai food → **Block A**.
-
-See `02_World/Locations/Family_House.md` § Copy-ready verbal locks.
-
-## Ending
-
-Family tastes first. Mother shares chips + payasam with **three close neighbours**
-(next-door irregular cluster). Lakeside hill soft in bg. Hard cut by ~1:30.
+Exteriors: `Family_House.md` Block B (lakeside hill).  
+Kitchen: Block C. Thinnai food: Block A.  
+Render/face: CANON-2026-013 / 014 (Mother doorway beauty when Mother visible).

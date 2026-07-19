@@ -2,18 +2,19 @@
 
 | Field | Value |
 | --- | --- |
-| Format | YouTube Short · 9:16 · ~85–95 s cut-cut |
-| Status | Gate 1 approved → **shot list in review** |
+| Format | YouTube Short · 9:16 · ~85–95 s cut-cut · **hook-first** |
+| Status | Structure revised 2026-07-19 · shot list **r02** |
 | Cast | Mother · Father · Elder Brother · Younger Daughter · Family Dog |
-| Canon | Lakeside hill `CANON-2026-009` · thatch `008` · braid+mallipoo `002` |
+| Hook | Elder Brother accidentally shakes branch → fruit tips |
+| Canon | Lakeside hill `009` · thatch `008` · Mother beauty `014` · 2.5D `013` |
 
 ## Story files
 
 | Item | Path |
 | --- | --- |
 | Brief | `00_Admin/Episode_Brief.md` |
-| Story | `01_Story/episode-ep_004__story_development__review__r01.md` |
-| Shot list | `03_Storyboard/episode-ep_004__shot_list__in_review__r01.md` |
+| Story | `01_Story/episode-ep_004__story_development__review__r01.md` (`r03`) |
+| Shot list | `03_Storyboard/episode-ep_004__shot_list__in_review__r01.md` (`r02`) |
 
 Camera, ASMR, and prompts: generate per shot from canon + verbal house locks
-(A/B/C) — words first, no house PNG required.
+(A/B/C) — words first. **First still = hook (sh_001), not animal feed.**

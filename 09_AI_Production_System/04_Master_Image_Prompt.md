@@ -102,11 +102,11 @@ Apply these to every prompt. They are fixed instructions, not variables.
   `11_Assets/Character_References/Mother_Canon_Design_Reference.png` (and other
   character refs) for jewellery / mole / silhouette; Mother face beauty per
   CANON-2026-012/013 (slim oval, large eyes, long anime lashes, soft blush).
-* **Rendering** must use **2.5D polished digital** (CANON-2026-013): clean 2D
-  anime characters + soft volumetric props/food/animals with gentle specular
-  sheen; cozy dense lived-in frames; warm interior vs cooler outdoor light when
-  both visible. Paste Art_Style § Rendering Style Lock into every prompt. Do not
-  redesign casts to look like another channel; do not use full Pixar CGI people.
+* **Rendering** must paste the locked **STYLE (shared DNA)** block from
+  `Art_Style.md` / CANON-2026-016 on every still — digital 2D anime shared DNA
+  for world + people. Do **not** add Ghibli keywords unless Producer asks.
+  Character identity from character bibles (Mother CANON-2026-014). Wide shots
+  add atmospheric perspective + polished storybook background.
 * No mobile phones, internet, digital screens, LED fixtures, modern appliances,
   contemporary vehicles, modern branding or packaging, current fashion, urban
   infrastructure, or unsupported modern items.
@@ -302,7 +302,7 @@ placement; what must remain visible and unobstructed] |
 Flow clip; or NONE] |
 
 STYLE
-2.5D polished digital anime (CANON-2026-013) — soft, warm, emotionally resonant. Clean 2D anime characters with soft cel + smooth gradient shading. Props/food/water/animals: soft volumetric 2.5D with gentle specular sheen. Soft far-background bokeh OK; optional golden dust motes. Mother: slim oval face (NOT chubby); LARGE soft-almond warm-brown eyes ~1/4 face height; long stylized anime lashes; soft pink blush; LEFT-chin mole; normal adult head (CANON-2026-012/013). Father/kids: grounded eyes ~1/5 until separately approved. Dense lived-in props; warm interior vs cooler outdoor light when both visible. Authentic 1990s South Indian village atmosphere, emotionally warm and timeless.
+STYLE (shared DNA) CANON-2026-016: digital 2D anime style, clean delicate line art, soft-blended digital shading, luminous atmospheric lighting, soft natural light, warm luminous vibrant colors, painterly background textures, expressive anime facial features. CLOSE-UP/MCU: intricate micro-textures, fine strand detail, readable leaf veins (swap fruit/object texture as needed). Mostly matte–satin. NOT plastic CGI doll skin. NOT wet syrup-gloss on raw fruit. NOT photoreal. NOT full Pixar mesh people. Do NOT add Ghibli keywords unless Producer requests. Mother: slim oval; LARGE eyes ~1/4 face height; long anime lashes; soft blush; LEFT-chin mole (CANON-2026-014). Father/kids: grounded eyes ~1/5 until approved. Authentic 1990s Tamil village atmosphere.
 
 Family Dog (STRICT Character Lock)
 Large healthy German Shepherd with a **classic black-and-tan, fully fluffy** long

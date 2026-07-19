@@ -9,37 +9,44 @@
 | Season | Post-Monsoon / Harvest · clear warm day |
 | Continuity | After `ep_003` · same harvest week-block |
 | Locations | **Lakeside hill** Family House (CANON-2026-009) · yard jackfruit · shelters · kitchen · thinnai |
-| Status | **Generating** — sh_001 image ready |
+| Status | **Structure revised** — hook-first (2026-07-19) · regenerating stills from hook |
 | Shot list | `03_Storyboard/episode-ep_004__shot_list__in_review__r01.md` |
-| First still | `04_Generation/shot-ep_004-sh_001__prompt-package__image__ready__r01.md` |
+| First still | Start with **sh_001 hook** (Brother shakes → fruit tips) — not animal cold open |
 
 ---
 
 ## Promise
 
-> Cold-open: family feeds animals by the lakeside hill house. Then a jackfruit
-> almost falls; they harvest it and finish **chips + payasam** — all inside
-> **~1:30** with hard cuts.
+> Cold-open: **Elder Brother accidentally shakes the jackfruit branch** — fruit
+> almost falls. Family saves it, harvests, then makes **chips + payasam** from
+> the same fruit and shares with **3 close neighbours** — all inside **~1:30**.
 
-## Viral Short shape (like feed-first niche Shorts)
+## Viral Short shape (HOOK FIRST — LOCKED 2026-07-19)
 
 ```text
-0:00–0:10  Feed cows (lake+**ducks**+hills) → goats → chickens (+ optional duck peek)
-0:10–0:24  Jackfruit tips (**bird** on branch OK) → loud faces → safe harvest
-0:22–0:35  Open fruit + sticky sap (fast)
-0:35–0:55  Chips: slice → oil sizzle → golden
-0:55–1:15  Payasam: milk + fruit → stir → pour
-1:12–1:30  Family taste → share with **3 close neighbours** · hard end / loop
+0:00–0:03  Brother shakes branch → jackfruit TIPS (immediate hook)
+0:03–0:08  Loud faces · rush · Father catches / lowers just in time
+0:08–0:12  Relief laugh · Mother soft smile · “let’s make something special”
+0:12–0:16  Tiny village life peek (cows/goats/chickens/ducks — 2–4 s TOTAL)
+0:16–0:35  Secure fruit · open · sticky sap · yellow bulbs
+0:35–1:00  Chips (slice → sizzle → golden) + Payasam (milk → stir → pour)
+1:00–1:20  Family tastes on thinnai
+1:18–1:30  Share with **3 close neighbours** · hard end / loop
 ```
+
+**Do not** start with animal feed. Animals = optional micro montage **after** the
+save beat only.
 
 ## Story spine
 
 | Element | Content |
 | --- | --- |
-| Cold open | Animal feed before “main” story (niche pattern) |
-| Hook | Jackfruit almost falls |
-| Cook | Chips + payasam from same fruit |
-| Payoff | Family tastes → Mother shares with **three close neighbours** by 1:30 |
+| Hook / problem | Brother shakes tree → jackfruit almost falls |
+| Solution | Family rushes; Father helps catch/lower into cloth |
+| Bridge | Relief → Mother: let’s make something special |
+| Life peek | 2–4 s animals / lakeside (identity only) |
+| Cook | One fruit → chips + payasam |
+| Payoff | Family tastes → Mother shares with **three close neighbours** |
 
 ## Cast
 
@@ -48,8 +55,9 @@ Mother (braid + mallipoo) · Father · Elder Brother · Younger Daughter · Fami
 
 ## Not this episode
 
+- Animal-feed cold open before the jackfruit tip
 - 6–12 min film-detailed master as the default deliverable
-- Long ambience holds without advancing food
+- Long ambience holds without advancing story/food
 - Paati / waterfall storm trip
 - Compound wall / cream tiled cottage / no lake beside house
 
@@ -60,5 +68,5 @@ Env = **peek only** (lake/hills/shelter in background), not separate film reels.
 
 ## Next
 
-Approve shot list → stills one-at-a-time (Block B exteriors, Block C kitchen) →
+Approve revised shot list → stills one-at-a-time starting **sh_001 hook** →
 Flow cut-cut edit to ~90 s.

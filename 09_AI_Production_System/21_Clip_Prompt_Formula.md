@@ -104,11 +104,15 @@ per location bible]. [Neighbour continuity if applicable].
 
 **STYLE**
 
-Studio Ghibli–adjacent 2.5D polished digital anime (CANON-2026-013) — soft, warm,
-emotionally resonant. Clean 2D characters; soft volumetric props/food/animals.
-Mother: slim oval (NOT chubby), LARGE soft-almond eyes ~1/4 face height, long
-anime lashes, soft pink blush, LEFT-chin mole (CANON-2026-012/013); Father/kids:
-grounded ~1/5 until approved. Delicate fine linework. Soft matte–gloss hybrid.
+STYLE (shared DNA) CANON-2026-016 — paste exact block from Art_Style.md.
+Digital 2D anime style, clean delicate line art, soft-blended digital shading,
+luminous atmospheric lighting, soft natural light, warm luminous vibrant colors,
+painterly background textures, expressive anime facial features.
+CLOSE-UP/MCU: intricate micro-textures, fine strand detail (swap object texture).
+WIDE: drop close-up add-on; add atmospheric perspective + polished storybook bg.
+Mostly matte–satin. NOT plastic CGI doll skin. NOT photoreal. NOT Pixar mesh people.
+Do NOT add Ghibli keywords unless Producer requests.
+
 
 **Character Rendering (Per Character Bible):**
 
@@ -154,8 +158,9 @@ washed-out grading.]
 ### Standard image negatives (include in every image prompt)
 
 ```text
-Generic anime style — ONLY Studio Ghibli-inspired style described above
-Oversized shoujo or chibi black-dot eyes with no iris (Mother may use LARGE soft-almond ~1/4 face height WITH iris + catchlights per CANON-2026-012; Father/kids ~1/5)
+Generic anime style — ONLY the locked STYLE shared DNA (CANON-2026-016)
+Studio Ghibli / Ghibli gouache paint style (do not add unless Producer asks)
+Oversized chibi black-dot eyes with no iris (Mother may use LARGE soft-almond ~1/4 face height WITH iris per CANON-2026-012/014; Father/kids ~1/5)
 Heavy manga linework (soft delicate lines)
 Exaggerated anime expressions
 Western cartoon styling

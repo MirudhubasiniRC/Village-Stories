@@ -1,5 +1,94 @@
 # Canon Change Register
 
+## CANON-2026-016 — Locked STYLE Shared DNA (No Ghibli Keyword Default)
+
+| Field | Decision |
+| --- | --- |
+| Category | Style lock (prompt DNA) |
+| Submitted | 2026-07-19 |
+| Approved | 2026-07-19 |
+| Effective | 2026-07-19 — **all world + future episodes** from `ep_004` onward |
+| Initiating production | Producer: “this prompt is good… use for generating all world, and future episode too” |
+| Risk | Low |
+| Decision | **Approved** by Producer / Creator |
+
+### Approved STYLE block (paste every still — exact wording)
+
+```text
+STYLE (shared DNA): digital 2D anime style, clean delicate line art, soft-blended digital shading, luminous atmospheric lighting, soft natural light, warm luminous vibrant colors, painterly background textures, expressive anime facial features. CLOSE-UP/MCU add-on: intricate micro-textures, fine strand detail, readable leaf veins, jackfruit bump texture. Mostly matte–satin surfaces. NOT plastic CGI doll skin. NOT wet syrup-gloss on raw jackfruit. NOT photoreal. NOT full Pixar mesh people.
+```
+
+### Rules
+
+- Use this STYLE DNA for **all world** and **all future episode** image prompts.
+- For non-jackfruit shots: keep STYLE DNA; swap “jackfruit bump texture” for the
+  relevant prop texture (e.g. cloth weave, pot surface, leaf veins).
+- Wide / empty world shots: **drop** CLOSE-UP/MCU add-on; add atmospheric
+  perspective + polished storybook background.
+- Character identity still from character bibles / CANON-2026-014 for Mother.
+- Prefer Flow Agent with this DNA for consistency.
+- Do **not** add “Studio Ghibli-inspired” / Ghibli keywords unless Producer asks.
+
+### Required migration
+
+- `Art_Style.md` copy-ready lock = this exact block.
+- Master Image Prompt STYLE line.
+- ep_004 sh_001+ packages use this DNA.
+
+### Validation status
+
+**Locked by Producer.**
+
+---
+
+## CANON-2026-015 — Detailed Semi-Matte Anime (Lemon-Orchard Look) Is Series Style
+
+| Field | Decision |
+| --- | --- |
+| Category | Style lock update (unified people + objects) |
+| Submitted | 2026-07-19 |
+| Approved | 2026-07-19 |
+| Effective | 2026-07-19 — from `ep_004` onward |
+| Initiating production | Producer: “I want like this… everything like this” (lemon orchard still) |
+| Risk | Medium — drift back to plastic CGI gloss or flat cel |
+| Decision | **Approved** by Producer / Creator |
+| Released work affected | None |
+
+### Approved change
+
+Official render look for **people + leaves + fruit + objects** =
+**detailed semi-matte modern anime** (theatrical anime / soft digital illustration):
+
+- Soft linework (not harsh black comic ink).
+- Soft natural cartoon skin — **not** plastic CGI doll shine.
+- Rich micro-detail on leaves (veins), fruit skin (pores / bumps), fabric, jewellery.
+- Soft diffused natural light; soft bg bokeh OK.
+- Selective small dew / wet drops may be glossy — fruit rind itself usually
+  **matte–satin** (jackfruit spikes dry, not syrup-wet).
+- Same finish on whole frame — **no split** (people manga vs plastic props).
+
+Supersedes heavy “CGI food gloss for all props” emphasis of mid-session 013 tests.
+Cake/syrup gloss stays for **cooked wet food** only (oil, payasam, syrup).
+Mother face identity still CANON-2026-014.
+
+### Style reference
+
+```text
+11_Assets/Style_References/Detailed_SemiMatte_Anime_Canon_Reference.png
+```
+
+### Required migration
+
+- `Art_Style.md` copy-ready rendering lock.
+- ep_004+ prompts (sh_001 onward).
+- Master Image Prompt STYLE line.
+
+### Validation status
+
+**Text + reference PNG locked.** QA stills must match lemon-orchard detail level.
+
+---
+
 ## CANON-2026-014 — Mother Doorway Beauty Still Is Face Authority
 
 | Field | Decision |

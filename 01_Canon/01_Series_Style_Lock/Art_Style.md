@@ -17,7 +17,7 @@ Every visual asset produced for the series must follow these standards.
 | Layer | Authority | Rule |
 | --- | --- | --- |
 | **Appearance / identity** | `03_Characters/…/Appearance.md` + character ref PNGs | Village Stories faces/wardrobe — **Mother:** slim oval + large eyes + anime lashes/blush + left-chin mole (CANON-2026-012/013) |
-| **Rendering / paint style** | This document | **2.5D polished digital anime** (CANON-2026-013) — clean 2D characters + soft volumetric props/food/animals; cozy dense frames; warm/cool light contrast |
+| **Rendering / paint style** | This document | **STYLE shared DNA (CANON-2026-016)** — digital 2D anime; no Ghibli keyword unless requested |
 
 Never redesign our characters to look like another channel’s people.  
 Never keep flat cel / empty-room rendering when the feed look requires rich depth.
@@ -36,6 +36,8 @@ rendering language):
 11_Assets/Character_References/Mother_Canon_Design_Reference.png
 11_Assets/Character_References/Father_Canon_Design_Reference.png
 11_Assets/Style_References/Early_Morning_Color_Lighting_Canon_Reference.png
+11_Assets/Style_References/Food_Prop_Gloss_2_5D_Canon_Reference.png
+11_Assets/Style_References/Detailed_SemiMatte_Anime_Canon_Reference.png
 ```
 
 | Reference | Role |
@@ -43,7 +45,9 @@ rendering language):
 | `Mother_Doorway_Beauty_Canon_Reference.png` | **Primary Mother face / beauty** (CANON-2026-014) |
 | `Mother_Canon_Design_Reference.png` | Legacy Mother jewellery / silhouette support |
 | `Father_Canon_Design_Reference.png` | Official **Father / male face identity** (appearance) |
-| `Early_Morning_Color_Lighting_Canon_Reference.png` | Warm & Sunlit colour richness target (adapt to cozy grade) |
+| `Early_Morning_Color_Lighting_Canon_Reference.png` | Warm & Sunlit colour richness target |
+| `Food_Prop_Gloss_2_5D_Canon_Reference.png` | Wet cooked-food gloss only (oil / syrup / payasam) |
+| `Detailed_SemiMatte_Anime_Canon_Reference.png` | **Primary series render look** (CANON-2026-015) — people + leaves + objects |
 
 ### Required rendering look (every frame)
 
@@ -107,28 +111,23 @@ in `Father_Canon_Design_Reference.png`.
 Every image and animation prompt must state:
 
 1. **Appearance:** Village Stories character identity locks (Mother face per
-   CANON-2026-012/013).
-2. **Rendering:** **2.5D polished digital** (CANON-2026-013) — clean 2D
-   characters + soft volumetric props/food/animals; cozy dense lived-in frame.
+   CANON-2026-014).
+2. **Rendering:** **detailed semi-matte modern anime** (CANON-2026-015) —
+   people + leaves + objects same finish; match lemon-orchard style reference.
 
 Copy-ready style lock for prompts:
 
+**LOCKED producer style DNA (use every image / world / episode still from ep_004 onward — do NOT add Studio Ghibli-inspired unless Producer asks):**
+
 ```text
-RENDERING STYLE LOCK (CANON-2026-013 — 2.5D polished digital / Flow-agent match):
-Modern digital illustration heavily influenced by contemporary anime/manga.
-Clean defined linework; vibrant highly saturated but natural colors.
-Mix of cel-shading + soft gradients for polished three-dimensional feel
-(2.5D — NOT full Pixar CGI body mesh, NOT photoreal).
-Soft warm naturalistic lighting (sunlit morning / warm ambient indoor).
-Shallow depth of field: character + immediate action sharp; village/kitchen
-background softly blurred. High-fidelity textures on saree fabric, metallic
-jewellery, clay/brass pots, organic food, water, animal feathers.
-Dense lived-in props; warm lamp/stove interior vs cooler outdoor lake/rain when both visible.
-NOT plastic bobblehead. NOT empty flat cel. NOT brushy watercolor-only flat paint.
-APPEARANCE LOCK: Village Stories identity — Mother slim oval face (NOT chubby),
-LARGE eyes ~1/4 face height, long anime lashes, soft pink blush, LEFT-chin mole;
-normal adult head size. Do NOT redesign cast to another channel.
+STYLE (shared DNA): digital 2D anime style, clean delicate line art, soft-blended digital shading, luminous atmospheric lighting, soft natural light, warm luminous vibrant colors, painterly background textures, expressive anime facial features. CLOSE-UP/MCU add-on: intricate micro-textures, fine strand detail, readable leaf veins, jackfruit bump texture. Mostly matte–satin surfaces. NOT plastic CGI doll skin. NOT wet syrup-gloss on raw jackfruit. NOT photoreal. NOT full Pixar mesh people.
 ```
+
+DISTANCE ADJUST (add after STYLE when needed):
+- CLOSE-UP / MCU: keep the CLOSE-UP/MCU add-on line above (swap fruit name if not jackfruit — e.g. leaf veins, cloth weave, jewellery edges).
+- WIDE / establishing / empty world: **drop** the CLOSE-UP/MCU add-on line; add `atmospheric perspective, polished storybook background` — keep delicate line art visible when people appear.
+
+APPEARANCE: Village Stories character locks — Mother CANON-2026-014 doorway beauty; LEFT-chin mole; normal head size.
 
 ---
 
@@ -189,23 +188,17 @@ rendered in **2.5D polished digital** (CANON-2026-013).
 
 **Paste into every image/animation prompt from `ep_004` onward.**
 
-Uses the same vocabulary Google Flow’s style agent described for our approved look.
+**Primary look (CANON-2026-015):** detailed semi-matte modern anime — people,
+leaves, and objects share the same finish (lemon-orchard reference).  
+Wet cooked-food gloss (oil/payasam/syrup) only when the shot is cooking liquids.
 
 ```text
-RENDERING STYLE LOCK (CANON-2026-013 — 2.5D polished digital / Flow-agent match):
-Modern digital illustration heavily influenced by contemporary anime/manga.
-Clean defined linework; vibrant highly saturated but natural colors.
-Mix of cel-shading + soft gradients for polished three-dimensional feel
-(2.5D — NOT full Pixar CGI body mesh, NOT photoreal).
-Soft warm naturalistic lighting (sunlit morning / warm ambient indoor).
-Shallow depth of field: character + immediate action sharp; village/kitchen
-background softly blurred. High-fidelity textures on saree fabric, metallic
-jewellery, clay/brass pots, organic food, water, animal feathers.
-Dense lived-in props; warm lamp/stove interior vs cooler outdoor lake/rain when both visible.
-NOT plastic bobblehead. NOT empty flat cel. NOT brushy watercolor-only flat paint.
-APPEARANCE LOCK: Village Stories identity — Mother slim oval face (NOT chubby),
-LARGE eyes ~1/4 face height, long anime lashes, soft pink blush, LEFT-chin mole;
-normal adult head size. Do NOT redesign cast to another channel.
+STYLE (shared DNA): digital 2D anime style, clean delicate line art, soft-blended digital shading, luminous atmospheric lighting, soft natural light, warm luminous vibrant colors, painterly background textures, expressive anime facial features. CLOSE-UP/MCU add-on: intricate micro-textures, fine strand detail, readable leaf veins, jackfruit bump texture. Mostly matte–satin surfaces. NOT plastic CGI doll skin. NOT wet syrup-gloss on raw jackfruit. NOT photoreal. NOT full Pixar mesh people.
+
+DISTANCE ADJUST:
+CLOSE-UP / MCU: keep CLOSE-UP/MCU add-on (rename fruit texture if needed).
+WIDE: atmospheric perspective, polished storybook background; delicate line art if people visible.
+APPEARANCE: Village Stories locks — Mother CANON-2026-014; LEFT-chin mole; no Ghibli keyword unless requested.
 ```
 
 ---
